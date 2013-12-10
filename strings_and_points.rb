@@ -35,14 +35,18 @@
 # {a, b, c, d}
 
 # Answer no. 3
+require 'set'
 
-set = ["a", "b", "c", "d", "e", "f"]
+array = ["a", "b", "c", "d", "e", "f"]
 
-1.upto(6).flat_map.each do |number|
-  set.combination(number).to_a
-end
+subset_array = 1.upto(6).flat_map { |n| array.combination(n).to_a }
 
-# OR, the shorthand
+# this way only converts a final enumerated arry into a set, technically not legit for this question
 
-1.upto(6).flat_map { |n| set.combination(n).to_a }
+set = Set.new(subset_array)
 
+
+# the long way to do the enum
+# 1.upto(6).flat_map.each do |number|
+#   array.combination(number).to_a
+# end
