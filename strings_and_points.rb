@@ -42,6 +42,7 @@ set = ["a", "b", "c", "d", "e", "f"]
   set.combination(number).to_a
 end
 
+# OR, the shorthand
 
 1.upto(6).flat_map { |n| set.combination(n).to_a }
 
