@@ -7,6 +7,9 @@
 # Question 2: closest points.
 # Given a collection of points in 3d space (x, y, z), find the k closest points to the origin. For example, if k = 20, then find the 20 closest points to the origin. Assume that k is small enough to fit in memory, but the number of points is too large to fit in memory (assume you will have a function that gets the next point, or indicates that there are no points remaining).
 
+# Answer no. 2
+
+
 # Question 3: Subsets.
 # Given a collection of strings, output all possible subsets.
 # These are sets, so the order of the elements in the set does not matter nor does the order with which you output the sets.
@@ -30,9 +33,6 @@
 # {a, c, d}
 # {b, c, d}
 # {a, b, c, d}
-
-# Answer no. 2
-
 
 # Answer no. 3
 
