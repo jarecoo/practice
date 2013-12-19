@@ -21,25 +21,31 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
       @minute_tray << ball
     else
       add_five(ball)
-      @minute_tray.each do |ball|
-        @queue_tray.push(ball)
-      end
+      refill_queue_tray(@minute_tray)
+      @minute_tray = []
     end
-
   end
 
   private
 
   def add_five(ball)
-    @five_tray << ball
+    if @five_tray < 11
+      @five_tray << ball
+    else
+      add_hour(ball)
+      refill_queue_tray(@five_tray)
+      @five_tray = []
+    end
   end
 
   def add_hour
 
   end
 
-  def refill_queue_tray
-
+  def refill_queue_tray(tray_balls)
+    tray_balls.each do |ball|
+      @queue_tray.push(ball)
+    end
   end
 
   def grab_next_ball
