@@ -20,15 +20,18 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
     if @minute_tray < 4
       @minute_tray << ball
     else
-      # dump all 4, and add one to 5 tray
+      add_five(ball)
+      @minute_tray.each do |ball|
+        @queue_tray.push(ball)
+      end
     end
 
   end
 
-  private #really we want all the work to be done by adding a minute ball
+  private
 
-  def add_five
-
+  def add_five(ball)
+    @five_tray << ball
   end
 
   def add_hour
