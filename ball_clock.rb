@@ -20,6 +20,8 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
     @minute_tray << ball
   end
 
+  private #really we want all the work to be done by adding a minute ball
+
   def add_five
 
   end
