@@ -8,13 +8,23 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
     @five_tray    = []
     @hour_tray    = []
 
-    #fill up the queue tray with balls
-    (1.upto(127)).each do |n|
-      @queue_tray << n
+    #fill up the queue tray with "balls," such that nubmers equal balls
+    (1.upto(127)).each do |ball|
+      @queue_tray << ball
     end
   end
 
-  def method_name
+  #the obvious methods, add_minute being the foundation
+  def add_minute
+    ball = @queue_tray.shift
+    @minute_tray << ball
+  end
+
+  def add_five
+
+  end
+
+  def add_hour
 
   end
 
