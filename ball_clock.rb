@@ -16,7 +16,7 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
 
   #the obvious methods, add_minute being the foundation
   def add_minute
-    ball = @queue_tray.shift
+    ball = grab_next_ball
     @minute_tray << ball
   end
 
@@ -32,6 +32,10 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
 
   def refill_queue_tray
 
+  end
+
+  def grab_next_ball
+    @queue_tray.shift
   end
 
 end
