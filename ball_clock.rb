@@ -6,7 +6,7 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
     @queue_tray   = []
     @minute_tray  = []
     @five_tray    = []
-    @hour_tray    = []
+    @hour_tray    = [1]
 
     #fill up the queue tray with "balls," such that nubmers equal balls
     (1.upto(127)).each do |ball|
@@ -38,8 +38,13 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
     end
   end
 
-  def add_hour
-
+  def add_hour(ball)
+    if @hour_tray < 12
+      @hour_tray << ball
+    else
+      refill_queue_tray(@hour_tray)
+      @hour_tray = [1]
+    end
   end
 
   def refill_queue_tray(tray_balls)
