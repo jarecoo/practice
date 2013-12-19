@@ -5,9 +5,7 @@
 
 class HashAccessor
 
-  def initialize(key, value)
-    @key = key
-    @value = value
+  def initialize
     @value_array = Array.new
   end
 
@@ -17,7 +15,7 @@ class HashAccessor
     @value_array
   end
 
-  def access_key(key)
+  def access_value(key)
     array_position = storage_number_generator(key)
     @value_array[array_position]
   end
