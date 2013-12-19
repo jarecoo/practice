@@ -14,10 +14,14 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
     end
   end
 
+  def time
+    "#{@hour_tray.size}:#{@minute_tray.size + (@five_tray.size * 5)}"
+  end
+
   #the obvious methods, add_minute being the foundation
   def add_minute
     ball = grab_next_ball
-    if @minute_tray < 4
+    if @minute_tray.size < 4
       @minute_tray << ball
     else
       add_five(ball)
@@ -29,7 +33,7 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
   private
 
   def add_five(ball)
-    if @five_tray < 11
+    if @five_tray.size < 11
       @five_tray << ball
     else
       add_hour(ball)
@@ -39,7 +43,7 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
   end
 
   def add_hour(ball)
-    if @hour_tray < 12
+    if @hour_tray.size < 12
       @hour_tray << ball
     else
       refill_queue_tray(@hour_tray)
