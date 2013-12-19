@@ -17,7 +17,12 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
   #the obvious methods, add_minute being the foundation
   def add_minute
     ball = grab_next_ball
-    @minute_tray << ball
+    if @minute_tray < 4
+      @minute_tray << ball
+    else
+      # dump all 4, and add one to 5 tray
+    end
+
   end
 
   private #really we want all the work to be done by adding a minute ball
