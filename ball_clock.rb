@@ -28,4 +28,8 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
 
   end
 
+  def refill_queue_tray
+
+  end
+
 end
