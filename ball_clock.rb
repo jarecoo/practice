@@ -2,13 +2,11 @@ class BallClock
 attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
 
   def initialize
-    #create empty trays
     @queue_tray   = []
     @minute_tray  = []
     @five_tray    = []
     @hour_tray    = [1]
 
-    #fill up the queue tray with "balls," such that nubmers equal balls
     (1.upto(127)).each do |ball|
       @queue_tray << ball
     end
@@ -18,7 +16,6 @@ attr_accessor :queue_tray, :minute_tray, :five_tray, :hour_tray
     "#{@hour_tray.size}:#{@minute_tray.size + (@five_tray.size * 5)}"
   end
 
-  #the obvious methods, add_minute being the foundation
   def add_minute
     ball = grab_next_ball
     if @minute_tray.size < 4
