@@ -1,0 +1,12 @@
+TDD using rspec
+
+cd into working directory
+
+install rspec
+"gem install rspec"
+
+"rspec --init"
+(creates .rspec file and spec folder)
+
+inside spec folder begin writing your first test
+
