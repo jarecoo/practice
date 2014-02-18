@@ -10,3 +10,6 @@ install rspec
 
 inside spec folder begin writing your first test
 
+require spec_helper
+require 'your_class.rb' (typically with dir/your_class.rb)
+
