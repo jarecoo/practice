@@ -13,3 +13,5 @@ inside spec folder begin writing your first test
 require spec_helper
 require 'your_class.rb' (typically with dir/your_class.rb)
 
+describe your class and start writing examples, it can...
+
