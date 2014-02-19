@@ -5,8 +5,8 @@ describe Doge do
 let(:doge){ Doge.new }
 
   it "has a name" do
-    doge.name = "Rufis"
-    doge.name.should == "Rufis"
+    doge.name = "Doge"
+    doge.name.should == "Doge"
   end
 
   it "can bark" do
