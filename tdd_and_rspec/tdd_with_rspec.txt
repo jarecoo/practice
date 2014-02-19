@@ -1,5 +1,7 @@
 TDD using rspec
 
+
+FOR THE FIRST TIME
 cd into working directory
 
 install rspec
@@ -15,3 +17,15 @@ require 'your_class.rb' (typically with dir/your_class.rb)
 
 describe your class and start writing examples, it can...
 
+RUNNING TESTS IN OUR PROJECTS
+rspec
+rspec spec/dir/dir/class.rb
+rspec -fn -> shows test names instead of just dots
+
+RSPEC SYNTAX
+.should ==
+.should be_true/false/nil
+.should_not be_true/false/nil
+.should ~= /regex/
+.should have
+.should include
