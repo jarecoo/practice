@@ -1,6 +1,6 @@
 Top 3
 
-Top 3 Important Things to Me - Ikigai
+# Top 3 Important Things to Me - Ikigai
 1. Family
     * Prioritize close, personal relationships (family, close friends, etc)
         *  Foster a loving, supportive, compassionate relationship with my kids and my wife. I want to be part of their life forever. Make the time we have together count.
@@ -50,8 +50,8 @@ Top 3 Important Things to Me - Ikigai
         * extra can go to compassionately and generously optimizing the human condition within my sphere of influence
 
 
-Moral Paradigm & How I Should Live My Life
-—— Abstract Truths ——
+## Moral Paradigm & How I Should Live My Life
+### Abstract Truths
 * An Internal Locus of Control is Optimal (meaning you control your thoughts, attitudes, and outlook only, e.g. You control your own thoughts and feelings and nothing else; love and compassion for yourself; intrinsic motivation; outlook and perception; etc)
     * State of mind dictates happiness, not circumstances
     * Intrinsic motivation is the best motivation (e.g. doing it for you according to your purpose in life)
@@ -75,7 +75,7 @@ Moral Paradigm & How I Should Live My Life
 * The Earth is the only home humanity has and it should be cared for
 * Technology is a powerful tool, but also a powerful weapon, caution and judgment should be exercised in using it.
 
-——  Principles, Practices, Strategies ——
+### Principles, Practices, Strategies
 Live Life with Purpose - Find Your Meaning (See above Top 3)
 ikigai - a Japanese concept that means "a reason for being."
 “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
@@ -96,7 +96,7 @@ For me it was always stuff like being outside in nature, seeing the world, eatin
 —Marcus Aurelius, Meditations, 4.48.2
 Find 3 hobbies: one to make you money, one to keep you in shape, and one to keep you creative.
 
-Live Life on Purpose
+#### Live Life on Purpose
 Try to never do anything on autopilot, especially in respect to your purpose in life, never execute on it on autopilot. The best way to live is to be present at every moment, and live in the now. Bringing awareness and mindfulness to the present will not only keep you grounded, it will keep you happy. You can bring awareness to your forward thinking self as well, being present in the now doesn’t preclude any sort of proactive, goal-oriented, or analytical living, it just brings a presence to it.
 “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
 Mindfulness is about present and purposeful living. It’s not wholly about sitting with eyes closed and body still, but about slowting the mind down to bring presence and purpose to every moment. You can be active and also be mindful. You can be ambitious and also be mindful. At a simple level it’s just about presence and purpose in life.
@@ -113,7 +113,7 @@ Anxious, abstract, conscientious people miss the moment by overthinking. Overly 
 Technology addiction can distract you from living on purpose. Use it wisely and mindfully.
 “The person is free who lives as they wish, neither compelled, nor hindered, nor limited — whose choices aren’t hampered, whose desires succeed, and who don’t fall into what repels them” - Epictetus, Discourses, 4.1.1-3a (The Daily Stoic, p.74)
 
-Cultivate an Internal Locus of Control - Outlook and Attitude Aren’t Just Important, They Are How the World Works - Choose to Be Happy First
+#### Cultivate an Internal Locus of Control - Outlook and Attitude Aren’t Just Important, They Are How the World Works - Choose to Be Happy First
 Circumstances don’t dictate your happiness, your attitude does.
 “If a person gave away your body to some passerby, you’d be furious. Yet you hand over your mind to anyone who comes along, so they may abuse you, leaving it disturbed and troubled - have you no shame in that?” Epictetus, Enchiridion, 28 “Maintain control over your mind and perceptions…, It’s your most prized possession”The Daily Stoic, p.78
 “There really is no such thing as an objectively good or bad occurrence…Situations require our participation, context, and categorization in order to be ‘bad’ [or good]” - The Daily Stoic, p.64
@@ -151,7 +151,7 @@ Find the right perspective to view the world from - sometimes its big, sometimes
 5 Strategies for being happy - https://www.youtube.com/watch?v=mpZ6YT8OemI&feature=youtu.be
 Comparison is the death of joy
 
-Calm Down - Slow Down
+#### Calm Down - Slow Down
 “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.”
 —Marcus Aurelius, Meditations, 4.48.2
 “If a person wasn’t wanting something outside of their own {internal locus of} control, why would they be stricken by anxiety?” Epictetus, Discourses, 2.13.1
@@ -172,7 +172,7 @@ Be patient with yourself, and extend that to those around you. Don’t immediate
 Sometimes the answer is 'it just takes time'
 “Overthinking will kill your mood. Breathe and let it go.” https://www.reddit.com/r/GetMotivated/comments/7pw7cr/image_control_your_thoughts/dskr6ub/?sh=9c4db659&st=JCCUDI2R
 
-Simplify
+#### Simplify
 “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.”
 —Marcus Aurelius, Meditations, 4.48.2 Find the very few things that are the absolute most important and focus most of your energy on them
 “Approach each task as if it is your last, giving up every distraction, emotional subversion of reason, and all drama, vanity,  and complaint over your fair share” - Marcus Aurelius, Meditations, 2.5
@@ -186,7 +186,7 @@ Slow is smooth. Smooth is fast.
 “There’s a hidden cost to all {this} accumulating…even what we get for free has a cost, even if only in what we pay to store it, in our house or in minds” - The Daily Stoic, p.75
 You can create space, avoid business, and simplify “by Removing [simplifying] Choice [choose between fewer things], Removing Time. [willingly push deadlines up],  and Removing Access [limit the access to mind and time to 1 thing you control], and nurture that space, that powerful space, so it fills your mind and time and life with contentment, freedom, and happiness.” The Happiness Equation p. 204
 
-Balance
+#### Balance
 “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.”
 —Marcus Aurelius, Meditations, 4.48.2
 Rules are good, but be adaptable when they need to be broken.
@@ -194,7 +194,7 @@ Figure out how to give yourself some mental space - Meditate
 “Block access. Protect your brain. Guard it. Remove all entry points to your brain except a single one you can control” - The Happiness Equation, p.194
 Learning to balance technology in your life (e.g. smart phone) is wicked important.
 
-Find Someone to Love Who Loves You Back
+#### Find Someone to Love Who Loves You Back
 I genuinely think people need each other, not all in the same way, but we need people in our life who unconditionally love us and whom we love, however that’s actually expressed. It could be a spouse, a friend, a sibling, or maybe even a pet. I think humans need love and attachment in their life. Loving and being loved is an essential need. I chose a wife and kids, but that’s not a required path.
 Healthy love starts with self-love, or self-compassion, and then goes out to another person in the form of intimacy and attachment. It ends with altruism.
 “Be you and be cool with it…There is nothing more satisfying than being loved for who you are and nothing more painful than being loved for who you’re not, but pretending to be.” The Happiness Equation, p.238
@@ -218,7 +218,7 @@ Find who you are and love yourself for it.
 “Sometimes the best way to solve your own problems is to help someone else” - Uncle Iroh
 It’s not your job to keep the people you love happy. You individually be happy and bring that to the relationship.
 
-Be Nice, but Be Assertive; or, Avoid Manipulation
+#### Be Nice, but Be Assertive; or, Avoid Manipulation
 “When I do good I feel good. When I do bad I feel bad. That is my religion”
 Everyone deserves your unconditional kindness and generosity. As long as they respect and reciprocate that, it will flow freely. Once they abuse that, they have to earn it back. (They had their chance they blew it)
 Be nice but don’t let people take advantage of or manipulate you (see: live life on purpose). This will help you avoid manipulation and being taken advantage of, but will still provide you the chance to be compassionate to people without sacrificing compassion for yourself.
@@ -233,7 +233,7 @@ Doubt is the opposite of confidence. They cannot exist together. One has to yiel
 “It’s impossible to love someone and control them at the same time”
 “The lesson I have learned is when someone you love is doing something that hurts you. Don't try and control them by making them stop. Rather have the courage to break up with them when they continue to do the thing you told them hurts you. If they wont stop, they don't love you and you should move on.”
 
-Be Healthy - Physically and Mentally
+#### Be Healthy - Physically and Mentally
 Get good (consistent and long) sleep
 Exercise (bodies are made for moving, not sitting)
 Use food for sustenance, not pleasure. Modern bounty makes food-related sickness extrememly common (high cholesterol, diabetes, high blood pressure, obesity, etc)
@@ -263,7 +263,7 @@ You gotta keep your brain active, as well as your body. Stay involved, stay acti
 “Anger as soon as it is fed, is dead - ’Tis starving makes it fat” -Emily Dickenson
 “There is no more stupefying thing than anger, nothing more bent on its own strength. If successful, none more arrogant, if foiled, none more insane — since it’s not driven back by weariness even in defeat, when fortune removes its adversary it turns its teeth on itself.” - Seneca, from In The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living (public library), Ryan Holiday and Stephen Hanselman
 
-Get Going: Analyze, Anticipate, but Act.
+#### Get Going: Analyze, Anticipate, but Act.
 it’s ok to think and analyze and plan, but the best course is always action.
 “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting…Just do it.” The Happiness Equation, p.231
 “Immediately do the thing that scares you”.
@@ -284,42 +284,43 @@ Don't make all the speech, show me”
 You will regret the things you didn’t do a lot more than the things you did.
 “The turtle only makes progress when he sticks his neck out” -Myron Leavitt
 First try to limit the decisions you make. Don’t decide between everything, reduce choices to a very limited set of options. Then make a decision and go with it, don’t look back. Don’t give yourself the option to go back on a choice. Avoid the anxiety of choice.
-“The reversible condition {decision} is not conducive to the synthesis of happiness” (i.e. it’s better to consider all decisions irreversible; decide, act, and don’t look back                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ) The Happiness Equation, p. 173
+“The reversible condition {decision} is not conducive to the synthesis of happiness” (i.e. it’s better to consider all decisions irreversible; decide, act, and don’t look back) The Happiness Equation, p. 173
 “Autonomy and Freedom of choice are critical to our well being, and choice is critical to freedom and autonomy. Nonetheless, though modern Americans have more choice than any group of people ever has before, and thus, presumably, more freedom and autonomy, we don't seem to be benefiting from it psychologically.”
 Indecision is the death of opportunity
 The Do Circle, don’t wait for desire to do, or ability to do, simply doing can be a starting point to gain those two…It’s easier done than said… [Get] work done by doing it first.” The Happiness Equation, p. 219-224
 Get “‘closer to doing’…Spend 30 seconds putting yourself in a situation where it’s easier to do…Action causes motivation.” The Happiness Equation p.225-227
 
-Learn to be Disciplined
+#### Learn to be Disciplined
 Find a routine, structure and discipline breed mental stability and general health (“It gets easier. Every day it gets a little easier, but you gotta do it every day. That’s the hard part, but it does get easier.” - Bojack Horseman)
 https://www.reddit.com/r/GetMotivated/comments/8ai05o/discussion_your_selfcontrol_is_your_most/?st=JFPOIU6B&sh=3ef2d937
 “A real man doesn’t give way to anger and discontent, and such a person has strength, courage, and endurance - unlike the angry and complaining. The nearer a man comes to a calm mind, the closer he is to strength” -Marcus Aurelius, Meditations, 11.18.5b
 “Once you learn that indulging might actually be worse than resisting, the urge begins to lose its appeal. In this way, self-control becomes the real pleasure, and the temptation becomes the regret” - The Daily Stoic, p.53
 Daily: meditate, plan, do, relax, meditate.
 
-Be Smart
+#### Be Smart
 You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
 “It is the mark of an educated mind to entertain a thought without accepting it”
 Learn as much as you can, either about one field, or many.
 “Never retire. Your brain needs exercise or it will atrophy.” Bill Safire, quoting James Watson in a Jan 24 2005 op-ed
 “When you’re through changing, you’re through” -Bill Safire, Jan 24 2005 op-ed
 
-Make the World a Better Place
+#### Make the World a Better Place
 Do random acts of unsolicited kindness. it’ll make you feel better, but it will add good to the world.
 You have concentric sphere’s of influence that decrease in your ability to enact change and good the farther from yourself you get. focus on doing good in your most potent spheres of influence.
 Give people the love and compassion you want, or the kind they need.
 “…doing a kindness produces the single most reliable momentary increase in well-being of any exercise we have tested” - Martin Seligman, Flourish, as quoted in The Happiness Equation, p. 21
 
-Be Judicious with Technology
+#### Be Judicious with Technology
 Technology, at least in 2018, is really good at bringing out the worst tendencies in people: narcissism, greed, egoism, gossip, laziness.
 it’s there to serve you, not for you to be addicted to and escape and waste time. Learn how to be measured in your integration of technology in you life.
 Completely unplug regularly. It’ll be good for your mental health too. It’ll keep you present
 Technology takes you away from being present in the moment.
 
-Quotes, etc.
+### Quotes, etc.
 
-If — Rudyard Kipling
+_If_ — Rudyard Kipling
 
+```
 If you can keep your head when all about you   
     Are losing theirs and blaming it on you,   
 If you can trust yourself when all men doubt you,
@@ -355,9 +356,10 @@ If you can fill the unforgiving minute
     With sixty seconds’ worth of distance run,   
 Yours is the Earth and everything that’s in it,   
     And—which is more—you’ll be a Man, my son!
+```
 
-
-Leisure, W. H. Davies
+_Leisure_, W. H. Davies
+```
 What is this life if, full of care,
 We have no time to stand and stare.
 No time to stand beneath the boughs
@@ -372,10 +374,10 @@ No time to wait till her mouth can
 Enrich that smile her eyes began.
 A poor life this if, full of care,
 We have no time to stand and stare.
+```
 
 
-
-Notes and Resources
+### Notes and Resources
 
 - General -
 -Affiirmatons of Humanism-
