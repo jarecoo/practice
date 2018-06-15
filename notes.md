@@ -276,20 +276,20 @@ Top 3
 - “Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.”
 
 ### Be Nice, but Be Assertive; or, Avoid Manipulation
-“When I do good I feel good. When I do bad I feel bad. That is my religion”
-Everyone deserves your unconditional kindness and generosity. As long as they respect and reciprocate that, it will flow freely. Once they abuse that, they have to earn it back. (They had their chance they blew it)
-Be nice but don’t let people take advantage of or manipulate you (see: live life on purpose). This will help you avoid manipulation and being taken advantage of, but will still provide you the chance to be compassionate to people without sacrificing compassion for yourself.
-Being assertive keeps people from taking advantage of your niceness. If you only ever be nice, you’ll be an enabler, especially to your loved ones. Being assertive, asking for what you want, checking your close people, will lead to a place where you both get more of what you want and neither of you is allowed to let the worst parts of yourself grow (doubt, insecurity, anxiety, jealousy). It’s the Facebook effect. FB only ever served up the stuff you clicked on, which is usually the shit that gets you the most riled up in anger or disgust. Being too nice panders to every personality trait a person has, that's ok when you don't see the person a lot, but for close relationships that can bring out the bad parts of people as well as the good. You create codependency.
-Be assertive about your wants, needs, and boundaries.
-“Be you and be cool with it…There is nothing more satisfying than being loved for who you are and nothing more painful than being loved for who you’re not, but pretending to be.” The Happiness Equation, p.238
-“When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
-If you don’t speak your truth it’s like you’re suffocating yourself.
-“You can lie down for people to walk on you and they will complain that you are still not flat enough. Live your life.”
-Doubt is the opposite of confidence. They cannot exist together. One has to yield to the other.
-“I do not accept your anger and your criticism. It is all yours. … If you become angry with me and I do not get insulted, than the anger falls back on you. You are the only one who becomes unhappy, not me. All you have done is hurt yourself.” -Buddha
-“It’s impossible to love someone and control them at the same time”
-“The lesson I have learned is when someone you love is doing something that hurts you. Don't try and control them by making them stop. Rather have the courage to break up with them when they continue to do the thing you told them hurts you. If they wont stop, they don't love you and you should move on.”
-“Of course I deprecate war, but if it is brought to my door the bringer will find me at home” - James Garfield, in The Daily Stoic, p.90
+- “When I do good I feel good. When I do bad I feel bad. That is my religion”
+- Everyone deserves your unconditional kindness and generosity. As long as they respect and reciprocate that, it will flow freely. Once they abuse that, they have to earn it back. (They had their chance they blew it)
+- Be nice but don’t let people take advantage of or manipulate you (see: live life on purpose). This will help you avoid manipulation and being taken advantage of, but will still provide you the chance to be compassionate to people without sacrificing compassion for yourself.
+- Being assertive keeps people from taking advantage of your niceness. If you only ever be nice, you’ll be an enabler, especially to your loved ones. Being assertive, asking for what you want, checking your close people, will lead to a place where you both get more of what you want and neither of you is allowed to let the worst parts of yourself grow (doubt, insecurity, anxiety, jealousy). It’s the Facebook effect. FB only ever served up the stuff you clicked on, which is usually the shit that gets you the most riled up in anger or disgust. Being too nice panders to every personality trait a person has, that's ok when you don't see the person a lot, but for close relationships that can bring out the bad parts of people as well as the good. You create codependency.
+- Be assertive about your wants, needs, and boundaries.
+- “Be you and be cool with it…There is nothing more satisfying than being loved for who you are and nothing more painful than being loved for who you’re not, but pretending to be.” The Happiness Equation, p.238
+- “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
+- If you don’t speak your truth it’s like you’re suffocating yourself.
+- “You can lie down for people to walk on you and they will complain that you are still not flat enough. Live your life.”
+- Doubt is the opposite of confidence. They cannot exist together. One has to yield to the other.
+- “I do not accept your anger and your criticism. It is all yours. … If you become angry with me and I do not get insulted, than the anger falls back on you. You are the only one who becomes unhappy, not me. All you have done is hurt yourself.” -Buddha
+- “It’s impossible to love someone and control them at the same time”
+- “The lesson I have learned is when someone you love is doing something that hurts you. Don't try and control them by making them stop. Rather have the courage to break up with them when they continue to do the thing you told them hurts you. If they wont stop, they don't love you and you should move on.”
+- “Of course I deprecate war, but if it is brought to my door the bringer will find me at home” - James Garfield, in The Daily Stoic, p.90
 
 ### Be Healthy - Physically and Mentally
 - Get good (consistent and long) sleep
@@ -335,7 +335,7 @@ Doubt is the opposite of confidence. They cannot exist together. One has to yiel
 What lies ahead, I have no way of knowing
 But under my feet, baby, grass is growing
 It's time to move on, it's time to get going”
-Tom Petty
+- Tom Petty
 
 “Sing me no song, read me no rhyme
 Don't waste my time, show me.
@@ -384,10 +384,10 @@ Don't make all the speech, show me.”
 - “We can find a retreat at any time by looking inward. We can sit with our eyes closed and feel our breath go in and out. We can turn on some music and tune out the world. We can turn off technology or shut off those rampant thoughts in our head. That will provide peace. Nothing else.” The Daily Stoic, p.91
 - “‘The richest, happiest and most productive lives are characterized by the ability to fully engage in the challenge at hand, but also to disengage periodically and seek renewal.’ …{The Power of Full Engagement}… A Kansas State University study found that complete downtime after work helps us recharge for the next day. Turning your phone off after dinner. Not using the internet on vacation.” The Happiness Equation, p.22
 
-Quotes, etc.
+## Quotes, etc.
 
-If — Rudyard Kipling
-
+#### _If_ — Rudyard Kipling
+```
 If you can keep your head when all about you   
     Are losing theirs and blaming it on you,   
 If you can trust yourself when all men doubt you,
@@ -423,9 +423,10 @@ If you can fill the unforgiving minute
     With sixty seconds’ worth of distance run,   
 Yours is the Earth and everything that’s in it,   
     And—which is more—you’ll be a Man, my son!
+```
 
-
-Leisure, W. H. Davies
+#### _Leisure_, W. H. Davies
+```
 What is this life if, full of care,
 We have no time to stand and stare.
 No time to stand beneath the boughs
@@ -440,12 +441,12 @@ No time to wait till her mouth can
 Enrich that smile her eyes began.
 A poor life this if, full of care,
 We have no time to stand and stare.
+```
 
 
+## Notes and Resources
 
-Notes and Resources
-
-- General -
+### General
 -Affiirmatons of Humanism-
 We are committed to the application of reason and science to the understanding of the universe and to the solving of human problems.
 We deplore efforts to denigrate human intelligence, to seek to explain the world in supernatural terms, and to look outside nature for salvation.
@@ -470,7 +471,7 @@ We believe in optimism rather than pessimism, hope rather than despair, learning
 We believe in the fullest realization of the best and noblest that we are capable of as human beings.
 
 
--Family-
+### Family
 The things my patients say they'll miss the most are NOT seeing the World Landmarks, buying fancy things, that new car, "living it up" party style, etc. (https://www.reddit.com/r/LifeProTips/comments/80dsy9/lpt_after_working_with_terminally_ill_cancer/)
 Here is an actual compiled list:
 * Watching my sons throw a baseball
@@ -491,7 +492,7 @@ Here is an actual compiled list:
 ....notice none of these things cost any money. They don't include technology. They're not grand gestures. It's human to human (or animals/nature) interaction, something we need more of in world that's becoming more fast paced and less human every day.
 
 
-The Last Time (https://www.reddit.com/r/Wellthatsucks/comments/7upwj7/damn/dtmjxlf/?sh=e4e4d783&st=JD63KIUB)
+#### The Last Time (https://www.reddit.com/r/Wellthatsucks/comments/7upwj7/damn/dtmjxlf/?sh=e4e4d783&st=JD63KIUB)
 From the moment you hold your baby in your arms,
 you will never be the same.
 You might long for the person you were before,
@@ -533,7 +534,7 @@ and when they are gone, you will yearn for just one more day of them.
 For one last time.
 -Author Unknown-
 
-My adopted take on the family:
+#### My adopted take on the family:
 - we believe marriage between people who love each other is a good thing
 - families are unique and diverse
 - no family looks the same and that is okay
