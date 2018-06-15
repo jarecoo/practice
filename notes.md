@@ -263,7 +263,7 @@ Find who you are and love yourself for it.
 “It’s impossible to love someone and control them at the same time” - Terry Crews
 “Sometimes the best way to solve your own problems is to help someone else” - Uncle Iroh
 It’s not your job to keep the people you love happy. You individually be happy and bring that to the relationship.
-"It’s really important to find a partner who is at your level of happiness. Or higher. The good news is that you can be happy first."" The Happiness Equation, secret chapter ~p.266
+"It’s really important to find a partner who is at your level of happiness. Or higher. The good news is that you can be happy first."" The Happiness Equation, secret chapter p.266
 
 #### Be Nice, but Be Assertive; or, Avoid Manipulation
 “When I do good I feel good. When I do bad I feel bad. That is my religion”
