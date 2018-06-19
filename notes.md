@@ -159,6 +159,7 @@ Top 3
 - “People seek retreats for themselves in the country, by the sea, or in the mountains. You are very much in the habit of yearning for those same things. But this is entirely the trait of a base person, when you can, at any moment, find such a retreat in yourself. For nowhere can you find a more peaceful and less busy retreat than in your own soul - especially if on close inspection it is filled with ease.” -Marcus Aurelius, Meditations, 4.3.1; The Daily Stoic, p.91
 - “We can find a retreat at any time by looking inward. We can sit with our eyes closed and feel our breath go in and out. We can turn on some music and tune out the world. We can turn off technology or shut off those rampant thoughts in our head. That will provide peace. Nothing else.” The Daily Stoic, p.91
 - The law of attraction, or in motorcycle terms, object fixation, is what causes outlook to heavily influence outcome. When you fixate and focus on something, you subconsciously gravitate to that thing. Focus on the bad and you’ll live the bad. Focus on the good and you’ll live the good.
+- Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
 
 ### Live in the Present Moment
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.”
@@ -170,6 +171,7 @@ Top 3
 - “There are two ways to be wealthy - to get everything you want, or to want everything you have. Which is easier right here and right now?” The Daily Stoic, p.95
 - “When we chase after happiness as a movement, it’s away from the present moment to another place, to some time other than now. And because we move away from the present moment, ironically, we move further away from happiness. Because when you think about it, happiness can only exist in this moment, right here, right now.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
 - “Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.”
+- “Happiness is to enjoy the present, without anxious dependence upon the future" -Seneca
 
 ### Calm Down - Cultivate a Relaxed Attitude
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.”
@@ -196,6 +198,8 @@ Top 3
 - “Every time you get upset a little bit of life leaves the body” The Daily Stoic, p.52
 - “We suffer more often in imagination than in reality”
 - “It does not do to dwell on dreams and forget to live” Harry Potter and the Sorcerers Stone
+- “How much pain have cost us the evils which have never happened!” Thomas Jefferson
+- “Getting upset is like continuing the dream while you’re awake. The thing that provoked you wasn’t real — but your reaction was. And so from the fake comes real consequences” The Daily Stoic, p.55
 
 ### Slow Down
 - “Slow your breath down, just take it slow” - Future of Forestry, Slow your Breath Down
@@ -278,6 +282,7 @@ Top 3
 - It’s not your job to keep the people you love happy. You individually be happy and bring that to the relationship.
 - “It’s really important to find a partner who is at your level of happiness. Or higher. The good news is that you can be happy first.” The Happiness Equation, secret chapter ~p.266
 - “Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.”
+- Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
 
 ### Be Nice, but Be Assertive; or, Avoid Manipulation
 - “When I do good I feel good. When I do bad I feel bad. That is my religion”
@@ -296,35 +301,37 @@ Top 3
 - “Of course I deprecate war, but if it is brought to my door the bringer will find me at home” - James Garfield, in The Daily Stoic, p.90
 
 ### Be Healthy - Physically and Mentally
-- Get good (consistent and long) sleep
-- Exercise (bodies are made for moving, not sitting)
-- Use food for sustenance, not pleasure. Modern bounty makes food-related sickness extrememly common (high cholesterol, diabetes, high blood pressure, obesity, etc)
-- Stress is the modern smoking, overexposure to cortisol leads to diminished physical health
-- “How much pain have cost us the evils which have never happened!” Thomas Jefferson
-- “Getting upset is like continuing the dream while you’re awake. The thing that provoked you wasn’t real — but your reaction was. And so from the fake comes real consequences” The Daily Stoic, p.55
-- Mediation can help you have greater mental health - Mindfulness https://www.reddit.com/r/GetMotivated/comments/7pw7cr/comment/dskr6ub?st=JCCUDI2R&sh=9c4db659) “Happiness is to enjoy the present, without anxious dependence upon the future" (Approach each task as if it is your last) - https://www.youtube.com/watch?v=LnNj1SdSE3k&list=PL5uULy4b0kV5Vzg8cZnj3bl4SqErP6Vxb
-- This is Water, David Foster Wallace https://vimeo.com/182430268 - Mindfulness
-- You are not your thoughts (“In distancing ourselves from negative thinking, we recognize that we’re not our thoughts.” -headspace)
-- “If you view self-criticism {insert anything else here: depression, anxiety, pride} as part of your identity, it will be harder to overcome.” -headspace
-- “Your thoughts are real, but they’re not necessarily reality” - Dan Harmon
-- (https://youtu.be/mpZ6YT8OemI)
-- Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
-- The brain on meditation - https://www.youtube.com/watch?v=FAcTIrA2Qhk - https://www.youtube.com/watch?v=Rz0luUhQjy0&list=PL5uULy4b0kV7ptjEsuMwvBAHENZ0aiGcy&index=4 - https://www.youtube.com/watch?v=KEMsXYcSdPM
-- You should seek to have the same aversion to over-happiness as you do to over-sadness, because they’re both mental agitation. Seek to be even-keeled, but don’t be afraid of emotion, it’s natural. Just be deliberate and mindful of the state when emotions are high.
-- Build and support and rely upon and internal locus of control, motivation, and love.
-- Know what you can control and what you can’t; hint: you can only control your attitude and your mind. Let go of what you can’t control (God used to be my representation of what i couldn’t control, i would pass that all off to him, re-learn to let the things you can’t control go in some way)
-- Go on at least 3 walks a week
-- “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
-- At the end of the day, go over the positive things about it in your head. Positively introspect a little bit about your life, your relationships etc. Find the good about the day.
-- Find 3-5 things to be grateful for from the past week.
-- “The nearer a man comes to a calm mind, the closer he is to strength” -Marcus Aurelius, Meditations, 11.18.5b
-- Your brain needs just as much exercise as your body. “Never retire. Your brain needs exercise or it will atrophy.” Bill Safire, quoting James Watson in a Jan 24 2005 op-ed
-- “When you’re through changing, you’re through” -Bill Safire, Jan 24 2005 op-ed
-- You gotta keep your brain active, as well as your body. Stay involved, stay active, keep learning, keep contributing.
-- “Carrying out five random acts of kindness a week dramatically improves your happiness” The Happiness Equation, p.21
-- “Anger as soon as it is fed, is dead - ’Tis starving makes it fat” -Emily Dickenson
-- “There is no more stupefying thing than anger, nothing more bent on its own strength. If successful, none more arrogant, if foiled, none more insane — since it’s not driven back by weariness even in defeat, when fortune removes its adversary it turns its teeth on itself.” - Seneca, from In The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living (public library), Ryan Holiday and Stephen Hanselman
-- “Your brain is the most incredible and complex object in the universe. …The good news is for no money down…you get the one free copy of the universe’s most complex and powerful object. It’s yours for life…You break it, it’s broken. Seat belts, bike helmets and exercise are mandatory. For power, your brain recharges with six to eight hours of sleep a day and as much healthy food as possible.” The Happiness Equation p.193
+- Physical
+    - Get good (consistent and long) sleep
+    - Exercise (bodies are made for moving, not sitting)
+    - Use food for sustenance, not pleasure. Modern bounty makes food-related sickness extrememly common (high cholesterol, diabetes, high blood pressure, obesity, etc)
+    - Go on at least 3 walks a week
+    - “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
+- Mental
+    - “Your brain is the most incredible and complex object in the universe. …The good news is for no money down…you get the one free copy of the universe’s most complex and powerful object. It’s yours for life…You break it, it’s broken. Seat belts, bike helmets and exercise are mandatory. For power, your brain recharges with six to eight hours of sleep a day and as much healthy food as possible.” The Happiness Equation p.193
+    - Stress is the modern smoking, overexposure to cortisol leads to diminished physical health
+    - “How much pain have cost us the evils which have never happened!” Thomas Jefferson
+    - “Getting upset is like continuing the dream while you’re awake. The thing that provoked you wasn’t real — but your reaction was. And so from the fake comes real consequences” The Daily Stoic, p.55
+    - Mediation can help you have greater mental health - Mindfulness https://www.reddit.com/r/GetMotivated/comments/7pw7cr/comment/dskr6ub?st=JCCUDI2R&sh=9c4db659) “Happiness is to enjoy the present, without anxious dependence upon the future" -Seneca; Approach each task as if it is your last - https://www.youtube.com/watch?v=LnNj1SdSE3k&list=PL5uULy4b0kV5Vzg8cZnj3bl4SqErP6Vxb
+    - This is Water, David Foster Wallace https://vimeo.com/182430268 - Mindfulness
+    - You are not your thoughts (“In distancing ourselves from negative thinking, we recognize that we’re not our thoughts.” -headspace)
+    - “If you view self-criticism {insert anything else here: depression, anxiety, pride} as part of your identity, it will be harder to overcome.” -headspace
+    - “Your thoughts are real, but they’re not necessarily reality” - Dan Harmon
+    - 5 Scientific Strategies for Happiness https://youtu.be/mpZ6YT8OemI
+    - Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
+    - The brain on meditation - https://www.youtube.com/watch?v=FAcTIrA2Qhk - https://www.youtube.com/watch?v=Rz0luUhQjy0&list=PL5uULy4b0kV7ptjEsuMwvBAHENZ0aiGcy&index=4 - https://www.youtube.com/watch?v=KEMsXYcSdPM
+    - You should seek to have the same aversion to over-happiness as you do to over-sadness, because they’re both mental agitation. Seek to be even-keeled, but don’t be afraid of emotion, it’s natural. Just be deliberate and mindful of the state when emotions are high.
+    - Build and support and rely upon and internal locus of control, motivation, and love.
+    - Know what you can control and what you can’t; hint: you can only control your attitude and your mind. Let go of what you can’t control (God used to be my representation of what i couldn’t control, i would pass that all off to him, re-learn to let the things you can’t control go in some way)
+    - At the end of the day, go over the positive things about it in your head. Positively introspect a little bit about your life, your relationships etc. Find the good about the day.
+    - Find 3-5 things to be grateful for from the past week.
+    - “The nearer a man comes to a calm mind, the closer he is to strength” -Marcus Aurelius, Meditations, 11.18.5b
+    - Your brain needs just as much exercise as your body. “Never retire. Your brain needs exercise or it will atrophy.” Bill Safire, quoting James Watson in a Jan 24 2005 op-ed
+    - “When you’re through changing, you’re through” -Bill Safire, Jan 24 2005 op-ed
+    - You gotta keep your brain active, as well as your body. Stay involved, stay active, keep learning, keep contributing.
+    - “Carrying out five random acts of kindness a week dramatically improves your happiness” The Happiness Equation, p.21
+    - “Anger as soon as it is fed, is dead - ’Tis starving makes it fat” -Emily Dickenson
+    - “There is no more stupefying thing than anger, nothing more bent on its own strength. If successful, none more arrogant, if foiled, none more insane — since it’s not driven back by weariness even in defeat, when fortune removes its adversary it turns its teeth on itself.” - Seneca, from In The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living (public library), Ryan Holiday and Stephen Hanselman
 
 ### Get Going: Analyze, Anticipate, but Act.
 - it’s ok to think and analyze and plan, but the best course is always action.
