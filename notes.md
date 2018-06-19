@@ -51,7 +51,7 @@ Top 3
 
 
 # Moral Paradigm & How I Should Live My Life
-## Abstract Truths
+## Beliefs
 * An Internal Locus of Control is Optimal (meaning you control your thoughts, attitudes, and outlook only, e.g. You control your own thoughts and feelings and nothing else; love and compassion for yourself; intrinsic motivation; outlook and perception; etc)
     * State of mind dictates happiness, not circumstances
     * Intrinsic motivation is the best motivation (e.g. doing it for you according to your purpose in life)
@@ -158,6 +158,7 @@ Top 3
 - “The cause of irritation - or our notion that something is bad - that comes from us, from our labels or our expectations. Just as easily, we can change those labels; we can change our entitlement and decide to accept and love what’s happening around us.” The Daily Stoic, p. 89
 - “People seek retreats for themselves in the country, by the sea, or in the mountains. You are very much in the habit of yearning for those same things. But this is entirely the trait of a base person, when you can, at any moment, find such a retreat in yourself. For nowhere can you find a more peaceful and less busy retreat than in your own soul - especially if on close inspection it is filled with ease.” -Marcus Aurelius, Meditations, 4.3.1; The Daily Stoic, p.91
 - “We can find a retreat at any time by looking inward. We can sit with our eyes closed and feel our breath go in and out. We can turn on some music and tune out the world. We can turn off technology or shut off those rampant thoughts in our head. That will provide peace. Nothing else.” The Daily Stoic, p.91
+- The law of attraction, or in motorcycle terms, object fixation, is what causes outlook to heavily influence outcome. When you fixate and focus on something, you subconsciously gravitate to that thing. Focus on the bad and you’ll live the bad. Focus on the good and you’ll live the good.
 
 ### Live in the Present Moment
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.”
@@ -192,15 +193,18 @@ Top 3
 - "The day the child realizes that all adults are imperfect, he becomes an adolescent; the day he forgives them, he becomes an adult; the day he forgives himself, he becomes wise." - Alden Nowlan 
 - “The tools and aims of our training are unaffected by the turbulence of the moment. Stop. Regain your composure. It’s waiting for you.” The Daily Stoic, p.68
 - “We can find a retreat at any time by looking inward. We can sit with our eyes closed and feel our breath go in and out. We can turn on some music and tune out the world. We can turn off technology or shut off those rampant thoughts in our head. That will provide peace. Nothing else.” The Daily Stoic, p.91
+- “Every time you get upset a little bit of life leaves the body” The Daily Stoic, p.52
+- “We suffer more often in imagination than in reality”
+- “It does not do to dwell on dreams and forget to live” Harry Potter and the Sorcerers Stone
 
 ### Slow Down
 - “Slow your breath down, just take it slow” - Future of Forestry, Slow your Breath Down
 - Slowing down probably isn’t necessarily about moving at a snail’s pace at all times, it’s probably more about moving deliberately and purposefully. I think usually that will mean a slower, smooth, steady pace to your life, but won’t prevent you from acting quickly when necessary, being punctual, etc.
 - Slow down. Hear people, listen to them fully before speaking. Don’t speak unless your sure it will bring value. “I begin to speak only when I’m certain what i’ll say isn’t better left unsaid.” Plutarch, Cato the Younger, 4
 - Respond, don’t react. Don’t immediately react to anything. Internalize it, then think about how best to respond.
-- “Every time you get upset a little bit of life leaves the body” The Daily Stoic, p.52
 - “The tools and aims of our training are unaffected by the turbulence of the moment. Stop. Regain your composure. It’s waiting for you.” The Daily Stoic, p.68
 - Slow is smooth. Smooth is fast.
+- “It’s the thinking mind alone that  wants to become bigger, to become better, or something special in the world. The other part, our essence, our awareness, has no such desire or ambition… Awareness is voiceless. It simply witnesses. It observes. It has no goal. It has no desire  to change anything, to be something more, to be something better. It simply witnesses life as it unfolds. As much as we need the thinking mind, the mind that plans and strives, at the same time that mind is typically quite busy. it’s trying to change, it’s trying to reach for something bigger and better and of course there are times in our life when that’s entirely appropriate and even necessary. But so often, when we think about ourselves in this way, that’s just not particularly helpful. Rather than being happy with ourselves as we are or content with ourselves as we are, we’re so busy trying to be somebody different, that we can’t even experience that sense of contentment in this moment right now. So learning to rest in awareness, we rely less on that thinking mind, the thinking mind that’s always reaching for something else, and instead we start to appreciate the value of resting right here in this moment right now.” Headspace, “Everyday Headspace,” Tuesday, June 19, Awareness and Ambition
 
 ### Simplify
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.”
