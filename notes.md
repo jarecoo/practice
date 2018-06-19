@@ -99,6 +99,7 @@ Top 3
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - Find 3 hobbies: one to make you money, one to keep you in shape, and one to keep you creative.
 - “Retirement, as we think of it today, isn’t a dream we actually want. We don’t actually want to do nothing. We just want to do something we love.” The Happiness Equation, p. 123
+- “Life without design is erratic. As soon as one is in place, principles become necessary.” - Seneca, Moral Letters, 95.46; The Daily Stoic, p.98
 
 ### Live Life on Purpose
 - Try to never do anything on autopilot, especially in respect to your purpose in life, never execute on it on autopilot. The best way to live is to be present at every moment, and live in the now. Bringing awareness and mindfulness to the present will not only keep you grounded, it will keep you happy. You can bring awareness to your forward thinking self as well, being present in the now doesn’t preclude any sort of proactive, goal-oriented, or analytical living, it just brings a presence to it.
@@ -117,6 +118,8 @@ Top 3
 - “The person is free who lives as they wish, neither compelled, nor hindered, nor limited — whose choices aren’t hampered, whose desires succeed, and who don’t fall into what repels them” - Epictetus, Discourses, 4.1.1-3a (The Daily Stoic, p.74)
 - If it’s not a hell yes, it’s a no.
 - I think mindfulness meditation, stoicism, and the other ideas I have in here aren’t only about just slowing down to a pace that might interfere with your relationships with others. It’s about having purpose to your pace. Most of the time that will mean slowing down the pace so you aren’t in a frenzy, but it will also allow you to purposefully act quickly when needed. Purposeful action is smooth. Purposeful action is deliberate, and therefore “slow”
+- “Chaos ensues from not having a plan. Not because plans are perfect, but because people without plans - like a line of infantry without a strong leader - are much more likely to get overwhelmed and fall apart.” The Daily Stoic, p.98
+- “As we examine our past behavior, it’s sad how often we find this to be the case - that we were not acting consciously or deliberately but instead by forces we did not bother to evaluate.” The Daily Stoic, p.100
 
 ### Cultivate an Internal Locus of Control
 - Outlook and attitude aren’t just important, they dictate how you experience the world, and they are the only thing you have 100% control over, so choose to be happy first, choose to see the good, choose gratitude instead of guilt, appreciation instead of anxiety, happiness instead of discontentment.
@@ -160,6 +163,7 @@ Top 3
 - “We can find a retreat at any time by looking inward. We can sit with our eyes closed and feel our breath go in and out. We can turn on some music and tune out the world. We can turn off technology or shut off those rampant thoughts in our head. That will provide peace. Nothing else.” The Daily Stoic, p.91
 - The law of attraction, or in motorcycle terms, object fixation, is what causes outlook to heavily influence outcome. When you fixate and focus on something, you subconsciously gravitate to that thing. Focus on the bad and you’ll live the bad. Focus on the good and you’ll live the good.
 - Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
+- “A mind that isn’t in control of itself, that doesn’t understand its power to regulate itself, will be jerked around by external events and unquestioned impulses” The Daily Stoic, p.101
 
 ### Live in the Present Moment
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.”
@@ -283,6 +287,8 @@ Top 3
 - “It’s really important to find a partner who is at your level of happiness. Or higher. The good news is that you can be happy first.” The Happiness Equation, secret chapter ~p.266
 - “Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.”
 - Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
+- “Whenever someone has done wrong by you, immediately consider what notion of good or evil they had in doing it. For when you see that, you’ll feel compassion, instead of astonishment or rage.” Marcus Aurelius, Meditations, 7.26; The Daily Stoic, p. 82
+- “Nobody thinks they’re wrong, even when they are. They thing they’re right, they’re just mistaken…Could it be that the slights you’ve experienced or the harm that others have done to you was not inflicted intentionally? What if they they simply thought they were doing the right thing - for them, even for you?…How much more tolerant and understanding would you be today if you could see the actions of other people as attempts to do the right thing?” The Daily Stoic, p.82
 
 ### Be Nice, but Be Assertive; or, Avoid Manipulation
 - “When I do good I feel good. When I do bad I feel bad. That is my religion”
