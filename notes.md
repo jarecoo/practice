@@ -167,8 +167,8 @@ Top 3
 - “A mind that isn’t in control of itself, that doesn’t understand its power to regulate itself, will be jerked around by external events and unquestioned impulses” The Daily Stoic, p.101
 
 ### Live in the Present Moment
-- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.”
-- —Marcus Aurelius, Meditations, 4.48.2 “The longest and shortest life, then, amount to the same, for the present moment lasts the same for all and is all anyone possesses.” -Marcus Aurelius, Meditations, 2.14; The Daily Stoic, p.85
+- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
+- “The longest and shortest life, then, amount to the same, for the present moment lasts the same for all and is all anyone possesses.” -Marcus Aurelius, Meditations, 2.14; The Daily Stoic, p.85
 - “Yesterday’s the past, tomorrow’s the future, but today is a gift. That’s why it’s called the present.” Bil Keane in The Daily Stoic, p.85
 - “This present is in our possession - but it has an expiration date, a quickly approaching one. If you enjoy all of it, it will be enough. It can last a whole lifetime.” The Daily Stoic, p.85
 - “No act is more valuable than the next when training the mind: meditation, walking, eating. All are opportunities to be present and at ease” Headspace app
