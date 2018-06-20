@@ -35,11 +35,13 @@ Top 3
         * Be physically fit, healthy, and improve longevity of the life i do have.
             * “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
 3. Fulfillment - Personal, Professional, and Creative
-    * Either be improving life or enjoying it
     * Emphasize experience and memories over possessions and material goods; reduce waste
-        * See as much of the world as possible
-        * Invigorating leisure activities (Hiking/Camping/Motorcycling/Traveling)
+        * Traveling - See as much of the world as possible
+        * Hiking/Camping
+        * Motorcycling
+        * Other Invigorating leisure activities
         * Photography
+    * Either be improving life or enjoying it
     * Take pride in and control of my life, make it what i want as far as i am able, don’t let other people/institutions dictate my way of life
         * Live according to my family’s wants and needs, as well as my own.
         * Discipline
