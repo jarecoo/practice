@@ -71,7 +71,7 @@ Top 3
     * Begins with Compassion and Love for Yourself
     * Takes Work to Keep Healthy
 * Love People, Use Things. Not the other way around
-* Trust is Automatically Given, but Must be Earned Back at Great Cost if Abused; or, Being Kind is Default, Create Healthy Boundaries if Being Nice Fails
+* Trust is Automatically Given, but Must be Earned Back at Great Cost if Abused; or, Being Kind is Default, but Create Healthy Boundaries
 * Enough is Preferable to More
 * Action is Better than Analysis
 * You only get one body and one life, appreciate it and care for it
@@ -94,18 +94,19 @@ Top 3
 - Make sure it doesn’t hurt anyone
 - “I wish I'd had the courage to live a life true to myself, not the life others expected of me.” #1 regret of dying people, reported by EoL nurse in The Guardian
 - This is intrinsic motivation, do it for you
-- For me it was always stuff like being outside in nature, seeing the world, eating good food, building something, and most importantly, spending time with people I love. You also need a hobby, a creative outlet, but more than that you need to be fulfilled.
+- For me it was building a family, getting married, raising kids and spending time with my family. But also stuff like being outside in nature, seeing the world, and building something.
 - “Of all the paths you take in life, make sure some of them are dirt.” John Muir
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - Find 3 hobbies: one to make you money, one to keep you in shape, and one to keep you creative.
-- “Retirement, as we think of it today, isn’t a dream we actually want. We don’t actually want to do nothing. We just want to do something we love.” The Happiness Equation, p. 123
+- “Retirement, as we think of it today, isn’t a dream we actually want. We don’t actually want to do nothing. We just want to do something we love.” The Happiness Equation, p. 123. You need a hobby, a creative outlet, but more than that you need to be fulfilled.
 - “Life without design is erratic. As soon as one is in place, principles become necessary.” - Seneca, Moral Letters, 95.46; The Daily Stoic, p.98
 
 ### Live Life on Purpose
-- Try to never do anything on autopilot, especially in respect to your purpose in life, never execute on it on autopilot. The best way to live is to be present at every moment, and live in the now. Bringing awareness and mindfulness to the present will not only keep you grounded, it will keep you happy. You can bring awareness to your forward thinking self as well, being present in the now doesn’t preclude any sort of proactive, goal-oriented, or analytical living, it just brings a presence to it.
 - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
-- Mindfulness is about present and purposeful living. It’s not wholly about sitting with eyes closed and body still, but about slowting the mind down to bring presence and purpose to every moment. You can be active and also be mindful. You can be ambitious and also be mindful. At a simple level it’s just about presence and purpose in life.
-- Actively choose something in every circumstance, because if you don’t, a choice will be made for you by default and it probably won’t be in your control.
+- Try to never do anything on autopilot, especially in respect to your purpose in life, never execute on it on autopilot. The best way to live is to be present at every moment, and live in the now. Bringing awareness and mindfulness to the present will not only keep you grounded, it will keep you happy. You can bring awareness to your forward thinking self as well, being present in the now doesn’t preclude any sort of proactive, goal-oriented, or analytical living, it just brings a presence to it.
+- Mindfulness is about present and purposeful living. It’s not wholly about sitting with eyes closed and body still, but about slowing the mind down to bring presence and purpose to every moment. You can be active and also be mindful. You can be ambitious and also be mindful. At a simple level it’s just about presence and purpose in life.
+- I think mindfulness meditation, stoicism, and the other ideas I have in here aren’t only about just slowing down to a pace that might interfere with your relationships with others. It’s about having purpose to your pace. Most of the time that will mean slowing down the pace so you aren’t in a frenzy, but it will also allow you to purposefully act quickly when needed. Purposeful action is smooth. Purposeful action is deliberate, and therefore “slow”
+- Actively choose something in every circumstance, because if you don’t, a choice will be made for you by default and it probably won’t be in your control, or something that you like.
 - There may or may not be an afterlife, hopefully there is, but the point is we cannot know. This just means you should try to make your time count that you know you have. No afterlife should breed appreciation and gratitude for what you have, rather than lead to a paranoid and anxious existence
 - “All we have to decide is what to do with the time that is given to us.” - Gandalf, LOTR
 - “If you’re like most people, you’ll spend most of your time in life tacitly presuming you’ll live forever. It’s like watching a bad movie for the fourth time, or bickering with your spouse, these things only make sense in light of eternity. There better be a heaven if I’m going to waste my time like this.” Sam Harris, https://www.youtube.com/watch?v=wI3a5m-lFVg 19:25
@@ -117,7 +118,6 @@ Top 3
 - Technology addiction can distract you from living on purpose. Use it wisely and mindfully.
 - “The person is free who lives as they wish, neither compelled, nor hindered, nor limited — whose choices aren’t hampered, whose desires succeed, and who don’t fall into what repels them” - Epictetus, Discourses, 4.1.1-3a (The Daily Stoic, p.74)
 - If it’s not a hell yes, it’s a no.
-- I think mindfulness meditation, stoicism, and the other ideas I have in here aren’t only about just slowing down to a pace that might interfere with your relationships with others. It’s about having purpose to your pace. Most of the time that will mean slowing down the pace so you aren’t in a frenzy, but it will also allow you to purposefully act quickly when needed. Purposeful action is smooth. Purposeful action is deliberate, and therefore “slow”
 - “Chaos ensues from not having a plan. Not because plans are perfect, but because people without plans - like a line of infantry without a strong leader - are much more likely to get overwhelmed and fall apart.” The Daily Stoic, p.98
 - “As we examine our past behavior, it’s sad how often we find this to be the case - that we were not acting consciously or deliberately but instead by forces we did not bother to evaluate.” The Daily Stoic, p.100
 
@@ -162,6 +162,7 @@ Top 3
 - “People seek retreats for themselves in the country, by the sea, or in the mountains. You are very much in the habit of yearning for those same things. But this is entirely the trait of a base person, when you can, at any moment, find such a retreat in yourself. For nowhere can you find a more peaceful and less busy retreat than in your own soul - especially if on close inspection it is filled with ease.” -Marcus Aurelius, Meditations, 4.3.1; The Daily Stoic, p.91
 - “We can find a retreat at any time by looking inward. We can sit with our eyes closed and feel our breath go in and out. We can turn on some music and tune out the world. We can turn off technology or shut off those rampant thoughts in our head. That will provide peace. Nothing else.” The Daily Stoic, p.91
 - The law of attraction, or in motorcycle terms, object fixation, is what causes outlook to heavily influence outcome. When you fixate and focus on something, you subconsciously gravitate to that thing. Focus on the bad and you’ll live the bad. Focus on the good and you’ll live the good.
+- “Your mind will take the shape of what you frequently hold in thought, for the human spirit is colored by such impressions” -Marcus Aurelius, Meditations, 5.16; in The Daily Stoic, p.103
 - Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
 - “A mind that isn’t in control of itself, that doesn’t understand its power to regulate itself, will be jerked around by external events and unquestioned impulses” The Daily Stoic, p.101
 
@@ -213,6 +214,7 @@ Top 3
 - “The tools and aims of our training are unaffected by the turbulence of the moment. Stop. Regain your composure. It’s waiting for you.” The Daily Stoic, p.68
 - Slow is smooth. Smooth is fast.
 - “It’s the thinking mind alone that  wants to become bigger, to become better, or something special in the world. The other part, our essence, our awareness, has no such desire or ambition… Awareness is voiceless. It simply witnesses. It observes. It has no goal. It has no desire  to change anything, to be something more, to be something better. It simply witnesses life as it unfolds. As much as we need the thinking mind, the mind that plans and strives, at the same time that mind is typically quite busy. it’s trying to change, it’s trying to reach for something bigger and better and of course there are times in our life when that’s entirely appropriate and even necessary. But so often, when we think about ourselves in this way, that’s just not particularly helpful. Rather than being happy with ourselves as we are or content with ourselves as we are, we’re so busy trying to be somebody different, that we can’t even experience that sense of contentment in this moment right now. So learning to rest in awareness, we rely less on that thinking mind, the thinking mind that’s always reaching for something else, and instead we start to appreciate the value of resting right here in this moment right now.” Headspace, “Everyday Headspace,” Tuesday, June 19, Awareness and Ambition
+- Reset. Readjust. Restart. Refocus. As many times as you need to.
 
 ### Simplify
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.”
@@ -272,8 +274,8 @@ Top 3
 - “Hate is too great a burden to bear” -MLK
 - Find your village, your tribe, people you can depend on and who depend on you - “Happy people are committed to making time for and enjoying friends and family. They have people they count on and trust.” https://continuum.utah.edu/features/what-happy-people-do/
 - “Consciously consider whom you allow into your life - not like some snobby elitist, but like someone who is trying to cultivate the best life possible” The Daily Stoic, p.79
-- “You are the average of the 5 people you spend the most time with” Jim Rohn
-- “Tell me whom you consort with and I will tell you who you are” Goethe
+- “You are the average of the 5 people you spend the most time with” Jim Rohn; The Happiness Equation, p.252
+- “Tell me whom you consort with and I will tell you who you are” Goethe, in The Daily Stoic, p.79
 - Nothing is more important than family, pick family first
 - “When you and your partner fight, remember it’s you and her vs the problem, not vs each other.”
 - “Where you invest your love, you invest your life” -Mumford and Sons, Awake my Soul
@@ -368,6 +370,7 @@ Don't make all the speech, show me.”
 - Indecision is the death of opportunity
 - The Do Circle, don’t wait for desire to do, or ability to do, simply doing can be a starting point to gain those two…It’s easier done than said… [Get] work done by doing it first.” The Happiness Equation, p. 219-224
 - Get “‘closer to doing’…Spend 30 seconds putting yourself in a situation where it’s easier to do…Action causes motivation.” The Happiness Equation p.225-227
+- “Mit eitler Rede wird hier nichts geschafft” Wilhelm Tell, Schiller Act 1, Scene 1
 
 ### Learn to be Disciplined
 - Find a routine, structure and discipline breed mental stability and general health (“It gets easier. Every day it gets a little easier, but you gotta do it every day. That’s the hard part, but it does get easier.” - Bojack Horseman)
@@ -458,6 +461,30 @@ No time to wait till her mouth can
 Enrich that smile her eyes began.
 A poor life this if, full of care,
 We have no time to stand and stare.
+```
+
+### _Wandrers Nachtsong 1_
+```
+Der du von dem Himmel bist,
+Alles Leid und Schmerzen stillest,
+Den, der doppelt elend ist,
+Doppelt mit Erquickung füllest;
+Ach, ich bin des Treibens müde!
+Was soll all der Schmerz und Lust?
+Süßer Friede,
+Komm, ach komm in meine Brust!
+```
+
+_Wandrers Nachtsong 2_
+```
+Über allen Gipfeln
+Ist Ruh,
+In allen Wipfeln
+Spürest du
+Kaum einen Hauch;
+Die Vögelein schweigen im Walde.
+Warte nur, balde
+Ruhest du auch.
 ```
 
 
