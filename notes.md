@@ -65,6 +65,7 @@ Top 3
     * Seeing the good in life, and being grateful helps avoid the scourge of stress
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
 * Meaning and Purpose in life are individually created
+* Experience and Memories Have Greater Value than Possessions and Material Goods
 * Any direction in life, purposefully chosen, is better than a default direction
 * Purposeful, Mindful Engagement in the Present Moment leads to Satisfaction (Mindfulness, Hard Work, Proactivity, etc)
 * A Balanced Life is a Healthy Life
@@ -167,6 +168,7 @@ Top 3
 - “Your mind will take the shape of what you frequently hold in thought, for the human spirit is colored by such impressions” -Marcus Aurelius, Meditations, 5.16; in The Daily Stoic, p.103
 - Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
 - “A mind that isn’t in control of itself, that doesn’t understand its power to regulate itself, will be jerked around by external events and unquestioned impulses” The Daily Stoic, p.101
+- Understand that people who do wrong by you are likely reacting to their own internal turmoil and trouble than to you.
 
 ### Live in the Present Moment
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
@@ -181,8 +183,7 @@ Top 3
 - “Happiness is to enjoy the present, without anxious dependence upon the future" -Seneca
 
 ### Calm Down - Cultivate a Relaxed Attitude
-- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.”
-- —Marcus Aurelius, Meditations, 4.48.2
+- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - “If a person wasn’t wanting something outside of their own control, why would they be stricken by anxiety?” Epictetus, Discourses, 2.13.1
 - Anxiety is just you wanting to control that which is outside your control. Stress is modern-day smoking. Unconditionally relax.
 - Things are fine. You’re ok. You’re not perfect. Learn to let things go. Holding on to negative emotions ruins your life.
@@ -207,6 +208,9 @@ Top 3
 - “It does not do to dwell on dreams and forget to live” Harry Potter and the Sorcerers Stone
 - “How much pain have cost us the evils which have never happened!” Thomas Jefferson
 - “Getting upset is like continuing the dream while you’re awake. The thing that provoked you wasn’t real — but your reaction was. And so from the fake comes real consequences” The Daily Stoic, p.55
+- “Make sure you’re not made ‘Emporer,’ … Keep yourself simple, good, pure, saintly, plain” -Marcus Aurelius, Meditations, 6.30; The Daily Stoic, p.106. Over-happiness and excitement can be just as detrimental as as over-sadness or anger. You should seek to have the same aversion to over-happiness as you do to over-sadness, because they’re both mental agitation. Seek to be even-keeled, but don’t be afraid of emotion, it’s natural. Just be deliberate and mindful of the state when emotions are high.
+- “When we experience success, we must make sure that it doesn’t change us - that we continue to maintain our character despite the temptation not to.” The Daily Stoic, p.106
+- “If you can meet with Triumph and Disaster And treat those two impostors just the same” If, Rudyard Kipling
 
 ### Slow Down
 - “Slow your breath down, just take it slow” - Future of Forestry, Slow your Breath Down
@@ -219,8 +223,7 @@ Top 3
 - Reset. Readjust. Restart. Refocus. As many times as you need to.
 
 ### Simplify
-- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.”
-- —Marcus Aurelius, Meditations, 4.48.2
+- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - “Approach each task as if it is your last, giving up every distraction, emotional subversion of reason, and all drama, vanity,  and complaint over your fair share” - Marcus Aurelius, Meditations, 2.5
 - there is clarity in simplicity. Zero in on what’s right in front of you.
 - “Don’t set your heart on so many things and you will get what you need.” Epictetus,  Discourses, 3.9.22 (The Daily Stoic, p69)
@@ -237,8 +240,7 @@ Top 3
     - “Minimalism for me is having good quality versions of the things I need”
 - “There are two ways to be wealthy - to get everything you want, or to want everything you have. Which is easier right here and right now?” The Daily Stoic, p.95
 - “The good things in life cost what they cost. The unnecessary are not worth it at any price. The key is being aware of the difference” The Daily Stoic, p.97
-- The things my patients say they'll miss the most are NOT seeing the World Landmarks, buying fancy things, that new car, "living it up" party style, etc. (https://www.reddit.com/r/LifeProTips/comments/80dsy9/lpt_after_working_with_terminally_ill_cancer/)
-- Here is an actual compiled list:
+- The things my patients say they'll miss the most are NOT seeing the World Landmarks, buying fancy things, that new car, "living it up" party style, etc. (https://www.reddit.com/r/LifeProTips/comments/80dsy9/lpt_after_working_with_terminally_ill_cancer/). Here is an actual compiled list:
     * Watching my sons throw a baseball
     * Listening to my grandparents tell stories
     * My girlfriend surprising me with a kiss on the cheek
@@ -257,8 +259,7 @@ Top 3
 ....notice none of these things cost any money. They don't include technology. They're not grand gestures. It's human to human (or animals/nature) interaction, something we need more of in world that's becoming more fast paced and less human every day. Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.
 
 ### Balance
-- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.”
-- —Marcus Aurelius, Meditations, 4.48.2
+- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - Rules are good, but be adaptable when they need to be broken.
 - Figure out how to give yourself some mental space - Meditate
 - “Block access. Protect your brain. Guard it. Remove all entry points to your brain except a single one you can control” - The Happiness Equation, p.194
@@ -293,6 +294,7 @@ Top 3
 - Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
 - “Whenever someone has done wrong by you, immediately consider what notion of good or evil they had in doing it. For when you see that, you’ll feel compassion, instead of astonishment or rage.” Marcus Aurelius, Meditations, 7.26; The Daily Stoic, p. 82
 - “Nobody thinks they’re wrong, even when they are. They thing they’re right, they’re just mistaken…Could it be that the slights you’ve experienced or the harm that others have done to you was not inflicted intentionally? What if they they simply thought they were doing the right thing - for them, even for you?…How much more tolerant and understanding would you be today if you could see the actions of other people as attempts to do the right thing?” The Daily Stoic, p.82
+- “‘When you first rise in the morning tell yourself: I will encounter busybodies, ingrates, egomaniacs, liars, the jealous and cranks’ - Marcus Aurelius, Meditations, 2.1 …The point of this preparation is not to write off everyone in advance. It is that, maybe, because you’ve prepared for it, you’ll be able to act with patience, forgiveness, and understanding” The Daily Stoic, p.108
 
 ### Be Nice, but Be Assertive; or, Avoid Manipulation
 - “When I do good I feel good. When I do bad I feel bad. That is my religion”
@@ -309,6 +311,8 @@ Top 3
 - “It’s impossible to love someone and control them at the same time”
 - “The lesson I have learned is when someone you love is doing something that hurts you. Don't try and control them by making them stop. Rather have the courage to break up with them when they continue to do the thing you told them hurts you. If they wont stop, they don't love you and you should move on.”
 - “Of course I deprecate war, but if it is brought to my door the bringer will find me at home” - James Garfield, in The Daily Stoic, p.90
+- “Trust, but verify”
+- “‘When you first rise in the morning tell yourself: I will encounter busybodies, ingrates, egomaniacs, liars, the jealous and cranks’ - Marcus Aurelius, Meditations, 2.1 …The point of this preparation is not to write off everyone in advance. It is that, maybe, because you’ve prepared for it, you’ll be able to act with patience, forgiveness, and understanding” The Daily Stoic, p.108
 
 ### Be Healthy - Physically and Mentally
 - Physical
@@ -330,7 +334,7 @@ Top 3
     - 5 Scientific Strategies for Happiness https://youtu.be/mpZ6YT8OemI
     - Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
     - The brain on meditation - https://www.youtube.com/watch?v=FAcTIrA2Qhk - https://www.youtube.com/watch?v=Rz0luUhQjy0&list=PL5uULy4b0kV7ptjEsuMwvBAHENZ0aiGcy&index=4 - https://www.youtube.com/watch?v=KEMsXYcSdPM
-    - You should seek to have the same aversion to over-happiness as you do to over-sadness, because they’re both mental agitation. Seek to be even-keeled, but don’t be afraid of emotion, it’s natural. Just be deliberate and mindful of the state when emotions are high.
+    - You should seek to have the same aversion to over-happiness as you do to over-sadness, because they’re both mental agitation. Seek to be even-keeled, but don’t be afraid of emotion, it’s natural. Just be deliberate and mindful of the state when emotions are high. (“If you can meet with Triumph and Disaster And treat those two impostors just the same” If, Rudyard Kipling)
     - Build and support and rely upon and internal locus of control, motivation, and love.
     - Know what you can control and what you can’t; hint: you can only control your attitude and your mind. Let go of what you can’t control (God used to be my representation of what i couldn’t control, i would pass that all off to him, re-learn to let the things you can’t control go in some way)
     - At the end of the day, go over the positive things about it in your head. Positively introspect a little bit about your life, your relationships etc. Find the good about the day.
@@ -396,15 +400,18 @@ Don't make all the speech, show me.”
 - You have concentric sphere’s of influence that decrease in your ability to enact change and good the farther from yourself you get. focus on doing good in your most potent spheres of influence.
 - Give people the love and compassion you want, or the kind they need.
 - “…doing a kindness produces the single most reliable momentary increase in well-being of any exercise we have tested” - Martin Seligman, Flourish, as quoted in The Happiness Equation, p. 21
+- Making the world a better place rests upon making yourself a better person.
 
 ### Be Judicious with Technology
-- Technology, at least in 2018, is really good at bringing out the worst tendencies in people: narcissism, greed, egoism, gossip, laziness.
 - it’s there to serve you, not for you to be addicted to and escape and waste time. Learn how to be measured in your integration of technology in you life.
+- Technology takes you away from being present in the moment. Every moment you spend needlessly perusing your phone while your life happens around you, is a moment you miss, you don’t get to be part of, and one you don’t get back. I went through the car wash with 3-yr-old Nate. I have a vague memory of him bouncing excitedly back and forth in the car watching the scrubber and water go back and forth, but I was dialed into something unimportant on my phone, wasting time, and I missed that moment. I missed taking in his laughs, and laughing and engaging with him about something he was way into. And that’s the real problem, is that when you don’t engage with the people around you on stuff they see as important, you miss connecting with them and being there with them. You miss building memories. You’re not emphasizing experience and memories over possessions and material goods.
 - Completely unplug regularly. It’ll be good for your mental health too. It’ll keep you present
-- Technology takes you away from being present in the moment.
 - “Do you remember when only doctors had pagers?…Then suddenly everyone had pagers. Then everyone had cell phones. Now everyone is accessible, any way, any time…You need to remove access. Close the doors, lock the windows, answer the bell” The Happiness Equation, p. 198
 - “We can find a retreat at any time by looking inward. We can sit with our eyes closed and feel our breath go in and out. We can turn on some music and tune out the world. We can turn off technology or shut off those rampant thoughts in our head. That will provide peace. Nothing else.” The Daily Stoic, p.91
 - “‘The richest, happiest and most productive lives are characterized by the ability to fully engage in the challenge at hand, but also to disengage periodically and seek renewal.’ …{The Power of Full Engagement}… A Kansas State University study found that complete downtime after work helps us recharge for the next day. Turning your phone off after dinner. Not using the internet on vacation.” The Happiness Equation, p.22
+- Technology, at least in 2018, is really good at bringing out the worst tendencies in people: narcissism, greed, egoism, gossip, laziness. The way FB algorithms work, for example, is by giving you more of what you choose to view, and more often than not, what you choose to view appeals to your baser emotions like anger (e.g. an article about how the other political party is stupid). More often than not, technology feeds your sloth and rage and judgmental attitudes.
+- Also, social media can lead to feelings of inadequacy and discouragement. You end up comparing your worst moments to peoples’ best moments.
+- “With so much technology around us it’s really easy to forget we get to define our relationship with technology. We need to learn how to be a little less reactive and a little more responsive to every sound or vibration our phone makes”
 
 ## Quotes, etc.
 
