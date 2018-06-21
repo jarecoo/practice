@@ -16,7 +16,24 @@ Top 3
             * 2. Teach them what to be (e.g. morality, behavior, hard work, manners, etc)
             * 3. Provide emotional support, unconditional love, compassion, empathy, listening ear, encouragement
     * Raise my children to be thoughtful, empathetic, enlightened people, capable of finding their own positive value in life, and contributing to the betterment of others
-2. Fitness - Physical & Mental
+2. Fulfillment - Personal, Professional, and Creative
+    * Emphasize experience and memories over possessions and material goods; reduce waste
+        * Traveling - See as much of the world as possible
+        * Hiking/Camping
+        * Motorcycling
+        * Other Invigorating leisure activities
+        * Photography
+    * Either be improving life or enjoying it
+    * Take pride in and control of my life, make it what i want as far as i am able, don’t let other people/institutions dictate my way of life
+        * Live according to my family’s wants and needs, as well as my own.
+        * Discipline
+    * Find fulfilling work; try to do things for work that add net benefit to mankind or provide meaningful fulfillment personally
+    * Taking care of my life, fixing the house, doing yard and house projects, etc
+    * Learn as much as possible
+    * Be fiscally literate so that me and my immediate family are comfortable
+        * extra can go to compassionately and generously optimizing the human condition within my sphere of influence
+3. Fitness - Physical & Mental
+    * With only one life and one body to experience life with, you gotta take care of it as best you can.
     * Mental Health (https://youtu.be/mpZ6YT8OemI):
         * Goals and purpose
             * See no. 3
@@ -34,22 +51,6 @@ Top 3
     * Physical exercise
         * Be physically fit, healthy, and improve longevity of the life i do have.
             * “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
-3. Fulfillment - Personal, Professional, and Creative
-    * Emphasize experience and memories over possessions and material goods; reduce waste
-        * Traveling - See as much of the world as possible
-        * Hiking/Camping
-        * Motorcycling
-        * Other Invigorating leisure activities
-        * Photography
-    * Either be improving life or enjoying it
-    * Take pride in and control of my life, make it what i want as far as i am able, don’t let other people/institutions dictate my way of life
-        * Live according to my family’s wants and needs, as well as my own.
-        * Discipline
-    * Find fulfilling work; try to do things for work that add net benefit to mankind or provide meaningful fulfillment personally
-    * Taking care of my life, fixing the house, doing yard and house projects, etc
-    * Learn as much as possible
-    * Be fiscally literate so that me and my immediate family are comfortable
-        * extra can go to compassionately and generously optimizing the human condition within my sphere of influence
 
 
 # Moral Paradigm & How I Should Live My Life
