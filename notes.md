@@ -34,12 +34,14 @@ Top 3
         * extra can go to compassionately and generously optimizing the human condition within my sphere of influence
 3. Fitness - Physical & Mental
     * With only one life and one body to experience life with, you gotta take care of it as best you can.
+    * Physical exercise
+        * Be physically fit, healthy, and improve longevity of the life i do have.
+            * “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
     * Mental Health (https://youtu.be/mpZ6YT8OemI):
         * Goals and purpose
             * See no. 3
         * Internal Locus of Control
-            * Meditation
-            * Mindfulness
+            * Meditation - Mindfulness
             * Understand what I can’t control and what I can.
             * “In distancing ourselves from negative thinking, we recognize that we’re not our thoughts.”
         * Positive Emotions
@@ -48,9 +50,6 @@ Top 3
             * “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
         * Social connections
             * See no. 1
-    * Physical exercise
-        * Be physically fit, healthy, and improve longevity of the life i do have.
-            * “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
 
 
 # Moral Paradigm & How I Should Live My Life
