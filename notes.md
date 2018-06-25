@@ -1,16 +1,16 @@
-Top 3
+Top 3 
 
 # Top 3 Important Things to Me - Ikigai
 1. Family
     * Prioritize close, personal relationships (family, close friends, etc)
-        *  Foster a loving, supportive, compassionate relationship with my kids and my wife. I want to be part of their life forever. Make the time we have together count.
+        *  Foster a loving, supportive, compassionate relationship with my kids and my wife. I want to be part of their life forever. Make the time we have together count. 
             * I think fostering this relationship means more than just love. Love is the necessary foundation, and gives you the appreciation to enjoy the journey, but only love is a disservice since it can lead to permissiveness, timidity and enabling. The other part of being a good father, is actually being something for your kids. They need to be guided, helped, and directed, mostly by example. The best dads are the ones that combine deep, unconditional love for their family with a steady, firm example of how to live. That’s where the rest of this comes in.
         * Enjoy the moment, appreciate the time you have with your kids https://www.reddit.com/r/LifeProTips/comments/80dsy9/lpt_after_working_with_terminally_ill_cancer/?st=JE4OAY9Q&sh=bab60a62
         * Remember, one day you pick your kid up and you’ll put him down for the last time https://www.reddit.com/r/Wellthatsucks/comments/7upwj7/comment/dtmjxlf?st=JD63KIUB&sh=e4e4d783
         * “Happy people are committed to making time for and enjoying friends and family. They have people they count on and trust.” https://continuum.utah.edu/features/what-happy-people-do/
         * “Sometimes the best way to solve your own problems is to help someone else” - Uncle Iroh
         * Appreciate the time you have with your loved ones. “Nell teaches aspects of parenthood never understood before. If she cries or makes a mess or decides to be contrary (and these are relatively rare), it doesn’t bother. There is always Chris’s silence to compare it to.” - Robert Pirsig, ZatAoMM
-        * Remember your kids aren’t you. They’re their own people.
+        * Remember your kids aren’t you. They’re their own people. 
         * There are three parts to raising kids, as I see it, and the important pivot in parent comes at adulthood when you stop doing the first 2 and are executing solely on the last part. The tricky part is that you more or less dictate 1 and 2, but they dictate 3 and you need to be in tune with their needs and wants for that.
             * 1. Teach them how to do stuff (e.g. eat, walk, talk, ride a bike, do math, etc)
             * 2. Teach them what to be (e.g. morality, behavior, hard work, manners, etc)
@@ -35,17 +35,17 @@ Top 3
 3. Fitness - Physical & Mental
     * With only one life and one body to experience life with, you gotta take care of it as best you can.
     * Physical exercise
-        * Be physically fit, healthy, and improve longevity of the life i do have.
+        * Be physically fit, healthy, and improve longevity of the life i do have. 
             * “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
     * Mental Health (https://youtu.be/mpZ6YT8OemI):
         * Goals and purpose
             * See no. 3
         * Internal Locus of Control
-            * Meditation - Mindfulness
+            * Meditation - Mindfulness 
             * Understand what I can’t control and what I can.
             * “In distancing ourselves from negative thinking, we recognize that we’re not our thoughts.”
         * Positive Emotions
-            * Be optimistic, content, thoughtful, confident, happy, calm, and meditative, assertive, etc. Life is worse voluntarily anxious, paranoid, depressed, or angry.
+            * Be optimistic, content, thoughtful, confident, happy, calm, and meditative, assertive, etc. Life is worse voluntarily anxious, paranoid, depressed, or angry. 
             * “Happy people pay attention to the good in others and the things that are going right…interpret other people and events around them in a positive light, and see opportunities and possibilities. And they take time to remember and be grateful for the good things in their lives.“
             * “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
         * Social connections
@@ -57,16 +57,16 @@ Top 3
 * An Internal Locus of Control is Optimal (meaning you control your thoughts, attitudes, and outlook only, e.g. You control your own thoughts and feelings and nothing else; love and compassion for yourself; intrinsic motivation; outlook and perception; etc)
     * State of mind dictates happiness, not circumstances
     * Intrinsic motivation is the best motivation (e.g. doing it for you according to your purpose in life)
-    * Happiness is in your control, and comes first.
+    * Happiness is in your control, and comes first. 
     * You bring meaning to circumstances and occurrences
-    * Circumstances won’t make you happy. You breed happiness within yourself, regardless of circumstance.
+    * Circumstances won’t make you happy. You breed happiness within yourself, regardless of circumstance. 
     * Presence in the moment is vital to happiness and enjoyment
     * Tranquility of mind is preferable to a turbulent mind
     * Seeing the good in life, and being grateful helps avoid the scourge of stress
-* A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
+* A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One 
 * Meaning and Purpose in life are individually created
-* Experience and Memories Have Greater Value than Possessions and Material Goods
-* Any direction in life, purposefully chosen, is better than a default direction
+* Experience and Memories Have Far Greater Value than Possessions and Material Goods
+* Any Direction in Life, Purposefully Chosen, is Better than a Default Direction
 * Purposeful, Mindful Engagement in the Present Moment leads to Satisfaction (Mindfulness, Hard Work, Proactivity, etc)
 * A Balanced Life is a Healthy Life
 * Humans Rely Heavily on Each Other
@@ -98,25 +98,25 @@ Top 3
 - “I wish I'd had the courage to live a life true to myself, not the life others expected of me.” #1 regret of dying people, reported by EoL nurse in The Guardian
 - This is intrinsic motivation, do it for you
 - For me it was building a family, getting married, raising kids and spending time with my family. But also stuff like being outside in nature, seeing the world, and building something.
-- “Of all the paths you take in life, make sure some of them are dirt.” John Muir
+- “Of all the paths you take in life, make sure some of them are dirt.” John Muir 
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
-- Find 3 hobbies: one to make you money, one to keep you in shape, and one to keep you creative.
-- “Retirement, as we think of it today, isn’t a dream we actually want. We don’t actually want to do nothing. We just want to do something we love.” The Happiness Equation, p. 123. You need a hobby, a creative outlet, but more than that you need to be fulfilled.
+- Find 3 hobbies: one to make you money, one to keep you in shape, and one to keep you creative. 
+- “Retirement, as we think of it today, isn’t a dream we actually want. We don’t actually want to do nothing. We just want to do something we love.” The Happiness Equation, p. 123. You need a hobby, a creative outlet, but more than that you need to be fulfilled. 
 - “Life without design is erratic. As soon as one is in place, principles become necessary.” - Seneca, Moral Letters, 95.46; The Daily Stoic, p.98
-
+ 
 ### Live Life on Purpose
 - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
 - Try to never do anything on autopilot, especially in respect to your purpose in life, never execute on it on autopilot. The best way to live is to be present at every moment, and live in the now. Bringing awareness and mindfulness to the present will not only keep you grounded, it will keep you happy. You can bring awareness to your forward thinking self as well, being present in the now doesn’t preclude any sort of proactive, goal-oriented, or analytical living, it just brings a presence to it.
-- Mindfulness is about present and purposeful living. It’s not wholly about sitting with eyes closed and body still, but about slowing the mind down to bring presence and purpose to every moment. You can be active and also be mindful. You can be ambitious and also be mindful. At a simple level it’s just about presence and purpose in life.
+- Mindfulness is about present and purposeful living. It’s not wholly about sitting with eyes closed and body still, but about slowing the mind down to bring presence and purpose to every moment. You can be active and also be mindful. You can be ambitious and also be mindful. At a simple level it’s just about presence and purpose in life. 
 - I think mindfulness meditation, stoicism, and the other ideas I have in here aren’t only about just slowing down to a pace that might interfere with your relationships with others. It’s about having purpose to your pace. Most of the time that will mean slowing down the pace so you aren’t in a frenzy, but it will also allow you to purposefully act quickly when needed. Purposeful action is smooth. Purposeful action is deliberate, and therefore “slow”
 - Actively choose something in every circumstance, because if you don’t, a choice will be made for you by default and it probably won’t be in your control, or something that you like.
 - There may or may not be an afterlife, hopefully there is, but the point is we cannot know. This just means you should try to make your time count that you know you have. No afterlife should breed appreciation and gratitude for what you have, rather than lead to a paranoid and anxious existence
 - “All we have to decide is what to do with the time that is given to us.” - Gandalf, LOTR
 - “If you’re like most people, you’ll spend most of your time in life tacitly presuming you’ll live forever. It’s like watching a bad movie for the fourth time, or bickering with your spouse, these things only make sense in light of eternity. There better be a heaven if I’m going to waste my time like this.” Sam Harris, https://www.youtube.com/watch?v=wI3a5m-lFVg 19:25
-- Live each moment as if it’s the last thing you’ll ever do.
-- “Yes, use Stoicism to manage difficulties. But don’t forget to ask: ‘is this really the life I want?’ Every time you get upset, a little life leaves the body. Are these really the things on which you want to spend that priceless resource?” The Daily Stoic, p.52
+- Live each moment as if it’s the last thing you’ll ever do. 
+- “Don’t forget to ask: ‘is this really the life I want?’ Every time you get upset, a little life leaves the body. Are these really the things on which you want to spend that priceless resource?” The Daily Stoic, p.52
 - “We all sorely complain of the shortness of time, and yet have much more than we know what to do with. Our lives are either spent in doing nothing at all, or in doing nothing to the purpose, or in doing nothing that we ought to do. We are always complaining that our days are few, and acting as though there would be no end of them.” -Seneca
-- Anxious, abstract, conscientious people miss the moment by overthinking. Overly practical, never-analyzers miss the moment because they live by default. There is a middle ground.
+- Anxious, abstract, conscientious people miss the moment by overthinking. Overly practical, never-analyzers miss the moment because they live by default. There is a middle ground. 
 - “Ah! realize your youth while you have it. Don’t squander the gold of your days, listening to the tedious, trying to improve the hopeless failure, or giving away your life to the ignorant, the common, and the vulgar. These are the sickly aims, the false ideals, of our age. Live! Live the wonderful life that is in you! Let nothing be lost upon you. Be always searching for new sensations. Be afraid of nothing.” Oscar Wilde, Dorian Gray
 - Technology addiction can distract you from living on purpose. Use it wisely and mindfully.
 - “The person is free who lives as they wish, neither compelled, nor hindered, nor limited — whose choices aren’t hampered, whose desires succeed, and who don’t fall into what repels them” - Epictetus, Discourses, 4.1.1-3a (The Daily Stoic, p.74)
@@ -125,30 +125,31 @@ Top 3
 - “As we examine our past behavior, it’s sad how often we find this to be the case - that we were not acting consciously or deliberately but instead by forces we did not bother to evaluate.” The Daily Stoic, p.100
 
 ### Cultivate an Internal Locus of Control
+- “‘It isn’t events themselves that disturb people, but only their judgments about them’ - Epictetus, Enchiridon, 5; The samurai swordsman Musashi made a distinction between our ‘perceiving eye’ and our ‘observing eye.’ The observing eye sees what is. The perceiving eye sees what things supposedly mean. Which do you think causes the most anguish?” The Daily Stoic, p.112
 - Outlook and attitude aren’t just important, they dictate how you experience the world, and they are the only thing you have 100% control over, so choose to be happy first, choose to see the good, choose gratitude instead of guilt, appreciation instead of anxiety, happiness instead of discontentment.
 - Circumstances don’t dictate your happiness, your attitude does.
 - “If a person gave away your body to some passerby, you’d be furious. Yet you hand over your mind to anyone who comes along, so they may abuse you, leaving it disturbed and troubled - have you no shame in that?” Epictetus, Enchiridion, 28 “Maintain control over your mind and perceptions…, It’s your most prized possession”The Daily Stoic, p.78
-- “There really is no such thing as an objectively good or bad occurrence…Situations require our participation, context, and categorization in order to be ‘bad’ [or good]” - The Daily Stoic, p.64
+- “There really is no such thing as an objectively good or bad occurrence…Situations require our participation, context, and categorization in order to be ‘bad’ [or good]” - The Daily Stoic, p.64 
 - Since you bring meaning to circumstances and occurrences, be deliberate about what meaning you ascribe to them (see: Live Life on Purpose)
 - “The longer I live, the more I realize the impact of attitude on life. Attitude, to me, is more important than facts. It is more important than the past, than education, than money, than circumstances, than failures, than successes, than what other people think or say or do. It is more important than appearance, giftedness or skill. It will make or break a company...a church....a home. The remarkable thing is we have a choice every day regarding the attitude we will embrace for that day. We cannot change our past...we cannot change the fact that people will act in a certain way. We cannot change the inevitable. The only thing we can do is play on the one string we have, and that is our attitude...I am convinced that life is 10% what happens to me and 90% how I react to it. And so it is with you...we are in charge of our attitudes.”
 - “Here’s the secret to being happy. Just pretend you are happy and eventually you’ll forget you’re pretending”
-- Working hard and achieving success doesn’t lead to happiness. Being happy first leads to success.
+- Working hard and achieving success doesn’t lead to happiness. Being happy first leads to success. 
 - “Be happy => Great Work => Big Success” The Happiness Equation, p.6
 - Deliberately choose your outlook - This is Water, David Foster Wallace https://vimeo.com/182430268 - Mindfulness
 - Focus on the positive - try to remember the lottery that you’ve already one: you’re alive (most people who’ve lived on earth aren’t), you get to experience life, you have more money than most people in the world, you get to cuddle your kids and your wife, etc.
 - See your life from a measured, but more broad perspective: https://vimeo.com/55073825
 - “Happy people pay attention to the good in others and the things that are going right…interpret other people and events around them in a positive light, and see opportunities and possibilities. And they take time to remember and be grateful for the good things in their lives.“
 - “Happy people are committed to making time for and enjoying friends and family. They have people they count on and trust.” https://continuum.utah.edu/features/what-happy-people-do/
-- Negative emotions don’t usually lead to positive ones. Be optimistic, content, thoughtful, confident, happy, calm, and meditative, assertive, etc. Life is worse when you choose negative emotions: anxiety, paranoia, sadness, or anger (“The wise person will endure that, but won’t choose it — choosing to be at peace, rather than at war” Seneca, Moral Letters, 28.7, The Daily Stoic, p.46)
+- Negative emotions don’t usually lead to positive ones. Worrying about something won’t lead to peace of mind about it. Just be optimistic, content, thoughtful, confident, happy, calm, and meditative, assertive, etc. Life is worse when you choose negative emotions: anxiety, paranoia, sadness, or anger (“The wise person will endure that, but won’t choose it — choosing to be at peace, rather than at war” Seneca, Moral Letters, 28.7, The Daily Stoic, p.46)
 - “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
 - Appreciate the time you have with your loved ones. https://www.reddit.com/r/Wellthatsucks/comments/7upwj7/damn/dtmjxlf/?sh=e4e4d783&st=JD63KIUB
 - Expect positive outcomes, instead of negative ones
 - Don’t be afraid of things (https://www.reddit.com/r/GetMotivated/comments/7hao7x/text_immediately_do_the_thing_that_scares_you/?st=JARAN660&sh=826b5e04)
-- “Watch your thoughts. They become words. Watch your words. They become deeds. Watch your deeds. They become habits. Watch your habits. They become character. Character is everything. Character becomes your destiny.” - Lao tzu
+- “Watch your thoughts. They become words. Watch your words. They become deeds. Watch your deeds. They become habits. Watch your habits. They become character. Character is everything. Character becomes your destiny.” - Lao tzu 
 - "Desire is not the problem. Clinging as a result of craving is. Thirst is not a desire or a craving. It is a sensation. Hunger is not a desire or a craving. It is a sensation. In any case, you are free to have desires and even pursue them. What will cause suffering is by clinging to the things you desire and crave, clinging to things that are not permanent as permanent, clinging to fantasies that do not accord with the way things are, clinging to the past even though it no longer exists, etc” (https://www.reddit.com/r/Buddhism/comments/559nfd/comment/d88qowc?st=ITQK2V7D&sh=0acbad15)
 - "Ceaseless, ardent desire - if not bad in itself - is fraught with potential complications…when we pine for something, when we hope against hope, we set ourselves up for disappointment…That green light that Gatsby strove for can represent seemingly good things too, like love or a noble cause. But it can wreck someone all the same.” The Daily Stoic, p.61
-- If a person wasn’t wanting something outside of their own {internal locus of} control, why would they be stricken by anxiety?” Epictetus, Discourses, 2.13.1
-- Happiness is now. You choose to be happy now - “When we chase after happiness as a movement, it’s away from the present moment to another place, to some time other than now. And because we move away from the present moment, ironically, we move further away from happiness. Because when you think about it, happiness can only exist in this moment, right here, right now….The quickest way, the surest way to find more happiness in our lives, is to focus on the happiness of others.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
+- If a person wasn’t wanting something outside of their own control, why would they be stricken by anxiety?” Epictetus, Discourses, 2.13.1 
+- Happiness is now. You choose to be happy now - “When we chase after happiness as a movement, it’s away from the present moment to another place, to some time other than now. And because we move away from the present moment, ironically, we move further away from happiness. Because when you think about it, happiness can only exist in this moment, right here, right now.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
 - “Why bother getting mad at causes and forces far bigger than us?…After all, external events are not sentient beings - they cannot respond to our shouts and cries.” The Daily Stoic, p.63
 - "...we all die, and our respect for death should always lead us to have an appreciation for life rather than a paranoid existence." - Sam Harris
 - Find the right perspective to view the world from - sometimes its big, sometimes its small, sometimes in between. “Nell teaches aspects of parenthood never understood before. If she cries or makes a mess or decides to be contrary (and these are relatively rare), it doesn’t bother. There is always Chris’s silence to compare it to.” - Robert Pirsig, ZatAoMM
@@ -164,11 +165,16 @@ Top 3
 - “The cause of irritation - or our notion that something is bad - that comes from us, from our labels or our expectations. Just as easily, we can change those labels; we can change our entitlement and decide to accept and love what’s happening around us.” The Daily Stoic, p. 89
 - “People seek retreats for themselves in the country, by the sea, or in the mountains. You are very much in the habit of yearning for those same things. But this is entirely the trait of a base person, when you can, at any moment, find such a retreat in yourself. For nowhere can you find a more peaceful and less busy retreat than in your own soul - especially if on close inspection it is filled with ease.” -Marcus Aurelius, Meditations, 4.3.1; The Daily Stoic, p.91
 - “We can find a retreat at any time by looking inward. We can sit with our eyes closed and feel our breath go in and out. We can turn on some music and tune out the world. We can turn off technology or shut off those rampant thoughts in our head. That will provide peace. Nothing else.” The Daily Stoic, p.91
-- The law of attraction, or in motorcycle terms, target fixation, is what causes outlook to heavily influence outcome. When you fixate and focus on something, you subconsciously gravitate to that thing. Focus on the bad and you’ll live the bad. Focus on the good and you’ll live the good.
+- “There are two ways to be wealthy - to get everything you want, or to want everything you have. Which is easier right here and right now?” The Daily Stoic, p.95
+- The law of attraction, or in motorcycle terms, target fixation, is what causes outlook to heavily influence outcome. When you fixate and focus on something, you subconsciously gravitate to that thing. Focus on the bad and you’ll live the bad. Focus on the good and you’ll live the good. 
 - “Your mind will take the shape of what you frequently hold in thought, for the human spirit is colored by such impressions” -Marcus Aurelius, Meditations, 5.16; in The Daily Stoic, p.103
 - Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
 - “A mind that isn’t in control of itself, that doesn’t understand its power to regulate itself, will be jerked around by external events and unquestioned impulses” The Daily Stoic, p.101
-- Understand that people who do wrong by you are likely reacting to their own internal turmoil and trouble than to you.
+- Understand that people who do wrong by you are likely reacting to their own internal turmoil and trouble than to you. 
+- “‘When you first rise in the morning tell yourself: I will encounter busybodies, ingrates, egomaniacs, liars, the jealous and cranks’ - Marcus Aurelius, Meditations, 2.1 …The point of this preparation is not to write off everyone in advance. It is that, maybe, because you’ve prepared for it, you’ll be able to act with patience, forgiveness, and understanding” The Daily Stoic, p.108
+- “From the very beginning, make it your practice to say to every impression ‘you are an impression and not at all what you appear to be.” Next, examine and test it by the rules you possess, the first and greatest of which is this - whether it belongs to the things in our control or not in our control, and if the latter, be prepared to respond, ‘It is nothing to me’” Epictetus, Enchiridon, 1.5; The Daily Stoic, p.111
+- “Trust, but verify” especially your own senses, wants, desires, impressions, and feelings.
+- “ Cultivate the awareness that allows you to step back and analyze your own senses, question their accuracy, and proceed only with the positive and constructive ones” The Daily Stoic, p.111
 
 ### Live in the Present Moment
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
@@ -189,12 +195,12 @@ Top 3
 - Things are fine. You’re ok. You’re not perfect. Learn to let things go. Holding on to negative emotions ruins your life.
 - Give yourself an unconditional break. Forgive yourself. Trust yourself. Have compassion for yourself.
 - Don’t take everything so seriously. It’s good to be good, but nobody’s perfect. Cut everything and everyone some slack and don’t expect perfection anywhere, especially from yourself or your family or circumstances. https://reddit.app.link/1O3LUJUxrN You may think you’re just “optimizing” but you may find that you just come across as critical and judgmental.
-- “Don’t hang on to a mistake just because you spent a lot of time making it.”
+- “Don’t hang on to a mistake just because you spent a lot of time making it.” 
 - “Having low self worth, not being compassionate toward yourself can cause trouble elsewhere in your life. If we have an attitude of low self worth and are constantly telling ourselves we’re the worst in the world, “we are at the same time cultivating a mind that is quite critical and judgmental and which inevitably spills over. So as we let go of this negative chatter towards ourself, we are at the same time freeing ourselves up from any judgment, criticism about others.” - headspace, self-esteem 24/30
 - Reflect on your many blessings, not your few failures.
 - Realize that there will always be downsides, imperfections, mistakes, harm, etc. Ride the waves, find your own inner peace. (mediation) (“there is no effort without error and shortcoming“)
 - “A person often meets his destiny on the road he took to avoid it” - Jean de La Fontaine
-- Be patient with yourself, and extend that to those around you.
+- Be patient with yourself, and extend that to those around you. 
 - “Every time you get upset a little bit of life leaves the body” The Daily Stoic, p.52
 - “It is quite impossible to unite happiness with a yearning for what we don’t have.” Epictetus, Discourses, 3.24.17
 - “Locate that yearning for more, better, someday and see it for what it is: the enemy of your contentment. Choose it or your happiness.” The Daily Stoic, p.57
@@ -216,11 +222,11 @@ Top 3
 - “Slow your breath down, just take it slow” - Future of Forestry, Slow your Breath Down
 - Slowing down probably isn’t necessarily about moving at a snail’s pace at all times, it’s probably more about moving deliberately and purposefully. I think usually that will mean a slower, smooth, steady pace to your life, but won’t prevent you from acting quickly when necessary, being punctual, etc.
 - Slow down. Hear people, listen to them fully before speaking. Don’t speak unless your sure it will bring value. “I begin to speak only when I’m certain what i’ll say isn’t better left unsaid.” Plutarch, Cato the Younger, 4
-- Respond, don’t react. Don’t immediately react to anything. Internalize it, then think about how best to respond.
+- Respond, don’t react. Don’t immediately react to anything. Internalize it, then think about how best to respond. 
 - “The tools and aims of our training are unaffected by the turbulence of the moment. Stop. Regain your composure. It’s waiting for you.” The Daily Stoic, p.68
-- Slow is smooth. Smooth is fast.
+- Slow is smooth. Smooth is fast. 
 - “It’s the thinking mind alone that  wants to become bigger, to become better, or something special in the world. The other part, our essence, our awareness, has no such desire or ambition… Awareness is voiceless. It simply witnesses. It observes. It has no goal. It has no desire  to change anything, to be something more, to be something better. It simply witnesses life as it unfolds. As much as we need the thinking mind, the mind that plans and strives, at the same time that mind is typically quite busy. it’s trying to change, it’s trying to reach for something bigger and better and of course there are times in our life when that’s entirely appropriate and even necessary. But so often, when we think about ourselves in this way, that’s just not particularly helpful. Rather than being happy with ourselves as we are or content with ourselves as we are, we’re so busy trying to be somebody different, that we can’t even experience that sense of contentment in this moment right now. So learning to rest in awareness, we rely less on that thinking mind, the thinking mind that’s always reaching for something else, and instead we start to appreciate the value of resting right here in this moment right now.” Headspace, “Everyday Headspace,” Tuesday, June 19, Awareness and Ambition
-- Reset. Readjust. Restart. Refocus. As many times as you need to.
+- Reset. Readjust. Restart. Refocus. As many times as you need to. 
 
 ### Simplify
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
@@ -267,7 +273,8 @@ Top 3
 
 ### The Importance of Love
 - Find Someone to Love Who Loves You Back. I genuinely think people need each other, not all in the same way, but we need people in our life who unconditionally love us and whom we love, however that’s actually expressed. It could be a spouse, a friend, a sibling, or maybe even a pet. I think humans need love and attachment in their life. Loving and being loved is an essential need. I chose a wife and kids, but that’s not a required path.
-- Healthy love starts with self-love, or self-compassion, and then goes out to another person in the form of intimacy and attachment. It ends with altruism.
+- Healthy love starts with self-love, or self-compassion, and then goes out to another person in the form of intimacy and attachment. It ends with altruism. 
+- “As we build up the exercise, so we’ll shift our attention away from ourselves, and more towards others. But the starting place is with ourselves. If we don’t have a sense of calm, a sense of kindness, or forgiveness toward ourself, then it’s going to be really difficult to have that towards others. So the two things aren’t really so different, it’s like they’re two sides of the same coin. If we develop one, at the same time we’re developing the other.” - Headspace, Relationships, Session 3
 - “Be you and be cool with it…There is nothing more satisfying than being loved for who you are and nothing more painful than being loved for who you’re not, but pretending to be.” The Happiness Equation, p.238
 - “Settling into your true, weird, authentic self isn’t easy, but it’s the most satisfying way to have everything” The Happiness Equation, p 243
 - “You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You yourself, as much as anybody in the entire universe deserve your love and affection.” - Buddha
@@ -283,7 +290,7 @@ Top 3
 - “When you and your partner fight, remember it’s you and her vs the problem, not vs each other.”
 - “Where you invest your love, you invest your life” -Mumford and Sons, Awake my Soul
 - “Today study after study shows the it is our social connections that are the single biggest driver or our happiness.” -The Happiness Equation, p.114
-- On healthy relationships, romantic loves should naturally shift more toward attachment. Make sure you and your partner are worthy of each other’s full, trusting attachment.
+- On healthy relationships, romantic loves should naturally shift more toward attachment. Make sure you and your partner are worthy of each other’s full, trusting attachment. 
 - Find who you are and love yourself for it.
 - “The lesson I have learned is when someone you love is doing something that hurts you. Don't try and control them by making them stop. Rather have the courage to break up with them when they continue to do the thing you told them hurts you. If they wont stop, they don't love you and you should move on.”
 - “It’s impossible to love someone and control them at the same time” - Terry Crews
@@ -292,21 +299,22 @@ Top 3
 - “It’s really important to find a partner who is at your level of happiness. Or higher. The good news is that you can be happy first.” The Happiness Equation, secret chapter ~p.266
 - “Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.”
 - Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
-- “Whenever someone has done wrong by you, immediately consider what notion of good or evil they had in doing it. For when you see that, you’ll feel compassion, instead of astonishment or rage.” Marcus Aurelius, Meditations, 7.26; The Daily Stoic, p. 82
+- “Whenever someone has done wrong by you, immediately consider what notion of good or evil they had in doing it. For when you see that, you’ll feel compassion, instead of astonishment or rage.” Marcus Aurelius, Meditations, 7.26; The Daily Stoic, p. 82 
 - “Nobody thinks they’re wrong, even when they are. They thing they’re right, they’re just mistaken…Could it be that the slights you’ve experienced or the harm that others have done to you was not inflicted intentionally? What if they they simply thought they were doing the right thing - for them, even for you?…How much more tolerant and understanding would you be today if you could see the actions of other people as attempts to do the right thing?” The Daily Stoic, p.82
 - “‘When you first rise in the morning tell yourself: I will encounter busybodies, ingrates, egomaniacs, liars, the jealous and cranks’ - Marcus Aurelius, Meditations, 2.1 …The point of this preparation is not to write off everyone in advance. It is that, maybe, because you’ve prepared for it, you’ll be able to act with patience, forgiveness, and understanding” The Daily Stoic, p.108
+- “The quickest way, the surest way to find more happiness in our lives, is to focus on the happiness of others.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
 
-### Be Nice, but Be Assertive; or, Avoid Manipulation
+### Be Nice, but Be Assertive; or, Avoid Manipulation 
 - “When I do good I feel good. When I do bad I feel bad. That is my religion”
 - Everyone deserves your unconditional kindness and generosity. As long as they respect and reciprocate that, it will flow freely. Once they abuse that, they have to earn it back. (They had their chance they blew it)
-- Be nice but don’t let people take advantage of or manipulate you (see: live life on purpose). This will help you avoid manipulation and being taken advantage of, but will still provide you the chance to be compassionate to people without sacrificing compassion for yourself.
-- Being assertive keeps people from taking advantage of your niceness. If you only ever be nice, you’ll be an enabler, especially to your loved ones. Being assertive, asking for what you want, checking your close people, will lead to a place where you both get more of what you want and neither of you is allowed to let the worst parts of yourself grow (doubt, insecurity, anxiety, jealousy). It’s the Facebook effect. FB only ever served up the stuff you clicked on, which is usually the shit that gets you the most riled up in anger or disgust. Being too nice panders to every personality trait a person has, that's ok when you don't see the person a lot, but for close relationships that can bring out the bad parts of people as well as the good. You create codependency.
+- Be nice but don’t let people take advantage of or manipulate you (see: live life on purpose). This will help you avoid manipulation and being taken advantage of, but will still provide you the chance to be compassionate to people without sacrificing compassion for yourself. 
+- Being assertive keeps people from taking advantage of your niceness. If you only ever be nice, you’ll be an enabler, especially to your loved ones. Being assertive, asking for what you want, checking your close people, will lead to a place where you both get more of what you want and neither of you is allowed to let the worst parts of yourself grow (doubt, insecurity, anxiety, jealousy). It’s the Facebook effect. FB only ever served up the stuff you clicked on, which is usually the shit that gets you the most riled up in anger or disgust. Being too nice panders to every personality trait a person has, that's ok when you don't see the person a lot, but for close relationships that can bring out the bad parts of people as well as the good. You create codependency. 
 - Be assertive about your wants, needs, and boundaries.
 - “Be you and be cool with it…There is nothing more satisfying than being loved for who you are and nothing more painful than being loved for who you’re not, but pretending to be.” The Happiness Equation, p.238
 - “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
-- If you don’t speak your truth it’s like you’re suffocating yourself.
+- If you don’t speak your truth it’s like you’re suffocating yourself. 
 - “You can lie down for people to walk on you and they will complain that you are still not flat enough. Live your life.”
-- Doubt is the opposite of confidence. They cannot exist together. One has to yield to the other.
+- Doubt is the opposite of confidence. They cannot exist together. One has to yield to the other. 
 - “I do not accept your anger and your criticism. It is all yours. … If you become angry with me and I do not get insulted, than the anger falls back on you. You are the only one who becomes unhappy, not me. All you have done is hurt yourself.” -Buddha
 - “It’s impossible to love someone and control them at the same time”
 - “The lesson I have learned is when someone you love is doing something that hurts you. Don't try and control them by making them stop. Rather have the courage to break up with them when they continue to do the thing you told them hurts you. If they wont stop, they don't love you and you should move on.”
@@ -330,7 +338,7 @@ Top 3
     - This is Water, David Foster Wallace https://vimeo.com/182430268 - Mindfulness
     - You are not your thoughts (“In distancing ourselves from negative thinking, we recognize that we’re not our thoughts.” -headspace)
     - “If you view self-criticism {insert anything else here: depression, anxiety, pride} as part of your identity, it will be harder to overcome.” -headspace
-    - “Your thoughts are real, but they’re not necessarily reality” - Dan Harmon
+    - “Your thoughts are real, but they’re not necessarily reality” - Dan Harmon 
     - 5 Scientific Strategies for Happiness https://youtu.be/mpZ6YT8OemI
     - Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
     - The brain on meditation - https://www.youtube.com/watch?v=FAcTIrA2Qhk - https://www.youtube.com/watch?v=Rz0luUhQjy0&list=PL5uULy4b0kV7ptjEsuMwvBAHENZ0aiGcy&index=4 - https://www.youtube.com/watch?v=KEMsXYcSdPM
@@ -342,7 +350,7 @@ Top 3
     - “The nearer a man comes to a calm mind, the closer he is to strength” -Marcus Aurelius, Meditations, 11.18.5b
     - Your brain needs just as much exercise as your body. “Never retire. Your brain needs exercise or it will atrophy.” Bill Safire, quoting James Watson in a Jan 24 2005 op-ed
     - “When you’re through changing, you’re through” -Bill Safire, Jan 24 2005 op-ed
-    - You gotta keep your brain active, as well as your body. Stay involved, stay active, keep learning, keep contributing.
+    - You gotta keep your brain active, as well as your body. Stay involved, stay active, keep learning, keep contributing. 
     - “Carrying out five random acts of kindness a week dramatically improves your happiness” The Happiness Equation, p.21
     - “Anger as soon as it is fed, is dead - ’Tis starving makes it fat” -Emily Dickenson
     - “There is no more stupefying thing than anger, nothing more bent on its own strength. If successful, none more arrogant, if foiled, none more insane — since it’s not driven back by weariness even in defeat, when fortune removes its adversary it turns its teeth on itself.” - Seneca, from In The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living (public library), Ryan Holiday and Stephen Hanselman
@@ -351,59 +359,61 @@ Top 3
 - it’s ok to think and analyze and plan, but the best course is always action.
 - “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting…Just do it.” The Happiness Equation, p.231
 - “Immediately do the thing that scares you”.
-- “But who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.”
+- “But who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.” 
 - but remember: “there is no effort without error and shortcoming“ -Teddy Roosevelt
 - Choose to be in the fray for the right reasons, be mindful about it.
-
+- You will regret the things you didn’t do a lot more than the things you did. 
+- “The turtle only makes progress when he sticks his neck out” -Myron Leavitt
+- First try to limit the decisions you make. Don’t decide between everything, reduce choices to a very limited set of options. Then make a decision and go with it, don’t look back. Don’t give yourself the option to go back on a choice. Avoid the anxiety of choice.
+- “The reversible condition {decision} is not conducive to the synthesis of happiness” (i.e. it’s better to consider all decisions irreversible; decide, act, and don’t look back) The Happiness Equation, p. 173
+- “Autonomy and Freedom of choice are critical to our well being, and choice is critical to freedom and autonomy. Nonetheless, though modern Americans have more choice than any group of people ever has before, and thus, presumably, more freedom and autonomy, we don't seem to be benefiting from it psychologically.” 
+- Indecision is the death of opportunity 
+- The Do Circle, don’t wait for desire to do, or ability to do, simply doing can be a starting point to gain those two…It’s easier done than said… [Get] work done by doing it first.” The Happiness Equation, p. 219-224
+- Get “‘closer to doing’…Spend 30 seconds putting yourself in a situation where it’s easier to do…Action causes motivation.” The Happiness Equation p.225-227
+- Do something every day that will get your doing ball rolling, even if it’s a day that doesn’t require it. (e.g. Make your bed, clean your room, shower, get dressed.)
+- “Mit eitler Rede wird hier nichts geschafft” Wilhelm Tell, Schiller Act 1, Scene 1
+- Make mistakes of boldness and not of timidity.
 ```
 “It's time to move on, time to get going
 What lies ahead, I have no way of knowing
 But under my feet, baby, grass is growing
 It's time to move on, it's time to get going”
 - Tom Petty
-
 “Sing me no song, read me no rhyme
 Don't waste my time, show me.
 Please don't implore, beg on the seats
 Don't make all the speech, show me.”
- - My Fair Lady, show me
+ - My Fair Lady, “Show Me”
 ```
-- You will regret the things you didn’t do a lot more than the things you did.
-- “The turtle only makes progress when he sticks his neck out” -Myron Leavitt
-- First try to limit the decisions you make. Don’t decide between everything, reduce choices to a very limited set of options. Then make a decision and go with it, don’t look back. Don’t give yourself the option to go back on a choice. Avoid the anxiety of choice.
-- “The reversible condition {decision} is not conducive to the synthesis of happiness” (i.e. it’s better to consider all decisions irreversible; decide, act, and don’t look back) The Happiness Equation, p. 173
-- “Autonomy and Freedom of choice are critical to our well being, and choice is critical to freedom and autonomy. Nonetheless, though modern Americans have more choice than any group of people ever has before, and thus, presumably, more freedom and autonomy, we don't seem to be benefiting from it psychologically.”
-- Indecision is the death of opportunity
-- The Do Circle, don’t wait for desire to do, or ability to do, simply doing can be a starting point to gain those two…It’s easier done than said… [Get] work done by doing it first.” The Happiness Equation, p. 219-224
-- Get “‘closer to doing’…Spend 30 seconds putting yourself in a situation where it’s easier to do…Action causes motivation.” The Happiness Equation p.225-227
-- “Mit eitler Rede wird hier nichts geschafft” Wilhelm Tell, Schiller Act 1, Scene 1
 
 ### Learn to be Disciplined
 - Find a routine, structure and discipline breed mental stability and general health (“It gets easier. Every day it gets a little easier, but you gotta do it every day. That’s the hard part, but it does get easier.” - Bojack Horseman)
 - https://www.reddit.com/r/GetMotivated/comments/8ai05o/discussion_your_selfcontrol_is_your_most/?st=JFPOIU6B&sh=3ef2d937
 - “A real man doesn’t give way to anger and discontent, and such a person has strength, courage, and endurance - unlike the angry and complaining. The nearer a man comes to a calm mind, the closer he is to strength” -Marcus Aurelius, Meditations, 11.18.5b
 - “Once you learn that indulging might actually be worse than resisting, the urge begins to lose its appeal. In this way, self-control becomes the real pleasure, and the temptation becomes the regret” - The Daily Stoic, p.53
-- Daily: meditate, plan, do, relax, meditate.
+- Daily: meditate, plan, do, relax, meditate. 
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
 - “It is the mark of an educated mind to entertain a thought without accepting it”
-- Learn as much as you can, either about one field, or many.
+- Learn as much as you can, either about one field, or many. 
 - “Never retire. Your brain needs exercise or it will atrophy.” Bill Safire, quoting James Watson in a Jan 24 2005 op-ed
 - “When you’re through changing, you’re through” -Bill Safire, Jan 24 2005 op-ed
-- Get your ego out of it. “It is impossible for a person to begin to learn what he thinks he already knows” The Daily Stoic, p.84
+- Get your ego out of it. “It is impossible for a person to begin to learn what he thinks he already knows” The Daily Stoic, p.84 
 - “Take a little time today to remember that you’re blessed with the capacity to use logic and reason to navigate situations and circumstances. This gives you unthinkable power to alter your circumstances and the circumstances of others. And remember that with power comes responsibility.” The Daily Stoic, p.86
 - “What influences the ruling reason that guides your life? This means an exploration of subjects like evolutionary biology, psychology, neurology, and even the subconscious. Because these deeper forces shape even the most disciplined, rational minds…So don’t stop at Stoicism, but explore the forces that drive and make stoicism possible…Understand not only your ruling reason…but whoever and whatever rules that too.” The Daily Stoic, p.96
+- “We must fight our biases and preconceptions…Ask yourself: What haven’t I considered? Why is this thing the way it is? Am I part of the problem here or the solution? Could I be wrong here?…We’re not as smart and wise as we’d like to think we are. If we ever do want to become wise, it comes from the questioning and from humility - not, as many would like to think, from certainty, mistrust, and arrogance.” The Daily Stoic, p.109
+- “From the very beginning, make it your practice to say to every impression ‘you are an impression and not at all what you appear to be.” Next, examine and test it by the rules you possess, the first and greatest of which is this - whether it belongs to the things in our control or not in our control, and if the latter, be prepared to respond, ‘It is nothing to me’” Epictetus, Enchiridon, 1.5; The Daily Stoic, p.111
 
 ### Make the World a Better Place
+- Making the world a better place rests upon making yourself a better person. 
+- You have concentric sphere’s of influence that decrease in your ability to enact change and good the farther from yourself you get. Focus on doing good in your most potent spheres of influence.
+- Give people the love and compassion you want, or the kind they need. 
 - Do random acts of unsolicited kindness. it’ll make you feel better, but it will add good to the world.
-- You have concentric sphere’s of influence that decrease in your ability to enact change and good the farther from yourself you get. focus on doing good in your most potent spheres of influence.
-- Give people the love and compassion you want, or the kind they need.
 - “…doing a kindness produces the single most reliable momentary increase in well-being of any exercise we have tested” - Martin Seligman, Flourish, as quoted in The Happiness Equation, p. 21
-- Making the world a better place rests upon making yourself a better person.
 
 ### Be Judicious with Technology
-- it’s there to serve you, not for you to be addicted to and escape and waste time. Learn how to be measured in your integration of technology in you life.
+- it’s there to serve you, not for you to be addicted to and escape and waste time. Learn how to be measured in your integration of technology in you life. 
 - Technology takes you away from being present in the moment. Every moment you spend needlessly perusing your phone while your life happens around you, is a moment you miss, you don’t get to be part of, and one you don’t get back. I went through the car wash with 3-yr-old Nate. I have a vague memory of him bouncing excitedly back and forth in the car watching the scrubber and water go back and forth, but I was dialed into something unimportant on my phone, wasting time, and I missed that moment. I missed taking in his laughs, and laughing and engaging with him about something he was way into. And that’s the real problem, is that when you don’t engage with the people around you on stuff they see as important, you miss connecting with them and being there with them. You miss building memories. You’re not emphasizing experience and memories over possessions and material goods.
 - Completely unplug regularly. It’ll be good for your mental health too. It’ll keep you present
 - “Do you remember when only doctors had pagers?…Then suddenly everyone had pagers. Then everyone had cell phones. Now everyone is accessible, any way, any time…You need to remove access. Close the doors, lock the windows, answer the bell” The Happiness Equation, p. 198
@@ -411,7 +421,7 @@ Don't make all the speech, show me.”
 - “‘The richest, happiest and most productive lives are characterized by the ability to fully engage in the challenge at hand, but also to disengage periodically and seek renewal.’ …{The Power of Full Engagement}… A Kansas State University study found that complete downtime after work helps us recharge for the next day. Turning your phone off after dinner. Not using the internet on vacation.” The Happiness Equation, p.22
 - Technology, at least in 2018, is really good at bringing out the worst tendencies in people: narcissism, greed, egoism, gossip, laziness. The way FB algorithms work, for example, is by giving you more of what you choose to view, and more often than not, what you choose to view appeals to your baser emotions like anger (e.g. an article about how the other political party is stupid). More often than not, technology feeds your sloth and rage and judgmental attitudes.
 - Also, social media can lead to feelings of inadequacy and discouragement. You end up comparing your worst moments to peoples’ best moments.
-- “With so much technology around us it’s really easy to forget we get to define our relationship with technology. We need to learn how to be a little less reactive and a little more responsive to every sound or vibration our phone makes”
+- “With so much technology around us it’s really easy to forget we get to define our relationship with technology. We need to learn how to be a little less reactive and a little more responsive to every sound or vibration our phone makes” Headspace, Mindful Tech, Intro
 
 ## Quotes, etc.
 
@@ -598,7 +608,7 @@ For one last time.
 - teach their child how to love themselves
 - teach their child how to love others
 - by design parents are equal parters, together, they preside, provide, protect, nurture, nourish
-- families are established and maintained on principles of love, compassion, respect, trust, honesty, and integrity
+- families are established and maintained on principles of love, compassion, respect, trust, honesty, and integrity 
 - our family is inherently beautiful
 
 
@@ -616,11 +626,11 @@ To me, these things are dangerous and harmful, and if they’re true, then the c
     - Whitewashing https://mormondiscussionpodcast.org/2016/11/extra-radio-free-mormon-hiding-church-history/
     - Blocking the truth https://www.sltrib.com/religion/2018/05/09/new-collection-of-leonard-arringtons-vast-journals-shows-battles-the-mormon-historian-had-with-lds-leaders-over-telling-the-truth-about-the-churchs-past/
     - The Information Age https://www.reddit.com/r/exmormon/comments/7pqm2i/inoculation_will_lead_to_the_great_apostasy_of/?st=JCBKZVPI&sh=d77347c1
-    - Technology makes it easier to spread actual truth https://www.reddit.com/r/exmormon/comments/6tj73a/google_is_killing_the_church/?st=J6D5HZX5&sh=fdd2e29, “We are entering an age where you cannot lie to people the way Joseph Smith lied to people” 1:15:56 https://www.youtube.com/watch?v=GAGasQ7j_ZI
+    - Technology makes it easier to spread actual truth https://www.reddit.com/r/exmormon/comments/6tj73a/google_is_killing_the_church/?st=J6D5HZX5&sh=fdd2e29, “We are entering an age where you cannot lie to people the way Joseph Smith lied to people” 1:15:56 https://www.youtube.com/watch?v=GAGasQ7j_ZI 
     - See “anti-Mormon” lit below
     - Jospeh Smith was a known, admitted con-man and that fact, along with others from the early church, have been carefully combed over and cleansed https://www.reddit.com/r/exmormon/comments/7mku1g/christopher_hitchens_on_mormons/?st=JBQ9RC38&sh=62c8df44
     - If we have the truth, it cannot be harmed by investigation. If we have not the truth, it ought to be harmed. J. Reuben Clark https://www.reddit.com/r/exmormon/comments/7yr3kd/comment/duik378?st=JDVCUG7X&sh=a28976c0
-    - "A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth. Authoritarian institutions and marketers have always known this fact.”  Daniel Kahneman, Nobel Prize Winner, 'Thinking, Fast and Slow'
+    - "A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth. Authoritarian institutions and marketers have always known this fact.”  Daniel Kahneman, Nobel Prize Winner, 'Thinking, Fast and Slow' 
     - BITE: https://youtu.be/GmeSmlHyDRU?t=159, https://drive.google.com/file/d/1kcL8HA2AyhcRuzVXp1w8BI0Lz7tL1HZn/view
     - Inability to plan for the Information Age shows no divine leadership https://www.reddit.com/r/exmormon/comments/7hzr22/this_one_fact_tells_you_all_you_need_to_know/?st=JAVXA25P&sh=1951d6cb
     - "Among the ancestors" used to be the line about the nephites and lamenites being ancestors to the American Indians; now that genetic evidence has disproved this notion, they have moved on
@@ -648,22 +658,22 @@ To me, these things are dangerous and harmful, and if they’re true, then the c
     - Assisted suicide position
     - City creek
     - Utah legislature lobbying - http://www.sltrib.com/news/politics/2017/08/04/former-utah-senator-criticizes-secretive-puppet-string-lobbying-by-mormon-church/
-    - More lobbying - http://fox13now.com/2017/08/27/3-questions-with-bob-evans-former-state-senator-steve-urquhart-talks-lds-church-lobbying-tactics/
+    - More lobbying - http://fox13now.com/2017/08/27/3-questions-with-bob-evans-former-state-senator-steve-urquhart-talks-lds-church-lobbying-tactics/ 
     - Philly high rise - http://www.bizjournals.com/philadelphia/blog/real-estate/2014/02/mormon-church-to-build-32-story.html  - only want "luxury" housing, apparently low-income isn't as inspired by jesus
-    - "Church Broke" - "Haven't talked in 6 weeks, what are supposed to be doing?"
-        - https://www.reddit.com/r/exmormon/comments/56027x/comment/d8fd1bl?st=IUQM5ZA2&sh=6f7111e9
+    - "Church Broke" - "Haven't talked in 6 weeks, what are supposed to be doing?" 
+        - https://www.reddit.com/r/exmormon/comments/56027x/comment/d8fd1bl?st=IUQM5ZA2&sh=6f7111e9 
         - https://www.reddit.com/r/atheism/comments/7p3chh/mormon_senator_admits_in_leaked_video_he_voted_in/
     - Porn public health crisis instead of opioid addiction (http://fox13now.com/2017/05/11/utahs-opioid-epidemic-whos-to-blame/)
     - Over standardization of doctrine, prioritizes needs of the church over needs of actual people
     - The church is boring as hell and barely marginally fulfilling to most people. It's not much better than a boring job you might have. https://www.reddit.com/r/exmormon/comments/46yd2y/what_is_really_wrong_with_the_church/?st=JAGH0X75&sh=ab2ad12b
-3. Cultural oppression - treatment of women, minorities, homosexuals, other nationalities - gaslighting members - manipulation of exmormons, pushing homogeneity
+3. Cultural oppression - treatment of women, minorities, homosexuals, other nationalities - gaslighting members - manipulation of exmormons, pushing homogeneity 
     - The most christlike person i can think of in modern history isn’t even mormon: Fred Rogers. And weirdly enough, none of the church leaders comes across near as christlike as Mr. Rogers. I would expect them to, bring Jesus’ servants. They do not exude christlike love and acceptance to everyone the way Mr. Rogers did.
     - The church should be a light-years-ahead leader on social issues, given their assumed divine guidance, but instead they often lag behind the advancement of social issues (e.g. https://www.lds.org/topics/race-and-the-priesthood?lang=eng “The justifications for this restriction echoed the widespread ideas about racial inferiority”, https://www.reddit.com/r/exmormon/comments/89uzrg/dont_forget_that_it_was_10_years_after_ml_kings/?st=JFM3QTUN&sh=d3469adc)
     - “I am thinking about how much we do for so few and how little we do for so many. The tithing of the people I just visited in South America and from good people all over the world paid for this facility. And most of the people who have made this beautiful facility possible will never see or step foot in a building like this. That is what I am thinking about.” (Henry B. Eyeing) http://idahostatejournal.com/members/lds-apostle-delivers-warning-promise-at-byu-idaho-campus/article_2db6c1d8-6216-5718-b69e-7cc95491495b.html
     - The church has 32B in assets and still demands the poor tithe like crazy: https://reddit.app.link/QaJUJ3QQnN
     - The Church is primarily white, affluent and American ( if you’re not straight, male, white, rich, current member, American, then “meh”): https://www.instagram.com/p/BF-twoqKHyG/
     - R rated movies only applies to American culture https://www.reddit.com/r/exmormon/comments/8eq596/rated_r_films_and_swearing_in_the_us_vs_uk/?st=JGFHWPSX&sh=48cf6e0c
-    -
+    - 
     - Treatment of gays (https://www.reddit.com/r/exmormon/comments/59axax/oaks_council_on_love_and_inclusion_towards_gay/?st=IUQKNC08&sh=052868ed, https://www.reddit.com/r/exmormon/comments/59f0bv/why_does_oaks_have_two_sides_of_his_mouth_so_he/?st=IUQKW9N2&sh=fa37a69a)
     - Treatment of abuse victims ( e.g. Amy or Hannah Priego; “At some point in time, however, the Lord may prompt a victim to recognize a degree of responsibility for abuse”) https://www.lds.org/general-conference/1992/04/healing-the-tragic-scars-of-abuse?lang=eng (“love him back to Christ”)
     - Treatment of abuse victims: slander, torment, discredit rather than help and support; also protect their abuser because he’s a high ranking authority http://kutv.com/news/local/exclusive-documents-reveal-how-the-lds-church-responded-to-mtc-sex-scandal
@@ -681,9 +691,9 @@ To me, these things are dangerous and harmful, and if they’re true, then the c
     - treatment of women in the church - http://kutv.com/news/local/lds-church-removes-controversial-scripture-connecting-rape-and-chastity-from-workbook
     - treatment of women in the church - https://medium.com/@amyajma/letter-to-a-mormon-man-8d251aa1f062#.yjogvlrfn
     - Treatment of women in the church https://www.reddit.com/r/exmormon/comments/5lopnr/the_church_used_my_body_as_currency/?st=JG1I088Y&sh=3a0b49a3
-    - Invalidating legitimate doctrinal concerns https://www.lds.org/church/news/many-struggles-with-faith-are-based-on-mormon-culture-not-doctrine-professor-says?lang=eng
+    - Invalidating legitimate doctrinal concerns https://www.lds.org/church/news/many-struggles-with-faith-are-based-on-mormon-culture-not-doctrine-professor-says?lang=eng 
     - making older or divorced members feel second rate: http://www.sltrib.com/religion/local/2017/08/25/mormons-unveil-temple-changes-single-lds-men-over-30-recently-divorced-members-can-now-serve-there/
-4. Bonus: The Church and Social Progress - The church should be a thought leader on love and acceptance with the Master of love and acceptance leading them; but they are never on the forefront of social issues that turn out to be objectively, demonstrably good for everyone. This runs counter to the way you’d expect from God’s true church.
+4. Bonus: The Church and Social Progress - The church should be a thought leader on love and acceptance with the Master of love and acceptance leading them; but they are never on the forefront of social issues that turn out to be objectively, demonstrably good for everyone. This runs counter to the way you’d expect from God’s true church. 
     - Civial Rights for Blacks (specifically priesthood, interracial marrying, etc, used to be widely frowned upon and preached against in the church as a very bad thing. It wasn’t until BYU was about to lose accreditation in the 70s that the church finally came around and removed the priesthood ban)
     - Gay Acceptance (They are not accepting, they are more than just indifferent, they are actively tormenting the individuals that would actually like to be part of their church by classifying homosexuality as apostasy (https://www.lds.org/church/news/elder-christofferson-says-handbook-changes-regarding-same-sex-marriages-help-protect-children?lang=eng&_r=1), but not adultery or murder, wtf? plus the children of homosexual parents who wish to be baptized must wait until they are 18 and then fully disavow their gay parents)
     - Medical Marijuana (It’s better than alcohol, but you don’t see them trying to bring back Prohibition) https://www.sltrib.com/news/health/2018/05/11/mormon-church-compiles-legal-issues-with-medical-marijuana-initiative-but-still-doesnt-explicitly-oppose-it/
@@ -699,19 +709,19 @@ https://www.reddit.com/r/exmormon/comments/5dbhgz/if_i_were_to_play_the_part_of_
 
 My occams razor conclusion: The church's truth claims are patently, demonstrably false; it is not led by God, but by regular men (who happen to be moral traditionalists), pushing their own ideology (as well as covering up past versions of this ideology)
 
-“So you have to ask yourself. What’s more likely? That {JS} plagiarized the Book of Mormon and copied the free masons temple ceremony to get money. And that polygamy was because he was a pervert.
-Or that it’s from God and his most important use of an angel and a flaming sword was to get Joseph to marry a young girl. And the Book of Mormon just happens to be historically inaccurate and plagiarized and the temple just happens to be very similar to Masonry.
+“So you have to ask yourself. What’s more likely? That {JS} plagiarized the Book of Mormon and copied the free masons temple ceremony to get money. And that polygamy was because he was a pervert. 
+Or that it’s from God and his most important use of an angel and a flaming sword was to get Joseph to marry a young girl. And the Book of Mormon just happens to be historically inaccurate and plagiarized and the temple just happens to be very similar to Masonry. 
 If you allow yourself to consider that it could not be true and just look at the evidence from all sides it gets clear really fast.” - Steph
 
 "Anti-Mormon" literature
-1. A couple’s story: cites and summarizes all the church linked essays: https://whyweleft.wordpress.com/
+1. A couple’s story: cites and summarizes all the church linked essays: https://whyweleft.wordpress.com/ 
 2. Translation of BoA https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng - BoA is bogus, the Abraham papyrus is nonsense
 3. BOM translation procedure different from traditional portrayals and teaching https://www.lds.org/topics/book-of-mormon-translation?lang=eng&_r=1 - used seer stone instead of U&T and plates: “Apparently for convenience, Joseph often translated with the single seer stone rather than the two stones bound together to form the interpreters … Most of the accounts speak of Joseph’s use of the Urim and Thummim (either the interpreters or the seer stone), and many accounts refer to his use of a single stone. According to these accounts, Joseph placed either the interpreters or the seer stone in a hat, pressed his face into the hat to block out extraneous light, and read aloud the English words that appeared on the instrument.” ‘She described Joseph “sitting with his face buried in his hat, with the stone in it, and dictating hour after hour with nothing between us. According to Emma, the plates “often lay on the table without any attempt at concealment, wrapped in a small linen table cloth.”’ Harris later related that as Joseph used the seer stone to translate, sentences appeared. Joseph read those sentences aloud, and after penning the words, Harris would say, “Written.” An associate who interviewed Harris recorded him saying that Joseph “possessed a seer stone, by which he was enabled to translate as well as from the Urim and Thummim, and for convenience he then used the seer stone.”
 4. Joseph was a pervert: https://www.lds.org/topics/plural-marriage-in-kirtland-and-nauvoo?lang=eng
 5. Joseph Was a liar: https://www.lds.org/topics/first-vision-accounts?lang=eng
 6. The BOM was practically verbatim transcription of another fictional work from JS’s time, and other ideological problems: http://cesletter.com/Letter-to-a-CES-Director.pdf
 7. Link to all church essays: http://www.mormonessays.com/
-8. A good place to find thoughtful articles on the problems with the church: http://www.mormonthink.com/
+8. A good place to find thoughtful articles on the problems with the church: http://www.mormonthink.com/ 
 9. A Letter for My Wife http://www.letterformywife.com/wp-content/letter/Letter_For_My_Wife.pdf
 10. http://www.missedinsunday.com/
 
