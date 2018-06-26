@@ -193,7 +193,7 @@ Top 3
 - “If a person wasn’t wanting something outside of their own control, why would they be stricken by anxiety?” Epictetus, Discourses, 2.13.1
 - Anxiety is just you wanting to control that which is outside your control. Stress is modern-day smoking. Unconditionally relax.
 - Things are fine. You’re ok. You’re not perfect. Learn to let things go. Holding on to negative emotions ruins your life.
-- Give yourself an unconditional break. Forgive yourself. Trust yourself. Have compassion for yourself.
+- Give yourself an unconditional break. Forgive yourself. Trust yourself. Trust your loved ones. Have compassion for yourself.
 - Don’t take everything so seriously. It’s good to be good, but nobody’s perfect. Cut everything and everyone some slack and don’t expect perfection anywhere, especially from yourself or your family or circumstances. https://reddit.app.link/1O3LUJUxrN You may think you’re just “optimizing” but you may find that you just come across as critical and judgmental.
 - “Don’t hang on to a mistake just because you spent a lot of time making it.” 
 - “Having low self worth, not being compassionate toward yourself can cause trouble elsewhere in your life. If we have an attitude of low self worth and are constantly telling ourselves we’re the worst in the world, “we are at the same time cultivating a mind that is quite critical and judgmental and which inevitably spills over. So as we let go of this negative chatter towards ourself, we are at the same time freeing ourselves up from any judgment, criticism about others.” - headspace, self-esteem 24/30
@@ -246,6 +246,7 @@ Top 3
     - “Minimalism for me is having good quality versions of the things I need”
 - “There are two ways to be wealthy - to get everything you want, or to want everything you have. Which is easier right here and right now?” The Daily Stoic, p.95
 - “The good things in life cost what they cost. The unnecessary are not worth it at any price. The key is being aware of the difference” The Daily Stoic, p.97
+- “Don’t overdress your thought in fine language. Don’t be a person of too many words and too many deeds” The Daily Stoic, p.115
 - The things my patients say they'll miss the most are NOT seeing the World Landmarks, buying fancy things, that new car, "living it up" party style, etc. (https://www.reddit.com/r/LifeProTips/comments/80dsy9/lpt_after_working_with_terminally_ill_cancer/). Here is an actual compiled list:
     * Watching my sons throw a baseball
     * Listening to my grandparents tell stories
@@ -373,6 +374,8 @@ Top 3
 - Do something every day that will get your doing ball rolling, even if it’s a day that doesn’t require it. (e.g. Make your bed, clean your room, shower, get dressed.)
 - “Mit eitler Rede wird hier nichts geschafft” Wilhelm Tell, Schiller Act 1, Scene 1
 - Make mistakes of boldness and not of timidity.
+- “More matter with less art” - Queen Gertrude, Hamlet
+- “Imagine the emperor of Rome, with his captive audience and unlimited power, telling himself not to be a person of “too many words and too many deeds.” Let that be a reminder the next time you feel self indulgent or a little full of yourself, the next time you feel like impressing people” The Daily Stoic p.115
 ```
 “It's time to move on, time to get going
 What lies ahead, I have no way of knowing
@@ -404,6 +407,8 @@ Don't make all the speech, show me.”
 - “What influences the ruling reason that guides your life? This means an exploration of subjects like evolutionary biology, psychology, neurology, and even the subconscious. Because these deeper forces shape even the most disciplined, rational minds…So don’t stop at Stoicism, but explore the forces that drive and make stoicism possible…Understand not only your ruling reason…but whoever and whatever rules that too.” The Daily Stoic, p.96
 - “We must fight our biases and preconceptions…Ask yourself: What haven’t I considered? Why is this thing the way it is? Am I part of the problem here or the solution? Could I be wrong here?…We’re not as smart and wise as we’d like to think we are. If we ever do want to become wise, it comes from the questioning and from humility - not, as many would like to think, from certainty, mistrust, and arrogance.” The Daily Stoic, p.109
 - “From the very beginning, make it your practice to say to every impression ‘you are an impression and not at all what you appear to be.” Next, examine and test it by the rules you possess, the first and greatest of which is this - whether it belongs to the things in our control or not in our control, and if the latter, be prepared to respond, ‘It is nothing to me’” Epictetus, Enchiridon, 1.5; The Daily Stoic, p.111
+- “Every man I meet is my master in some point, and in that I learn of him” - Emerson, The Daily Stoic, p.113
+- “If you want to learn, if you want to improve your life, seeking out teachers, philosophers, and great books is a good starts. But this approach will only be effective if you’re humble and ready to let go of opinions you already have.” The Daily Stoic, p.113
 
 ### Make the World a Better Place
 - Making the world a better place rests upon making yourself a better person. 
