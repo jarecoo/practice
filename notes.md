@@ -562,6 +562,7 @@ Here is an actual compiled list:
 
 
 #### The Last Time (https://www.reddit.com/r/Wellthatsucks/comments/7upwj7/damn/dtmjxlf/?sh=e4e4d783&st=JD63KIUB)
+```
 From the moment you hold your baby in your arms,
 you will never be the same.
 You might long for the person you were before,
@@ -602,6 +603,7 @@ remember there are only so many of them
 and when they are gone, you will yearn for just one more day of them.
 For one last time.
 -Author Unknown-
+```
 
 #### My adopted take on the family:
 - we believe marriage between people who love each other is a good thing
@@ -618,11 +620,10 @@ For one last time.
 - our family is inherently beautiful
 
 
-—————————————————————————————————————————————
+## The Problem with Religion 
+...is that it takes good and useful truths and attaches them to God. These truths can stand on their own - Sam Harris
 
-“The problem with religion is that it takes good and useful truths and attaches them to God. These truths can stand on their own” - Sam Harris
-
-Top 3 Reasons (including links and examples) I left the church:
+### Top 3 Reasons (including links and examples) I left the Mormon church:
 To me, these things are dangerous and harmful, and if they’re true, then the church isn’t. God wouldn’t do it this way; yes men are flawed, but God is perfect, so he could and should help his men avoid these pitfalls.
 1. information suppression, whitewashing, gaslighting, rhetorical control, ideological rigidity, historical revisionism (mostly about church history, but it applies currently as well), technophobia - the church wants to control information, god would have no need for this
     - Liars: https://www.reddit.com/r/exmormon/comments/82pwvj/comment/dvc0izz?st=JEI70DU8&sh=5dc125a2
@@ -671,6 +672,7 @@ To me, these things are dangerous and harmful, and if they’re true, then the c
         - https://www.reddit.com/r/atheism/comments/7p3chh/mormon_senator_admits_in_leaked_video_he_voted_in/
     - Porn public health crisis instead of opioid addiction (http://fox13now.com/2017/05/11/utahs-opioid-epidemic-whos-to-blame/)
     - Over standardization of doctrine, prioritizes needs of the church over needs of actual people
+    - The church owns 32B in investments
     - The church is boring as hell and barely marginally fulfilling to most people. It's not much better than a boring job you might have. https://www.reddit.com/r/exmormon/comments/46yd2y/what_is_really_wrong_with_the_church/?st=JAGH0X75&sh=ab2ad12b
 3. Cultural oppression - treatment of women, minorities, homosexuals, other nationalities - gaslighting members - manipulation of exmormons, pushing homogeneity 
     - The most christlike person i can think of in modern history isn’t even mormon: Fred Rogers. And weirdly enough, none of the church leaders comes across near as christlike as Mr. Rogers. I would expect them to, bring Jesus’ servants. They do not exude christlike love and acceptance to everyone the way Mr. Rogers did.
@@ -710,16 +712,16 @@ To me, these things are dangerous and harmful, and if they’re true, then the c
 “It was lonely to unravel. But more than that, it simply hurts to unbecome, to feel the ideological foundation of life ripping apart.” “Disabuse rarely visits like the tooth fairy, taking away your rotted belief system and leaving you a shiny new one in its place. It takes years of collapsing and years of rebuilding.”
 https://medium.com/@girlziplocked/have-empathy-when-gods-are-shattered-3f34a65daa15#.3nhy6bwsq
 
-Someone else's reasons
+### Someone else's reasons
 https://www.reddit.com/r/exmormon/comments/5dbhgz/if_i_were_to_play_the_part_of_mormon_martin/?st=IVLZ2DLZ&sh=13e66e4f
 
-My occams razor conclusion: The church's truth claims are patently, demonstrably false; it is not led by God, but by regular men (who happen to be moral traditionalists), pushing their own ideology (as well as covering up past versions of this ideology)
+### My occams razor conclusion: The church's truth claims are patently, demonstrably false; it is not led by God, but by regular men (who happen to be moral traditionalists), pushing their own ideology (as well as covering up past versions of this ideology)
 
 “So you have to ask yourself. What’s more likely? That {JS} plagiarized the Book of Mormon and copied the free masons temple ceremony to get money. And that polygamy was because he was a pervert. 
 Or that it’s from God and his most important use of an angel and a flaming sword was to get Joseph to marry a young girl. And the Book of Mormon just happens to be historically inaccurate and plagiarized and the temple just happens to be very similar to Masonry. 
 If you allow yourself to consider that it could not be true and just look at the evidence from all sides it gets clear really fast.” - Steph
 
-"Anti-Mormon" literature
+#### “Anti-Mormon" literature
 1. A couple’s story: cites and summarizes all the church linked essays: https://whyweleft.wordpress.com/ 
 2. Translation of BoA https://www.lds.org/topics/translation-and-historicity-of-the-book-of-abraham?lang=eng - BoA is bogus, the Abraham papyrus is nonsense
 3. BOM translation procedure different from traditional portrayals and teaching https://www.lds.org/topics/book-of-mormon-translation?lang=eng&_r=1 - used seer stone instead of U&T and plates: “Apparently for convenience, Joseph often translated with the single seer stone rather than the two stones bound together to form the interpreters … Most of the accounts speak of Joseph’s use of the Urim and Thummim (either the interpreters or the seer stone), and many accounts refer to his use of a single stone. According to these accounts, Joseph placed either the interpreters or the seer stone in a hat, pressed his face into the hat to block out extraneous light, and read aloud the English words that appeared on the instrument.” ‘She described Joseph “sitting with his face buried in his hat, with the stone in it, and dictating hour after hour with nothing between us. According to Emma, the plates “often lay on the table without any attempt at concealment, wrapped in a small linen table cloth.”’ Harris later related that as Joseph used the seer stone to translate, sentences appeared. Joseph read those sentences aloud, and after penning the words, Harris would say, “Written.” An associate who interviewed Harris recorded him saying that Joseph “possessed a seer stone, by which he was enabled to translate as well as from the Urim and Thummim, and for convenience he then used the seer stone.”
@@ -730,5 +732,3 @@ If you allow yourself to consider that it could not be true and just look at the
 8. A good place to find thoughtful articles on the problems with the church: http://www.mormonthink.com/ 
 9. A Letter for My Wife http://www.letterformywife.com/wp-content/letter/Letter_For_My_Wife.pdf
 10. http://www.missedinsunday.com/
-
-
