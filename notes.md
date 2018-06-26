@@ -67,7 +67,7 @@ Top 3
 * Meaning and Purpose in life are individually created
 * Experience and Memories Have Far Greater Value than Possessions and Material Goods
 * Any Direction in Life, Purposefully Chosen, is Better than a Default Direction
-* Purposeful, Mindful Engagement in the Present Moment leads to Satisfaction (Mindfulness, Hard Work, Proactivity, etc)
+* Satisfaction and Happiness are found in Purposeful, Mindful Engagement in the Present Moment (Mindfulness, Presence, Focus, Hard Work, Proactivity, etc)
 * A Balanced Life is a Healthy Life
 * Humans Rely Heavily on Each Other
 * Love is a Human Necessity
