@@ -66,7 +66,7 @@ Top 3
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
 * Meaning and Purpose in life are individually created
 * Experience and Memories Have Far Greater Value than Possessions and Material Goods
-* Any Direction in Life, Purposefully Chosen, is Better than a Default Direction
+* Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
 * Satisfaction and Happiness are found in Purposeful, Mindful Engagement in the Present Moment (Mindfulness, Presence, Focus, Hard Work, Proactivity, etc)
 * A Balanced Life is a Healthy Life
 * Humans Rely Heavily on Each Other
@@ -75,7 +75,7 @@ Top 3
     * Builds up to Altruism
     * Takes Work to Keep Healthy
 * Love People, Use Things. Not the other way around
-* Trust is Automatically Given, but Must be Earned Back at Great Cost if Abused; or, Being Kind is Default, but Create Healthy Boundaries
+* Trust is Automatically Given, but Must be Earned Back at Great Cost if Lost; or, Being Kind is Default, but Create Healthy Boundaries
 * Enough is Preferable to More
 * Action is Better than Analysis
 * You only get one body and one life, appreciate it and care for it
@@ -143,13 +143,15 @@ You won't regret one thing
 - Outlook and attitude aren’t just important, they dictate how you experience the world, and they are the only thing you have 100% control over, so choose to be happy first, choose to see the good, choose gratitude instead of guilt, appreciation instead of anxiety, happiness instead of discontentment.
 - Circumstances don’t dictate your happiness, your attitude does.
 - “If a person gave away your body to some passerby, you’d be furious. Yet you hand over your mind to anyone who comes along, so they may abuse you, leaving it disturbed and troubled - have you no shame in that?” Epictetus, Enchiridion, 28 “Maintain control over your mind and perceptions…, It’s your most prized possession”The Daily Stoic, p.78
+- “‘You have been formed of three parts - body, breath, and mind. Of these, the first two are yours insofar as they are only in your care. The third alone is truly yours’ - Marcus Aurelius, Meditations, 12.3 Up until the very end, our mind is ours. It’s not that the other two parts of life don’t matter. THey’re just less ‘ours’ that our mind” The Daily Stoic p.125
 - “There really is no such thing as an objectively good or bad occurrence…Situations require our participation, context, and categorization in order to be ‘bad’ [or good]” - The Daily Stoic, p.64
 - Since you bring meaning to circumstances and occurrences, be deliberate about what meaning you ascribe to them (see: Live Life on Purpose)
 - “The longer I live, the more I realize the impact of attitude on life. Attitude, to me, is more important than facts. It is more important than the past, than education, than money, than circumstances, than failures, than successes, than what other people think or say or do. It is more important than appearance, giftedness or skill. It will make or break a company...a church....a home. The remarkable thing is we have a choice every day regarding the attitude we will embrace for that day. We cannot change our past...we cannot change the fact that people will act in a certain way. We cannot change the inevitable. The only thing we can do is play on the one string we have, and that is our attitude...I am convinced that life is 10% what happens to me and 90% how I react to it. And so it is with you...we are in charge of our attitudes.”
 - “Here’s the secret to being happy. Just pretend you are happy and eventually you’ll forget you’re pretending”
 - Working hard and achieving success doesn’t lead to happiness. Being happy first leads to success.
 - “Be happy => Great Work => Big Success” The Happiness Equation, p.6
-- Deliberately choose your outlook - This is Water, David Foster Wallace https://vimeo.com/182430268 - Mindfulness
+- “Petty frustrating crap is exactly where the work of choosing is gonna come in. Because the traffic jams and crowded aisles and long checkout lines give me time to think, and if I don’t make a conscious decision about how to think and what to pay attention to I’m going to be pissed and miserable every time I have to shop.” Deliberately choose your outlook - This is Water, David Foster Wallace https://vimeo.com/107746121 - Mindfulness
+- “If you really learned how to think, how to pay attention, then you will know that you have other options. It will actually be within your power to experience a crowded, hot, slow consumer-hell-type situation as not only meaningful, but sacred, on fire with the same force that lit the stars: love, fellowship, the mystical oneness that all things, not that that mystical stuff is necessarily true. The only thing that’s capital T true is that you get to decide how you’re gonna try and see it.” David Foster Wallace, This is Water, https://vimeo.com/107746121
 - Focus on the positive - try to remember the lottery that you’ve already one: you’re alive (most people who’ve lived on earth aren’t), you get to experience life, you have more money than most people in the world, you get to cuddle your kids and your wife, etc.
 - See your life from a measured, but more broad perspective: https://vimeo.com/55073825
 - “Happy people pay attention to the good in others and the things that are going right…interpret other people and events around them in a positive light, and see opportunities and possibilities. And they take time to remember and be grateful for the good things in their lives.“
@@ -204,6 +206,8 @@ You won't regret one thing
 - “When we chase after happiness as a movement, it’s away from the present moment to another place, to some time other than now. And because we move away from the present moment, ironically, we move further away from happiness. Because when you think about it, happiness can only exist in this moment, right here, right now.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
 - “Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.”
 - “Happiness is to enjoy the present, without anxious dependence upon the future" -Seneca
+- “Attention matters - letting your attention slip and wander builds bad habits and enables mistakes”  - The Daily Stoic, p.123
+- “None of this stuff is really about morality or religion or dogma or big fancy questions of life after death. The capital T Truth is about life before death.” - David Foster Wallace, This is Water
 ```
 Like bluebonnets in the spring
 We're only here for a little while
@@ -308,6 +312,7 @@ So make the most of every mile
 - “Be you and be cool with it…There is nothing more satisfying than being loved for who you are and nothing more painful than being loved for who you’re not, but pretending to be.” The Happiness Equation, p.238
 - “Settling into your true, weird, authentic self isn’t easy, but it’s the most satisfying way to have everything” The Happiness Equation, p 243
 - “You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You yourself, as much as anybody in the entire universe deserve your love and affection.” - Buddha
+- Self awareness leads to self-discovery. Self-discovery leads to self-familiarity, which leads to self-satisfaction, self-love, and self-care.
 - “Confidence isn’t ‘They will like me.’ Confidence is ‘I’ll be fine if they don’t.’”
 - “I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross
 - “Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” - MLK
@@ -368,7 +373,7 @@ So make the most of every mile
     - “How much pain have cost us the evils which have never happened!” Thomas Jefferson
     - “Getting upset is like continuing the dream while you’re awake. The thing that provoked you wasn’t real — but your reaction was. And so from the fake comes real consequences” The Daily Stoic, p.55
     - Mediation can help you have greater mental health - Mindfulness https://www.reddit.com/r/GetMotivated/comments/7pw7cr/comment/dskr6ub?st=JCCUDI2R&sh=9c4db659) “Happiness is to enjoy the present, without anxious dependence upon the future" -Seneca; Approach each task as if it is your last - https://www.youtube.com/watch?v=LnNj1SdSE3k&list=PL5uULy4b0kV5Vzg8cZnj3bl4SqErP6Vxb
-    - This is Water, David Foster Wallace https://vimeo.com/182430268 - Mindfulness
+    - This is Water, David Foster Wallace https://vimeo.com/107746121 - Mindfulness
     - You are not your thoughts (“In distancing ourselves from negative thinking, we recognize that we’re not our thoughts.” -headspace)
     - “If you view self-criticism {insert anything else here: depression, anxiety, pride} as part of your identity, it will be harder to overcome.” -headspace
     - “Your thoughts are real, but they’re not necessarily reality” - Dan Harmon
@@ -441,6 +446,7 @@ Don't make all the speech, show me.”
 - “From the very beginning, make it your practice to say to every impression ‘you are an impression and not at all what you appear to be.” Next, examine and test it by the rules you possess, the first and greatest of which is this - whether it belongs to the things in our control or not in our control, and if the latter, be prepared to respond, ‘It is nothing to me’” Epictetus, Enchiridon, 1.5; The Daily Stoic, p.111
 - “Every man I meet is my master in some point, and in that I learn of him” - Emerson, The Daily Stoic, p.113
 - “If you want to learn, if you want to improve your life, seeking out teachers, philosophers, and great books is a good starts. But this approach will only be effective if you’re humble and ready to let go of opinions you already have.” The Daily Stoic, p.113
+- “If you really learned how to think, how to pay attention, then you will know that you have other options. It will actually be within your power to experience a crowded, hot, slow consumer-hell-type situation as not only meaningful, but sacred, on fire with the same force that lit the stars: love, fellowship, the mystical oneness that all things, not that that mystical stuff is necessarily true. The only thing that’s capital T true is that you get to decide how you’re gonna try and see it. This, I submit, is the freedom of real education, of learning how to be well adjusted, you get to consciously decide what has meaning and what doesn’t. That is real freedom. That is being educated, and understanding how to think. The alternative is unconsciousness.” David Foster Wallace, This is Water, https://vimeo.com/107746121
 
 ### Make the World a Better Place
 - Making the world a better place rests upon making yourself a better person.
