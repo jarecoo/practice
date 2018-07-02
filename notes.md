@@ -70,11 +70,11 @@ Top 3
 * Satisfaction and Happiness are found in Purposeful, Mindful Engagement in the Present Moment (Mindfulness, Presence, Focus, Hard Work, Proactivity, etc)
 * A Balanced Life is a Healthy Life
 * Humans Rely Heavily on Each Other
-* Love is a Human Necessity and Brings Peace
+* Love and Connection is a Human Necessity that Brings Peace
     * Begins with Compassion and Love for Yourself
     * Builds up to Altruism
     * Takes Work to Keep Healthy
-* Love People, Use Things. Not the other way around
+    * Love People, Use Things. Not the other way around
 * Trust is Automatically Given, but Must be Earned Back at Great Cost if Lost; or, Being Kind is Default, but Create Healthy Boundaries
 * Enough is Preferable to More
 * Action is Better than Analysis
