@@ -391,7 +391,7 @@ So make the most of every mile
     - You gotta keep your brain active, as well as your body. Stay involved, stay active, keep learning, keep contributing.
     - “Carrying out five random acts of kindness a week dramatically improves your happiness” The Happiness Equation, p.21
     - “Anger as soon as it is fed, is dead - ’Tis starving makes it fat” -Emily Dickenson
-    - “There is no more stupefying thing than anger, nothing more bent on its own strength. If successful, none more arrogant, if foiled, none more insane — since it’s not driven back by weariness even in defeat, when fortune removes its adversary it turns its teeth on itself.” - Seneca, from In The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living (public library), Ryan Holiday and Stephen Hanselman
+    - “There is no more stupefying thing than anger, nothing more bent on its own strength. If successful, none more arrogant, if foiled, none more insane — since it’s not driven back by weariness even in defeat, when fortune removes its adversary it turns its teeth on itself.” - Seneca, On Anger, 3.1.5, The Daily Stoic, p.50
 
 ### Get Going: Analyze, Anticipate, but Act.
 - it’s ok to think and analyze and plan, but the best course is always action.
