@@ -80,7 +80,7 @@ Top 3
 * Action is Better than Analysis
 * You only get one body and one life, appreciate it and care for it
 * The Earth is the only home humanity has and it should be cared for
-* Technology is a powerful tool, but also a powerful weapon, caution and judgment should be exercised in using it.
+* Technology is both a Powerful Ally and a Dangerous Enemy, Requires Awareness
 
 ## Principles, Practices, Strategies
 ### Live Life with Purpose - Find Your Meaning (See above Top 3)
@@ -142,6 +142,7 @@ You won't regret one thing
 - “‘It isn’t events themselves that disturb people, but only their judgments about them’ - Epictetus, Enchiridon, 5; The samurai swordsman Musashi made a distinction between our ‘perceiving eye’ and our ‘observing eye.’ The observing eye sees what is. The perceiving eye sees what things supposedly mean. Which do you think causes the most anguish?” The Daily Stoic, p.112
 - Outlook and attitude aren’t just important, they dictate how you experience the world, and they are the only thing you have 100% control over, so choose to be happy first, choose to see the good, choose gratitude instead of guilt, appreciation instead of anxiety, happiness instead of discontentment.
 - Circumstances don’t dictate your happiness, your attitude does.
+- “For him who has conquered the mind, the mind is the best of friends; but for one who had failed to do so, his mind will remain his greatest enemy.” - the Bhagavad Gita
 - “If a person gave away your body to some passerby, you’d be furious. Yet you hand over your mind to anyone who comes along, so they may abuse you, leaving it disturbed and troubled - have you no shame in that?” Epictetus, Enchiridion, 28 “Maintain control over your mind and perceptions…, It’s your most prized possession”The Daily Stoic, p.78
 - “‘You have been formed of three parts - body, breath, and mind. Of these, the first two are yours insofar as they are only in your care. The third alone is truly yours’ - Marcus Aurelius, Meditations, 12.3 Up until the very end, our mind is ours. It’s not that the other two parts of life don’t matter. THey’re just less ‘ours’ that our mind” The Daily Stoic p.125
 - “There really is no such thing as an objectively good or bad occurrence…Situations require our participation, context, and categorization in order to be ‘bad’ [or good]” - The Daily Stoic, p.64
@@ -247,11 +248,14 @@ So make the most of every mile
 - “When we experience success, we must make sure that it doesn’t change us - that we continue to maintain our character despite the temptation not to.” The Daily Stoic, p.106
 - “If you can meet with Triumph and Disaster And treat those two impostors just the same” If, Rudyard Kipling
 - “Improving ourselves doesn’t involve ‘doing’ anything. All that’s required is a letting go of habitual patterns of thought and behavior.” Headspace, Undoing our Patterns, Wed. June 26, 2018
+- “Life is hard enough. Let's not take our mind too seriously.” - Life and Laughter, Mon. July 2, 2018, Headspace
+- “No amount of guilt can change the past and no amount of anxiety will change the future.”
+- “You don’t need to fix things that lie outside of your control. You also don’t need to fix the anxiety; it is a feeling that you have; it is therefore not you. The need to fix, to control is what fuels the anxiety in the forest place. Let it be, and it will lose its excessive force.” - Darren Brown, Happy
 
 ### Slow Down
 - “Slow your breath down, just take it slow” - Future of Forestry, Slow your Breath Down
 - Slowing down probably isn’t necessarily about moving at a snail’s pace at all times, it’s probably more about moving deliberately and purposefully. I think usually that will mean a slower, smooth, steady pace to your life, but won’t prevent you from acting quickly when necessary, being punctual, etc.
-- Slow down. Hear people, listen to them fully before speaking. Don’t speak unless your sure it will bring value. “I begin to speak only when I’m certain what i’ll say isn’t better left unsaid.” Plutarch, Cato the Younger, 4
+        - Slow down. Hear people, listen to them fully before speaking. Don’t speak unless your sure it will bring value. “I begin to speak only when I’m certain what i’ll say isn’t better left unsaid.” Plutarch, Cato the Younger, 4
 - Respond, don’t react. Don’t immediately react to anything. Internalize it, then think about how best to respond.
 - “The tools and aims of our training are unaffected by the turbulence of the moment. Stop. Regain your composure. It’s waiting for you.” The Daily Stoic, p.68
 - Slow is smooth. Smooth is fast.
@@ -322,15 +326,16 @@ So make the most of every mile
 - “Consciously consider whom you allow into your life - not like some snobby elitist, but like someone who is trying to cultivate the best life possible” The Daily Stoic, p.79
 - “You are the average of the 5 people you spend the most time with” Jim Rohn; The Happiness Equation, p.252
 - “Tell me whom you consort with and I will tell you who you are” Goethe, in The Daily Stoic, p.79
-- Nothing is more important than family, pick family first
+- Nothing is more important than family, pick family first. (Family being defined as those individuals on whom you can best count for support and affection, ideally this should be blood relatives, but it can also be close friends)
 - “When you and your partner fight, remember it’s you and her vs the problem, not vs each other.”
 - “Where you invest your love, you invest your life” -Mumford and Sons, Awake my Soul
 - “Today study after study shows the it is our social connections that are the single biggest driver or our happiness.” -The Happiness Equation, p.114
 - On healthy relationships, romantic loves should naturally shift more toward attachment. Make sure you and your partner are worthy of each other’s full, trusting attachment.
 - Find who you are and love yourself for it.
+- “To love another person is to see the face of God” - Les Miserables
 - “The lesson I have learned is when someone you love is doing something that hurts you. Don't try and control them by making them stop. Rather have the courage to break up with them when they continue to do the thing you told them hurts you. If they wont stop, they don't love you and you should move on.”
 - “It’s impossible to love someone and control them at the same time” - Terry Crews.
-- Love is pure, unbiased appreciation of and compassion for another, and therefore comes without expectation of how the other should behave or be. To love someone is to let them be, without putting on them your expectation for what they might be or reciprocate. Therefore, you cannot control someone and love them at the same time. If they love you, they will reciprocate your love and appreciation for who you are, without putting on you the expectation of behavior or reciprocation. This is why love and trust, especially in a committed romantic relationship, are so intertwined, and why love without trust is a rotten thing. This is unconditional love.
+- Love is pure, unbiased appreciation of and compassion for another, and therefore comes without expectation of how the other should behave or be. To love someone is to let them be, without putting on them your expectation for what they might be or reciprocate. Therefore, you cannot control someone and love them at the same time. If they love you, they will reciprocate your love and appreciation for who you are, without putting on you the expectation of behavior, being, or reciprocation. This is why love and trust, especially in a committed romantic relationship, are so intertwined, and why love without trust is a rotten thing. This is unconditional love.
 - It’s not your job to keep the people you love happy. You individually be happy and bring that to the relationship.
 - “You cannot make a person happy. You can make a person smile, you can make a person feel good, you can make a person laugh, but whether or not a person is happy is deeply and totally and utterly out of your control…I said to Jada ’That’s it. I retire from trying to make you happy. I need you to go make yourself happy….’ And after we cracked the hell up we realized we had come into this false romantic concept that somehow when we got married that we would become one. And what we realized is that we were two completely separate people on two completely separate individual journeys and that we were choosing to walk our separate journeys together, but her happiness was her responsibility and my happiness was my responsibility. And we decided that we were gonna find our individual, internal private separate joy, and then we were gonna present ourselves to the relationship and two each other already happy, not coming to each other begging, with our empty cups out _demanding_ that she fill my cup and she meet my needs. It’s unfair and its kind of unrealistic and can be destructive to place the responsibility for your happiness on anybody other than yourself.” - Will Smith, Instagram Video,
 - “If you love someone, set them free. If they come back they're yours; if they don't they never were.” -Richard Bach
@@ -359,6 +364,11 @@ So make the most of every mile
 - “Of course I deprecate war, but if it is brought to my door the bringer will find me at home” - James Garfield, in The Daily Stoic, p.90
 - “Trust, but verify”
 - “‘When you first rise in the morning tell yourself: I will encounter busybodies, ingrates, egomaniacs, liars, the jealous and cranks’ - Marcus Aurelius, Meditations, 2.1 …The point of this preparation is not to write off everyone in advance. It is that, maybe, because you’ve prepared for it, you’ll be able to act with patience, forgiveness, and understanding” The Daily Stoic, p.108
+- “‘When your sparring partner scratches or head-butts you, you don’t then take a show of it, or protest, or view him with suspicion or as plotting against you. And yet you keep an eye on him, not as an enemy or with suspicion, but with a healthy avoidance. You should act this way with all things in life. We should give a pass to many things with our fellow trainees.’ - Marcus Aurelius, Meditations, 6.20; The Daily Stoic 128
+- “Whenever someone has done wrong by you, immediately consider what notion of good or evil they had in doing it. For when you see that, you’ll feel compassion, instead of astonishment or rage.” Marcus Aurelius, Meditations, 7.26; The Daily Stoic, p. 82
+- “Nobody thinks they’re wrong, even when they are. They thing they’re right, they’re just mistaken…Could it be that the slights you’ve experienced or the harm that others have done to you was not inflicted intentionally? What if they they simply thought they were doing the right thing - for them, even for you?…How much more tolerant and understanding would you be today if you could see the actions of other people as attempts to do the right thing?” The Daily Stoic, p.82
+- “‘When you first rise in the morning tell yourself: I will encounter busybodies, ingrates, egomaniacs, liars, the jealous and cranks’ - Marcus Aurelius, Meditations, 2.1 …The point of this preparation is not to write off everyone in advance. It is that, maybe, because you’ve prepared for it, you’ll be able to act with patience, forgiveness, and understanding” The Daily Stoic, p.108
+
 
 ### Be Healthy - Physically and Mentally
 - Physical
@@ -447,6 +457,9 @@ Don't make all the speech, show me.”
 - “Every man I meet is my master in some point, and in that I learn of him” - Emerson, The Daily Stoic, p.113
 - “If you want to learn, if you want to improve your life, seeking out teachers, philosophers, and great books is a good starts. But this approach will only be effective if you’re humble and ready to let go of opinions you already have.” The Daily Stoic, p.113
 - “If you really learned how to think, how to pay attention, then you will know that you have other options. It will actually be within your power to experience a crowded, hot, slow consumer-hell-type situation as not only meaningful, but sacred, on fire with the same force that lit the stars: love, fellowship, the mystical oneness that all things, not that that mystical stuff is necessarily true. The only thing that’s capital T true is that you get to decide how you’re gonna try and see it. This, I submit, is the freedom of real education, of learning how to be well adjusted, you get to consciously decide what has meaning and what doesn’t. That is real freedom. That is being educated, and understanding how to think. The alternative is unconsciousness.” David Foster Wallace, This is Water, https://vimeo.com/107746121
+- “If anyone can prove and show to me that I think and act in error, I will gladly change it - for I seek the truth, by which no one has ever been harmed. The one who is harmed is the one who abides in deceit and ignorance.” Marcus Aurelius, Meditations, 6.21; The Daily Stoic, p.127
+- “No one should be ashamed at changing his mind - that’s what the mind is for….That’s why we go to such lengths to learn and expose ourselves to wisdom. It would be embarrassing if we didn’t end up finding out if we were wrong in the past” The Daily Stoic, p.127
+- We should investigate things, challenge them, deconstruct them, and probe them; try to understand them by looking at them from a different angle. “’Turn it inside out and see what it is like - what it becomes like when old, sick, or prostituting itself’ - Marcus Aurelius, Meditations, 8.21 By examining situations from the inside out, we can be less daunted by them, less likely to be swayed by them.” The Daily Stoic, p.129
 
 ### Make the World a Better Place
 - Making the world a better place rests upon making yourself a better person.
@@ -454,6 +467,7 @@ Don't make all the speech, show me.”
 - Give people the love and compassion you want, or the kind they need.
 - Do random acts of unsolicited kindness. it’ll make you feel better, but it will add good to the world.
 - “…doing a kindness produces the single most reliable momentary increase in well-being of any exercise we have tested” - Martin Seligman, Flourish, as quoted in The Happiness Equation, p. 21
+- “The quickest way, the surest way to find more happiness in our lives, is to focus on the happiness of others.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
 
 ### Be Judicious with Technology
 - it’s there to serve you, not for you to be addicted to and escape and waste time. Learn how to be measured in your integration of technology in you life.
@@ -462,9 +476,10 @@ Don't make all the speech, show me.”
 - “Do you remember when only doctors had pagers?…Then suddenly everyone had pagers. Then everyone had cell phones. Now everyone is accessible, any way, any time…You need to remove access. Close the doors, lock the windows, answer the bell” The Happiness Equation, p. 198
 - “We can find a retreat at any time by looking inward. We can sit with our eyes closed and feel our breath go in and out. We can turn on some music and tune out the world. We can turn off technology or shut off those rampant thoughts in our head. That will provide peace. Nothing else.” The Daily Stoic, p.91
 - “‘The richest, happiest and most productive lives are characterized by the ability to fully engage in the challenge at hand, but also to disengage periodically and seek renewal.’ …{The Power of Full Engagement}… A Kansas State University study found that complete downtime after work helps us recharge for the next day. Turning your phone off after dinner. Not using the internet on vacation.” The Happiness Equation, p.22
-- Technology, at least in 2018, is really good at bringing out the worst tendencies in people: narcissism, greed, egoism, gossip, laziness. The way FB algorithms work, for example, is by giving you more of what you choose to view, and more often than not, what you choose to view appeals to your baser emotions like anger (e.g. an article about how the other political party is stupid). More often than not, technology feeds your sloth and rage and judgmental attitudes.
+- Technology, at least in 2018, is really good at bringing out the worst tendencies in people: narcissism, greed, egoism, gossip, laziness. The way FB algorithms work, for example, is by giving you more of what you choose to view, and more often than not, what you choose to view appeals to your baser emotions like anger (e.g. an article about how the other political party is stupid). More often than not, technology feeds your sloth and rage and judgmental attitudes. https://www.bbc.com/news/technology-44640959
 - Also, social media can lead to feelings of inadequacy and discouragement. You end up comparing your worst moments to peoples’ best moments.
 - “With so much technology around us it’s really easy to forget we get to define our relationship with technology. We need to learn how to be a little less reactive and a little more responsive to every sound or vibration our phone makes” Headspace, Mindful Tech, Intro
+-
 
 ## Quotes, etc.
 
