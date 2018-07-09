@@ -90,16 +90,19 @@ Top 3
 - "...we all die, and our respect for death should always lead us to have an appreciation for life rather than a paranoid existence." - Sam Harris
 - Objectively, empirically, we are given this life and that’s it. Maybe there’s an afterlife, but we can’t prove that. Therefore, objectively speaking, all we can do is make the life we’re sure we have count for ourselves.
 - ”Knowing the truth, which is that nothing matters, can actually save you in those moments. Once you get through that terrifying threshold of accepting that, then every place is the center of the universe, and every moment is the most important moment, and everything is the meaning of life." Dan Harmon, https://www.youtube.com/watch?v=de2grEPn7rg
-- “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
 - “All we have to decide is what to do with the time that is given to us.” - Gandalf, LOTR
+- “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
 - “We all sorely complain of the shortness of time, and yet have much more than we know what to do with. Our lives are either spent in doing nothing at all, or in doing nothing to the purpose, or in doing nothing that we ought to do. We are always complaining that our days are few, and acting as though there would be no end of them.” -Seneca
 - “If you’re like most people, you’ll spend most of your time in life tacitly presuming you’ll live forever. It’s like watching a bad movie for the fourth time, or bickering with your spouse, these things only make sense in light of eternity. There better be a heaven if I’m going to waste my time like this.” Sam Harris, https://www.youtube.com/watch?v=wI3a5m-lFVg 19:25
 - “I wish I'd had the courage to live a life true to myself, not the life others expected of me.” #1 regret of dying people, reported by EoL nurse in The Guardian
+- The irony of death and the cold, uncaring universe is that by locating yourself inside it, you can find a sense of awe, wonder, and gratitude.
 - “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
+- “‘Watch the stars in their courses and imagine yourself running alongside them. Think constantly on the changes of the elements into each other, for such thoughts wash away the dust of earthly life.’ Marcus Aurelius, Meditations, 7.47…Given that we’re in our bodies every day, it’s tempting to think that’s the most important thing in the world. But we counteract that bias by looking at nature—at things much bigger than us. A line from Seneca, which has since become a proverb, expresses Marcus’s insight well: The world itself is a huge temple of the gods. Looking at the beautiful expanse of the sky is an antidote to the nagging pettiness of earthly concerns. And it is good and sobering to lose yourself in that as often as you can.” The Daily Stoic, p.131
 - Appreciate the time you have with your loved ones. https://www.reddit.com/r/Wellthatsucks/comments/7upwj7/damn/dtmjxlf/?sh=e4e4d783&st=JD63KIUB
 
 
 ### Live Life with Purpose - Find Your Meaning (See above Top 3)
+- “First tell yourself what kind of person you want to be, then do what you have to do” -Epictetus, Discourses, 3.23.1-2a The Daily Stoic, p.136
 - ikigai - a Japanese concept that means "a {current} reason for being."
 - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
 - “Creating a life that reflects your values and satisfies your soul is a rare achievement. In a culture that relentlessly promotes avarice and excess as the good life, a person happy doing his own work is usually considered an eccentric, if not a subversive. Ambition is only understood if it’s to rise to the top of some imaginary ladder of success. Someone who takes an undemanding job because it affords him the time to pursue other interests and activities is considered a flake. A person who abandons a career in order to stay home and raise children is considered not to be living up to his potential — as if a job title and salary are the sole measure of human worth. You’ll be told in a hundred ways, some subtle and some not, to keep climbing, and never be satisfied with where you are, who you are, and what you’re doing. There are a million ways to sell yourself out, and I guarantee you’ll hear about them. To invent your own life’s meaning is not easy, but it’s still allowed, and I think you’ll be happier for the trouble.” - Bill Waterson
@@ -121,6 +124,7 @@ Top 3
 - “Retirement, as we think of it today, isn’t a dream we actually want. We don’t actually want to do nothing. We just want to do something we love.” The Happiness Equation, p. 123. You need a hobby, a creative outlet, but more than that you need to be fulfilled.
 - “Life without design is erratic. As soon as one is in place, principles become necessary.” - Seneca, Moral Letters, 95.46; The Daily Stoic, p.98
 - Be something. Anything. It can change, but just pick. This is your anchor, your foundation, it’s what you come back to and how you help make sense of the world and what you push for for yourself and your interests. Run with it until you need to adapt or adjust it, and make sure your always open to adjusting it, not always adjusting it, but just open to adjusting it if you need to. “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
+
 ```
 Like bluebonnets in the spring
 We're only here for a little while
@@ -133,7 +137,9 @@ You won't regret one thing
 “Bluebonnets in the Spring” Aaron Watson
 ```
 
+
 ### Live Life on Purpose
+- “‘First tell yourself what kind of person you want to be, then do what you have to do’ -Epictetus, Discourses, 3.23.1-2a … An archer is unlikely to hit a target she did not aim for” The Daily Stoic, p.136
 - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
 - Try to never do anything on autopilot, especially in respect to your purpose in life, never execute on it on autopilot. The best way to live is to be present at every moment, and live in the now. Bringing awareness and mindfulness to the present will not only keep you grounded, it will keep you happy. You can bring awareness to your forward thinking self as well, being present in the now doesn’t preclude any sort of proactive, goal-oriented, or analytical living, it just brings a presence to it.
 - Mindfulness is about present and purposeful living. It’s not wholly about sitting with eyes closed and body still, but about slowing the mind down to bring presence and purpose to every moment. You can be active and also be mindful. You can be ambitious and also be mindful. At a simple level it’s just about presence and purpose in life.
@@ -172,10 +178,10 @@ You won't regret one thing
 - “If you really learned how to think, how to pay attention, then you will know that you have other options. It will actually be within your power to experience a crowded, hot, slow consumer-hell-type situation as not only meaningful, but sacred, on fire with the same force that lit the stars: love, fellowship, the mystical oneness that all things, not that that mystical stuff is necessarily true. The only thing that’s capital T true is that you get to decide how you’re gonna try and see it.” David Foster Wallace, This is Water, https://vimeo.com/107746121
 - Focus on the positive - try to remember the lottery that you’ve already one: you’re alive (most people who’ve lived on earth aren’t), you get to experience life, you have more money than most people in the world, you get to cuddle your kids and your wife, etc.
 - See your life from a measured, but more broad perspective: https://vimeo.com/55073825
+- “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
 - “Happy people pay attention to the good in others and the things that are going right…interpret other people and events around them in a positive light, and see opportunities and possibilities. And they take time to remember and be grateful for the good things in their lives.“
 - “Happy people are committed to making time for and enjoying friends and family. They have people they count on and trust.” https://continuum.utah.edu/features/what-happy-people-do/
 - Negative emotions don’t usually lead to positive ones. Worrying about something won’t lead to peace of mind about it. Just be optimistic, content, thoughtful, confident, happy, calm, and meditative, assertive, etc. Life is worse when you choose negative emotions: anxiety, paranoia, sadness, or anger (“The wise person will endure that, but won’t choose it — choosing to be at peace, rather than at war” Seneca, Moral Letters, 28.7, The Daily Stoic, p.46)
-- “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
 - Appreciate the time you have with your loved ones. https://www.reddit.com/r/Wellthatsucks/comments/7upwj7/damn/dtmjxlf/?sh=e4e4d783&st=JD63KIUB
 - Expect positive outcomes, instead of negative ones
 - Don’t be afraid of things (https://www.reddit.com/r/GetMotivated/comments/7hao7x/text_immediately_do_the_thing_that_scares_you/?st=JARAN660&sh=826b5e04)
@@ -421,6 +427,7 @@ So make the most of every mile
     - “There is no more stupefying thing than anger, nothing more bent on its own strength. If successful, none more arrogant, if foiled, none more insane — since it’s not driven back by weariness even in defeat, when fortune removes its adversary it turns its teeth on itself.” - Seneca, On Anger, 3.1.5, The Daily Stoic, p.50
 
 ### Get Going: Analyze, Anticipate, but Act.
+- “An archer is unlikely to hit a target she did  not aim for…our perceptions and principles guide us in the selection of what we want—but ultimately our actions determine whether we get there or not. So yes, spend some time—real, uninterrupted time—thinking about what’s important to you, what your priorities are. Then, work toward that and forsake all others. It’s not enough to wish and hope. One must act—and act right” The Daily Stoic, p.136
 - it’s ok to think and analyze and plan, but the best course is always action.
 - “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting…Just do it.” The Happiness Equation, p.231
 - “Immediately do the thing that scares you”.
@@ -453,12 +460,15 @@ Don't make all the speech, show me.”
  - My Fair Lady, “Show Me”
 ```
 
+
 ### Learn to be Disciplined
 - Find a routine, structure and discipline breed mental stability and general health (“It gets easier. Every day it gets a little easier, but you gotta do it every day. That’s the hard part, but it does get easier.” - Bojack Horseman)
 - https://www.reddit.com/r/GetMotivated/comments/8ai05o/discussion_your_selfcontrol_is_your_most/?st=JFPOIU6B&sh=3ef2d937
 - “A real man doesn’t give way to anger and discontent, and such a person has strength, courage, and endurance - unlike the angry and complaining. The nearer a man comes to a calm mind, the closer he is to strength” -Marcus Aurelius, Meditations, 11.18.5b
 - “Once you learn that indulging might actually be worse than resisting, the urge begins to lose its appeal. In this way, self-control becomes the real pleasure, and the temptation becomes the regret” - The Daily Stoic, p.53
 - Daily: meditate, plan, do, relax, meditate.
+- Develop character
+- “Character is a powerful defense in a world that would love to be able to seduce you, buy you, tempt you, and change you. If you know what you believe and why you believe it, you’ll avoid poisonous relationships, toxic jobs, fair-weather friends, and any number of ills that afflict people who haven’t thought through their deepest concerns. That’s your education. That’s why you do this work” The Daily Stoic, p.132
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
@@ -477,6 +487,7 @@ Don't make all the speech, show me.”
 - “If anyone can prove and show to me that I think and act in error, I will gladly change it - for I seek the truth, by which no one has ever been harmed. The one who is harmed is the one who abides in deceit and ignorance.” Marcus Aurelius, Meditations, 6.21; The Daily Stoic, p.127
 - “No one should be ashamed at changing his mind - that’s what the mind is for….That’s why we go to such lengths to learn and expose ourselves to wisdom. It would be embarrassing if we didn’t end up finding out if we were wrong in the past” The Daily Stoic, p.127
 - We should investigate things, challenge them, deconstruct them, and probe them; try to understand them by looking at them from a different angle. “’Turn it inside out and see what it is like - what it becomes like when old, sick, or prostituting itself’ - Marcus Aurelius, Meditations, 8.21 By examining situations from the inside out, we can be less daunted by them, less likely to be swayed by them.” The Daily Stoic, p.129
+- “Just as what is considered rational or irrational differs for each person, in the same way what is good or evil and useful or useless differs for each person. This is why we need education, so that we might learn how to adjust our preconceived notions of the rational and irrational in harmony with nature.” Epictetus, Discourses, 1.2.5-7; The Daily Stoic, p.132
 
 ### Make the World a Better Place
 - Making the world a better place rests upon making yourself a better person.
