@@ -54,7 +54,8 @@ Top 3
 
 # Moral Paradigm & How I Should Live My Life
 ## Beliefs
-* An Internal Locus of Control is Optimal (meaning you control your thoughts, attitudes, and outlook only, e.g. You control your own thoughts and feelings and nothing else; love and compassion for yourself; intrinsic motivation; outlook and perception; etc)
+* Meaning and Purpose in Life are Individually Created
+* An Internal Locus of Control is the Optimal Way to Deal with Life (meaning you control your thoughts, attitudes, and outlook only, e.g. You control your own thoughts and feelings and nothing else; love and compassion for yourself; intrinsic motivation; outlook and perception; etc)
     * State of mind dictates happiness, not circumstances
     * Intrinsic motivation is the best motivation (e.g. doing it for you according to your purpose in life)
     * Happiness is in your control, and comes first.
@@ -64,7 +65,6 @@ Top 3
     * Tranquility of mind is preferable to a turbulent mind
     * Seeing the good in life, and being grateful helps avoid the scourge of stress
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
-* Meaning and Purpose in life are individually created
 * Experience and Memories Have Far Greater Value than Possessions and Material Goods
 * Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
 * Satisfaction and Happiness are found in Purposeful, Mindful Engagement in the Present Moment (Mindfulness, Presence, Focus, Hard Work, Proactivity, etc)
@@ -137,7 +137,6 @@ You won't regret one thing
 
 “Bluebonnets in the Spring” Aaron Watson
 ```
-
 
 ### Live Life on Purpose
 - “‘First tell yourself what kind of person you want to be, then do what you have to do’ -Epictetus, Discourses, 3.23.1-2a … An archer is unlikely to hit a target she did not aim for” The Daily Stoic, p.136
@@ -454,6 +453,7 @@ What lies ahead, I have no way of knowing
 But under my feet, baby, grass is growing
 It's time to move on, it's time to get going”
 - Tom Petty
+
 “Sing me no song, read me no rhyme
 Don't waste my time, show me.
 Please don't implore, beg on the seats
