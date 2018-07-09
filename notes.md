@@ -4,7 +4,7 @@ Top 3
 1. Family
     * Prioritize close, personal relationships (family, close friends, etc)
         *  Foster a loving, supportive, compassionate relationship with my kids and my wife. I want to be part of their life forever. Make the time we have together count.
-            * I think fostering this relationship means more than just love. Love is the necessary foundation, and gives you the appreciation to enjoy the journey, but only love is a disservice since it can lead to permissiveness, timidity and enabling. The other part of being a good father, is actually being something for your kids. They need to be guided, helped, and directed, mostly by example. The best dads are the ones that combine deep, unconditional love for their family with a steady, firm example of how to live. That’s where the rest of this comes in.
+            * I think fostering this relationship means more than just love. Love is the necessary foundation, and gives you the appreciation to enjoy the journey, but only love is a disservice since it can lead to permissiveness, timidity and enabling. The other part of being a good father, is actually being something for your kids. They need to be guided, helped, and directed, mostly by example. The best dads are the ones that combine deep, unconditional love for their family with a steady, firm example of who to be and how to live. That’s where the rest of this comes in.
         * Enjoy the moment, appreciate the time you have with your kids https://www.reddit.com/r/LifeProTips/comments/80dsy9/lpt_after_working_with_terminally_ill_cancer/?st=JE4OAY9Q&sh=bab60a62
         * Remember, one day you pick your kid up and you’ll put him down for the last time https://www.reddit.com/r/Wellthatsucks/comments/7upwj7/comment/dtmjxlf?st=JD63KIUB&sh=e4e4d783
         * “Happy people are committed to making time for and enjoying friends and family. They have people they count on and trust.” https://continuum.utah.edu/features/what-happy-people-do/
@@ -83,6 +83,22 @@ Top 3
 * Technology is both a Powerful Ally and a Dangerous Enemy, Requires Awareness
 
 ## Principles, Practices, Strategies
+
+### Death Gives Life Meaning
+- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
+- “Im not ready” - “No one ever is. We don't get to choose our time. Death is what gives life meaning, to know our days are numbered, your time is short.” - Dr. Strange and the Ancient One, in Dr. Strange
+- "...we all die, and our respect for death should always lead us to have an appreciation for life rather than a paranoid existence." - Sam Harris
+- Objectively, empirically, we are given this life and that’s it. Maybe there’s an afterlife, but we can’t prove that. Therefore, objectively speaking, all we can do is make the life we’re sure we have count for ourselves.
+- ”Knowing the truth, which is that nothing matters, can actually save you in those moments. Once you get through that terrifying threshold of accepting that, then every place is the center of the universe, and every moment is the most important moment, and everything is the meaning of life." Dan Harmon, https://www.youtube.com/watch?v=de2grEPn7rg
+- “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
+- “All we have to decide is what to do with the time that is given to us.” - Gandalf, LOTR
+- “We all sorely complain of the shortness of time, and yet have much more than we know what to do with. Our lives are either spent in doing nothing at all, or in doing nothing to the purpose, or in doing nothing that we ought to do. We are always complaining that our days are few, and acting as though there would be no end of them.” -Seneca
+- “If you’re like most people, you’ll spend most of your time in life tacitly presuming you’ll live forever. It’s like watching a bad movie for the fourth time, or bickering with your spouse, these things only make sense in light of eternity. There better be a heaven if I’m going to waste my time like this.” Sam Harris, https://www.youtube.com/watch?v=wI3a5m-lFVg 19:25
+- “I wish I'd had the courage to live a life true to myself, not the life others expected of me.” #1 regret of dying people, reported by EoL nurse in The Guardian
+- “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
+- Appreciate the time you have with your loved ones. https://www.reddit.com/r/Wellthatsucks/comments/7upwj7/damn/dtmjxlf/?sh=e4e4d783&st=JD63KIUB
+
+
 ### Live Life with Purpose - Find Your Meaning (See above Top 3)
 - ikigai - a Japanese concept that means "a {current} reason for being."
 - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
@@ -125,6 +141,7 @@ You won't regret one thing
 - Actively choose something in every circumstance, because if you don’t, a choice will be made for you by default and it probably won’t be in your control, or something that you like.
 - Focus on what matters. “Which will help your children more — your insight into happiness and meaning, or that you followed breaking political news every day for thirty years?” The Daily Stoic, p.116
 - There may or may not be an afterlife, hopefully there is, but the point is we cannot know. This just means you should try to make your time count that you know you have. No afterlife should breed appreciation and gratitude for what you have, rather than lead to a paranoid and anxious existence
+- “Im not ready” - “No one ever is. We don't get to choose our time. Death is what gives life meaning, to know our days are numbered, your time is short.” Dr. Strange and the Ancient One
 - “All we have to decide is what to do with the time that is given to us.” - Gandalf, LOTR
 - “If you’re like most people, you’ll spend most of your time in life tacitly presuming you’ll live forever. It’s like watching a bad movie for the fourth time, or bickering with your spouse, these things only make sense in light of eternity. There better be a heaven if I’m going to waste my time like this.” Sam Harris, https://www.youtube.com/watch?v=wI3a5m-lFVg 19:25
 - Live each moment as if it’s the last thing you’ll ever do.
@@ -374,12 +391,12 @@ So make the most of every mile
 - Physical
     - Get good (consistent and long) sleep
     - Exercise (bodies are made for moving, not sitting)
-    - Use food for sustenance, not pleasure. Modern bounty makes food-related sickness extrememly common (high cholesterol, diabetes, high blood pressure, obesity, etc)
+    - Use food for sustenance, not pleasure. Modern bounty makes food-related sickness extremely common (high cholesterol, diabetes, high blood pressure, obesity, etc)
     - Go on at least 3 walks a week
     - “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
 - Mental
     - “Your brain is the most incredible and complex object in the universe. …The good news is for no money down…you get the one free copy of the universe’s most complex and powerful object. It’s yours for life…You break it, it’s broken. Seat belts, bike helmets and exercise are mandatory. For power, your brain recharges with six to eight hours of sleep a day and as much healthy food as possible.” The Happiness Equation p.193
-    - Stress is the modern smoking, overexposure to cortisol leads to diminished physical health
+    - Stress is the modern smoking, overexposure to cortisol leads to diminished physical health https://newatlas.com/stress-autoimmune-disease-ptsd/55109/
     - “How much pain have cost us the evils which have never happened!” Thomas Jefferson
     - “Getting upset is like continuing the dream while you’re awake. The thing that provoked you wasn’t real — but your reaction was. And so from the fake comes real consequences” The Daily Stoic, p.55
     - Mediation can help you have greater mental health - Mindfulness https://www.reddit.com/r/GetMotivated/comments/7pw7cr/comment/dskr6ub?st=JCCUDI2R&sh=9c4db659) “Happiness is to enjoy the present, without anxious dependence upon the future" -Seneca; Approach each task as if it is your last - https://www.youtube.com/watch?v=LnNj1SdSE3k&list=PL5uULy4b0kV5Vzg8cZnj3bl4SqErP6Vxb
