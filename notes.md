@@ -86,6 +86,7 @@ Top 3
 
 ### Death Gives Life Meaning
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
+-
 - “Im not ready” - “No one ever is. We don't get to choose our time. Death is what gives life meaning, to know our days are numbered, your time is short.” - Dr. Strange and the Ancient One, in Dr. Strange
 - "...we all die, and our respect for death should always lead us to have an appreciation for life rather than a paranoid existence." - Sam Harris
 - Objectively, empirically, we are given this life and that’s it. Maybe there’s an afterlife, but we can’t prove that. Therefore, objectively speaking, all we can do is make the life we’re sure we have count for ourselves.
@@ -146,7 +147,7 @@ Top 3
     - “The quickest way, the surest way to find more happiness in our lives, is to focus on the happiness of others.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
 
 ### Live Life with Purpose - Find Your Meaning (See above Top 3)
-- “First tell yourself what kind of person you want to be, then do what you have to do” -Epictetus, Discourses, 3.23.1-2a The Daily Stoic, p.136. Loving yourself helps you gain a sense of who you are and who you want to be, which must come before you can find your meaning and purpose in life.
+- “First tell yourself what kind of person you want to be, then do what you have to do” -Epictetus, Discourses, 3.23.1-2a The Daily Stoic, p.136. Loving yourself helps you gain a sense of who you are and who you want to be, which must come before you can find your meaning and purpose in life. I think if you try living a purpose without knowing yourself (i.e. your wants and drives), this will just cause stress.
 - ikigai - a Japanese concept that means "a {current} reason for being." The Happiness Equation, p. 101
 - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
 - “Creating a life that reflects your values and satisfies your soul is a rare achievement. In a culture that relentlessly promotes avarice and excess as the good life, a person happy doing his own work is usually considered an eccentric, if not a subversive. Ambition is only understood if it’s to rise to the top of some imaginary ladder of success. Someone who takes an undemanding job because it affords him the time to pursue other interests and activities is considered a flake. A person who abandons a career in order to stay home and raise children is considered not to be living up to his potential — as if a job title and salary are the sole measure of human worth. You’ll be told in a hundred ways, some subtle and some not, to keep climbing, and never be satisfied with where you are, who you are, and what you’re doing. There are a million ways to sell yourself out, and I guarantee you’ll hear about them. To invent your own life’s meaning is not easy, but it’s still allowed, and I think you’ll be happier for the trouble.” - Bill Waterson
@@ -168,18 +169,7 @@ Top 3
 - “Retirement, as we think of it today, isn’t a dream we actually want. We don’t actually want to do nothing. We just want to do something we love.” The Happiness Equation, p. 123. You need a hobby, a creative outlet, but more than that you need to be fulfilled.
 - “Life without design is erratic. As soon as one is in place, principles become necessary.” - Seneca, Moral Letters, 95.46; The Daily Stoic, p.98
 - Be something. Anything. It can change, but just pick. This is your anchor, your foundation, it’s what you come back to and how you help make sense of the world and what you push for for yourself and your interests. Run with it until you need to adapt or adjust it, and make sure your always open to adjusting it, not always adjusting it, but just open to adjusting it if you need to. “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
-
-```
-Like bluebonnets in the spring
-We're only here for a little while
-It's beautiful and bittersweet
-So make the most of every mile
-So pack light and love heavy
-Give it all your heart and soul, so in the end
-You won't regret one thing
-
-“Bluebonnets in the Spring” Aaron Watson
-```
+- “Like bluebonnets in the spring, We're only here for a little while. It's beautiful and bittersweet, So make the most of every mile. So pack light and love heavy, Give it all your heart and soul, so in the end You won't regret one thing” - “Bluebonnets in the Spring” Aaron Watson
 
 ### Live Life on Purpose
 - “‘First tell yourself what kind of person you want to be, then do what you have to do’ -Epictetus, Discourses, 3.23.1-2a … An archer is unlikely to hit a target she did not aim for” The Daily Stoic, p.136
@@ -203,6 +193,8 @@ You won't regret one thing
 - If it’s not a hell yes, it’s a no.
 - “Chaos ensues from not having a plan. Not because plans are perfect, but because people without plans - like a line of infantry without a strong leader - are much more likely to get overwhelmed and fall apart.” The Daily Stoic, p.98
 - “As we examine our past behavior, it’s sad how often we find this to be the case - that we were not acting consciously or deliberately but instead by forces we did not bother to evaluate.” The Daily Stoic, p.100
+- “One of the hardest things to do in life is to say ’No.’ To invitations, to requests, to obligations…Even harder is saying no to certain time-consuming emotions: anger, excitement, distraction, obsession, lust. …Run amok, they become a commitment like anything else. Do you ever wonder how you can get some of your time back, how you can feel less busy? Start by learning the power of ‘No!’ - The Daily Stoic p.11
+- “The more you say no to the things that don’t matter, the more you can say yes to the things that do. This will let you live and enjoy your life — the life that you want.” - The Daily Stoic p.11
 
 ### Cultivate an Internal Locus of Control
 - “‘It isn’t events themselves that disturb people, but only their judgments about them’ - Epictetus, Enchiridon, 5; The samurai swordsman Musashi made a distinction between our ‘perceiving eye’ and our ‘observing eye.’ The observing eye sees what is. The perceiving eye sees what things supposedly mean. Which do you think causes the most anguish?” The Daily Stoic, p.112
@@ -264,7 +256,7 @@ You won't regret one thing
 - “‘God laid down this law, saying: if you want some good, get it from yourself’ Epictetus, Discourses, 1.29.4; Here is how to guarantee you have a good day: do good things. Any other source of joy is outside your control or is nonrenewable.” The Daily Stoic, p.141
 
 ### Live in the Present Moment
-- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
+- “‘Let us therefore set out whole-heartedly, leaving aside our many distractions and exert ourselves in this single purpose, before we realize too late the swift and unstoppable flight of time and are left behind. As each day arises, welcome it as the very best day of all, and make it your own possession. We must seize what flees.’ - Seneca, Moral Letters, 108.27b-28a What will you manage to make of today before it slips from your fingers and becomes the past? When someone asks you what you did yesterday, do you really want the answer to be ‘nothing?’” The Daily Stoic p.143
 - “The longest and shortest life, then, amount to the same, for the present moment lasts the same for all and is all anyone possesses.” -Marcus Aurelius, Meditations, 2.14; The Daily Stoic, p.85
 - “Yesterday’s the past, tomorrow’s the future, but today is a gift. That’s why it’s called the present.” Bil Keane in The Daily Stoic, p.85
 - “This present is in our possession - but it has an expiration date, a quickly approaching one. If you enjoy all of it, it will be enough. It can last a whole lifetime.” The Daily Stoic, p.85
@@ -276,14 +268,7 @@ You won't regret one thing
 - “Happiness is to enjoy the present, without anxious dependence upon the future" -Seneca
 - “Attention matters - letting your attention slip and wander builds bad habits and enables mistakes”  - The Daily Stoic, p.123
 - “None of this stuff is really about morality or religion or dogma or big fancy questions of life after death. The capital T Truth is about life before death.” - David Foster Wallace, This is Water
-```
-Like bluebonnets in the spring
-We're only here for a little while
-It's beautiful and bittersweet
-So make the most of every mile
-
-“Bluebonnets in the Spring” Aaron Watson
-```
+- “Like bluebonnets in the spring, We're only here for a little while. It's beautiful and bittersweet, So make the most of every mile” - “Bluebonnets in the Spring” Aaron Watson
 
 ### Calm Down - Cultivate a Relaxed Attitude
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
@@ -329,6 +314,14 @@ So make the most of every mile
 - “It’s the thinking mind alone that  wants to become bigger, to become better, or something special in the world. The other part, our essence, our awareness, has no such desire or ambition… Awareness is voiceless. It simply witnesses. It observes. It has no goal. It has no desire  to change anything, to be something more, to be something better. It simply witnesses life as it unfolds. As much as we need the thinking mind, the mind that plans and strives, at the same time that mind is typically quite busy. it’s trying to change, it’s trying to reach for something bigger and better and of course there are times in our life when that’s entirely appropriate and even necessary. But so often, when we think about ourselves in this way, that’s just not particularly helpful. Rather than being happy with ourselves as we are or content with ourselves as we are, we’re so busy trying to be somebody different, that we can’t even experience that sense of contentment in this moment right now. So learning to rest in awareness, we rely less on that thinking mind, the thinking mind that’s always reaching for something else, and instead we start to appreciate the value of resting right here in this moment right now.” Headspace, “Everyday Headspace,” Tuesday, June 19, Awareness and Ambition
 - Reset. Readjust. Restart. Refocus. As many times as you need to.
 
+### Balance
+- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
+- Rules are good, but be adaptable when they need to be broken.
+- Figure out how to give yourself some mental space - Meditate
+- “Block access. Protect your brain. Guard it. Remove all entry points to your brain except a single one you can control” - The Happiness Equation, p.194
+- Learning to balance technology in your life (e.g. smart phone) is wicked important.
+- It’s really tempting to meditate for balance only when you’re feeling stressed or out of balance in some way. Often we just look to fix things when they already happen. But we should try and use the balance visualization {light above the head flowing into your body} on a regular basis, to really get comfortable with it to remind yourself of what it feels like to be grounded to have a sense of balance. The more time you spend in that place, the less likely you are to be overwhelmed. It’s no longer about putting out fires the whole time, instead it’s about preventing the fires from getting out of control in the first place. having the presence of mind to see thoughts and emotions beginning to run away and at the moment to say ‘I’m not going to do that this time. I’m just going to come back to that feeling of being present, of being balanced in both body and mind…Be aware throughout the day, find the moments in the day that you can remind yourself of this feeling of balance. In reminding yourself, all you’re doing is tapping back in to that innate quality of balance that’s always there. You’re reminding the mind what it’s like to rest in that space. The more you can do that, the more natural that tendency becomes, the more often you go to that place, the more time you spend in that place, and the greater the sense of balance there is in life” - Headspace, Balance, Day 3
+
 ### Simplify
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - “Approach each task as if it is your last, giving up every distraction, emotional subversion of reason, and all drama, vanity,  and complaint over your fair share” - Marcus Aurelius, Meditations, 2.5
@@ -366,13 +359,6 @@ So make the most of every mile
     * The rush of weekday mornings. I know it sounds crazy, but I'll miss it. I'll miss the coffee, the crowded bathrooms, my wife's quick peck goodbye, the kids forgetting their lunch.. you get my point
     * Rain. Is that weird?
 ....notice none of these things cost any money. They don't include technology. They're not grand gestures. It's human to human (or animals/nature) interaction, something we need more of in world that's becoming more fast paced and less human every day. Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.
-
-### Balance
-- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
-- Rules are good, but be adaptable when they need to be broken.
-- Figure out how to give yourself some mental space - Meditate
-- “Block access. Protect your brain. Guard it. Remove all entry points to your brain except a single one you can control” - The Happiness Equation, p.194
-- Learning to balance technology in your life (e.g. smart phone) is wicked important.
 
 ### Be Nice, but Be Assertive; or, Avoid Manipulation
 - “When I do good I feel good. When I do bad I feel bad. That is my religion”
@@ -476,7 +462,8 @@ Don't make all the speech, show me.”
 - Daily: meditate, plan, do, relax, meditate.
 - Develop character
 - “Character is a powerful defense in a world that would love to be able to seduce you, buy you, tempt you, and change you. If you know what you believe and why you believe it, you’ll avoid poisonous relationships, toxic jobs, fair-weather friends, and any number of ills that afflict people who haven’t thought through their deepest concerns. That’s your education. That’s why you do this work” The Daily Stoic, p.132
-- Commit to things with substance, over which you have a measure of control. “‘Then what makes a beautiful human being? Isn’t it the presence of human excellence? Young friend, if you wish to be beautiful, then work diligently at human excellence. And what is that? Observe those whom you praise without prejudice. The just or the unjust? The just. The even-tempered or the undisciplined? The even-tempered. The self-controlled or the uncontrolled? the self-controlled. In making yourself that kind of person, you will become beautiful — but to the extent that you ignore those qualities, you’ll be ugly, event if you use every trick in the book to appear beautiful.’ Epictetus, Discourses, 3.1.6b-9; Our standards for what’s attractive are incredibly un-stoic in that we prize and extol things people have almost no control over — high cheekbones, compexion, height, piercing eyes. Is it really that beautiful to win the genetic lottery? Or should beauty be contingent on the choices, actions, and attributes we develop. An even keel, a sense of justice, a commitment to duty. These are beautiful traits — and they go much deeper than appearances.“ The Daily Stoic, p.140
+- Commit to things with substance, over which you have a measure of control. “‘Then what makes a beautiful human being? Isn’t it the presence of human excellence? Young friend, if you wish to be beautiful, then work diligently at human excellence. And what is that? Observe those whom you praise without prejudice. The just or the unjust? The just. The even-tempered or the undisciplined? The even-tempered. The self-controlled or the uncontrolled? the self-controlled. In making yourself that kind of person, you will become beautiful — but to the extent that you ignore those qualities, you’ll be ugly, event if you use every trick in the book to appear beautiful.’ Epictetus, Discourses, 3.1.6b-9; Our standards for what’s attractive are incredibly un-stoic in that we prize and extol things people have almost no control over — high cheekbones, complexion, height, piercing eyes. Is it really that beautiful to win the genetic lottery? Or should beauty be contingent on the choices, actions, and attributes we develop. An even keel, a sense of justice, a commitment to duty. These are beautiful traits — and they go much deeper than appearances.“ The Daily Stoic, p.140
+- “Is something good or bad? Is this right or wrong? Ignore everything else. Focus only on your choices” The Daily Stoic, p.142
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
@@ -516,7 +503,6 @@ Don't make all the speech, show me.”
 - Technology, at least in 2018, is really good at bringing out the worst tendencies in people: narcissism, greed, egoism, gossip, laziness. The way FB algorithms work, for example, is by giving you more of what you choose to view, and more often than not, what you choose to view appeals to your baser emotions like anger (e.g. an article about how the other political party is stupid). More often than not, technology feeds your sloth and rage and judgmental attitudes. https://www.bbc.com/news/technology-44640959
 - Also, social media can lead to feelings of inadequacy and discouragement. You end up comparing your worst moments to peoples’ best moments.
 - “With so much technology around us it’s really easy to forget we get to define our relationship with technology. We need to learn how to be a little less reactive and a little more responsive to every sound or vibration our phone makes” Headspace, Mindful Tech, Intro
--
 
 ## Quotes, etc.
 
