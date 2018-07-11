@@ -39,7 +39,7 @@ Top 3
             * “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
     * Mental Health (https://youtu.be/mpZ6YT8OemI):
         * Goals and purpose
-            * See no. 3
+            * See no. 2
         * Internal Locus of Control
             * Meditation - Mindfulness
             * Understand what I can’t control and what I can.
@@ -50,7 +50,6 @@ Top 3
             * “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
         * Social connections
             * See no. 1
-
 
 # Moral Paradigm & How I Should Live My Life
 ## Beliefs
@@ -83,10 +82,8 @@ Top 3
 * Technology is both a Powerful Ally and a Dangerous Enemy, Requires Awareness
 
 ## Principles, Practices, Strategies
-
 ### Death Gives Life Meaning
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
--
 - “Im not ready” - “No one ever is. We don't get to choose our time. Death is what gives life meaning, to know our days are numbered, your time is short.” - Dr. Strange and the Ancient One, in Dr. Strange
 - "...we all die, and our respect for death should always lead us to have an appreciation for life rather than a paranoid existence." - Sam Harris
 - Objectively, empirically, we are given this life and that’s it. Maybe there’s an afterlife, but we can’t prove that. Therefore, objectively speaking, all we can do is make the life we’re sure we have count for ourselves.
@@ -106,6 +103,7 @@ Top 3
 - Love and Empathy for Self
     - Loving yourself is the starting place to everything else. It helps you develop a sense of who you are, and who you want to be. This is where you start from when you find and develop your purpose, once you have that you can begin to live on purpose, enjoy the moment, develop your character, etc. it all starts with loving your true self.
     - Healthy love starts with self-love, or self-compassion, and then goes out to another person in the form of intimacy and attachment. It ends with altruism.
+    - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
     - “You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You yourself, as much as anybody in the entire universe deserve your love and affection.” - Buddha
     - “Settling into your true, weird, authentic self isn’t easy, but it’s the most satisfying way to have everything” The Happiness Equation, p 243
     - Self awareness leads to self-discovery. Self-discovery leads to self-familiarity, which leads to self-satisfaction, self-love, and self-care.
@@ -307,7 +305,7 @@ Top 3
 ### Slow Down
 - “Slow your breath down, just take it slow” - Future of Forestry, Slow your Breath Down
 - Slowing down probably isn’t necessarily about moving at a snail’s pace at all times, it’s probably more about moving deliberately and purposefully. I think usually that will mean a slower, smooth, steady pace to your life, but won’t prevent you from acting quickly when necessary, being punctual, etc.
-        - Slow down. Hear people, listen to them fully before speaking. Don’t speak unless your sure it will bring value. “I begin to speak only when I’m certain what i’ll say isn’t better left unsaid.” Plutarch, Cato the Younger, 4
+- Slow down. Hear people, listen to them fully before speaking. Don’t speak unless your sure it will bring value. “I begin to speak only when I’m certain what i’ll say isn’t better left unsaid.” Plutarch, Cato the Younger, 4
 - Respond, don’t react. Don’t immediately react to anything. Internalize it, then think about how best to respond.
 - “The tools and aims of our training are unaffected by the turbulence of the moment. Stop. Regain your composure. It’s waiting for you.” The Daily Stoic, p.68
 - Slow is smooth. Smooth is fast.
@@ -453,7 +451,6 @@ Don't make all the speech, show me.”
  - My Fair Lady, “Show Me”
 ```
 
-
 ### Learn to be Disciplined
 - Find a routine, structure and discipline breed mental stability and general health (“It gets easier. Every day it gets a little easier, but you gotta do it every day. That’s the hard part, but it does get easier.” - Bojack Horseman)
 - https://www.reddit.com/r/GetMotivated/comments/8ai05o/discussion_your_selfcontrol_is_your_most/?st=JFPOIU6B&sh=3ef2d937
@@ -464,6 +461,7 @@ Don't make all the speech, show me.”
 - “Character is a powerful defense in a world that would love to be able to seduce you, buy you, tempt you, and change you. If you know what you believe and why you believe it, you’ll avoid poisonous relationships, toxic jobs, fair-weather friends, and any number of ills that afflict people who haven’t thought through their deepest concerns. That’s your education. That’s why you do this work” The Daily Stoic, p.132
 - Commit to things with substance, over which you have a measure of control. “‘Then what makes a beautiful human being? Isn’t it the presence of human excellence? Young friend, if you wish to be beautiful, then work diligently at human excellence. And what is that? Observe those whom you praise without prejudice. The just or the unjust? The just. The even-tempered or the undisciplined? The even-tempered. The self-controlled or the uncontrolled? the self-controlled. In making yourself that kind of person, you will become beautiful — but to the extent that you ignore those qualities, you’ll be ugly, event if you use every trick in the book to appear beautiful.’ Epictetus, Discourses, 3.1.6b-9; Our standards for what’s attractive are incredibly un-stoic in that we prize and extol things people have almost no control over — high cheekbones, complexion, height, piercing eyes. Is it really that beautiful to win the genetic lottery? Or should beauty be contingent on the choices, actions, and attributes we develop. An even keel, a sense of justice, a commitment to duty. These are beautiful traits — and they go much deeper than appearances.“ The Daily Stoic, p.140
 - “Is something good or bad? Is this right or wrong? Ignore everything else. Focus only on your choices” The Daily Stoic, p.142
+- ”For me the real evil of masturbation would be that it takes an appetite which, in lawful use, leads the individual out of himself to complete (and correct) his own personality in that of another (and finally in children and even grandchildren) and turns it back; sends the man back into the prison of himself, there to keep a harem of imaginary brides. And this harem, once admitted, works against his ever getting out and really uniting with a real woman. For the harem is always accessible, always subservient, calls for no sacrifices or adjustments, and can be endowed with erotic and psychological attractions which no woman can rival. Among those shadowy brides he is always adored, always the perfect lover; no demand is made on his unselfishness, no mortification ever imposed on his vanity. In the end, they become merely the medium through which he increasingly adores himself…After all, almost the main work of life is to come out of our selves, out of the little dark prison we are all born in. Masturbation is to be avoided as all things are to be avoided which retard this process. The danger is that of coming to love the prison." -C.S. Lewis
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
