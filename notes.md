@@ -54,7 +54,9 @@ Top 3
 # Moral Paradigm & How I Should Live My Life
 ## Beliefs
 * Meaning and Purpose in Life are Individually Created
+    * Meaning and Purpose in Life are Foundational Concepts for Happiness
 * An Internal Locus of Control is the Optimal Way to Deal with Life (meaning you control your thoughts, attitudes, and outlook only, e.g. You control your own thoughts and feelings and nothing else; love and compassion for yourself; intrinsic motivation; outlook and perception; etc)
+    * Self Love is the best way to begin to develop internal control
     * State of mind dictates happiness, not circumstances
     * Intrinsic motivation is the best motivation (e.g. doing it for you according to your purpose in life)
     * Happiness is in your control, and comes first.
@@ -63,17 +65,18 @@ Top 3
     * Presence in the moment is vital to happiness and enjoyment
     * Tranquility of mind is preferable to a turbulent mind
     * Seeing the good in life, and being grateful helps avoid the scourge of stress
-* A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
-* Experience and Memories Have Far Greater Value than Possessions and Material Goods
-* Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
-* Satisfaction and Happiness are found in Purposeful, Mindful Engagement in the Present Moment (Mindfulness, Presence, Focus, Hard Work, Proactivity, etc)
-* A Balanced Life is a Healthy Life
-* Humans Rely Heavily on Each Other
-* Love and Connection is a Human Necessity that Brings Peace
-    * Begins with Compassion and Love for Yourself
+* Love is a Foundational Concept for Happiness
+    * Compassion and Love for Yourself is Key
+    * Connection is a Human Necessity that Brings Peace
     * Builds up to Altruism
     * Takes Work to Keep Healthy
     * Love People, Use Things. Not the other way around
+    * Humans Rely Heavily on Each Other
+* Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
+* Satisfaction and Happiness are found in Purposeful, Mindful Engagement in the Present Moment (Mindfulness, Presence, Focus, Hard Work, Proactivity, etc)
+* A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
+* Experience and Memories Have Far Greater Value than Possessions and Material Goods
+* A Balanced Life is a Healthy Life
 * Trust is Automatically Given, but Must be Earned Back at Great Cost if Lost; or, Being Kind is Default, but Create Healthy Boundaries
 * Enough is Preferable to More
 * Action is Better than Analysis
