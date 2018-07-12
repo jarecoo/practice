@@ -53,8 +53,8 @@ Top 3
 
 # Moral Paradigm & How I Should Live My Life
 ## Beliefs
-* Meaning and Purpose in Life are Individually Created
-    * Meaning and Purpose in Life are Foundational Concepts for Happiness
+* Self-Love is a Foundational Concept for Happiness
+    * Builds up to Altruism
 * An Internal Locus of Control is the Optimal Way to Deal with Life (meaning you control your thoughts, attitudes, and outlook only, e.g. You control your own thoughts and feelings and nothing else; love and compassion for yourself; intrinsic motivation; outlook and perception; etc)
     * Self Love is the best way to begin to develop internal control
     * State of mind dictates happiness, not circumstances
@@ -65,22 +65,23 @@ Top 3
     * Presence in the moment is vital to happiness and enjoyment
     * Tranquility of mind is preferable to a turbulent mind
     * Seeing the good in life, and being grateful helps avoid the scourge of stress
-* Love is a Foundational Concept for Happiness
+* Meaning and Purpose in Life are Foundational Concepts for Happiness
+    * Derived from a strong sense of who you are (developed from self-love)
+* Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
+* Experience and Memories Have Far Greater Value than Possessions and Material Goods
+* Love shared with Another is a Basic Human Need
     * Compassion and Love for Yourself is Key
     * Connection is a Human Necessity that Brings Peace
     * Builds up to Altruism
     * Takes Work to Keep Healthy
     * Love People, Use Things. Not the other way around
     * Humans Rely Heavily on Each Other
-* Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
+* Trust is Automatically Given, but Must be Earned Back at Great Cost if Lost; or, Being Kind is Default, but Create Healthy Boundaries
 * Satisfaction and Happiness are found in Purposeful, Mindful Engagement in the Present Moment (Mindfulness, Presence, Focus, Hard Work, Proactivity, etc)
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
-* Experience and Memories Have Far Greater Value than Possessions and Material Goods
-* A Balanced Life is a Healthy Life
-* Trust is Automatically Given, but Must be Earned Back at Great Cost if Lost; or, Being Kind is Default, but Create Healthy Boundaries
 * Enough is Preferable to More
 * Action is Better than Analysis
-* You only get one body and one life, appreciate it and care for it
+* You only get one body and one life, appreciate it and care for them
 * The Earth is the only home humanity has and it should be cared for
 * Technology is both a Powerful Ally and a Dangerous Enemy, Requires Awareness
 
