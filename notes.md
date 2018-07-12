@@ -65,6 +65,7 @@ Top 3
     * Seeing the good in life, and being grateful helps avoid the scourge of stress
 * Meaning and Purpose in Life are Foundational Concepts for Happiness
     * Derived from a strong sense of who you are (developed from self-love)
+    * Derived at first from the notion that time is limited
 * Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
 * Love shared with Another is a Basic Human Need
     * Compassion and Love for Yourself is Key
