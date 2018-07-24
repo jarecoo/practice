@@ -93,6 +93,7 @@ Top 3
 - ”Knowing the truth, which is that nothing matters, can actually save you in those moments. Once you get through that terrifying threshold of accepting that, then every place is the center of the universe, and every moment is the most important moment, and everything is the meaning of life." Dan Harmon, https://www.youtube.com/watch?v=de2grEPn7rg
 - “All we have to decide is what to do with the time that is given to us.” - Gandalf, LOTR
 - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
+- Memento Mori
 - “We all sorely complain of the shortness of time, and yet have much more than we know what to do with. Our lives are either spent in doing nothing at all, or in doing nothing to the purpose, or in doing nothing that we ought to do. We are always complaining that our days are few, and acting as though there would be no end of them.” -Seneca
 - “If you’re like most people, you’ll spend most of your time in life tacitly presuming you’ll live forever. It’s like watching a bad movie for the fourth time, or bickering with your spouse, these things only make sense in light of eternity. There better be a heaven if I’m going to waste my time like this.” Sam Harris, https://www.youtube.com/watch?v=wI3a5m-lFVg 19:25
 - “I wish I'd had the courage to live a life true to myself, not the life others expected of me.” #1 regret of dying people, reported by EoL nurse in The Guardian
@@ -104,9 +105,11 @@ Top 3
 - “The meaning of life is to give something meaning”
 - “I don't think an ancient Stoic would ever really consider the question of his or her life's meaning. You're part of nature; that's your meaning. Sure, you're also part of a family and of a society, too, but even if you were cast alone on an island, the meaningfulness of your life would just never be in question.” https://www.reddit.com/r/Stoicism/comments/8z3b20/comment/e2gfpzm?st=JJNSXYQO&sh=7470a6dc
 
+
 ### Live Life with Purpose - Find Your Meaning (See above Top 3)
 - “First tell yourself what kind of person you want to be, then do what you have to do” -Epictetus, Discourses, 3.23.1-2a The Daily Stoic, p.136. Loving yourself helps you gain a sense of who you are and who you want to be, which must come before you can find your meaning and purpose in life. I think if you try living a purpose without knowing yourself (i.e. your wants and drives), this will just cause stress.
 - ikigai - a Japanese concept that means "a {current} reason for being." The Happiness Equation, p. 101
+- I genuinely think you should have fun; enjoy life however you can, as long as it’s healthy
 - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
 - “Creating a life that reflects your values and satisfies your soul is a rare achievement. In a culture that relentlessly promotes avarice and excess as the good life, a person happy doing his own work is usually considered an eccentric, if not a subversive. Ambition is only understood if it’s to rise to the top of some imaginary ladder of success. Someone who takes an undemanding job because it affords him the time to pursue other interests and activities is considered a flake. A person who abandons a career in order to stay home and raise children is considered not to be living up to his potential — as if a job title and salary are the sole measure of human worth. You’ll be told in a hundred ways, some subtle and some not, to keep climbing, and never be satisfied with where you are, who you are, and what you’re doing. There are a million ways to sell yourself out, and I guarantee you’ll hear about them. To invent your own life’s meaning is not easy, but it’s still allowed, and I think you’ll be happier for the trouble.” - Bill Waterson
 - “Happiness is when what you think, what you say, and what you do are in harmony.” -Gandhi
@@ -128,6 +131,8 @@ Top 3
 - “Life without design is erratic. As soon as one is in place, principles become necessary.” - Seneca, Moral Letters, 95.46; The Daily Stoic, p.98
 - Be something. Anything. It can change, but just pick. This is your anchor, your foundation, it’s what you come back to and how you help make sense of the world and what you push for for yourself and your interests. Run with it until you need to adapt or adjust it, and make sure your always open to adjusting it, not always adjusting it, but just open to adjusting it if you need to. “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
 - “Like bluebonnets in the spring, We're only here for a little while. It's beautiful and bittersweet, So make the most of every mile. So pack light and love heavy, Give it all your heart and soul, so in the end You won't regret one thing” - “Bluebonnets in the Spring” Aaron Watson
+- “’Show me that the good life doesn’t consist in its length, but in its use’” the Daily Stoic, p.157
+- It’s possible to have a short life that is full, it’s possible to have a long life that is empty. The number of years you get doesn’t matter, just how you fill them up. “‘Show me that the good life doesn’t consist in its length, but in its use, and that it is possible — no, entirely too common — for a person who has had a long life to have lived too little’ -Seneca, Moral Letters, 49.10b Show yourself. That no matter how many years you’re ultimately given, your life can be clearly and earnestly said to have been a long and full one.” The Daily Stoic, p.157
 
 ### Live Life on Purpose
 - “‘First tell yourself what kind of person you want to be, then do what you have to do’ -Epictetus, Discourses, 3.23.1-2a … An archer is unlikely to hit a target she did not aim for” The Daily Stoic, p.136
@@ -165,6 +170,7 @@ Top 3
 - “There really is no such thing as an objectively good or bad occurrence…Situations require our participation, context, and categorization in order to be ‘bad’ [or good]” - The Daily Stoic, p.64
 - Since you bring meaning to circumstances and occurrences, be deliberate about what meaning you ascribe to them (see: Live Life on Purpose)
 - “The longer I live, the more I realize the impact of attitude on life. Attitude, to me, is more important than facts. It is more important than the past, than education, than money, than circumstances, than failures, than successes, than what other people think or say or do. It is more important than appearance, giftedness or skill. It will make or break a company...a church....a home. The remarkable thing is we have a choice every day regarding the attitude we will embrace for that day. We cannot change our past...we cannot change the fact that people will act in a certain way. We cannot change the inevitable. The only thing we can do is play on the one string we have, and that is our attitude...I am convinced that life is 10% what happens to me and 90% how I react to it. And so it is with you...we are in charge of our attitudes.”
+- If it’s possible to have extremely good circumstances, but still be the most wretched miserable person in the world, then it’s possible to be happy, hopeful, and positive in the worst possible circumstances. You dictate how you feel, not your circumstances or environment.
 - “Here’s the secret to being happy. Just pretend you are happy and eventually you’ll forget you’re pretending”
 - Working hard and achieving success doesn’t lead to happiness. Being happy first leads to success.
 - “Be happy => Great Work => Big Success” The Happiness Equation, p.6
@@ -183,7 +189,7 @@ Top 3
 - "Desire is not the problem. Clinging as a result of craving is. Thirst is not a desire or a craving. It is a sensation. Hunger is not a desire or a craving. It is a sensation. In any case, you are free to have desires and even pursue them. What will cause suffering is by clinging to the things you desire and crave, clinging to things that are not permanent as permanent, clinging to fantasies that do not accord with the way things are, clinging to the past even though it no longer exists, etc” (https://www.reddit.com/r/Buddhism/comments/559nfd/comment/d88qowc?st=ITQK2V7D&sh=0acbad15)
 - "Ceaseless, ardent desire - if not bad in itself - is fraught with potential complications…when we pine for something, when we hope against hope, we set ourselves up for disappointment…That green light that Gatsby strove for can represent seemingly good things too, like love or a noble cause. But it can wreck someone all the same.” The Daily Stoic, p.61
 - If a person wasn’t wanting something outside of their own control, why would they be stricken by anxiety?” Epictetus, Discourses, 2.13.1
-- Happiness is now. You choose to be happy now - “When we chase after happiness as a movement, it’s away from the present moment to another place, to some time other than now. And because we move away from the present moment, ironically, we move further away from happiness. Because when you think about it, happiness can only exist in this moment, right here, right now.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
+- Happiness is now. You choose to be happy now - “When we chase after happiness as a movement, it’s away from the present moment to another place, to some time other than now. And because we move away from the present moment, ironically, we move further away from happiness. Because when you think about it, happiness can only exist in this moment, right here, right now.” Chasing Happiness, Headspace video, https://my.headspace.com/play/79
 - “Why bother getting mad at causes and forces far bigger than us?…After all, external events are not sentient beings - they cannot respond to our shouts and cries.” The Daily Stoic, p.63
 - "...we all die, and our respect for death should always lead us to have an appreciation for life rather than a paranoid existence." - Sam Harris
 - Find the right perspective to view the world from - sometimes its big, sometimes its small, sometimes in between. “Nell teaches aspects of parenthood never understood before. If she cries or makes a mess or decides to be contrary (and these are relatively rare), it doesn’t bother. There is always Chris’s silence to compare it to.” - Robert Pirsig, ZatAoMM
@@ -192,7 +198,7 @@ Top 3
 - "The day the child realizes that all adults are imperfect, he becomes an adolescent; the day he forgives them, he becomes an adult; the day he forgives himself, he becomes wise." - Alden Nowlan 
 - “Happiness is when what you think, what you say, and what you do are in harmony.” -Gandhi
 - “Happy people know when it’s important to stop taking advice and start listening to yourself” The Happiness Equation p. 267
-- “Weath consists not in having great possessions, but in having few wants” Epictetus, The Happiness Equation, p. 82
+- “Wealth consists not in having great possessions, but in having few wants” Epictetus, The Happiness Equation, p. 82
 - “Today I escaped from the crush of circumstance, or better put, I threw them out, for the crush wasn’t from outside but in my own assumptions” -Marcus Aurelius, Meditations, 9.13
 - “Someone can’t frustrate you, work can’t overwhelm you,  these are external objects, and they have no access to your mind. Those emotions you feel, as real as they are, come from the inside, not the outside…We can’t blame other people for making us stressed or frustrated any more than we can blame them for our jealousy. The cause is within us.” The Daily Stoic, p.88
 - “The more you familiarize the mind and body with appreciation, the more it arises in your life” - Headspace, “Appreciation” #7
@@ -228,6 +234,9 @@ Top 3
 - “Attention matters - letting your attention slip and wander builds bad habits and enables mistakes”  - The Daily Stoic, p.123
 - “None of this stuff is really about morality or religion or dogma or big fancy questions of life after death. The capital T Truth is about life before death.” - David Foster Wallace, This is Water
 - “Like bluebonnets in the spring, We're only here for a little while. It's beautiful and bittersweet, So make the most of every mile” - “Bluebonnets in the Spring” Aaron Watson
+- “You get what you deserve. Instead of being a good person today, you choose instead to become one tomorrow.” -Marcus Aurelius, Meditations, 8.22; The Daily Stoic, p.156
+- “‘I don’t complain about the lack of time…what little I have will go far enough. Today — this day — will achieve what no tomorrow will fail to speak about. I will lay siege to the gods and shake up the world.’ Today, not tomorrow, is the day that we can start to be good.” -Seneca, Medea, 423-425 (The Daily Stoic, p.156)
+- “Infinitely swift is the flight of time, as those see more clearly who are looking backwards. For when we are intent on the present, we do not notice it, so gentle is the passage of time's precipitous flight” - Seneca, Moral Letters, 49.2 (The Daily Stoic, p.157)
 
 ### Settle Down - Cultivate a Relaxed Attitude
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
@@ -274,14 +283,15 @@ Top 3
 - Reset. Readjust. Restart. Refocus. As many times as you need to.
 
 ### Simplify
+- Enough is better than more.
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - “Approach each task as if it is your last, giving up every distraction, emotional subversion of reason, and all drama, vanity,  and complaint over your fair share” - Marcus Aurelius, Meditations, 2.5
 - there is clarity in simplicity. Zero in on what’s right in front of you.
 - “Don’t set your heart on so many things and you will get what you need.” Epictetus,  Discourses, 3.9.22 (The Daily Stoic, p69)
 - “There’s a hidden cost to all {this} accumulating…even what we get for free has a cost, even if only in what we pay to store it, in our house or in minds” - The Daily Stoic, p.75
 - You can create space, avoid business, and simplify “by Removing [simplifying] Choice [choose between fewer things], Removing Time. [willingly push deadlines up],  and Removing Access [limit the access to mind and time to 1 thing you control], and nurture that space, that powerful space, so it fills your mind and time and life with contentment, freedom, and happiness.” The Happiness Equation p. 204
-- Enough is better than more.
 - Love people, use things.
+- “Wealth consists not in having great possessions, but in having few wants” Epictetus, The Happiness Equation, p. 82
 - Find the very few things that are the absolute most important and focus most of your energy on them. Minimalism isn’t about getting rid of things, it’s about elevating a few very important things to the forefront of your life. It’s about not having to panic clean for visitors. It’s about having more money for the things you truly enjoy because you’re not buying everything in sight. It’s about valuing the few things you have. It’s about valuing people and experiences over things. It’s about simplifying your life, reducing complexity and complication. https://www.reddit.com/r/minimalism/comments/8qv2sm/minimalism_for_me_is/?st=JIDXYDM4&sh=45904b51
     - “Minimalism for me is not buying junk I don't need so that I have more disposable income for things I really enjoy.”
     - ‘Minimalism for me is: "If it's not a HELL YES, it's a NO.”’
@@ -311,6 +321,7 @@ Top 3
     * Rain. Is that weird?
 ....notice none of these things cost any money. They don't include technology. They're not grand gestures. It's human to human (or animals/nature) interaction, something we need more of in world that's becoming more fast paced and less human every day. Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.
 - “‘Don’t set your mind on things you don’t possess as if they were yours, but count the blessings you actually possess and thing how much you would desire them if they weren’t already yours. But watch yourself, that you don’t value these things to the point of being troubled if you lose them.’ Marcus Aurelius, Meditations, 7.27; Today, stop trying to get what other people have. Fight your urge to gather and hoard. That’s not the right way to live and act. Appreciate and take advantage of what you already have, and let that attitude guide your actions.” - The Daily Stoic, p.149
+- “What if…you prioritized quality over quantity?…Your shelves might be emptier, but your brain and your life would be fuller” The Daily Stoic, p.154
 
 ### Balance
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
@@ -397,6 +408,7 @@ Top 3
     - “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
     - Get good (consistent and long) sleep. Good sleep is underrated. It’s so vital to good health.
     - Exercise. Bodies are made for moving, not sitting.
+    - “Exercise is a celebration of what you can do, not a punishment for what you ate”
     - Use food for sustenance, not pleasure. Modern bounty makes food-related sickness extremely common (high cholesterol, diabetes, high blood pressure, obesity, etc)
     - Avoid drinking soda. It’s poison. Consume sugar sparingly. Stick to whole foods, white meat and fish, lots of veggies, lots of fruits. Fewer carbs.
     - Go on at least 3 walks a week
@@ -449,6 +461,7 @@ Top 3
 - “Imagine the emperor of Rome, with his captive audience and unlimited power, telling himself not to be a person of “too many words and too many deeds.” Let that be a reminder the next time you feel self indulgent or a little full of yourself, the next time you feel like impressing people” The Daily Stoic p.115
 - “‘Those who receive the bare theories immediately want to spew them, as an upset stomach does its food. First digest your theories and you won’t throw them up. Otherwise they will be raw, spoiled, and not nourishing. After you’ve digested them, show us the changes in your reasoned choices, just like the shoulders  of a gymnasts display their diet and training, and as the craft of artisans show it what they’ve learned’ - Epictetus, Discourses, 3.21.1-3 …Today, or anytime, when you catch yourself wanting to condescendingly drop some knowledge that you have, grab it and ask: Would i be better saying words or letting my actions and choices illustrate that knowledge for me.” The Daily Stoic p.137
 - “Sustained execution, not shapeless epiphanies” The Daily Stoic, p.151
+- “That’s why philosophers warn us not to be satisfied with mere learning, but to add practice and then training. For as time passes we forget what we learned and end up doing the opposite” - Epictetus, Discourses, 2.9.13-14 (The Daily Stoic p.153)
 ```
 “It's time to move on, time to get going
 What lies ahead, I have no way of knowing
@@ -462,6 +475,7 @@ Please don't implore, beg on the seats
 Don't make all the speech, show me.”
  - My Fair Lady, “Show Me”
 ```
+- “Today — this day — will achieve what no tomorrow will fail to speak about. I will lay siege to the gods and shake up the world.” -Seneca, Medea, 423-425 (The Daily Stoic, p.156)
 
 ### Learn to be Disciplined
 - Find a routine; structure and discipline breed mental stability and general health
@@ -485,6 +499,11 @@ Don't make all the speech, show me.”
 - “‘If you don’t wish to be a hot-head, don’t feed your habit. Try as a first step to remain calm and count the days you haven’t been angry. For habit is first weakened and then obliterated. When you can say I didn’t lose my temper today, or the next day, or for three or four months, but keep my cool under provocation, you will know you are in better health.’- Epictetus, Discourses, 2.18.11b-14 Success {is} a matter of momentum. once you get a little, it’s easier to keep going…Start with one day doing whatever if is…Then do the same the following day and the day after that. Build a chain and then work not to break it. Don’t ruin your streak.” [But if you do, just start again with one day] The Daily Stoic, p.150
 - “Habit is first weakened and then obliterated” - Epictetus, Discourses, 2.18.11b-14
 - “Instead of seeing philosophy as an end to which one aspires, see it as something one applies. Not occasionally, bot over the course of a life — making incremental progress along the way. Sustained execution, not shapeless epiphanies. Epictetus love to shake his students out of their smug satisfaction with their own progress, …to reming them of the constant work and serious training needed every day if we are ever to approach that perfect form. It’s important for us to remember in our own journey to self-improvement: one never arrives. The sage — the perfect Stoic who behaves perfectly in every situation — is an ideal, not an end” The Daily Stoic p.151
+- “That’s why philosophers warn us not to be satisfied with mere learning, but to add practice and then training. For as time passes we forget what we learned and end up doing the opposite” - Epictetus, Discourses, 2.9.13-14 (The Daily Stoic p.153)
+- “‘The fortunate person is the one who gives themselves a good fortune’ -Marcus Aurelius, Meditations, 5.36’ What is the more productive notion of good luck? On that is defined by totally random factors outside your control, or a matter of probability that can be increased — though not guaranteed — by the right decisions and the right preparation?. Obviously the latter…Today, you can hope that good fortune and good luck magically come your way. Or you can prepare yourself to get lucky by focusing on doing the right thing at the right time.” The Daily Stoic p.158
+- “Diligence is the mother of good luck” The Daily Stoic p.158
+- “I am a great believer in luck. The harder I work, the more of it I seem to have.” -Coleman Cox (The Daily Stoic p.158)
+- “Luck favors the prepared” - Edna Mode, The Incredibles
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
@@ -504,6 +523,12 @@ Don't make all the speech, show me.”
 - “No one should be ashamed at changing his mind - that’s what the mind is for….That’s why we go to such lengths to learn and expose ourselves to wisdom. It would be embarrassing if we didn’t end up finding out if we were wrong in the past” The Daily Stoic, p.127
 - We should investigate things, challenge them, deconstruct them, and probe them; try to understand them by looking at them from a different angle. “’Turn it inside out and see what it is like - what it becomes like when old, sick, or prostituting itself’ - Marcus Aurelius, Meditations, 8.21 By examining situations from the inside out, we can be less daunted by them, less likely to be swayed by them.” The Daily Stoic, p.129
 - “Just as what is considered rational or irrational differs for each person, in the same way what is good or evil and useful or useless differs for each person. This is why we need education, so that we might learn how to adjust our preconceived notions of the rational and irrational in harmony with nature.” Epictetus, Discourses, 1.2.5-7; The Daily Stoic, p.132
+- “That’s why philosophers warn us not to be satisfied with mere learning, but to add practice and then training. For as time passes we forget what we learned and end up doing the opposite.” - Epictetus, Discourses, 2.9.13-14 (The Daily Stoic p.153)
+- “‘Its better to plant the seeds of a few authors than to be scattered about by many.’ - Seneca, On Tranquility of Mind, 9.4; What if, when it came to your reading and learning, you prioritized quality over quantity?…Your shelves might be emptier, but your brain and your life would be fuller” The Daily Stoic, p.154
+- Passion is vital to genius and intelligence. The more you love to learn, the more you will learn. The more you love about a topic, the more you’ll know about it.
+- “Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.” - Mozart
+- Emotional Intelligence is a greater predictor of success than IQ. https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
+- “The more that you read, the more things you will know. The more that you learn, the more places you’ll go” - Dr. Seuss, Oh, The Places You’ll Go
 
 ### Make the World a Better Place
 - Making the world a better place rests on making yourself a better person.
