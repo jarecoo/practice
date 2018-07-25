@@ -64,18 +64,19 @@ Top 3
     * Tranquility of mind is preferable to a turbulent mind
     * Seeing the good in life, and being grateful helps avoid the scourge of stress
 * Meaning and Purpose in Life are Foundational Concepts for Happiness
+    * Individually Created
     * Derived from a strong sense of who you are (developed from self-love)
     * Derived at first from the notion that time is limited
 * Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
 * Love shared with Another is a Basic Human Need
-    * Compassion and Love for Yourself is Key
+    * Compassion and Love for Yourself is Foundational
     * Connection is a Human Necessity that Brings Peace
     * Builds up to Altruism
-    * Takes Work to Keep Healthy
+    * Takes Work to Keep Healthy (Boundaries)
     * Love People, Use Things. Not the other way around
-    * Humans Rely Heavily on Each Other
+    * Pragmatically, Humans Rely Heavily on Each Other (No Man is an Island)
 * Trust is Automatically Given, but Must be Earned Back at Great Cost if Lost; or, Being Kind is Default, but Create Healthy Boundaries
-* Experience and Memories Have Far Greater Value than Possessions and Material Goods
+* Experiences and Memories Have Far Greater Value than Possessions and Material Goods
 * Satisfaction and Happiness are found in Purposeful, Mindful Engagement in the Present Moment (Mindfulness, Presence, Focus, Hard Work, Proactivity, etc)
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
 * Enough is Preferable to More
@@ -101,10 +102,10 @@ Top 3
 - “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
 - “‘Watch the stars in their courses and imagine yourself running alongside them. Think constantly on the changes of the elements into each other, for such thoughts wash away the dust of earthly life.’ Marcus Aurelius, Meditations, 7.47…Given that we’re in our bodies every day, it’s tempting to think that’s the most important thing in the world. But we counteract that bias by looking at nature—at things much bigger than us. A line from Seneca, which has since become a proverb, expresses Marcus’s insight well: The world itself is a huge temple of the gods. Looking at the beautiful expanse of the sky is an antidote to the nagging pettiness of earthly concerns. And it is good and sobering to lose yourself in that as often as you can.” The Daily Stoic, p.131
 - “Sometimes we might be fearful of death, assuming it’s radically different to life. But like a beautiful wave, eventually it has to return to the ocean. In truth, they were never separate at all. We all have a different relationship with this idea of life or death, and there are so many things that feed into that, …{but} finding a degree of comfort with the reality of our impermanence is actually a really important part of living life fully, and enjoying our life as it is. The temptation is to see it as black and white, as two different things, but this idea of the ocean is really helpful. We look out at the ocean, and there’s real pleasure in seeing a wave emerge out of the ocean, in watching it unfold, in watching it travel. Each and every single wave is different. It has its own root, its own direction. And there’s something about the way that that wave is expressed that makes it unique. And yet, ultimately, each and every wave goes back into the ocean. But the wave hasn’t been lost; the water is still the same, it’s just gone back into the ocean. It’s come from the ocean, it’s gone back into the ocean. Something beautiful has been expressed, and yet nothing has been lost. Remembering this idea can bring a greater sense of peace to the mind and to our life.” Headspace, Everyday Headspace, “Life and Death” Monday, July 9, 2018
+- Life is an expression of the universe. “You are an aperture through which the universe is looking at and exploring itself.” - Alan Watts; “We are a way for the cosmos to know itself” - Carl Sagan
 - As long as you live with purpose and pursue it, your life is beautifully expressed and nothing is lost.
 - “The meaning of life is to give something meaning”
 - “I don't think an ancient Stoic would ever really consider the question of his or her life's meaning. You're part of nature; that's your meaning. Sure, you're also part of a family and of a society, too, but even if you were cast alone on an island, the meaningfulness of your life would just never be in question.” https://www.reddit.com/r/Stoicism/comments/8z3b20/comment/e2gfpzm?st=JJNSXYQO&sh=7470a6dc
-
 
 ### Live Life with Purpose - Find Your Meaning (See above Top 3)
 - “First tell yourself what kind of person you want to be, then do what you have to do” -Epictetus, Discourses, 3.23.1-2a The Daily Stoic, p.136. Loving yourself helps you gain a sense of who you are and who you want to be, which must come before you can find your meaning and purpose in life. I think if you try living a purpose without knowing yourself (i.e. your wants and drives), this will just cause stress.
@@ -161,6 +162,7 @@ Top 3
 - “‘Every habit and capability is confirmed and grows in its corresponding actions, walking by walking, running by running…therefore, if you want to do something make a habit of it, if you don’t want to do that, don’t, but make a habit of something else instead.’ - Epictetus, Discourses, 2.18.1-5; Think about your activities of the last week as well as what you have planned for today and the week that follows. The person you’d like to be, or the person you see yourself as — how closely do your actions actually correspond to him or her? Which fire are you fueling? Which person are you becoming?” The Daily Stoic, p.147
 
 ### Cultivate an Internal Locus of Control
+- “‘The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to with the choices I actually control.’ - Epictetus, Discourses, 2.5.4-5; The single most important practice in Stoic philosophy is differentiating between what we can chance and what we can’t…time spent hurling yourself at these immovable objects is time not spent on the things we can change.” The Daily Stoic, p.9
 - “‘It isn’t events themselves that disturb people, but only their judgments about them’ - Epictetus, Enchiridon, 5; The samurai swordsman Musashi made a distinction between our ‘perceiving eye’ and our ‘observing eye.’ The observing eye sees what is. The perceiving eye sees what things supposedly mean. Which do you think causes the most anguish?” The Daily Stoic, p.112
 - Outlook and attitude aren’t just important, they dictate how you experience the world, and they are the only thing you have 100% control over, so choose to be happy first, choose to see the good, choose gratitude instead of guilt, appreciation instead of anxiety, happiness instead of discontentment.
 - Circumstances don’t dictate your happiness, your attitude does.
@@ -219,6 +221,8 @@ Top 3
 - “Become and observer of your own thoughts and the actions those thoughts provoke” The Daily Stoic p.118
 - “‘Do away with the opinion I am harmed, and the harm is cast away too. Do away with being harmed, and the harm disappears.’ - Marcus Aurelius, Meditations, 4.7” The Daily Stoic p.119
 - “‘God laid down this law, saying: if you want some good, get it from yourself’ Epictetus, Discourses, 1.29.4; Here is how to guarantee you have a good day: do good things. Any other source of joy is outside your control or is nonrenewable.” The Daily Stoic, p.141
+- “‘I’m constantly amazed by how easily we love ourselves above all others, yet we put more stock in the opinions of others than in our own estimation of self…How much credence we give to the opinions our peers have of us and how little to our very own!’ -Marcus Aurelius, Meditations, 12.4; Although we control our own opinions, we don’t control what other people think — about us least of all. for this reason, putting ourselves at the mercy of those opinions and trying to gain the approval of others are a dangerous endeavor.“ The Daily Stoic. p.160
+- “The key to happiness is low expectations. Lower. Nope, even lower. There you go.”
 
 ### Live in the Present Moment
 - “‘Let us therefore set out whole-heartedly, leaving aside our many distractions and exert ourselves in this single purpose, before we realize too late the swift and unstoppable flight of time and are left behind. As each day arises, welcome it as the very best day of all, and make it your own possession. We must seize what flees.’ - Seneca, Moral Letters, 108.27b-28a What will you manage to make of today before it slips from your fingers and becomes the past? When someone asks you what you did yesterday, do you really want the answer to be ‘nothing?’” The Daily Stoic p.143
@@ -237,6 +241,9 @@ Top 3
 - “You get what you deserve. Instead of being a good person today, you choose instead to become one tomorrow.” -Marcus Aurelius, Meditations, 8.22; The Daily Stoic, p.156
 - “‘I don’t complain about the lack of time…what little I have will go far enough. Today — this day — will achieve what no tomorrow will fail to speak about. I will lay siege to the gods and shake up the world.’ Today, not tomorrow, is the day that we can start to be good.” -Seneca, Medea, 423-425 (The Daily Stoic, p.156)
 - “Infinitely swift is the flight of time, as those see more clearly who are looking backwards. For when we are intent on the present, we do not notice it, so gentle is the passage of time's precipitous flight” - Seneca, Moral Letters, 49.2 (The Daily Stoic, p.157)
+- Pause to look around before it’s behind you -hiking adage
+- “I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.” - Alan Watts
+- “We are living in a culture entirely hypnotized by the illusion of time, in which the so-called present moment is felt as nothing but an infintesimal hairline between an all-powerfully causative past and an absorbingly important future. We have no present. Our consciousness is almost completely preoccupied with memory and expectation. We do not realize that there never was, is, nor will be any other experience than present experience. We are therefore out of touch with reality. We confuse the world as talked about, described, and measured with the world which actually is.” - Alan Watts
 
 ### Settle Down - Cultivate a Relaxed Attitude
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
@@ -504,6 +511,7 @@ Don't make all the speech, show me.”
 - “Diligence is the mother of good luck” The Daily Stoic p.158
 - “I am a great believer in luck. The harder I work, the more of it I seem to have.” -Coleman Cox (The Daily Stoic p.158)
 - “Luck favors the prepared” - Edna Mode, The Incredibles
+- “‘Joy for human beings lies in proper human work. And proper human work consists in: acts of kindness to other human beings, disdain for the stirrings of the senses, identifying trustworthy impressions, and contemplating the natural order and all that happens in keeping with it’ - Marcus Aurelius, Meditations, 8.26 (The Daily Stoic p.159)
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
@@ -529,6 +537,7 @@ Don't make all the speech, show me.”
 - “Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.” - Mozart
 - Emotional Intelligence is a greater predictor of success than IQ. https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
 - “The more that you read, the more things you will know. The more that you learn, the more places you’ll go” - Dr. Seuss, Oh, The Places You’ll Go
+- “A scholar tries to learn something everyday; a student of Buddhism tries to unlearn something daily.” - Alan Watts (What bad habits, bad prejudices, bad notions do you hold? Unlearn them. Deleting code can be better than adding it. "Deleted code is debugged code." - Jeff Sickel)
 
 ### Make the World a Better Place
 - Making the world a better place rests on making yourself a better person.
