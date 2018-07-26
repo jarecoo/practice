@@ -1,6 +1,8 @@
 Top 3
 
-# Top 3 Important Things to Me - Ikigai
+# Top 3 Important Things to Me
+This is what I think is specifically, concretely important, what gets me up in the morning. Below this part is a broader, abstract section on personal paradigm (why what’s important to me is important), as well as principles I think are important for living.
+
 1. Family
     * Prioritize close, personal relationships (family, close friends, etc)
         *  Foster a loving, supportive, compassionate relationship with my kids and my wife. I want to be part of their life forever. Make the time we have together count.
@@ -53,7 +55,13 @@ Top 3
 
 # Moral Paradigm & How I Should Live My Life
 ## Beliefs
-* An Internal Locus of Control is the Optimal Way to Deal with Life (meaning you control your thoughts, attitudes, and outlook only, e.g. You control your own thoughts and feelings and nothing else; love and compassion for yourself; intrinsic motivation; outlook and perception; etc)
+* Meaning and Purpose are Central to Happiness
+    * Individually Created
+    * Derived from a strong sense of who you are (developed from self-love)
+    * Derived at first from the notion that time is limited
+* Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
+* An Internal Locus of Control is Central to Happiness
+    * You only Control your Thoughts, Attitudes, and Outlook
     * Self Love is the best way to begin to develop internal control
     * State of mind dictates happiness, not circumstances
     * Intrinsic motivation is the best motivation (e.g. doing it for you according to your purpose in life)
@@ -63,11 +71,6 @@ Top 3
     * Presence in the moment is vital to happiness and enjoyment
     * Tranquility of mind is preferable to a turbulent mind
     * Seeing the good in life, and being grateful helps avoid the scourge of stress
-* Meaning and Purpose in Life are Foundational Concepts for Happiness
-    * Individually Created
-    * Derived from a strong sense of who you are (developed from self-love)
-    * Derived at first from the notion that time is limited
-* Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
 * Love shared with Another is a Basic Human Need
     * Compassion and Love for Yourself is Foundational
     * Connection is a Human Necessity that Brings Peace
@@ -75,9 +78,9 @@ Top 3
     * Takes Work to Keep Healthy (Boundaries)
     * Love People, Use Things. Not the other way around
     * Pragmatically, Humans Rely Heavily on Each Other (No Man is an Island)
-* Trust is Automatically Given, but Must be Earned Back at Great Cost if Lost; or, Being Kind is Default, but Create Healthy Boundaries
+* Proper Personal Boundaries are Essential to Relationship Health
 * Experiences and Memories Have Far Greater Value than Possessions and Material Goods
-* Satisfaction and Happiness are found in Purposeful, Mindful Engagement in the Present Moment (Mindfulness, Presence, Focus, Hard Work, Proactivity, etc)
+* Purposeful, Mindful Engagement in the Present Moment is Central to Happiness
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
 * Enough is Preferable to More
 * Action is Better than Analysis
@@ -106,6 +109,7 @@ Top 3
 - As long as you live with purpose and pursue it, your life is beautifully expressed and nothing is lost.
 - “The meaning of life is to give something meaning”
 - “I don't think an ancient Stoic would ever really consider the question of his or her life's meaning. You're part of nature; that's your meaning. Sure, you're also part of a family and of a society, too, but even if you were cast alone on an island, the meaningfulness of your life would just never be in question.” https://www.reddit.com/r/Stoicism/comments/8z3b20/comment/e2gfpzm?st=JJNSXYQO&sh=7470a6dc
+- “In a short time you’ll be nobody and nowhere, even as the great emperors Hadrian and Augustus are now.” - Marcus Aurelius, Meditations, 8.5 (The Daily Stoic, p.162)
 
 ### Live Life with Purpose - Find Your Meaning (See above Top 3)
 - “First tell yourself what kind of person you want to be, then do what you have to do” -Epictetus, Discourses, 3.23.1-2a The Daily Stoic, p.136. Loving yourself helps you gain a sense of who you are and who you want to be, which must come before you can find your meaning and purpose in life. I think if you try living a purpose without knowing yourself (i.e. your wants and drives), this will just cause stress.
@@ -288,6 +292,7 @@ Top 3
 - Slow is smooth. Smooth is fast.
 - “It’s the thinking mind alone that  wants to become bigger, to become better, or something special in the world. The other part, our essence, our awareness, has no such desire or ambition… Awareness is voiceless. It simply witnesses. It observes. It has no goal. It has no desire  to change anything, to be something more, to be something better. It simply witnesses life as it unfolds. As much as we need the thinking mind, the mind that plans and strives, at the same time that mind is typically quite busy. it’s trying to change, it’s trying to reach for something bigger and better and of course there are times in our life when that’s entirely appropriate and even necessary. But so often, when we think about ourselves in this way, that’s just not particularly helpful. Rather than being happy with ourselves as we are or content with ourselves as we are, we’re so busy trying to be somebody different, that we can’t even experience that sense of contentment in this moment right now. So learning to rest in awareness, we rely less on that thinking mind, the thinking mind that’s always reaching for something else, and instead we start to appreciate the value of resting right here in this moment right now.” Headspace, “Everyday Headspace,” Tuesday, June 19, Awareness and Ambition
 - Reset. Readjust. Restart. Refocus. As many times as you need to.
+- Patience. Sometimes stuff just needs time, no action, just time.
 
 ### Simplify
 - Enough is better than more.
@@ -411,6 +416,7 @@ Top 3
 - “‘Kindness is invincible, but only when it’s sincere, with no hypocrisy or faking. For what can even the most malicious person do if you keep showing kindness and, if given the chance, you gently point out where they went wrong — right as they are trying to harm you?’ -Marcus Aurelius, Meditations, 11.18.5.9a …The expected reaction to hatred is more hatred…Most rudeness, meanness, and cruelty are a mask for deep-seated weakness. Kindness in these situations is only possible for people of great strength. You have great strength. Use it.” The Daily Stoic p.146
 
 ### Be Healthy - Physically and Mentally
+- “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end. It’s sad to think that this kind of frustration is an everyday reality for a lot of people…Worse is when we try to push these feelings away by buying things, going out, fighting, creating drama — indulging in the empty calories of existence instead of finding the real nourishment. The solution is simple and, thankfully, always right at hand. Get out there and work.” TDS, p.163
 - Physical
     - “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
     - Get good (consistent and long) sleep. Good sleep is underrated. It’s so vital to good health.
@@ -483,6 +489,8 @@ Don't make all the speech, show me.”
  - My Fair Lady, “Show Me”
 ```
 - “Today — this day — will achieve what no tomorrow will fail to speak about. I will lay siege to the gods and shake up the world.” -Seneca, Medea, 423-425 (The Daily Stoic, p.156)
+- Before acting: “First, don’t get upset — because that will color your decision negatively and make it harder than it needs to be. Second, remember the purpose and principles you value most. Running potential actions through this filter will eliminate the bad choices and highlight the right ones. Don’t get upset. Do the right thing. That’s it” The Daily Stoic, p.162
+- “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end. It’s sad to think that this kind of frustration is an everyday reality for a lot of people…Worse is when we try to push these feelings away by buying things, going out, fighting, creating drama — indulging in the empty calories of existence instead of finding the real nourishment. The solution is simple and, thankfully, always right at hand. Get out there and work.” TDS, p.163
 
 ### Learn to be Disciplined
 - Find a routine; structure and discipline breed mental stability and general health
@@ -512,6 +520,9 @@ Don't make all the speech, show me.”
 - “I am a great believer in luck. The harder I work, the more of it I seem to have.” -Coleman Cox (The Daily Stoic p.158)
 - “Luck favors the prepared” - Edna Mode, The Incredibles
 - “‘Joy for human beings lies in proper human work. And proper human work consists in: acts of kindness to other human beings, disdain for the stirrings of the senses, identifying trustworthy impressions, and contemplating the natural order and all that happens in keeping with it’ - Marcus Aurelius, Meditations, 8.26 (The Daily Stoic p.159)
+- Learn the principle of iteration; It will make you or break you. (death by a thousand cuts; winning is a game of percentages: he who tries more, wins more; take more shots; “By small and simple things, great things are brought to pass.”)
+- “‘Well-being is realized by small steps, but is truly no small thing’ -Zeno; the truth is one we know well: the little things add up….While the individual action is small, its cumulative impact is not…Choose the right way, and watch as all these little things add up toward transformation.“ The Daily Stoic p.161
+- “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end” TDS, p.163
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
@@ -550,13 +561,13 @@ Don't make all the speech, show me.”
 - “‘Kindness is invincible, but only when it’s sincere, with no hypocrisy or faking. For what can even the most malicious person do if you keep showing kindness and, if given the chance, you gently point out where they went wrong — right as they are trying to harm you?’ -Marcus Aurelius, Meditations, 11.18.5.9a …The expected reaction to hatred is more hatred…Most rudeness, meanness, and cruelty are a mask for deep-seated weakness. Kindness in these situations is only possible for people of great strength. You have great strength. Use it.” The Daily Stoic p.146
 
 ### Be Judicious with Technology
-- it’s there to serve you, not for you to be addicted to and escape and waste time. Learn how to be measured in your integration of technology in you life.
-- Technology takes you away from being present in the moment. Every moment you spend needlessly perusing your phone while your life happens around you, is a moment you miss, you don’t get to be part of, and one you don’t get back. I went through the car wash with 3-yr-old Nate. I have a vague memory of him bouncing excitedly back and forth in the car watching the scrubber and water go back and forth, but I was dialed into something unimportant on my phone, wasting time, and I missed that moment. I missed taking in his laughs, and laughing and engaging with him about something he was way into. And that’s the real problem, is that when you don’t engage with the people around you on stuff they see as important, you miss connecting with them and being there with them. You miss building memories. You’re not emphasizing experience and memories over possessions and material goods.
+- Technology takes you away from being present in the moment. Every moment you spend needlessly perusing your phone while your life happens around you, is a moment you miss, you don’t get to be part of, and one you don’t get back. I went through the car wash with 3-yr-old Nate. I have a vague memory of him bouncing excitedly back and forth in the car watching the scrubber and water go back and forth, but I was dialed into something unimportant on my phone, wasting time, and I missed that moment. I missed taking in his laughs, and laughing and engaging with him about something he was way into. And that’s the real problem, when you don’t engage with the people around you on stuff they see as important, you miss connecting with them and being there with them. You miss building memories. You’re not emphasizing experience in your life when you’re glued to your phone.
+- Completely unplug regularly. It’s good for your mental health. It’ll keep you present
+- Technology is there to serve you, not for you to be addicted to and escape and waste time. Learn how to be measured in your integration of technology in you life.
 - “We’ve built a system that’s optimized for the absolute worst aspects of human behavior” https://www.youtube.com/watch?time_continue=44&v=v9EKV2nSU8w
 - https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2
 - https://medium.com/@jamesbridle/conspiracies-climate-and-the-new-dark-age-an-extract-from-my-book-about-technology-and-the-end-2ffeef08ff29
-- Completely unplug regularly. It’ll be good for your mental health too. It’ll keep you present
-- “Do you remember when only doctors had pagers?…Then suddenly everyone had pagers. Then everyone had cell phones. Now everyone is accessible, any way, any time…You need to remove access. Close the doors, lock the windows, answer the bell” The Happiness Equation, p. 198
+- “Do you remember when only doctors had pagers?…Then suddenly everyone had pagers. Then everyone had cell phones. Now everyone is accessible, any way, any time…You need to remove access. Close the doors, lock the windows, answer the [one] bell [you’ve decided you’ll respond to]” The Happiness Equation, p. 198
 - “We can find a retreat at any time by looking inward. We can sit with our eyes closed and feel our breath go in and out. We can turn on some music and tune out the world. We can turn off technology or shut off those rampant thoughts in our head. That will provide peace. Nothing else.” The Daily Stoic, p.91
 - “‘The richest, happiest and most productive lives are characterized by the ability to fully engage in the challenge at hand, but also to disengage periodically and seek renewal.’ …{The Power of Full Engagement}… A Kansas State University study found that complete downtime after work helps us recharge for the next day. Turning your phone off after dinner. Not using the internet on vacation.” The Happiness Equation, p.22
 - Technology, at least in 2018, is really good at bringing out the worst tendencies in people: narcissism, greed, egoism, gossip, laziness. The way FB algorithms work, for example, is by giving you more of what you choose to view, and more often than not, what you choose to view appeals to your baser emotions like anger (e.g. an article about how the other political party is stupid). More often than not, technology feeds your sloth and rage and judgmental attitudes. https://www.bbc.com/news/technology-44640959
@@ -804,9 +815,10 @@ For one last time.
 - all human beings, male and female and everyone in between, are awesome
 - gender is personal, sometimes it’s complicated, sometimes it is not we respect all expressions of gender
 - intimacy is an expression of affection between people who love each other and is nobody’s business
-- parents have a responsibility to provide for their child’s physical, emotional and spiritual welfare, love their child without condition or constraint
-- teach their child how to love themselves
-- teach their child how to love others
+- parents have a responsibility to:
+    - provide for their child’s physical, emotional and spiritual welfare, love their child without condition or constraint
+    - teach their child how to love themselves
+    - teach their child how to love others
 - by design parents are equal parters, together, they preside, provide, protect, nurture, nourish
 - families are established and maintained on principles of love, compassion, respect, trust, honesty, and integrity
 - our family is inherently beautiful
