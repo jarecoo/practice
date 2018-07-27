@@ -554,6 +554,7 @@ Don't make all the speech, show me.”
 - Emotional Intelligence is a greater predictor of success than IQ. https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
 - “The more that you read, the more things you will know. The more that you learn, the more places you’ll go” - Dr. Seuss, Oh, The Places You’ll Go
 - “A scholar tries to learn something everyday; a student of Buddhism tries to unlearn something daily.” - Alan Watts (What bad habits, bad prejudices, bad notions do you hold? Unlearn them. Deleting code can be better than adding it. "Deleted code is debugged code." - Jeff Sickel)
+- Study, internalize, act, meditate.
 
 ### Make the World a Better Place
 - Making the world a better place rests on making yourself a better person.
