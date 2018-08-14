@@ -1,18 +1,20 @@
 Top 3
 
 # Top 3 Important Things to Me
-This is what I think is specifically, concretely important, what gets me up in the morning. Below this part is a broader, abstract section on personal paradigm (why what’s important to me is important), as well as principles I think are important for living.
+This is what I think is specifically, concretely important, what gets me up in the morning. Below this part is a broader, eclectic section on personal paradigm (why what’s important to me is important), as well as principles I think are important for living.
 
 1. Family
     * Prioritize close, personal relationships (family, close friends, etc)
         *  Foster a loving, supportive, compassionate relationship with my kids and my wife. I want to be part of their life forever. Make the time we have together count.
             * I think fostering this relationship means more than just love. Love is the necessary foundation, and gives you the appreciation to enjoy the journey, but only love is a disservice since it can lead to permissiveness, timidity and enabling. The other part of being a good father, is actually being something for your kids. They need to be guided, helped, and directed, mostly by example. The best dads are the ones that combine deep, unconditional love for their family with a steady, firm example of who to be and how to live. That’s where the rest of this comes in.
+            * The goal of good parenting isn’t to have happy kids, that’s an occasional side effect. The end goal is to have happy adults.
         * Enjoy the moment, appreciate the time you have with your kids https://www.reddit.com/r/LifeProTips/comments/80dsy9/lpt_after_working_with_terminally_ill_cancer/?st=JE4OAY9Q&sh=bab60a62
         * Remember, one day you pick your kid up and you’ll put him down for the last time https://www.reddit.com/r/Wellthatsucks/comments/7upwj7/comment/dtmjxlf?st=JD63KIUB&sh=e4e4d783
         * “Happy people are committed to making time for and enjoying friends and family. They have people they count on and trust.” https://continuum.utah.edu/features/what-happy-people-do/
         * “Sometimes the best way to solve your own problems is to help someone else” - Uncle Iroh
         * Appreciate the time you have with your loved ones. “Nell teaches aspects of parenthood never understood before. If she cries or makes a mess or decides to be contrary (and these are relatively rare), it doesn’t bother. There is always Chris’s silence to compare it to.” - Robert Pirsig, ZatAoMM
         * Remember your kids aren’t you. They’re their own people.
+        * Getting mad at people for making mistakes doesn’t teach them to not make mistakes, it teaches them to hide them
         * There are three parts to raising kids, as I see it, and the important pivot in parent comes at adulthood when you stop doing the first 2 and are executing solely on the last part. The tricky part is that you more or less dictate 1 and 2, but they dictate 3 and you need to be in tune with their needs and wants for that.
             * 1. Teach them how to do stuff (e.g. eat, walk, talk, ride a bike, do math, etc)
             * 2. Teach them what to be (e.g. morality, behavior, hard work, manners, etc)
@@ -89,7 +91,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 * Technology is both a Powerful Ally and a Dangerous Enemy, Requires Awareness
 
 ## Principles, Practices, Strategies
-### Death Gives Life Meaning
+### Death Gives Life Meaning; or, The Natural World and Meaning
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - “Im not ready” - “No one ever is. We don't get to choose our time. Death is what gives life meaning, to know our days are numbered, your time is short.” - Dr. Strange and the Ancient One, in Dr. Strange
 - "...we all die, and our respect for death should always lead us to have an appreciation for life rather than a paranoid existence." - Sam Harris
@@ -98,6 +100,8 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “All we have to decide is what to do with the time that is given to us.” - Gandalf, LOTR
 - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
 - Memento Mori
+- “We must make ready for death before we make ready for life. Life is well enough furnished, but we are too greedy with regard to its furnishings; something always seems to us lacking, and will always seem lacking. To have lived long enough depends neither upon our years nor upon our days, but upon our minds.” -Seneca
+- “I have long since thought that the mentality we encounter a lot "you only live once" is really empty. You try desperately to do as much as you can while racing the proverbial hourglass and it turns into this race to nowhere. It seems sad because in a way the more you deceive yourself into thinking you could ever live enough life seems to make life go by faster and faster. I prefer to accept the finite nature, embrace that we are witnessing a glimpse of existence, and then every moment seems more meaningful. I don't need to be constantly doing something new and exciting to enjoy my life. Its always an uphill battle to keep life simple, to find time to watch a sunset or look at the stars or just become present in the moment. And then there's those people who actively rush through life, chasing every new adventure, not realizing that they are running in place. TL:DR I guess what I am trying to say is human life it too short to make it about quantity but we can certainly make it about quality.” https://www.reddit.com/r/Stoicism/comments/93d0xh/comment/e3cvurp?st=JKARA06V&sh=f7e3420a
 - “We all sorely complain of the shortness of time, and yet have much more than we know what to do with. Our lives are either spent in doing nothing at all, or in doing nothing to the purpose, or in doing nothing that we ought to do. We are always complaining that our days are few, and acting as though there would be no end of them.” -Seneca
 - “If you’re like most people, you’ll spend most of your time in life tacitly presuming you’ll live forever. It’s like watching a bad movie for the fourth time, or bickering with your spouse, these things only make sense in light of eternity. There better be a heaven if I’m going to waste my time like this.” Sam Harris, https://www.youtube.com/watch?v=wI3a5m-lFVg 19:25
 - “I wish I'd had the courage to live a life true to myself, not the life others expected of me.” #1 regret of dying people, reported by EoL nurse in The Guardian
@@ -110,6 +114,28 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “The meaning of life is to give something meaning”
 - “I don't think an ancient Stoic would ever really consider the question of his or her life's meaning. You're part of nature; that's your meaning. Sure, you're also part of a family and of a society, too, but even if you were cast alone on an island, the meaningfulness of your life would just never be in question.” https://www.reddit.com/r/Stoicism/comments/8z3b20/comment/e2gfpzm?st=JJNSXYQO&sh=7470a6dc
 - “In a short time you’ll be nobody and nowhere, even as the great emperors Hadrian and Augustus are now.” - Marcus Aurelius, Meditations, 8.5 (The Daily Stoic, p.162)
+-  _Wandrers Nachtsong 1_
+    ```
+    Der du von dem Himmel bist,
+    Alles Leid und Schmerzen stillest,
+    Den, der doppelt elend ist,
+    Doppelt mit Erquickung füllest;
+    Ach, ich bin des Treibens müde!
+    Was soll all der Schmerz und Lust?
+    Süßer Friede,
+    Komm, ach komm in meine Brust!
+    ```
+    _Wandrers Nachtsong 2_
+    ```
+    Über allen Gipfeln
+    Ist Ruh,
+    In allen Wipfeln
+    Spürest du
+    Kaum einen Hauch;
+    Die Vögelein schweigen im Walde.
+    Warte nur, balde
+    Ruhest du auch.
+    ```
 
 ### Live Life with Purpose - Find Your Meaning (See above Top 3)
 - “First tell yourself what kind of person you want to be, then do what you have to do” -Epictetus, Discourses, 3.23.1-2a The Daily Stoic, p.136. Loving yourself helps you gain a sense of who you are and who you want to be, which must come before you can find your meaning and purpose in life. I think if you try living a purpose without knowing yourself (i.e. your wants and drives), this will just cause stress.
@@ -223,6 +249,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - Understand that people who do wrong by you are likely reacting to their own internal turmoil and trouble than to you.
 - “‘When you first rise in the morning tell yourself: I will encounter busybodies, ingrates, egomaniacs, liars, the jealous and cranks’ - Marcus Aurelius, Meditations, 2.1 …The point of this preparation is not to write off everyone in advance. It is that, maybe, because you’ve prepared for it, you’ll be able to act with patience, forgiveness, and understanding” The Daily Stoic, p.108
 - “From the very beginning, make it your practice to say to every impression ‘you are an impression and not at all what you appear to be.” Next, examine and test it by the rules you possess, the first and greatest of which is this - whether it belongs to the things in our control or not in our control, and if the latter, be prepared to respond, ‘It is nothing to me’” Epictetus, Enchiridon, 1.5; The Daily Stoic, p.111
+- “All negativity is caused by an accumulation of psychological time and denial of the present. Unease, anxiety, tension, stress, worry - all forms of fear - are caused by too much future, and not enough presence. Guilt, regret, resentment, grievances, sadness, bitterness, and all forms of nonforgiveness are caused by too much past, and not enough presence.” - Eckhart Tolle
 - “Trust, but verify” especially your own senses, wants, desires, impressions, and feelings.
 - “Cultivate the awareness that allows you to step back and analyze your own senses, question their accuracy, and proceed only with the positive and constructive ones” The Daily Stoic, p.111
 - “‘All the things which cause complaint or dread are like the taxes of life’ - Seneca, Moral Letters, 96.2 Everything we do has a toll attached to it…Waiting around is a tax on traveling. Disagreements and occasional frustration are taxes placed on even the happiest of relationships…There are many forms of taxes in life. You can argue with them, you can go to great — but ultimately futile — lengths to evade them, or you can simply pay them and enjoy the fruits of what you get to keep” The Daily Stoic p.117
@@ -230,7 +257,10 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘Do away with the opinion I am harmed, and the harm is cast away too. Do away with being harmed, and the harm disappears.’ - Marcus Aurelius, Meditations, 4.7” The Daily Stoic p.119
 - “‘God laid down this law, saying: if you want some good, get it from yourself’ Epictetus, Discourses, 1.29.4; Here is how to guarantee you have a good day: do good things. Any other source of joy is outside your control or is nonrenewable.” The Daily Stoic, p.141
 - “‘I’m constantly amazed by how easily we love ourselves above all others, yet we put more stock in the opinions of others than in our own estimation of self…How much credence we give to the opinions our peers have of us and how little to our very own!’ -Marcus Aurelius, Meditations, 12.4; Although we control our own opinions, we don’t control what other people think — about us least of all. for this reason, putting ourselves at the mercy of those opinions and trying to gain the approval of others are a dangerous endeavor.“ The Daily Stoic. p.160
+- “And if you choose to hold fast to what is right, do not be irked by difficult circumstances, but reflect on how many things have already happened to you in life in ways that you did not wish, and yet they have turned out for the best.” — Gaius Musonius Rufus, Fragment 27
 - “The key to happiness is low expectations. Lower. Nope, even lower. There you go.”
+- Action is a good way to develop internal controls. Self-efficacy is learned by doing. “‘We cry to God Almighty, how can we escape this agony? Fool, don’t you have hands?’ - Epictetus, Discourses, 2.16.13 Succumbing to the self-pity and ‘woe is me’ narrative accomplishes nothing - nothing except sapping you of the energy and motivations you need to do something about your problem.” TDS, p.171
+- “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting…Just do it.” The Happiness Equation, p.231
 
 ### Live in the Present Moment
 - “‘Let us therefore set out whole-heartedly, leaving aside our many distractions and exert ourselves in this single purpose, before we realize too late the swift and unstoppable flight of time and are left behind. As each day arises, welcome it as the very best day of all, and make it your own possession. We must seize what flees.’ - Seneca, Moral Letters, 108.27b-28a What will you manage to make of today before it slips from your fingers and becomes the past? When someone asks you what you did yesterday, do you really want the answer to be ‘nothing?’” The Daily Stoic p.143
@@ -239,6 +269,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “This present is in our possession - but it has an expiration date, a quickly approaching one. If you enjoy all of it, it will be enough. It can last a whole lifetime.” The Daily Stoic, p.85
 - “No act is more valuable than the next when training the mind: meditation, walking, eating. All are opportunities to be present and at ease” Headspace app
 - “‘The richest, happiest and most productive lives are characterized by the ability to fully engage in the challenge at hand, but also to disengage periodically and seek renewal.’ …{The Power of Full Engagement}….” The Happiness Equation, p.22
+- “All negativity is caused by an accumulation of psychological time and denial of the present. Unease, anxiety, tension, stress, worry - all forms of fear - are caused by too much future, and not enough presence. Guilt, regret, resentment, grievances, sadness, bitterness, and all forms of nonforgiveness are caused by too much past, and not enough presence.” - Eckhart Tolle
 - “There are two ways to be wealthy - to get everything you want, or to want everything you have. Which is easier right here and right now?” The Daily Stoic, p.95
 - “When we chase after happiness as a movement, it’s away from the present moment to another place, to some time other than now. And because we move away from the present moment, ironically, we move further away from happiness. Because when you think about it, happiness can only exist in this moment, right here, right now.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
 - “Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.”
@@ -299,9 +330,11 @@ This is what I think is specifically, concretely important, what gets me up in t
 
 ### Simplify
 - Enough is better than more.
+- Quality is better than quantity.
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - “Approach each task as if it is your last, giving up every distraction, emotional subversion of reason, and all drama, vanity,  and complaint over your fair share” - Marcus Aurelius, Meditations, 2.5
 - there is clarity in simplicity. Zero in on what’s right in front of you.
+- “I have long sense thought that the mentality we encounter a lot "you only live once" is really empty. You try desperately to do as much as you can while racing the proverbial hourglass and it turns into this race to nowhere. It seems sad because in a way the more you deceive yourself into thinking you could ever live enough life seems to make life go by faster and faster. I prefer to accept the finite nature, embrace that we are witnessing a glimpse of existence, and then every moment seems more meaningful. I don't need to be constantly doing something new and exciting to enjoy my life. Its always an uphill battle to keep life simple, to find time to watch a sunset or look at the stars or just become present in the moment. And then there's those people who actively rush through life, chasing every new adventure, not realizing that they are running in place. TL:DR I guess what I am trying to say is human life it too short to make it about quantity but we can certainly make it about quality. https://www.reddit.com/r/Stoicism/comments/93d0xh/comment/e3cvurp?st=JKARA06V&sh=f7e3420a
 - “Don’t set your heart on so many things and you will get what you need.” Epictetus,  Discourses, 3.9.22 (The Daily Stoic, p69)
 - “There’s a hidden cost to all {this} accumulating…even what we get for free has a cost, even if only in what we pay to store it, in our house or in minds” - The Daily Stoic, p.75
 - You can create space, avoid business, and simplify “by Removing [simplifying] Choice [choose between fewer things], Removing Time. [willingly push deadlines up],  and Removing Access [limit the access to mind and time to 1 thing you control], and nurture that space, that powerful space, so it fills your mind and time and life with contentment, freedom, and happiness.” The Happiness Equation p. 204
@@ -375,6 +408,8 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “Tell me whom you consort with and I will tell you who you are” Goethe, in The Daily Stoic, p.79
     - Nothing is more important than family, pick family first. (Family being defined as those individuals on whom you can best count for support and affection, ideally this should be blood relatives, but it can also be close friends)
     - “When you and your partner fight, remember it’s you and her vs the problem, not vs each other.”
+    - An argument is when you’re trying to determine WHO is right, a conversation is when you’re trying to find WHAT is right.
+    - Getting mad at people for making mistakes doesn’t teach them to not make mistakes, it teaches them to hide them
     - “Where you invest your love, you invest your life” -Mumford and Sons, Awake my Soul
     - “Today study after study shows the it is our social connections that are the single biggest driver or our happiness.” -The Happiness Equation, p.114
     - On healthy relationships, romantic loves should naturally shift more toward attachment. Make sure you and your partner are worthy of each other’s full, trusting attachment.
@@ -425,6 +460,7 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
     - Get good (consistent and long) sleep. Good sleep is underrated. It’s so vital to good health.
     - Exercise. Bodies are made for moving, not sitting.
+    - “Indeed, to one who is active, no day is long. So let us lengthen our lives; for the duty and the proof of life consist in action. Cut short the night: use some of it for the day’s business. Birds that are being prepared for the banquet, that they may be flattened through lack of exercise, are kept in the dark. And similarly, if men vegetate without physical activity, their idle bodies are overwhelmed with flesh, and in their self-satisfied retirement the fat of indolence grows upon them” -Seneca
     - “Exercise is a celebration of what you can do, not a punishment for what you ate”
     - Use food for sustenance, not pleasure. Modern bounty makes food-related sickness extremely common (high cholesterol, diabetes, high blood pressure, obesity, etc)
     - Avoid drinking soda. It’s poison. Consume sugar sparingly. Stick to whole foods, white meat and fish, lots of veggies, lots of fruits. Fewer carbs.
@@ -473,7 +509,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - Get “‘closer to doing’…Spend 30 seconds putting yourself in a situation where it’s easier to do…Action causes motivation.” The Happiness Equation p.225-227
 - Do something every day that will get your doing ball rolling, even if it’s a day that doesn’t require it. (e.g. Make your bed, clean your room, shower, get dressed.)
 - “Mit eitler Rede wird hier nichts geschafft” Wilhelm Tell, Schiller Act 1, Scene 1
-- Make mistakes of boldness and not of timidity.
+- “Make mistakes of boldness and not of timidity.” - Brandon Dewitt
 - “More matter with less art” - Queen Gertrude, Hamlet
 - “Imagine the emperor of Rome, with his captive audience and unlimited power, telling himself not to be a person of “too many words and too many deeds.” Let that be a reminder the next time you feel self indulgent or a little full of yourself, the next time you feel like impressing people” The Daily Stoic p.115
 - “‘Those who receive the bare theories immediately want to spew them, as an upset stomach does its food. First digest your theories and you won’t throw them up. Otherwise they will be raw, spoiled, and not nourishing. After you’ve digested them, show us the changes in your reasoned choices, just like the shoulders  of a gymnasts display their diet and training, and as the craft of artisans show it what they’ve learned’ - Epictetus, Discourses, 3.21.1-3 …Today, or anytime, when you catch yourself wanting to condescendingly drop some knowledge that you have, grab it and ask: Would i be better saying words or letting my actions and choices illustrate that knowledge for me.” The Daily Stoic p.137
@@ -496,9 +532,8 @@ Don't make all the speech, show me.”
 - Before acting: “First, don’t get upset — because that will color your decision negatively and make it harder than it needs to be. Second, remember the purpose and principles you value most. Running potential actions through this filter will eliminate the bad choices and highlight the right ones. Don’t get upset. Do the right thing. That’s it” The Daily Stoic, p.162
 - “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end. It’s sad to think that this kind of frustration is an everyday reality for a lot of people…Worse is when we try to push these feelings away by buying things, going out, fighting, creating drama — indulging in the empty calories of existence instead of finding the real nourishment. The solution is simple and, thankfully, always right at hand. Get out there and work.” TDS, p.163
 
-
 ### Learn to be Disciplined
-- Find a routine; structure and discipline breed mental stability and general health
+- Find a routine; structure and discipline breed mental stability and general health. Keep your house clean, do your chores, run your necessary errands, cook dinner, exercise, etc.
 - “It gets easier. Every day it gets a little easier, but you gotta do it every day. That’s the hard part, but it does get easier.” - Bojack Horseman
 - https://www.reddit.com/r/GetMotivated/comments/8ai05o/discussion_your_selfcontrol_is_your_most/?st=JFPOIU6B&sh=3ef2d937
 - “A real man doesn’t give way to anger and discontent, and such a person has strength, courage, and endurance - unlike the angry and complaining. The nearer a man comes to a calm mind, the closer he is to strength” -Marcus Aurelius, Meditations, 11.18.5b
@@ -879,6 +914,7 @@ To me, these things are dangerous and harmful, and if they’re true, then the c
     - Utah legislature lobbying - http://www.sltrib.com/news/politics/2017/08/04/former-utah-senator-criticizes-secretive-puppet-string-lobbying-by-mormon-church/
     - More lobbying - http://fox13now.com/2017/08/27/3-questions-with-bob-evans-former-state-senator-steve-urquhart-talks-lds-church-lobbying-tactics/
     - Philly high rise - http://www.bizjournals.com/philadelphia/blog/real-estate/2014/02/mormon-church-to-build-32-story.html  - only want "luxury" housing, apparently low-income isn't as inspired by jesus
+    - Chicago - http://www.chicagobusiness.com/commercial-real-estate/mormons-buy-south-loop-apartment-tower
     - "Church Broke" - "Haven't talked in 6 weeks, what we are supposed to be doing?"
         - https://www.reddit.com/r/exmormon/comments/56027x/comment/d8fd1bl?st=IUQM5ZA2&sh=6f7111e9
         - https://www.reddit.com/r/atheism/comments/7p3chh/mormon_senator_admits_in_leaked_video_he_voted_in/
