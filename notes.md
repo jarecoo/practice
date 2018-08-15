@@ -136,6 +136,23 @@ This is what I think is specifically, concretely important, what gets me up in t
     Warte nur, balde
     Ruhest du auch.
     ```
+-  _Leisure_, W. H. Davies
+    ```
+    What is this life if, full of care,
+    We have no time to stand and stare.
+    No time to stand beneath the boughs
+    And stare as long as sheep or cows.
+    No time to see, when woods we pass,
+    Where squirrels hide their nuts in grass.
+    No time to see, in broad daylight,
+    Streams full of stars, like skies at night.
+    No time to turn at Beauty's glance,
+    And watch her feet, how they can dance.
+    No time to wait till her mouth can
+    Enrich that smile her eyes began.
+    A poor life this if, full of care,
+    We have no time to stand and stare.
+    ```
 
 ### Live Life with Purpose - Find Your Meaning (See above Top 3)
 - “First tell yourself what kind of person you want to be, then do what you have to do” -Epictetus, Discourses, 3.23.1-2a The Daily Stoic, p.136. Loving yourself helps you gain a sense of who you are and who you want to be, which must come before you can find your meaning and purpose in life. I think if you try living a purpose without knowing yourself (i.e. your wants and drives), this will just cause stress.
@@ -169,13 +186,14 @@ This is what I think is specifically, concretely important, what gets me up in t
 ### Live Life on Purpose
 - “‘First tell yourself what kind of person you want to be, then do what you have to do’ -Epictetus, Discourses, 3.23.1-2a … An archer is unlikely to hit a target she did not aim for” The Daily Stoic, p.136
 - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
+- “Chaos ensues from not having a plan. Not because plans are perfect, but because people without plans - like a line of infantry without a strong leader - are much more likely to get overwhelmed and fall apart.” The Daily Stoic, p.98
+- “As we examine our past behavior, it’s sad how often we find this to be the case - that we were not acting consciously or deliberately but instead by forces we did not bother to evaluate.” The Daily Stoic, p.100
 - Try to never do anything on autopilot, especially in respect to your purpose in life, never execute on it on autopilot. The best way to live is to be present at every moment, and live in the now. Bringing awareness and mindfulness to the present will not only keep you grounded, it will keep you happy. You can bring awareness to your forward thinking self as well, being present in the now doesn’t preclude any sort of proactive, goal-oriented, or analytical living, it just brings a presence to it.
 - Mindfulness is about present and purposeful living. It’s not wholly about sitting with eyes closed and body still, but about slowing the mind down to bring presence and purpose to every moment. You can be active and also be mindful. You can be ambitious and also be mindful. At a simple level it’s just about presence and purpose in life.
 - I think mindfulness meditation, stoicism, and the other ideas I have in here aren’t only about just slowing down to a pace that might interfere with your relationships with others. It’s about having purpose to your pace. Most of the time that will mean slowing down the pace so you aren’t in a frenzy, but it will also allow you to purposefully act quickly when needed. Purposeful action is smooth. Purposeful action is deliberate, and therefore “slow”
 - Actively choose something in every circumstance, because if you don’t, a choice will be made for you by default and it probably won’t be in your control, or something that you like.
 - Focus on what matters. “Which will help your children more — your insight into happiness and meaning, or that you followed breaking political news every day for thirty years?” The Daily Stoic, p.116
 - There may or may not be an afterlife, hopefully there is, but the point is we cannot know. This just means you should try to make your time count that you know you have. No afterlife should breed appreciation and gratitude for what you have, rather than lead to a paranoid and anxious existence
-- “Im not ready” - “No one ever is. We don't get to choose our time. Death is what gives life meaning, to know our days are numbered, your time is short.” Dr. Strange and the Ancient One
 - “All we have to decide is what to do with the time that is given to us.” - Gandalf, LOTR
 - “If you’re like most people, you’ll spend most of your time in life tacitly presuming you’ll live forever. It’s like watching a bad movie for the fourth time, or bickering with your spouse, these things only make sense in light of eternity. There better be a heaven if I’m going to waste my time like this.” Sam Harris, https://www.youtube.com/watch?v=wI3a5m-lFVg 19:25
 - Live each moment as if it’s the last thing you’ll ever do.
@@ -186,8 +204,6 @@ This is what I think is specifically, concretely important, what gets me up in t
 - Technology addiction can distract you from living on purpose. Use it wisely and mindfully.
 - “The person is free who lives as they wish, neither compelled, nor hindered, nor limited — whose choices aren’t hampered, whose desires succeed, and who don’t fall into what repels them” - Epictetus, Discourses, 4.1.1-3a (The Daily Stoic, p.74)
 - If it’s not a hell yes, it’s a no.
-- “Chaos ensues from not having a plan. Not because plans are perfect, but because people without plans - like a line of infantry without a strong leader - are much more likely to get overwhelmed and fall apart.” The Daily Stoic, p.98
-- “As we examine our past behavior, it’s sad how often we find this to be the case - that we were not acting consciously or deliberately but instead by forces we did not bother to evaluate.” The Daily Stoic, p.100
 - “One of the hardest things to do in life is to say ’No.’ To invitations, to requests, to obligations…Even harder is saying no to certain time-consuming emotions: anger, excitement, distraction, obsession, lust. …Run amok, they become a commitment like anything else. Do you ever wonder how you can get some of your time back, how you can feel less busy? Start by learning the power of ‘No!’ - The Daily Stoic p.11
 - “The more you say no to the things that don’t matter, the more you can say yes to the things that do. This will let you live and enjoy your life — the life that you want.” - The Daily Stoic p.11
 - “‘Every habit and capability is confirmed and grows in its corresponding actions, walking by walking, running by running…therefore, if you want to do something make a habit of it, if you don’t want to do that, don’t, but make a habit of something else instead.’ - Epictetus, Discourses, 2.18.1-5; Think about your activities of the last week as well as what you have planned for today and the week that follows. The person you’d like to be, or the person you see yourself as — how closely do your actions actually correspond to him or her? Which fire are you fueling? Which person are you becoming?” The Daily Stoic, p.147
@@ -264,15 +280,15 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “If you find yourself in a hole, stop digging” - “Today, give yourself the most simple and doable of tasks: just don’t make stuff worse. Whatever happens, don’t add angry or negative emotions to the equation. Don’t react for the sake of reacting. Leave it as it is. Stop digging. Then plan your way out.” The Daily Stoic, p.177
 
 ### Live in the Present Moment
-- “‘Let us therefore set out whole-heartedly, leaving aside our many distractions and exert ourselves in this single purpose, before we realize too late the swift and unstoppable flight of time and are left behind. As each day arises, welcome it as the very best day of all, and make it your own possession. We must seize what flees.’ - Seneca, Moral Letters, 108.27b-28a What will you manage to make of today before it slips from your fingers and becomes the past? When someone asks you what you did yesterday, do you really want the answer to be ‘nothing?’” The Daily Stoic p.143
 - “The longest and shortest life, then, amount to the same, for the present moment lasts the same for all and is all anyone possesses.” -Marcus Aurelius, Meditations, 2.14; The Daily Stoic, p.85
+- “When we chase after happiness as a movement, it’s away from the present moment to another place, to some time other than now. And because we move away from the present moment, ironically, we move further away from happiness. Because when you think about it, happiness can only exist in this moment, right here, right now.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
+- “‘Let us therefore set out whole-heartedly, leaving aside our many distractions and exert ourselves in this single purpose, before we realize too late the swift and unstoppable flight of time and are left behind. As each day arises, welcome it as the very best day of all, and make it your own possession. We must seize what flees.’ - Seneca, Moral Letters, 108.27b-28a What will you manage to make of today before it slips from your fingers and becomes the past? When someone asks you what you did yesterday, do you really want the answer to be ‘nothing?’” The Daily Stoic p.143
 - “Yesterday’s the past, tomorrow’s the future, but today is a gift. That’s why it’s called the present.” Bil Keane in The Daily Stoic, p.85
 - “This present is in our possession - but it has an expiration date, a quickly approaching one. If you enjoy all of it, it will be enough. It can last a whole lifetime.” The Daily Stoic, p.85
 - “No act is more valuable than the next when training the mind: meditation, walking, eating. All are opportunities to be present and at ease” Headspace app
 - “‘The richest, happiest and most productive lives are characterized by the ability to fully engage in the challenge at hand, but also to disengage periodically and seek renewal.’ …{The Power of Full Engagement}….” The Happiness Equation, p.22
 - “All negativity is caused by an accumulation of psychological time and denial of the present. Unease, anxiety, tension, stress, worry - all forms of fear - are caused by too much future, and not enough presence. Guilt, regret, resentment, grievances, sadness, bitterness, and all forms of nonforgiveness are caused by too much past, and not enough presence.” - Eckhart Tolle
 - “There are two ways to be wealthy - to get everything you want, or to want everything you have. Which is easier right here and right now?” The Daily Stoic, p.95
-- “When we chase after happiness as a movement, it’s away from the present moment to another place, to some time other than now. And because we move away from the present moment, ironically, we move further away from happiness. Because when you think about it, happiness can only exist in this moment, right here, right now.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
 - “Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.”
 - “Happiness is to enjoy the present, without anxious dependence upon the future" -Seneca
 - “Attention matters - letting your attention slip and wander builds bad habits and enables mistakes”  - The Daily Stoic, p.123
@@ -335,6 +351,8 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - “Approach each task as if it is your last, giving up every distraction, emotional subversion of reason, and all drama, vanity,  and complaint over your fair share” - Marcus Aurelius, Meditations, 2.5
 - there is clarity in simplicity. Zero in on what’s right in front of you.
+- “One of the hardest things to do in life is to say ’No.’ To invitations, to requests, to obligations…Even harder is saying no to certain time-consuming emotions: anger, excitement, distraction, obsession, lust. …Run amok, they become a commitment like anything else. Do you ever wonder how you can get some of your time back, how you can feel less busy? Start by learning the power of ‘No!’ - The Daily Stoic p.11
+- “The more you say no to the things that don’t matter, the more you can say yes to the things that do. This will let you live and enjoy your life — the life that you want.” - The Daily Stoic p.11
 - “I have long sense thought that the mentality we encounter a lot "you only live once" is really empty. You try desperately to do as much as you can while racing the proverbial hourglass and it turns into this race to nowhere. It seems sad because in a way the more you deceive yourself into thinking you could ever live enough life seems to make life go by faster and faster. I prefer to accept the finite nature, embrace that we are witnessing a glimpse of existence, and then every moment seems more meaningful. I don't need to be constantly doing something new and exciting to enjoy my life. Its always an uphill battle to keep life simple, to find time to watch a sunset or look at the stars or just become present in the moment. And then there's those people who actively rush through life, chasing every new adventure, not realizing that they are running in place. TL:DR I guess what I am trying to say is human life it too short to make it about quantity but we can certainly make it about quality. https://www.reddit.com/r/Stoicism/comments/93d0xh/comment/e3cvurp?st=JKARA06V&sh=f7e3420a
 - “Don’t set your heart on so many things and you will get what you need.” Epictetus,  Discourses, 3.9.22 (The Daily Stoic, p69)
 - “There’s a hidden cost to all {this} accumulating…even what we get for free has a cost, even if only in what we pay to store it, in our house or in minds” - The Daily Stoic, p.75
@@ -953,13 +971,14 @@ To me, these things are dangerous and harmful, and if they’re true, then the c
     - Invalidating legitimate doctrinal concerns https://www.lds.org/church/news/many-struggles-with-faith-are-based-on-mormon-culture-not-doctrine-professor-says?lang=eng
     - making older or divorced members feel second rate: http://www.sltrib.com/religion/local/2017/08/25/mormons-unveil-temple-changes-single-lds-men-over-30-recently-divorced-members-can-now-serve-there/
 4. Bonus: The Church and Social Progress - The church should be a thought leader on love and acceptance with the Master of love and acceptance leading them; but they are never on the forefront of social issues that turn out to be objectively, demonstrably good for everyone. This runs counter to the way you’d expect from God’s true church.
-    - Civial Rights for Blacks (specifically priesthood, interracial marrying, etc, used to be widely frowned upon and preached against in the church as a very bad thing. It wasn’t until BYU was about to lose accreditation in the 70s that the church finally came around and removed the priesthood ban)
+    - Civil Rights for Blacks (specifically priesthood, interracial marrying, etc, used to be widely frowned upon and preached against in the church as a very bad thing. It wasn’t until BYU was about to lose accreditation in the 70s that the church finally came around and removed the priesthood ban)
     - Gay Acceptance (They are not accepting, they are more than just indifferent, they are actively tormenting the individuals that would actually like to be part of their church by classifying homosexuality as apostasy (https://www.lds.org/church/news/elder-christofferson-says-handbook-changes-regarding-same-sex-marriages-help-protect-children?lang=eng&_r=1), but not adultery or murder, wtf? plus the children of homosexual parents who wish to be baptized must wait until they are 18 and then fully disavow their gay parents)
     - Medical Marijuana (It’s better than alcohol, but you don’t see them trying to bring back Prohibition) https://www.sltrib.com/news/health/2018/05/11/mormon-church-compiles-legal-issues-with-medical-marijuana-initiative-but-still-doesnt-explicitly-oppose-it/
     - Empowering and truly equalizing women (https://i.redd.it/dl64zujbbqp01.jpg, https://i.redd.it/4meec69b88q01.jpg, https://i.redd.it/jly3f26o88q01.jpg, https://i.redd.it/h1qt6e777fp01.jpg, https://i.redd.it/ph8tob3ma1o01.jpg, https://i.redd.it/7tfuhd7kgln01.jpg, https://i.redd.it/16yjvev7a1o01.jpg, https://www.reddit.com/r/exmormon/comments/5lopnr/the_church_used_my_body_as_currency/?st=JG1I088Y&sh=3a0b49a3)
     - They don’t actually provide that much humanitarian aid around the world (https://i.redd.it/2tja1dmkgfp01.jpg, the Seventh Day Adventists give more percent-wise than the LDS church does; they earn less  and give more)
     - The church doesn’t use much of its money to give aid http://followtheprophets.com/tithing-money/
 
+_Just in case you think it’s easy to leave a religion you devoted a good chunk of life to:_
 “It was lonely to unravel. But more than that, it simply hurts to unbecome, to feel the ideological foundation of life ripping apart.” “Disabuse rarely visits like the tooth fairy, taking away your rotted belief system and leaving you a shiny new one in its place. It takes years of collapsing and years of rebuilding.”
 https://medium.com/@girlziplocked/have-empathy-when-gods-are-shattered-3f34a65daa15#.3nhy6bwsq
 
