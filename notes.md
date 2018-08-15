@@ -261,6 +261,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “The key to happiness is low expectations. Lower. Nope, even lower. There you go.”
 - Action is a good way to develop internal controls. Self-efficacy is learned by doing. “‘We cry to God Almighty, how can we escape this agony? Fool, don’t you have hands?’ - Epictetus, Discourses, 2.16.13 Succumbing to the self-pity and ‘woe is me’ narrative accomplishes nothing - nothing except sapping you of the energy and motivations you need to do something about your problem.” TDS, p.171
 - “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting…Just do it.” The Happiness Equation, p.231
+- “If you find yourself in a hole, stop digging” - “Today, give yourself the most simple and doable of tasks: just don’t make stuff worse. Whatever happens, don’t add angry or negative emotions to the equation. Don’t react for the sake of reacting. Leave it as it is. Stop digging. Then plan your way out.” The Daily Stoic, p.177
 
 ### Live in the Present Moment
 - “‘Let us therefore set out whole-heartedly, leaving aside our many distractions and exert ourselves in this single purpose, before we realize too late the swift and unstoppable flight of time and are left behind. As each day arises, welcome it as the very best day of all, and make it your own possession. We must seize what flees.’ - Seneca, Moral Letters, 108.27b-28a What will you manage to make of today before it slips from your fingers and becomes the past? When someone asks you what you did yesterday, do you really want the answer to be ‘nothing?’” The Daily Stoic p.143
@@ -563,6 +564,7 @@ Don't make all the speech, show me.”
 - Learn the principle of iteration; It will make you or break you. (death by a thousand cuts; winning is a game of percentages: he who tries more, wins more; take more shots; “By small and simple things, great things are brought to pass.”)
 - “‘Well-being is realized by small steps, but is truly no small thing’ -Zeno; the truth is one we know well: the little things add up….While the individual action is small, its cumulative impact is not…Choose the right way, and watch as all these little things add up toward transformation.“ The Daily Stoic p.161
 - “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end” TDS, p.163
+- “’You must build up your life action by action’ -Marcus Aurelius, Meditations, 8.32 If you follow The Process in your life — assembling the right actions in the right order, one right after the other — you too will do well. Not only that, you will be better equipped to make quick work of the obstacles along that path. You’ll be too busy putting one foot in front of the next to even notice the obstacles were there.” TDS, p.174
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
@@ -590,6 +592,8 @@ Don't make all the speech, show me.”
 - “The more that you read, the more things you will know. The more that you learn, the more places you’ll go” - Dr. Seuss, Oh, The Places You’ll Go
 - “A scholar tries to learn something everyday; a student of Buddhism tries to unlearn something daily.” - Alan Watts (What bad habits, bad prejudices, bad notions do you hold? Unlearn them. Deleting code can be better than adding it. "Deleted code is debugged code." - Jeff Sickel)
 - Study, internalize, act, meditate.
+- “‘We like to say that we don’t get to choose our parents, that they were given by chance — yet we can truly choose whose children we’d like to be” -Seneca, On the Brevity of Life, 15.3a’ Maybe your parents were poor role models, or you lacked a great mentor. Yet if we choose to, we can easily access the wisdom of those who came before us — those whom we aspire to be like. TDS, 173
+- “‘How laughable it is to say, ‘Tell me what to do!’ What advice could i possibly give? No, a far better request is, ‘Train my mind to adapt to any circumstance’…In this way, if circumstances take you off script…you won’t be desperate for a new prompting’ -Epictetus, Discourses, 2.2.20b-1;24b-25a Instead of looking for instruction, cultivate skills like creativity, independence, self-confidence, ingenuity, and the ability to problem solve” The Daily Stoic, p.178
 
 ### Make the World a Better Place
 - Making the world a better place rests on making yourself a better person.
