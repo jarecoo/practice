@@ -60,7 +60,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 * Meaning and Purpose are Central to Happiness
     * Individually Created
     * Derived from a strong sense of who you are (developed from self-love)
-    * Derived at first from the notion that time is limited
+    * Derived from the notion that your time is finite, and your part in nature
 * Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
 * An Internal Locus of Control is Central to Happiness
     * You only Control your Thoughts, Attitudes, and Outlook
@@ -209,6 +209,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “The more you say no to the things that don’t matter, the more you can say yes to the things that do. This will let you live and enjoy your life — the life that you want.” - The Daily Stoic p.11
 - “‘Every habit and capability is confirmed and grows in its corresponding actions, walking by walking, running by running…therefore, if you want to do something make a habit of it, if you don’t want to do that, don’t, but make a habit of something else instead.’ - Epictetus, Discourses, 2.18.1-5; Think about your activities of the last week as well as what you have planned for today and the week that follows. The person you’d like to be, or the person you see yourself as — how closely do your actions actually correspond to him or her? Which fire are you fueling? Which person are you becoming?” The Daily Stoic, p.147
 - “Evaluate what you are doing, why you are doing it, and where accomplishing it will take you. If you don’t have a good answer, then stop” -Epictetus, Discourses, 4.4.41; 43 (TDS p.164)
+- “Vivere est Militare (To love is to fight)” - Seneca, TDS p.179
 
 ### Cultivate an Internal Locus of Control
 - “‘The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to with the choices I actually control.’ - Epictetus, Discourses, 2.5.4-5; The single most important practice in Stoic philosophy is differentiating between what we can chance and what we can’t…time spent hurling yourself at these immovable objects is time not spent on the things we can change.” The Daily Stoic, p.9
@@ -345,6 +346,9 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “It’s the thinking mind alone that  wants to become bigger, to become better, or something special in the world. The other part, our essence, our awareness, has no such desire or ambition… Awareness is voiceless. It simply witnesses. It observes. It has no goal. It has no desire  to change anything, to be something more, to be something better. It simply witnesses life as it unfolds. As much as we need the thinking mind, the mind that plans and strives, at the same time that mind is typically quite busy. it’s trying to change, it’s trying to reach for something bigger and better and of course there are times in our life when that’s entirely appropriate and even necessary. But so often, when we think about ourselves in this way, that’s just not particularly helpful. Rather than being happy with ourselves as we are or content with ourselves as we are, we’re so busy trying to be somebody different, that we can’t even experience that sense of contentment in this moment right now. So learning to rest in awareness, we rely less on that thinking mind, the thinking mind that’s always reaching for something else, and instead we start to appreciate the value of resting right here in this moment right now.” Headspace, “Everyday Headspace,” Tuesday, June 19, Awareness and Ambition
 - Reset. Readjust. Restart. Refocus. As many times as you need to.
 - Patience. Sometimes stuff just needs time, no action, just time.
+- “’Fortune doesn’t have the long reach we suppose, she can only lay siege to those who hold her tight. So, let’s step back from her as much as possible’ -Seneca, Moral Letters, 82.5b-6 the metaphor here would be the choice between a strategy of endless, exhausting offense and a strategy of resilient, flexible defense. Which will you play?” TDS p.183
+- “’Here is the great soul — the one who surrenders to Fate. The opposite is the weak and degenerate one, who struggles with and has a poor regard for the order of the world, and seeks to correct the faults of the gods rather than their own.’ - Seneca, Moral Letters, p.107.12 Let’s not wish we could turn back time or remake the universe according to our preference. Not when it would be far better and far easier to remake ourselves.” TDS p.184
+- “To the youngster talking nonsense Zeno said, ‘The reason why we have to ears and only one mouth is so we might listen more and talk less.’” - Diogenes Laertius, Lives of Eminent Philosophers, 7.1.23; TDS p.180
 
 ### Simplify
 - Enough is better than more.
@@ -416,6 +420,7 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross (Applicable first to yourself)
     - “Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” - MLK
     - “Hate is too great a burden to bear” -MLK
+    - “‘Don’t be ashamed of needing help. You have a duty to fulfill just like a soldier on the wall of battle. So what if you are injured and can’t climb up without another soldier’s help?’ -Marcus Aurelius, Meditations, 7.7 No one ever said you were born with all the tools you’d need to solve every problem you’d face in life…You can ask anyone for help. You don’t have to face everything on your own.” TDS p.182
 - Romanic Love and Empathy for Others
     - “I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross
     - “Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” - MLK
@@ -448,10 +453,25 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “‘When you first rise in the morning tell yourself: I will encounter busybodies, ingrates, egomaniacs, liars, the jealous and cranks’ - Marcus Aurelius, Meditations, 2.1 …The point of this preparation is not to write off everyone in advance. It is that, maybe, because you’ve prepared for it, you’ll be able to act with patience, forgiveness, and understanding” The Daily Stoic, p.108
     - “The quickest way, the surest way to find more happiness in our lives, is to focus on the happiness of others.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
 
-### Be Nice, but Be Assertive; or, Avoid Manipulation
-- “When I do good I feel good. When I do bad I feel bad. That is my religion”
-- Everyone deserves your unconditional kindness and generosity. As long as they respect and reciprocate that, it will flow freely. Once they abuse that, they have to earn it back. (They had their chance they blew it)
+### Be a Good Person; Leave the World Better than You Found It
+- “When I do good I feel good. When I do bad I feel bad. That is my religion” There is peace in doing good, being good. Hate and discord are uncomfortable and unhealthy for your mind.
+- “I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross
+- “Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” - MLK
+- “Hate is too great a burden to bear” -MLK
+- You have concentric sphere’s of influence that decrease in your ability to enact change and good the farther from yourself you get. Focus on doing good in your most potent spheres of influence. Yourself is the closest sphere of influence.
+- Give people the love and compassion they want, or the kind you want if nothing else. The Golden Rule.
+- Do random acts of unsolicited kindness. it’ll make you feel better, but it will add good to the world.
+- “…doing a kindness produces the single most reliable momentary increase in well-being of any exercise we have tested” - Martin Seligman, Flourish, as quoted in The Happiness Equation, p. 21
+- “The quickest way, the surest way to find more happiness in our lives, is to focus on the happiness of others.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
+- “‘God laid down this law, saying: if you want some good, get it from yourself’ Epictetus, Discourses, 1.29.4 Here is how to guarantee you have a good day: do good things” The Daily Stoic, p.141
+- Making the world a better place rests on making yourself a better person.
+- “What is your vocation? To be a good person.” -Marcus Aurelius, Meditations, 11.5 (TDS p.165)
+- “‘Kindness is invincible, but only when it’s sincere, with no hypocrisy or faking. For what can even the most malicious person do if you keep showing kindness and, if given the chance, you gently point out where they went wrong — right as they are trying to harm you?’ -Marcus Aurelius, Meditations, 11.18.5.9a …The expected reaction to hatred is more hatred…Most rudeness, meanness, and cruelty are a mask for deep-seated weakness. Kindness in these situations is only possible for people of great strength. You have great strength. Use it.” The Daily Stoic p.146
+- “’Every event has two handles, one by which it may be carried, the other by which it cannot. If your brother does you wrong, don't lay hold on the action by the handle of his injustice, for by that it cannot be carried; but by the opposite, that he is your brother, that he was brought up with you; and then you will have hold of the handle which carries.’ -Epictetus, Enchiridon, 43 There is no promise that trying things this way — of grabbing the different handle — will have such momentous results for your. But why continue to lift by the handle that hasn’t worked?” TDS p.180
+
+### Be Assertive; Set your Boundaries
 - Be nice but don’t let people take advantage of or manipulate you (see: live life on purpose). This will help you avoid manipulation and being taken advantage of, but will still provide you the chance to be compassionate to people without sacrificing compassion for yourself.
+- Everyone deserves your unconditional kindness and generosity. As long as they respect and reciprocate that, it will flow freely. Once they abuse that, they have to earn it back. (They had their chance they blew it)
 - You teach people how to treat you by what you tolerate. Being assertive keeps people from taking advantage of your niceness. If you only ever be nice, you’ll be an enabler, especially to your loved ones. Being assertive, asking for what you want, checking your close people, will lead to a place where you both get more of what you want and neither of you is allowed to let the worst parts of yourself grow (doubt, insecurity, anxiety, jealousy). It’s the Facebook effect. FB only ever served up the stuff you clicked on, which is usually the shit that gets you the most riled up in anger or disgust. Being too nice panders to every personality trait a person has, that's ok when you don't see the person a lot, but for close relationships that can bring out the bad parts of people as well as the good. You create codependency.
 - “Be you and be cool with it…There is nothing more satisfying than being loved for who you are and nothing more painful than being loved for who you’re not, but pretending to be.” The Happiness Equation, p.238
 - “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
@@ -469,10 +489,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “Whenever someone has done wrong by you, immediately consider what notion of good or evil they had in doing it. For when you see that, you’ll feel compassion, instead of astonishment or rage.” Marcus Aurelius, Meditations, 7.26; The Daily Stoic, p. 82
 - “Nobody thinks they’re wrong, even when they are. They thing they’re right, they’re just mistaken…Could it be that the slights you’ve experienced or the harm that others have done to you was not inflicted intentionally? What if they they simply thought they were doing the right thing - for them, even for you?…How much more tolerant and understanding would you be today if you could see the actions of other people as attempts to do the right thing?” The Daily Stoic, p.82
 - “‘When you first rise in the morning tell yourself: I will encounter busybodies, ingrates, egomaniacs, liars, the jealous and cranks’ - Marcus Aurelius, Meditations, 2.1 …The point of this preparation is not to write off everyone in advance. It is that, maybe, because you’ve prepared for it, you’ll be able to act with patience, forgiveness, and understanding” The Daily Stoic, p.108
-- “I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross
-- “Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” - MLK
-- “Hate is too great a burden to bear” -MLK
-- “‘Kindness is invincible, but only when it’s sincere, with no hypocrisy or faking. For what can even the most malicious person do if you keep showing kindness and, if given the chance, you gently point out where they went wrong — right as they are trying to harm you?’ -Marcus Aurelius, Meditations, 11.18.5.9a …The expected reaction to hatred is more hatred…Most rudeness, meanness, and cruelty are a mask for deep-seated weakness. Kindness in these situations is only possible for people of great strength. You have great strength. Use it.” The Daily Stoic p.146
+- “I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross; It’s important to forgive and forget, but that being said, you don’t have to keep suffering pain and injustice at the hand of another person. You don’t need to hate them, but you don’t need to engage them in your life either. At worst a person should be neutral to you.
 
 ### Be Healthy - Physically and Mentally
 - “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end. It’s sad to think that this kind of frustration is an everyday reality for a lot of people…Worse is when we try to push these feelings away by buying things, going out, fighting, creating drama — indulging in the empty calories of existence instead of finding the real nourishment. The solution is simple and, thankfully, always right at hand. Get out there and work.” TDS, p.163
@@ -613,17 +630,6 @@ Don't make all the speech, show me.”
 - Study, internalize, act, meditate.
 - “‘We like to say that we don’t get to choose our parents, that they were given by chance — yet we can truly choose whose children we’d like to be” -Seneca, On the Brevity of Life, 15.3a’ Maybe your parents were poor role models, or you lacked a great mentor. Yet if we choose to, we can easily access the wisdom of those who came before us — those whom we aspire to be like. TDS, 173
 - “‘How laughable it is to say, ‘Tell me what to do!’ What advice could i possibly give? No, a far better request is, ‘Train my mind to adapt to any circumstance’…In this way, if circumstances take you off script…you won’t be desperate for a new prompting’ -Epictetus, Discourses, 2.2.20b-1;24b-25a Instead of looking for instruction, cultivate skills like creativity, independence, self-confidence, ingenuity, and the ability to problem solve” The Daily Stoic, p.178
-
-### Make the World a Better Place
-- Making the world a better place rests on making yourself a better person.
-- You have concentric sphere’s of influence that decrease in your ability to enact change and good the farther from yourself you get. Focus on doing good in your most potent spheres of influence. Yourself is the closest sphere of influence.
-- Give people the love and compassion they want, or the kind you want if nothing else. The Golden Rule.
-- Do random acts of unsolicited kindness. it’ll make you feel better, but it will add good to the world.
-- “…doing a kindness produces the single most reliable momentary increase in well-being of any exercise we have tested” - Martin Seligman, Flourish, as quoted in The Happiness Equation, p. 21
-- “The quickest way, the surest way to find more happiness in our lives, is to focus on the happiness of others.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
-- “‘God laid down this law, saying: if you want some good, get it from yourself’ Epictetus, Discourses, 1.29.4 Here is how to guarantee you have a good day: do good things” The Daily Stoic, p.141
-- “‘Kindness is invincible, but only when it’s sincere, with no hypocrisy or faking. For what can even the most malicious person do if you keep showing kindness and, if given the chance, you gently point out where they went wrong — right as they are trying to harm you?’ -Marcus Aurelius, Meditations, 11.18.5.9a …The expected reaction to hatred is more hatred…Most rudeness, meanness, and cruelty are a mask for deep-seated weakness. Kindness in these situations is only possible for people of great strength. You have great strength. Use it.” The Daily Stoic p.146
-- “What is your vocation? To be a good person.” -Marcus Aurelius, Meditations, 11.5 (TDS p.165)
 
 ### Be Judicious with Technology
 - Technology takes you away from being present in the moment. Every moment you spend needlessly perusing your phone while your life happens around you, is a moment you miss, you don’t get to be part of, and one you don’t get back. I went through the car wash with 3-yr-old Nate. I have a vague memory of him bouncing excitedly back and forth in the car watching the scrubber and water go back and forth, but I was dialed into something unimportant on my phone, wasting time, and I missed that moment. I missed taking in his laughs, and laughing and engaging with him about something he was way into. And that’s the real problem, when you don’t engage with the people around you on stuff they see as important, you miss connecting with them and being there with them. You miss building memories. You’re not emphasizing experience in your life when you’re glued to your phone.
