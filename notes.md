@@ -348,6 +348,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 ### Settle Down - Cultivate a Relaxed Attitude
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - “If a person wasn’t wanting something outside of their own control, why would they be stricken by anxiety?” Epictetus, Discourses, 2.13.1
+- “The tools and aims of our training are unaffected by the turbulence of the moment. Stop. Regain your composure. It’s waiting for you.” The Daily Stoic, p.68
 - Anxiety is just you wanting to control that which is outside your control. Stress is modern-day smoking. Unconditionally relax.
 - Things are fine. You’re ok. You’re not perfect. Learn to let things go. Holding on to negative emotions ruins your life.
 - Give yourself an unconditional break. Forgive yourself. Trust yourself. Trust your loved ones. Have compassion for yourself.
@@ -358,6 +359,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - Realize that there will always be downsides, imperfections, mistakes, harm, etc. Ride the waves, find your own inner peace. (mediation) (“there is no effort without error and shortcoming“)
 - “A person often meets his destiny on the road he took to avoid it” - Jean de La Fontaine
 - Be patient with yourself, and extend that to those around you.
+- Reset. Readjust. Restart. Refocus. As many times as you need to.
 - “Every time you get upset a little bit of life leaves the body” The Daily Stoic, p.52
 - “It is quite impossible to unite happiness with a yearning for what we don’t have.’ Epictetus, Discourses, 3.24.17 Locate that yearning for more, better, someday and see it for what it is: the enemy of your contentment. Choose it or your happiness.” The Daily Stoic, p.57
 - Sometimes the answer is 'it just takes time'
@@ -382,14 +384,12 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “How does it help, my husband, to make misfortune heavier by complaining about it?” - Seneca, Oedipus, 80 (TDS 193)
 
 ### Slow Down
+- Slow is smooth. Smooth is fast.
 - “Slow your breath down, just take it slow” - Future of Forestry, Slow your Breath Down
 - Slowing down probably isn’t necessarily about moving at a snail’s pace at all times, it’s probably more about moving deliberately and purposefully. I think usually that will mean a slower, smooth, steady pace to your life, but won’t prevent you from acting quickly when necessary, being punctual, etc.
 - Slow down. Hear people, listen to them fully before speaking. Don’t speak unless your sure it will bring value. “I begin to speak only when I’m certain what i’ll say isn’t better left unsaid.” Plutarch, Cato the Younger, 4
 - Respond, don’t react. Don’t immediately react to anything. Internalize it, then think about how best to respond.
-- “The tools and aims of our training are unaffected by the turbulence of the moment. Stop. Regain your composure. It’s waiting for you.” The Daily Stoic, p.68
-- Slow is smooth. Smooth is fast.
 - “It’s the thinking mind alone that  wants to become bigger, to become better, or something special in the world. The other part, our essence, our awareness, has no such desire or ambition… Awareness is voiceless. It simply witnesses. It observes. It has no goal. It has no desire  to change anything, to be something more, to be something better. It simply witnesses life as it unfolds. As much as we need the thinking mind, the mind that plans and strives, at the same time that mind is typically quite busy. it’s trying to change, it’s trying to reach for something bigger and better and of course there are times in our life when that’s entirely appropriate and even necessary. But so often, when we think about ourselves in this way, that’s just not particularly helpful. Rather than being happy with ourselves as we are or content with ourselves as we are, we’re so busy trying to be somebody different, that we can’t even experience that sense of contentment in this moment right now. So learning to rest in awareness, we rely less on that thinking mind, the thinking mind that’s always reaching for something else, and instead we start to appreciate the value of resting right here in this moment right now.” Headspace, “Everyday Headspace,” Tuesday, June 19, Awareness and Ambition
-- Reset. Readjust. Restart. Refocus. As many times as you need to.
 - Patience. Sometimes stuff just needs time, no action, just time.
 - “’Fortune doesn’t have the long reach we suppose, she can only lay siege to those who hold her tight. So, let’s step back from her as much as possible’ -Seneca, Moral Letters, 82.5b-6 the metaphor here would be the choice between a strategy of endless, exhausting offense and a strategy of resilient, flexible defense. Which will you play?” TDS p.183
 - “’Here is the great soul — the one who surrenders to Fate. The opposite is the weak and degenerate one, who struggles with and has a poor regard for the order of the world, and seeks to correct the faults of the gods rather than their own.’ - Seneca, Moral Letters, p.107.12 Let’s not wish we could turn back time or remake the universe according to our preference. Not when it would be far better and far easier to remake ourselves.” TDS p.184
