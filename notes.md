@@ -80,16 +80,36 @@ This is what I think is specifically, concretely important, what gets me up in t
     * Takes Work to Keep Healthy (Boundaries)
     * Love People, Use Things. Not the other way around
     * Pragmatically, Humans Rely Heavily on Each Other (No Man is an Island)
-* Proper Personal Boundaries are Essential to Relationship Health
-* Experiences and Memories Have Far Greater Value than Possessions and Material Goods
+* Proper Personal Boundaries are Essential to Healthy Relationships
+* Experiences and Memories Have Far Greater Fulfillment Value than Possessions and Material Goods
 * Purposeful, Mindful Engagement in the Present Moment is Central to Happiness
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
-* Don’t Deny the Dionysian - Connect with the Weltall
+* Have fun
 * Enough is Preferable to More
 * Action is Better than Analysis
 * You only get one body and one life, appreciate it and care for them
 * The Earth is the only home humanity has and it should be cared for
 * Technology is both a Powerful Ally and a Dangerous Enemy, Requires Awareness
+
+
+* Death Gives Life Meaning; The Natural World and Meaning
+* Have Fun
+* Live Life with Purpose - Find Your Meaning (See above Top 3)
+* Live Life on Purpose
+* Cultivate an Internal Locus of Control
+* Live in the Present Moment
+* Settle Down - Cultivate a Relaxed Attitude
+* Slow Down
+* Simplify
+* The Importance of Love
+* Be a Good Person; Leave the World Better than You Found It
+* Be Assertive; Set your Boundaries
+* Be Healthy - Mentally and Physically
+* Get Going: Analyze, Anticipate, but Act
+* Learn To be Disciplined
+* Be Smart
+* Be Judicious with Technology
+
 
 ## Principles, Practices, Strategies
 ### Death Gives Life Meaning; or, The Natural World and Meaning
@@ -155,9 +175,11 @@ This is what I think is specifically, concretely important, what gets me up in t
     A poor life this if, full of care,
     We have no time to stand and stare.
     ```
-### Balance the Rational and the Emotional
+- “It’s not until they tell you you’re going to die soon that you realize how short life is. Time is the most valuable thing in life because it never comes back. And whether you spend it in the arms of a loved one or alone in a prison-cell, life is what you make of it. Dream big.” - Stefan Stefansson
+
+### Have Fun
 - Nietzsche’s Apollonian and Dionysian are both required
-- Don’t deny the Dionysian - Connect with the universe - enjoy art - be wild - let go - cut loose - have sex - eat good food - truly enjoy life
+- Don’t deny the Dionysian - Connect with the universe - enjoy art - be wild - cut loose - enjoy sex - eat good food - cry - play - truly enjoy life
 - “Perhaps there is a realm of wisdom from which the logician is exiled? Perhaps art is even a necessary correlative of, and supplement for science?” - Nietzsche, The Birth of Tragedy
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - Creative expression is a vital yin to the rational, scientific yang.
@@ -167,10 +189,10 @@ This is what I think is specifically, concretely important, what gets me up in t
 - Meditate
 - “’We should take wandering outdoor walks, so that the mind might be nourished and refreshed by the open air and deep breathing.’ - Seneca, On Tranquility, 17.8 Today, make sure you take a walk. And in the future, when you get stressed or overwhelmed, take a walk. When you have a tough problem to solve or a decision to make, take a walk. When you want to be creative, take a walk. When you need to get some air, take a walk. When you have a phone call to make, take a walk. When you need some exercise, take a long walk. When you have a meeting or a friend over, take a walk. Nourish yourself and your mind and solve your problems along the way.” TDS, p.187
 - “An essential support for this inner sense of balance is understanding change…the experience of it, not the idea of it, not thinking about change, but really understanding from an experiential point of view, what it means that everything is changing from moment to moment. There’s always a certain amount of uncertainty in our life. If we can be comfortable resting in this uncertainty, then we find a very pleasurable sense of balance. If we’re always fighting, trying to stay in control, hold on to things, then there’s always a lot of tension in the mind, and the more tension there is, the more rigid things are, and therefore the more easily they’re upset, the more easily we fall out of balance. Learning to be comfortable with the fact that everything is changing, everybody is always changing, even our own thoughts and emotions, seeing that directly can really help lead to a greater sense of balance in the mind.” Headspace, Balance, Day 7
+- “Play probably isn’t a word that you would immediately associate with training the mind, but it’s actually really important to have a lightness of touch, a sense of play. When life becomes too serious, the mind becomes very rigid and we very quickly fall out of balance. We’re very quickly overwhelmed. Everything feels sort of tight when things get very serious like that. As long as there’s a sense of play, of lightness - it doesn’t mean not taking things seriously, but it does mean not taking ourselves too seriously, not taking our thoughts too seriously - that really helps to create the conditions for balance in the mind and in our life.” - Headspace, Balance, Day 8 intro
 
 - Rules are good, but be adaptable when they need to be broken.
 - Learning to balance technology in your life (e.g. smart phone) is wicked important. You need more than the technological dopamine in your life.
-- “It’s really tempting to meditate for balance only when you’re feeling stressed or out of balance in some way. Often we just look to fix things when they already happen. But we should try and use the balance visualization {light above the head flowing into your body} on a regular basis, to really get comfortable with it to remind yourself of what it feels like to be grounded to have a sense of balance. The more time you spend in that place, the less likely you are to be overwhelmed. It’s no longer about putting out fires the whole time, instead it’s about preventing the fires from getting out of control in the first place. having the presence of mind to see thoughts and emotions beginning to run away and at the moment to say ‘I’m not going to do that this time. I’m just going to come back to that feeling of being present, of being balanced in both body and mind…Be aware throughout the day, find the moments in the day that you can remind yourself of this feeling of balance. In reminding yourself, all you’re doing is tapping back in to that innate quality of balance that’s always there. You’re reminding the mind what it’s like to rest in that space. The more you can do that, the more natural that tendency becomes, the more often you go to that place, the more time you spend in that place, and the greater the sense of balance there is in life” - Headspace, Balance, Day 3
 
 ### Live Life with Purpose - Find Your Meaning (See above Top 3)
 - “First tell yourself what kind of person you want to be, then do what you have to do” -Epictetus, Discourses, 3.23.1-2a The Daily Stoic, p.136. Loving yourself helps you gain a sense of who you are and who you want to be, which must come before you can find your meaning and purpose in life. I think if you try living a purpose without knowing yourself (i.e. your wants and drives), this will just cause stress.
@@ -200,6 +222,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “’Show me that the good life doesn’t consist in its length, but in its use’” the Daily Stoic, p.157
 - It’s possible to have a short life that is full, it’s possible to have a long life that is empty. The number of years you get doesn’t matter, just how you fill them up. “‘Show me that the good life doesn’t consist in its length, but in its use, and that it is possible — no, entirely too common — for a person who has had a long life to have lived too little’ -Seneca, Moral Letters, 49.10b Show yourself. That no matter how many years you’re ultimately given, your life can be clearly and earnestly said to have been a long and full one.” The Daily Stoic, p.157
 - The flood irrigation principle: when using a shovel to irrigate a field, you can’t just make dams everywhere you don’t want water to go. far more effective and useful is to give the water somewhere to go. The interesting subtlety is that the water will go somewhere whether you like it or not, it’s just up to you to decide where.
+- “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end. It’s sad to think that this kind of frustration is an everyday reality for a lot of people…Worse is when we try to push these feelings away by buying things, going out, fighting, creating drama — indulging in the empty calories of existence instead of finding the real nourishment. The solution is simple and, thankfully, always right at hand. Get out there and work.” TDS, p.163
 
 ### Live Life on Purpose
 - “‘First tell yourself what kind of person you want to be, then do what you have to do’ -Epictetus, Discourses, 3.23.1-2a … An archer is unlikely to hit a target she did not aim for” The Daily Stoic, p.136
@@ -298,6 +321,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - Action is a good way to develop internal controls. Self-efficacy is learned by doing. “‘We cry to God Almighty, how can we escape this agony? Fool, don’t you have hands?’ - Epictetus, Discourses, 2.16.13 Succumbing to the self-pity and ‘woe is me’ narrative accomplishes nothing - nothing except sapping you of the energy and motivations you need to do something about your problem.” TDS, p.171
 - “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting…Just do it.” The Happiness Equation, p.231
 - “If you find yourself in a hole, stop digging” - “Today, give yourself the most simple and doable of tasks: just don’t make stuff worse. Whatever happens, don’t add angry or negative emotions to the equation. Don’t react for the sake of reacting. Leave it as it is. Stop digging. Then plan your way out.” The Daily Stoic, p.177
+- “‘That which is an impediment to action is turned to advance action. The obstacle on the path becomes the way.’ -Marcus Aurelius, Meditations, 5.20 You have the power to use the Stoic exercise of turning obstacles upside down, which takes one negative circumstance and uses it as an opportunity to practice and unintended virtue or form of excellence…Every impediment can advance action in some form or another” TDS p196
 
 ### Live in the Present Moment
 - “The longest and shortest life, then, amount to the same, for the present moment lasts the same for all and is all anyone possesses.” -Marcus Aurelius, Meditations, 2.14; The Daily Stoic, p.85
@@ -355,6 +379,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “You don’t need to fix things that lie outside of your control. You also don’t need to fix the anxiety; it is a feeling that you have; it is therefore not you. The need to fix, to control is what fuels the anxiety in the forest place. Let it be, and it will lose its excessive force.” - Darren Brown, Happy
 - “There is a maxim that Navy SEALs pass from officer to officer, man to man: ‘Calm is contagious.’ …That’s who you want to be: the casual, relaxed person in every situation who tells everyone else to take a breath and not to worry. Because you’ve got this. Don’t be the agitator, the paranoid, the worrier, or the irrational. Be the calm, not the liability. It will catch on.” TDS, p.186
 - Figure out how to give yourself some mental space - Meditate
+- “How does it help, my husband, to make misfortune heavier by complaining about it?” - Seneca, Oedipus, 80 (TDS 193)
 
 ### Slow Down
 - “Slow your breath down, just take it slow” - Future of Forestry, Slow your Breath Down
@@ -369,6 +394,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “’Fortune doesn’t have the long reach we suppose, she can only lay siege to those who hold her tight. So, let’s step back from her as much as possible’ -Seneca, Moral Letters, 82.5b-6 the metaphor here would be the choice between a strategy of endless, exhausting offense and a strategy of resilient, flexible defense. Which will you play?” TDS p.183
 - “’Here is the great soul — the one who surrenders to Fate. The opposite is the weak and degenerate one, who struggles with and has a poor regard for the order of the world, and seeks to correct the faults of the gods rather than their own.’ - Seneca, Moral Letters, p.107.12 Let’s not wish we could turn back time or remake the universe according to our preference. Not when it would be far better and far easier to remake ourselves.” TDS p.184
 - “To the youngster talking nonsense Zeno said, ‘The reason why we have to ears and only one mouth is so we might listen more and talk less.’” - Diogenes Laertius, Lives of Eminent Philosophers, 7.1.23; TDS p.180
+- “It’s really tempting to meditate for balance only when you’re feeling stressed or out of balance in some way. Often we just look to fix things when they already happen. But we should try and use the balance visualization {light above the head flowing into your body} on a regular basis, to really get comfortable with it to remind yourself of what it feels like to be grounded to have a sense of balance. The more time you spend in that place, the less likely you are to be overwhelmed. It’s no longer about putting out fires the whole time, instead it’s about preventing the fires from getting out of control in the first place. having the presence of mind to see thoughts and emotions beginning to run away and at the moment to say ‘I’m not going to do that this time. I’m just going to come back to that feeling of being present, of being balanced in both body and mind…Be aware throughout the day, find the moments in the day that you can remind yourself of this feeling of balance. In reminding yourself, all you’re doing is tapping back in to that innate quality of balance that’s always there. You’re reminding the mind what it’s like to rest in that space. The more you can do that, the more natural that tendency becomes, the more often you go to that place, the more time you spend in that place, and the greater the sense of balance there is in life” - Headspace, Balance, Day 3
 
 ### Simplify
 - Enough is better than more.
@@ -424,10 +450,12 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You yourself, as much as anybody in the entire universe deserve your love and affection.” - Buddha
     - “Settling into your true, weird, authentic self isn’t easy, but it’s the most satisfying way to have everything” The Happiness Equation, p 243
     - Self awareness leads to self-discovery. Self-discovery leads to self-familiarity, which leads to self-satisfaction, self-love, and self-care.
+    - “’Philosophy calls for simple living, but not for penance — it’s quite possible to be simple without being crude’ -Seneca, Moral Letters, 5.5 Marcus’ meditations are filled with self-criticism and so are the writings of other Stoics. It’s important to remember, however that that’s as far as it goes. There was no self-flagellation, no paying penance, no self-esteem issues from guilt or self-loathing…their self-criticism is constructive….Hold yourself to a higher standard, but not an impossible one. And forgive yourself if and when you slip up” TDS p.194
     - Find a place of calm and strength inside yourself. Learn to love and have compassion for yourself like a very accepting, supportive parent would love you. Love yourself like Fred Rogers would love you. “When you’re capable of loving, accepting, and forgiving yourself no matter what, you’ll have the emotional energy to love, accept, and forgive others. When your cup is full of love to yourself, you could give more to others.” (https://www.reddit.com/r/howtonotgiveafuck/comments/8api2x/fear_of_not_being_good_enough_episode_2_constant/?st=JFSBV4P2&sh=fc412057)
     - “As we build up the exercise, so we’ll shift our attention away from ourselves, and more towards others. But the starting place is with ourselves. If we don’t have a sense of calm, a sense of kindness, or forgiveness toward ourself, then it’s going to be really difficult to have that towards others. So the two things aren’t really so different, it’s like they’re two sides of the same coin. If we develop one, at the same time we’re developing the other.” - Headspace, Relationships, Session 3
     - “Self-care is not selfish. You cannot serve from an empty vessel.” - Eleanor Brownn
     - “Be you and be cool with it…There is nothing more satisfying than being loved for who you are and nothing more painful than being loved for who you’re not, but pretending to be.” The Happiness Equation, p.238
+    - “Confidence is a funny thing. People sometimes assume it’s about repeating a story in the mind, over and over again. One that makes us look or feel really good. But the problem is, when we have an artificial confidence like this, it’s always tinged with fear. What happens if it lets us down? What happens if we lose the storyline? What happens if doubt creeps in? But there’s a kind of confidence, you could call it quiet confidence, that’s almost the opposite. It means letting go of all that stuff. Putting down the storylines. And when we let go of it, we experience something else. We experience vulnerability, uncertainty, and openness. But within that, somewhere we discover quiet confidence.  Perhaps it’s just a byproduct to being willing to exist without those comforting stories. But the incredible thing is, because it’s not separate from ourselves, we can’t lose it. it’s indestructible, and that’s the beauty of it. To rest with that sense of vulnerability, not necessarily knowing, but at the same time, being confident in not knowing. That’s quiet confidence.” - Headspace animation, Confidence
     - “Confidence isn’t ‘They will like me.’ Confidence is ‘I’ll be fine if they don’t.’”
     - “I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross (Applicable first to yourself)
     - “Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” - MLK
@@ -456,6 +484,7 @@ This is what I think is specifically, concretely important, what gets me up in t
     - Love is pure, unbiased appreciation of and compassion for another, and therefore comes without expectation of how the other should behave or be. To love someone is to let them be, without putting on them your expectation for what they might be or reciprocate. Therefore, you cannot control someone and love them at the same time. If they love you, they will reciprocate your love and appreciation for who you are, without putting on you the expectation of behavior, being, or reciprocation. This is why love and trust, especially in a committed romantic relationship, are so intertwined, and why love without trust is a rotten thing. This is unconditional love.
     - It’s not your job to keep the people you love happy. You individually be happy and bring that to the relationship.
     - “You cannot make a person happy. You can make a person smile, you can make a person feel good, you can make a person laugh, but whether or not a person is happy is deeply and totally and utterly out of your control…I said to Jada ’That’s it. I retire from trying to make you happy. I need you to go make yourself happy….’ And after we cracked the hell up we realized we had come into this false romantic concept that somehow when we got married that we would become one. And what we realized is that we were two completely separate people on two completely separate individual journeys and that we were choosing to walk our separate journeys together, but her happiness was her responsibility and my happiness was my responsibility. And we decided that we were gonna find our individual, internal private separate joy, and then we were gonna present ourselves to the relationship and two each other already happy, not coming to each other begging, with our empty cups out _demanding_ that she fill my cup and she meet my needs. It’s unfair and its kind of unrealistic and can be destructive to place the responsibility for your happiness on anybody other than yourself.” - Will Smith, Instagram Video,
+    - The more you assert yourself the more someone knows how to fulfill your needs. The more quiet you are in your relationship the less idea they have about how to take care of you. People don’t read minds. Speak your needs. Speak your wants.
     - “If you love someone, set them free. If they come back they're yours; if they don't they never were.” -Richard Bach
     - “It’s really important to find a partner who is at your level of happiness. Or higher. The good news is that you can be happy first.” The Happiness Equation, secret chapter ~p.266
     - ”For me the real evil of masturbation would be that it takes an appetite which, in lawful use, leads the individual out of himself to complete (and correct) his own personality in that of another (and finally in children and even grandchildren) and turns it back; sends the man back into the prison of himself, there to keep a harem of imaginary brides. And this harem, once admitted, works against his ever getting out and really uniting with a real woman. For the harem is always accessible, always subservient, calls for no sacrifices or adjustments, and can be endowed with erotic and psychological attractions which no woman can rival. Among those shadowy brides he is always adored, always the perfect lover; no demand is made on his unselfishness, no mortification ever imposed on his vanity. In the end, they become merely the medium through which he increasingly adores himself…After all, almost the main work of life is to come out of our selves, out of the little dark prison we are all born in. Masturbation is to be avoided as all things are to be avoided which retard this process. The danger is that of coming to love the prison." -C.S. Lewis
@@ -480,6 +509,8 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “What is your vocation? To be a good person.” -Marcus Aurelius, Meditations, 11.5 (TDS p.165)
 - “‘Kindness is invincible, but only when it’s sincere, with no hypocrisy or faking. For what can even the most malicious person do if you keep showing kindness and, if given the chance, you gently point out where they went wrong — right as they are trying to harm you?’ -Marcus Aurelius, Meditations, 11.18.5.9a …The expected reaction to hatred is more hatred…Most rudeness, meanness, and cruelty are a mask for deep-seated weakness. Kindness in these situations is only possible for people of great strength. You have great strength. Use it.” The Daily Stoic p.146
 - “’Every event has two handles, one by which it may be carried, the other by which it cannot. If your brother does you wrong, don't lay hold on the action by the handle of his injustice, for by that it cannot be carried; but by the opposite, that he is your brother, that he was brought up with you; and then you will have hold of the handle which carries.’ -Epictetus, Enchiridon, 43 There is no promise that trying things this way — of grabbing the different handle — will have such momentous results for your. But why continue to lift by the handle that hasn’t worked?” TDS p.180
+- Listen “Hesiod, the poet, said that ‘the best treasure is a sparing tongue.’ Robert Greene considers it a low of power: Always Say Less Than Necessary. We talk because we think it’s helping, whereas in reality, it’s making things hard for us. If our spouse is venting, we want to tell them what they should do. In fact, all they actually want us to do is hear them.” TDS p.191
+- “Or course it’s possible to curb our arrogance, control our anger, and be a caring person. How do you think others do it?…They worked on it. They made it a priority. They solved it like they would solve any other problem: by dedicating themselves to finding a solution, making incremental progress until they did.” TDS p195
 
 ### Be Assertive; Set your Boundaries
 - Be nice but don’t let people take advantage of or manipulate you (see: live life on purpose). This will help you avoid manipulation and being taken advantage of, but will still provide you the chance to be compassionate to people without sacrificing compassion for yourself.
@@ -540,7 +571,7 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “Anger as soon as it is fed, is dead - ’Tis starving makes it fat” -Emily Dickenson
     - “There is no more stupefying thing than anger, nothing more bent on its own strength. If successful, none more arrogant, if foiled, none more insane — since it’s not driven back by weariness even in defeat, when fortune removes its adversary it turns its teeth on itself.” - Seneca, On Anger, 3.1.5, The Daily Stoic, p.50
 
-### Get Going: Analyze, Anticipate, but Act.
+### Get Going: Analyze, Anticipate, but Act
 - “An archer is unlikely to hit a target she did  not aim for…our perceptions and principles guide us in the selection of what we want—but ultimately our actions determine whether we get there or not. So yes, spend some time—real, uninterrupted time—thinking about what’s important to you, what your priorities are. Then, work toward that and forsake all others. It’s not enough to wish and hope. One must act—and act right” The Daily Stoic, p.136
 - it’s ok to think and analyze and plan, but the best course is always action.
 - “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting…Just do it.” The Happiness Equation, p.231
@@ -614,6 +645,7 @@ Don't make all the speech, show me.”
 - “‘Well-being is realized by small steps, but is truly no small thing’ -Zeno; the truth is one we know well: the little things add up….While the individual action is small, its cumulative impact is not…Choose the right way, and watch as all these little things add up toward transformation.“ The Daily Stoic p.161
 - “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end” TDS, p.163
 - “’You must build up your life action by action’ -Marcus Aurelius, Meditations, 8.32 If you follow The Process in your life — assembling the right actions in the right order, one right after the other — you too will do well. Not only that, you will be better equipped to make quick work of the obstacles along that path. You’ll be too busy putting one foot in front of the next to even notice the obstacles were there.” TDS, p.174
+- “What assistance can we find in the fight against habit? Try the opposite!” -Epictetus, Discourses, 1.27.4 (TDS, p.192)
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
@@ -625,6 +657,7 @@ Don't make all the speech, show me.”
 - “Take a little time today to remember that you’re blessed with the capacity to use logic and reason to navigate situations and circumstances. This gives you unthinkable power to alter your circumstances and the circumstances of others. And remember that with power comes responsibility.” The Daily Stoic, p.86
 - “What influences the ruling reason that guides your life? This means an exploration of subjects like evolutionary biology, psychology, neurology, and even the subconscious. Because these deeper forces shape even the most disciplined, rational minds…So don’t stop at Stoicism, but explore the forces that drive and make stoicism possible…Understand not only your ruling reason…but whoever and whatever rules that too.” The Daily Stoic, p.96
 - “We must fight our biases and preconceptions…Ask yourself: What haven’t I considered? Why is this thing the way it is? Am I part of the problem here or the solution? Could I be wrong here?…We’re not as smart and wise as we’d like to think we are. If we ever do want to become wise, it comes from the questioning and from humility - not, as many would like to think, from certainty, mistrust, and arrogance.” The Daily Stoic, p.109
+- “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end” TDS, p.163
 - “From the very beginning, make it your practice to say to every impression ‘you are an impression and not at all what you appear to be.” Next, examine and test it by the rules you possess, the first and greatest of which is this - whether it belongs to the things in our control or not in our control, and if the latter, be prepared to respond, ‘It is nothing to me’” Epictetus, Enchiridon, 1.5; The Daily Stoic, p.111
 - “Every man I meet is my master in some point, and in that I learn of him” - Emerson, The Daily Stoic, p.113
 - “If you want to learn, if you want to improve your life, seeking out teachers, philosophers, and great books is a good starts. But this approach will only be effective if you’re humble and ready to let go of opinions you already have.” The Daily Stoic, p.113
