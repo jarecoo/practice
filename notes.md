@@ -15,7 +15,7 @@ This is what I think is specifically, concretely important, what gets me up in t
         * Appreciate the time you have with your loved ones. “Nell teaches aspects of parenthood never understood before. If she cries or makes a mess or decides to be contrary (and these are relatively rare), it doesn’t bother. There is always Chris’s silence to compare it to.” - Robert Pirsig, ZatAoMM
         * Remember your kids aren’t you. They’re their own people.
         * Getting mad at people for making mistakes doesn’t teach them to not make mistakes, it teaches them to hide them
-        * There are three parts to raising kids, as I see it, and the important pivot in parent comes at adulthood when you stop doing the first 2 and are executing solely on the last part. The tricky part is that you more or less dictate 1 and 2, but they dictate 3 and you need to be in tune with their needs and wants for that.
+        * There are three parts to raising kids, as I see it, and the important pivot in parent comes at adulthood when you stop doing the first 2 and are executing mostly on the last one. The tricky part is that you more or less dictate 1 and 2, but they dictate 3 and you need to be in tune with their needs and wants for that.
             * 1. Teach them how to do stuff (e.g. eat, walk, talk, ride a bike, do math, etc)
             * 2. Teach them what to be (e.g. morality, behavior, hard work, manners, etc)
             * 3. Provide emotional support, unconditional love, compassion, empathy, listening ear, encouragement
@@ -28,6 +28,7 @@ This is what I think is specifically, concretely important, what gets me up in t
         * Other Invigorating leisure activities
         * Photography
     * Either be improving life or enjoying it
+        * Having fun is good for you
     * Take pride in and control of my life, make it what i want as far as i am able, don’t let other people/institutions dictate my way of life
         * Live according to my family’s wants and needs, as well as my own.
         * Discipline
@@ -57,6 +58,20 @@ This is what I think is specifically, concretely important, what gets me up in t
 
 # Moral Paradigm & How I Should Live My Life
 ## Beliefs
+* Purpose
+* Presence
+* Simplicity
+* Intrinsic Motivation
+* Awe
+* Love
+* Fun
+* Action
+* Discipline
+* Balance
+* Self-assertion
+* Virtue
+
+
 * Meaning and Purpose are Central to Happiness
     * Individually Created
     * Derived from a strong sense of who you are (developed from self-love)
@@ -73,15 +88,14 @@ This is what I think is specifically, concretely important, what gets me up in t
     * Presence in the moment is vital to happiness and enjoyment
     * Tranquility of mind is preferable to a turbulent mind
     * Seeing the good in life, and being grateful helps avoid the scourge of stress
-* Love shared with Another is a Basic Human Need
+* Love is a Basic Human Need
     * Compassion and Love for Yourself is Foundational
-    * Connection is a Human Necessity that Brings Peace
+    * Most people need Connection with Others
     * Builds up to Altruism
     * Takes Work to Keep Healthy (Boundaries)
     * Love People, Use Things. Not the other way around
     * Pragmatically, Humans Rely Heavily on Each Other (No Man is an Island)
-* Proper Personal Boundaries are Essential to Healthy Relationships
-* Experiences and Memories Have Far Greater Fulfillment Value than Possessions and Material Goods
+* Experiences and Memories are more Fulfilling than Possessions and Material Goods
 * Purposeful, Mindful Engagement in the Present Moment is Central to Happiness
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
 * Have fun
@@ -93,9 +107,9 @@ This is what I think is specifically, concretely important, what gets me up in t
 
 
 * Death Gives Life Meaning; The Natural World and Meaning
-* Have Fun
 * Live Life with Purpose - Find Your Meaning (See above Top 3)
 * Live Life on Purpose
+* Have Fun
 * Cultivate an Internal Locus of Control
 * Live in the Present Moment
 * Settle Down - Cultivate a Relaxed Attitude
@@ -135,7 +149,9 @@ This is what I think is specifically, concretely important, what gets me up in t
 - As long as you live with purpose and pursue it, your life is beautifully expressed and nothing is lost.
 - “The meaning of life is to give something meaning”
 - “I don't think an ancient Stoic would ever really consider the question of his or her life's meaning. You're part of nature; that's your meaning. Sure, you're also part of a family and of a society, too, but even if you were cast alone on an island, the meaningfulness of your life would just never be in question.” https://www.reddit.com/r/Stoicism/comments/8z3b20/comment/e2gfpzm?st=JJNSXYQO&sh=7470a6dc
+- “The Stoics believed that every person, animal, and thing has a purpose or a place in nature. Even in ancient Greek and Roman times, they vaguely understood that the world was composed of millions of tiny atoms. It was this idea — this sense of an interconnected cosmos — that underpinned their sense that every person and every action was part of a larger system. Everyone had a job — a specific duty.” TDS p198
 - “In a short time you’ll be nobody and nowhere, even as the great emperors Hadrian and Augustus are now.” - Marcus Aurelius, Meditations, 8.5 (The Daily Stoic, p.162)
+- ’Never shirk the proper dispatch of your duty, no matter if you are freezing or hot, groggy or well-rested, vilified or praised, not even if dying or pressed by other demands. Even dying is one of the important assignments of life and, in this as in all else, make the most of your resources to do well the duty at hand.’ -Marcus Aurelius, Meditations, 6.2 (TDS p199)
 -  _Wandrers Nachtsong 1_
     ```
     Der du von dem Himmel bist,
@@ -176,23 +192,6 @@ This is what I think is specifically, concretely important, what gets me up in t
     We have no time to stand and stare.
     ```
 - “It’s not until they tell you you’re going to die soon that you realize how short life is. Time is the most valuable thing in life because it never comes back. And whether you spend it in the arms of a loved one or alone in a prison-cell, life is what you make of it. Dream big.” - Stefan Stefansson
-
-### Have Fun
-- Nietzsche’s Apollonian and Dionysian are both required
-- Don’t deny the Dionysian - Connect with the universe - enjoy art - be wild - cut loose - enjoy sex - eat good food - cry - play - truly enjoy life
-- “Perhaps there is a realm of wisdom from which the logician is exiled? Perhaps art is even a necessary correlative of, and supplement for science?” - Nietzsche, The Birth of Tragedy
-- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
-- Creative expression is a vital yin to the rational, scientific yang.
-- “We need to develop individual practices that re-create a web of interconnection with the natural world that we have lost,” he says. “They must immerse the self so deeply in the wild that boundaries of self and Other dissolve.” -Jack Turner, in "Not Ours to Exploit," Terry Tempest Williams, THE PROGRESSIVE
-- “What counts as wildness and wilderness is determined not by the absence of people, but by the relationship between people and place. A place is wild when its order is created according to its own principles of organization—when it is self-willed land." -Jack Turner, in "Not Ours to Exploit," Terry Tempest Williams, THE PROGRESSIVE
-- “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
-- Meditate
-- “’We should take wandering outdoor walks, so that the mind might be nourished and refreshed by the open air and deep breathing.’ - Seneca, On Tranquility, 17.8 Today, make sure you take a walk. And in the future, when you get stressed or overwhelmed, take a walk. When you have a tough problem to solve or a decision to make, take a walk. When you want to be creative, take a walk. When you need to get some air, take a walk. When you have a phone call to make, take a walk. When you need some exercise, take a long walk. When you have a meeting or a friend over, take a walk. Nourish yourself and your mind and solve your problems along the way.” TDS, p.187
-- “An essential support for this inner sense of balance is understanding change…the experience of it, not the idea of it, not thinking about change, but really understanding from an experiential point of view, what it means that everything is changing from moment to moment. There’s always a certain amount of uncertainty in our life. If we can be comfortable resting in this uncertainty, then we find a very pleasurable sense of balance. If we’re always fighting, trying to stay in control, hold on to things, then there’s always a lot of tension in the mind, and the more tension there is, the more rigid things are, and therefore the more easily they’re upset, the more easily we fall out of balance. Learning to be comfortable with the fact that everything is changing, everybody is always changing, even our own thoughts and emotions, seeing that directly can really help lead to a greater sense of balance in the mind.” Headspace, Balance, Day 7
-- “Play probably isn’t a word that you would immediately associate with training the mind, but it’s actually really important to have a lightness of touch, a sense of play. When life becomes too serious, the mind becomes very rigid and we very quickly fall out of balance. We’re very quickly overwhelmed. Everything feels sort of tight when things get very serious like that. As long as there’s a sense of play, of lightness - it doesn’t mean not taking things seriously, but it does mean not taking ourselves too seriously, not taking our thoughts too seriously - that really helps to create the conditions for balance in the mind and in our life.” - Headspace, Balance, Day 8 intro
-
-- Rules are good, but be adaptable when they need to be broken.
-- Learning to balance technology in your life (e.g. smart phone) is wicked important. You need more than the technological dopamine in your life.
 
 ### Live Life with Purpose - Find Your Meaning (See above Top 3)
 - “First tell yourself what kind of person you want to be, then do what you have to do” -Epictetus, Discourses, 3.23.1-2a The Daily Stoic, p.136. Loving yourself helps you gain a sense of who you are and who you want to be, which must come before you can find your meaning and purpose in life. I think if you try living a purpose without knowing yourself (i.e. your wants and drives), this will just cause stress.
@@ -250,6 +249,23 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘Every habit and capability is confirmed and grows in its corresponding actions, walking by walking, running by running…therefore, if you want to do something make a habit of it, if you don’t want to do that, don’t, but make a habit of something else instead.’ - Epictetus, Discourses, 2.18.1-5; Think about your activities of the last week as well as what you have planned for today and the week that follows. The person you’d like to be, or the person you see yourself as — how closely do your actions actually correspond to him or her? Which fire are you fueling? Which person are you becoming?” The Daily Stoic, p.147
 - “Evaluate what you are doing, why you are doing it, and where accomplishing it will take you. If you don’t have a good answer, then stop” -Epictetus, Discourses, 4.4.41; 43 (TDS p.164)
 - “Vivere est Militare (To love is to fight)” - Seneca, TDS p.179
+
+### Have Fun
+- Nietzsche’s Apollonian and Dionysian are both required
+- Don’t deny the Dionysian - Connect with the universe - enjoy art - be wild - cut loose - enjoy sex - eat good food - cry - play - truly enjoy life
+- “Perhaps there is a realm of wisdom from which the logician is exiled? Perhaps art is even a necessary correlative of, and supplement for science?” - Nietzsche, The Birth of Tragedy
+- “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
+- Creative expression is a vital yin to the rational, scientific yang.
+- “We need to develop individual practices that re-create a web of interconnection with the natural world that we have lost,” he says. “They must immerse the self so deeply in the wild that boundaries of self and Other dissolve.” -Jack Turner, in "Not Ours to Exploit," Terry Tempest Williams, THE PROGRESSIVE
+- “What counts as wildness and wilderness is determined not by the absence of people, but by the relationship between people and place. A place is wild when its order is created according to its own principles of organization—when it is self-willed land." -Jack Turner, in "Not Ours to Exploit," Terry Tempest Williams, THE PROGRESSIVE
+- “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
+- Meditate
+- “’We should take wandering outdoor walks, so that the mind might be nourished and refreshed by the open air and deep breathing.’ - Seneca, On Tranquility, 17.8 Today, make sure you take a walk. And in the future, when you get stressed or overwhelmed, take a walk. When you have a tough problem to solve or a decision to make, take a walk. When you want to be creative, take a walk. When you need to get some air, take a walk. When you have a phone call to make, take a walk. When you need some exercise, take a long walk. When you have a meeting or a friend over, take a walk. Nourish yourself and your mind and solve your problems along the way.” TDS, p.187
+- “An essential support for this inner sense of balance is understanding change…the experience of it, not the idea of it, not thinking about change, but really understanding from an experiential point of view, what it means that everything is changing from moment to moment. There’s always a certain amount of uncertainty in our life. If we can be comfortable resting in this uncertainty, then we find a very pleasurable sense of balance. If we’re always fighting, trying to stay in control, hold on to things, then there’s always a lot of tension in the mind, and the more tension there is, the more rigid things are, and therefore the more easily they’re upset, the more easily we fall out of balance. Learning to be comfortable with the fact that everything is changing, everybody is always changing, even our own thoughts and emotions, seeing that directly can really help lead to a greater sense of balance in the mind.” Headspace, Balance, Day 7
+- “Play probably isn’t a word that you would immediately associate with training the mind, but it’s actually really important to have a lightness of touch, a sense of play. When life becomes too serious, the mind becomes very rigid and we very quickly fall out of balance. We’re very quickly overwhelmed. Everything feels sort of tight when things get very serious like that. As long as there’s a sense of play, of lightness - it doesn’t mean not taking things seriously, but it does mean not taking ourselves too seriously, not taking our thoughts too seriously - that really helps to create the conditions for balance in the mind and in our life.” - Headspace, Balance, Day 8 intro
+
+- Rules are good, but be adaptable when they need to be broken.
+- Learning to balance technology in your life (e.g. smart phone) is wicked important. You need more than the technological dopamine in your life.
 
 ### Cultivate an Internal Locus of Control
 - “‘The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to with the choices I actually control.’ - Epictetus, Discourses, 2.5.4-5; The single most important practice in Stoic philosophy is differentiating between what we can chance and what we can’t…time spent hurling yourself at these immovable objects is time not spent on the things we can change.” The Daily Stoic, p.9
@@ -322,6 +338,8 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting…Just do it.” The Happiness Equation, p.231
 - “If you find yourself in a hole, stop digging” - “Today, give yourself the most simple and doable of tasks: just don’t make stuff worse. Whatever happens, don’t add angry or negative emotions to the equation. Don’t react for the sake of reacting. Leave it as it is. Stop digging. Then plan your way out.” The Daily Stoic, p.177
 - “‘That which is an impediment to action is turned to advance action. The obstacle on the path becomes the way.’ -Marcus Aurelius, Meditations, 5.20 You have the power to use the Stoic exercise of turning obstacles upside down, which takes one negative circumstance and uses it as an opportunity to practice and unintended virtue or form of excellence…Every impediment can advance action in some form or another” TDS p196
+- “‘There is no vice which lacks a defense, none that at the outset its’t modest and easily intervened…For every emotion is at first weak. Later it rouses itself and gathers strength as it moves along - it’s easier to slow it down than to supplant it.’ -Seneca, Moral Letters, 106.2b03a ’Rivers’ Publilius Syrus reminds us with and epigram, ‘are easiest to cross at their source.’ that’s what Seneca means too. The raging waters and early currents of bd habits, ill discipline, chaos, and dysfunction — somewhere they began as no more than just a trickle.” TDS p175
+- “How important it is to catch the mind, in a soft way, a very light way. When you realize the mind’s racing off, knowing that it’s quite possibly racing off to a place of imbalance, when you feel an emotion begin to get very strong, recognizing that if you can be present with that emotion, and it offers you the opportunity of choice, of not allowing it to overwhelm you, but instead simply being present with it, experiencing it, and then letting it go, maintaining that sense of balance. ” Headspace, Balance Day 9, epilogue, https://my.headspace.com/play/69
 
 ### Live in the Present Moment
 - “The longest and shortest life, then, amount to the same, for the present moment lasts the same for all and is all anyone possesses.” -Marcus Aurelius, Meditations, 2.14; The Daily Stoic, p.85
@@ -511,6 +529,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “’Every event has two handles, one by which it may be carried, the other by which it cannot. If your brother does you wrong, don't lay hold on the action by the handle of his injustice, for by that it cannot be carried; but by the opposite, that he is your brother, that he was brought up with you; and then you will have hold of the handle which carries.’ -Epictetus, Enchiridon, 43 There is no promise that trying things this way — of grabbing the different handle — will have such momentous results for your. But why continue to lift by the handle that hasn’t worked?” TDS p.180
 - Listen “Hesiod, the poet, said that ‘the best treasure is a sparing tongue.’ Robert Greene considers it a low of power: Always Say Less Than Necessary. We talk because we think it’s helping, whereas in reality, it’s making things hard for us. If our spouse is venting, we want to tell them what they should do. In fact, all they actually want us to do is hear them.” TDS p.191
 - “Or course it’s possible to curb our arrogance, control our anger, and be a caring person. How do you think others do it?…They worked on it. They made it a priority. They solved it like they would solve any other problem: by dedicating themselves to finding a solution, making incremental progress until they did.” TDS p195
+- “The Stoics believed that every person, animal, and thing has a purpose or a place in nature. Even in ancient Greek and Roman times, they vaguely understood that the world was composed of millions of tiny atoms. It was this idea — this sense of an interconnected cosmos — that underpinned their sense that every person and every action was part of a larger system. Everyone had a job — a specific duty…The most critical part of this system was the belief that you, the student who has sought out Stoicism, have the most important job: to be good. To be wise…Do your job today. Whatever happens, whatever other people’s jobs happen to be, do yours. Be good.” TDS p198
 
 ### Be Assertive; Set your Boundaries
 - Be nice but don’t let people take advantage of or manipulate you (see: live life on purpose). This will help you avoid manipulation and being taken advantage of, but will still provide you the chance to be compassionate to people without sacrificing compassion for yourself.
@@ -646,6 +665,7 @@ Don't make all the speech, show me.”
 - “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end” TDS, p.163
 - “’You must build up your life action by action’ -Marcus Aurelius, Meditations, 8.32 If you follow The Process in your life — assembling the right actions in the right order, one right after the other — you too will do well. Not only that, you will be better equipped to make quick work of the obstacles along that path. You’ll be too busy putting one foot in front of the next to even notice the obstacles were there.” TDS, p.174
 - “What assistance can we find in the fight against habit? Try the opposite!” -Epictetus, Discourses, 1.27.4 (TDS, p.192)
+- ’Never shirk the proper dispatch of your duty, no matter if you are freezing or hot, groggy or well-rested, vilified or praised, not even if dying or pressed by other demands. Even dying is one of the important assignments of life and, in this as in all else, make the most of your resources to do well the duty at hand.’ -Marcus Aurelius, Meditations, 6.2 (TDS p199)
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
