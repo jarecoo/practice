@@ -6,7 +6,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 1. Family
     * Prioritize close, personal relationships (family, close friends, etc)
         *  Foster a loving, supportive, compassionate relationship with my kids and my wife. I want to be part of their life forever. Make the time we have together count.
-            * I think fostering this relationship means more than just love. Love is the necessary foundation, and gives you the appreciation to enjoy the journey, but only love is a disservice since it can lead to permissiveness, timidity and enabling. The other part of being a good father, is actually being something for your kids. They need to be guided, helped, and directed, mostly by example. The best dads are the ones that combine deep, unconditional love for their family with a steady, firm example of who to be and how to live. That’s where the rest of this comes in.
+            * I think fostering this relationship means more than just love. Love is the necessary foundation, and gives you the appreciation to enjoy the journey, but only love is a disservice since it can lead to permissiveness, timidity and enabling. The other part of being a good father, is actually being something for your kids. They need to be guided, helped, and directed, mostly by example. The best dads are the ones that combine deep, unconditional love for their family with a steady, firm example of who to be and how to live. That’s where the rest of this comes in. (‘For I believe a good king is from the outset and by necessity a philosopher, and the philosopher is from the outset a kingly person’ -Musonius Rufus, Lectures, 8.33.32-34; TDS p.206)
             * The goal of good parenting isn’t to have happy kids, that’s an occasional side effect. The end goal is to have happy adults.
         * Enjoy the moment, appreciate the time you have with your kids https://www.reddit.com/r/LifeProTips/comments/80dsy9/lpt_after_working_with_terminally_ill_cancer/?st=JE4OAY9Q&sh=bab60a62
         * Remember, one day you pick your kid up and you’ll put him down for the last time https://www.reddit.com/r/Wellthatsucks/comments/7upwj7/comment/dtmjxlf?st=JD63KIUB&sh=e4e4d783
@@ -58,20 +58,6 @@ This is what I think is specifically, concretely important, what gets me up in t
 
 # Moral Paradigm & How I Should Live My Life
 ## Beliefs
-* Purpose
-* Presence
-* Simplicity
-* Intrinsic Motivation
-* Awe
-* Love
-* Fun
-* Action
-* Discipline
-* Balance
-* Self-assertion
-* Virtue
-
-
 * Meaning and Purpose are Central to Happiness
     * Individually Created
     * Derived from a strong sense of who you are (developed from self-love)
@@ -105,7 +91,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 * The Earth is the only home humanity has and it should be cared for
 * Technology is both a Powerful Ally and a Dangerous Enemy, Requires Awareness
 
-
+### Sections below
 * Death Gives Life Meaning; The Natural World and Meaning
 * Live Life with Purpose - Find Your Meaning (See above Top 3)
 * Live Life on Purpose
@@ -124,6 +110,22 @@ This is what I think is specifically, concretely important, what gets me up in t
 * Be Smart
 * Be Judicious with Technology
 
+### In a word:
+* Purpose
+* Presence
+* Simplicity
+* Calm
+* Intrinsic Motivation
+* Health
+* Awe
+* Love
+* Fun
+* Action
+* Discipline
+* Thinking
+* Balance
+* Self-assertion
+* Virtue
 
 ## Principles, Practices, Strategies
 ### Death Gives Life Meaning; or, The Natural World and Meaning
@@ -220,7 +222,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “Like bluebonnets in the spring, We're only here for a little while. It's beautiful and bittersweet, So make the most of every mile. So pack light and love heavy, Give it all your heart and soul, so in the end You won't regret one thing” - “Bluebonnets in the Spring” Aaron Watson
 - “’Show me that the good life doesn’t consist in its length, but in its use’” the Daily Stoic, p.157
 - It’s possible to have a short life that is full, it’s possible to have a long life that is empty. The number of years you get doesn’t matter, just how you fill them up. “‘Show me that the good life doesn’t consist in its length, but in its use, and that it is possible — no, entirely too common — for a person who has had a long life to have lived too little’ -Seneca, Moral Letters, 49.10b Show yourself. That no matter how many years you’re ultimately given, your life can be clearly and earnestly said to have been a long and full one.” The Daily Stoic, p.157
-- The flood irrigation principle: when using a shovel to irrigate a field, you can’t just make dams everywhere you don’t want water to go. far more effective and useful is to give the water somewhere to go. The interesting subtlety is that the water will go somewhere whether you like it or not, it’s just up to you to decide where.
+- The flood irrigation principle: when using a shovel to irrigate a field, you can’t just make dams everywhere you don’t want water to go. It’s more effective to give the water somewhere to go. The interesting subtlety is that the water will go somewhere whether you like it or not, it’s just up to you to decide where.
 - “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end. It’s sad to think that this kind of frustration is an everyday reality for a lot of people…Worse is when we try to push these feelings away by buying things, going out, fighting, creating drama — indulging in the empty calories of existence instead of finding the real nourishment. The solution is simple and, thankfully, always right at hand. Get out there and work.” TDS, p.163
 
 ### Live Life on Purpose
@@ -340,6 +342,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘That which is an impediment to action is turned to advance action. The obstacle on the path becomes the way.’ -Marcus Aurelius, Meditations, 5.20 You have the power to use the Stoic exercise of turning obstacles upside down, which takes one negative circumstance and uses it as an opportunity to practice and unintended virtue or form of excellence…Every impediment can advance action in some form or another” TDS p196
 - “‘There is no vice which lacks a defense, none that at the outset its’t modest and easily intervened…For every emotion is at first weak. Later it rouses itself and gathers strength as it moves along - it’s easier to slow it down than to supplant it.’ -Seneca, Moral Letters, 106.2b03a ’Rivers’ Publilius Syrus reminds us with and epigram, ‘are easiest to cross at their source.’ that’s what Seneca means too. The raging waters and early currents of bd habits, ill discipline, chaos, and dysfunction — somewhere they began as no more than just a trickle.” TDS p175
 - “How important it is to catch the mind, in a soft way, a very light way. When you realize the mind’s racing off, knowing that it’s quite possibly racing off to a place of imbalance, when you feel an emotion begin to get very strong, recognizing that if you can be present with that emotion, and it offers you the opportunity of choice, of not allowing it to overwhelm you, but instead simply being present with it, experiencing it, and then letting it go, maintaining that sense of balance. ” Headspace, Balance Day 9, epilogue, https://my.headspace.com/play/69
+- “’The task of a philosopher: we should bring our will into harmony with whatever happens, so that nothing happens against our will and nothing that we wish for fails to happen.’ -Epictetus, Discourses, 2.14.7 This isn’t just semantic playing. It is a central facet of the philosopher’s worldview. Today, don’t try to impose your will on the world. Instead see yourself as fortunate to receive and respond to the will in the world.“ TDS p.200
 
 ### Live in the Present Moment
 - “The longest and shortest life, then, amount to the same, for the present moment lasts the same for all and is all anyone possesses.” -Marcus Aurelius, Meditations, 2.14; The Daily Stoic, p.85
@@ -396,10 +399,12 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “Improving ourselves doesn’t involve ‘doing’ anything. All that’s required is a letting go of habitual patterns of thought and behavior.” Headspace, Undoing our Patterns, Wed. June 26, 2018
 - “Life is hard enough. Let's not take our mind too seriously.” - Life and Laughter, Mon. July 2, 2018, Headspace
 - “No amount of guilt can change the past and no amount of anxiety will change the future.”
-- “You don’t need to fix things that lie outside of your control. You also don’t need to fix the anxiety; it is a feeling that you have; it is therefore not you. The need to fix, to control is what fuels the anxiety in the forest place. Let it be, and it will lose its excessive force.” - Darren Brown, Happy
+- “You don’t need to fix things that lie outside of your control. You also don’t need to fix the anxiety; it is a feeling that you have; it is therefore not you. The need to fix, to control is what fuels the anxiety in the first place. Let it be, and it will lose its excessive force.” - Darren Brown, Happy
 - “There is a maxim that Navy SEALs pass from officer to officer, man to man: ‘Calm is contagious.’ …That’s who you want to be: the casual, relaxed person in every situation who tells everyone else to take a breath and not to worry. Because you’ve got this. Don’t be the agitator, the paranoid, the worrier, or the irrational. Be the calm, not the liability. It will catch on.” TDS, p.186
 - Figure out how to give yourself some mental space - Meditate
 - “How does it help, my husband, to make misfortune heavier by complaining about it?” - Seneca, Oedipus, 80 (TDS 193)
+- “’The task of a philosopher: we should bring our will into harmony with whatever happens, so that nothing happens against our will and nothing that we wish for fails to happen.’ -Epictetus, Discourses, 2.14.7 This isn’t just semantic playing. It is a central facet of the philosopher’s worldview. Today, don’t try to impose your will on the world. Instead see yourself as fortunate to receive and respond to the will in the world.“ TDS p.200
+- “We react to anger with anger. Fear with fear. Sadness with sadness. In doing so, we fan the flames, and keep the emotion alive. In truth, there’s no need to react. It’s enough to simply observe. Very often, when we experience a particular emotion, or mood, we tend to not only attach blame to a particular person or situation or even to ourselves, we tend to see our entire experience of the world through that lens. And of course we don’t like feeling that way, so if we experience some anger then we might feel angry about the fact that we feel angry. Or if we experience anxiety, it might make us feel anxious that that we’re experiencing anxiety. The mind is very clever in this way, it keeps itself busy. It keeps the emotion alive. It’s entertaining for the mind, even if it’s not a very comfortable experience. So it’s only really when we can step out of that cycle, when we can be present with the emotion as it is, whatever it is. Simply allowing it to pass us by.” Headspace, Stepping out of the Cycle, Wednesday, Sep. 5 2018
 
 ### Slow Down
 - Slow is smooth. Smooth is fast.
@@ -530,6 +535,8 @@ This is what I think is specifically, concretely important, what gets me up in t
 - Listen “Hesiod, the poet, said that ‘the best treasure is a sparing tongue.’ Robert Greene considers it a low of power: Always Say Less Than Necessary. We talk because we think it’s helping, whereas in reality, it’s making things hard for us. If our spouse is venting, we want to tell them what they should do. In fact, all they actually want us to do is hear them.” TDS p.191
 - “Or course it’s possible to curb our arrogance, control our anger, and be a caring person. How do you think others do it?…They worked on it. They made it a priority. They solved it like they would solve any other problem: by dedicating themselves to finding a solution, making incremental progress until they did.” TDS p195
 - “The Stoics believed that every person, animal, and thing has a purpose or a place in nature. Even in ancient Greek and Roman times, they vaguely understood that the world was composed of millions of tiny atoms. It was this idea — this sense of an interconnected cosmos — that underpinned their sense that every person and every action was part of a larger system. Everyone had a job — a specific duty…The most critical part of this system was the belief that you, the student who has sought out Stoicism, have the most important job: to be good. To be wise…Do your job today. Whatever happens, whatever other people’s jobs happen to be, do yours. Be good.” TDS p198
+- “The goodness inside you is like a small flame, and you are its keeper…Everyone has their own version of the flame and is responsible for it, just as you are. If they all fail, the world will be much darker — that is something you don’t control. But so long as your flame flickers, there will be some light in the world.” TDS p.201
+- “Good people will do what they find honorable to do, even if it requires hard work.” -Seneca, Moral Letters, 76.18 (TDS p.202)
 
 ### Be Assertive; Set your Boundaries
 - Be nice but don’t let people take advantage of or manipulate you (see: live life on purpose). This will help you avoid manipulation and being taken advantage of, but will still provide you the chance to be compassionate to people without sacrificing compassion for yourself.
@@ -619,7 +626,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 What lies ahead, I have no way of knowing
 But under my feet, baby, grass is growing
 It's time to move on, it's time to get going”
-- Tom Petty
+    - Tom Petty
 
 “Sing me no song, read me no rhyme
 Don't waste my time, show me.
@@ -666,6 +673,7 @@ Don't make all the speech, show me.”
 - “’You must build up your life action by action’ -Marcus Aurelius, Meditations, 8.32 If you follow The Process in your life — assembling the right actions in the right order, one right after the other — you too will do well. Not only that, you will be better equipped to make quick work of the obstacles along that path. You’ll be too busy putting one foot in front of the next to even notice the obstacles were there.” TDS, p.174
 - “What assistance can we find in the fight against habit? Try the opposite!” -Epictetus, Discourses, 1.27.4 (TDS, p.192)
 - ’Never shirk the proper dispatch of your duty, no matter if you are freezing or hot, groggy or well-rested, vilified or praised, not even if dying or pressed by other demands. Even dying is one of the important assignments of life and, in this as in all else, make the most of your resources to do well the duty at hand.’ -Marcus Aurelius, Meditations, 6.2 (TDS p199)
+- “’Were you then made for pleasure? In short, to be coddled or to exert yourself?’ -Marcus Aurelius, Meditations, 5.1 We cannot be of service to ourselves, to other people, or to the world unless we get up and get working.” TDS p.203
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
@@ -696,6 +704,8 @@ Don't make all the speech, show me.”
 - Study, internalize, act, meditate.
 - “‘We like to say that we don’t get to choose our parents, that they were given by chance — yet we can truly choose whose children we’d like to be” -Seneca, On the Brevity of Life, 15.3a’ Maybe your parents were poor role models, or you lacked a great mentor. Yet if we choose to, we can easily access the wisdom of those who came before us — those whom we aspire to be like. TDS, 173
 - “‘How laughable it is to say, ‘Tell me what to do!’ What advice could i possibly give? No, a far better request is, ‘Train my mind to adapt to any circumstance’…In this way, if circumstances take you off script…you won’t be desperate for a new prompting’ -Epictetus, Discourses, 2.2.20b-1;24b-25a Instead of looking for instruction, cultivate skills like creativity, independence, self-confidence, ingenuity, and the ability to problem solve” The Daily Stoic, p.178
+- “‘This is what you should teach me, how to be like Odysseus…how, even after suffering shipwreck, I might keep sailing on course go those honorable ends.’ - Seneca, Moral Letters, 88.7b We’re not trying to ace tests or impress teachers. We are reading and studying to live, to be good human beings — always and forever” TDS p.204
+- “‘For I believe a good king is from the outset and by necessity a philosopher, and the philosopher is from the outset a kingly person’ -Musonius Rufus, Lectures, 8.33.32-34 The study of philosophy cultivates our reason and ethics so that we can do our job well.” TDS p.206
 
 ### Be Judicious with Technology
 - Technology takes you away from being present in the moment. Every moment you spend needlessly perusing your phone while your life happens around you, is a moment you miss, you don’t get to be part of, and one you don’t get back. I went through the car wash with 3-yr-old Nate. I have a vague memory of him bouncing excitedly back and forth in the car watching the scrubber and water go back and forth, but I was dialed into something unimportant on my phone, wasting time, and I missed that moment. I missed taking in his laughs, and laughing and engaging with him about something he was way into. And that’s the real problem, when you don’t engage with the people around you on stuff they see as important, you miss connecting with them and being there with them. You miss building memories. You’re not emphasizing experience in your life when you’re glued to your phone.
@@ -712,13 +722,12 @@ Don't make all the speech, show me.”
 - “With so much technology around us it’s really easy to forget we get to define our relationship with technology. We need to learn how to be a little less reactive and a little more responsive to every sound or vibration our phone makes” Headspace, Mindful Tech, Intro
 
 ## Quotes, etc.
-
 #### _If_ — Rudyard Kipling
 ```
 If you can keep your head when all about you   
-    Are losing theirs and blaming it on you,   
+    Are losing theirs and blaming it on you,  
 If you can trust yourself when all men doubt you,
-    But make allowance for their doubting too;   
+    But make allowance for their doubting too; 
 If you can wait and not be tired by waiting,
     Or being lied about, don’t deal in lies,
 Or being hated, don’t give way to hating,
@@ -793,65 +802,6 @@ Die Vögelein schweigen im Walde.
 Warte nur, balde
 Ruhest du auch.
 ```
-
-### “Bluebonnets in the Spring” Aaron Watson
-```
-In another time and place
-Grandma would kiss my face
-Wish I could go back there again
-I'd climb up in my grandpa's lap
-I'd lay down and take a nap
-That old man and me were best friends
-
-And one day I turned around
-Leaves are fallin', fallin' down
-Those fields were bare and brown and they were gone
-
-Long gone like bluebonnets in the spring
-We're only here for a little while
-It's beautiful and bittersweet
-So make the most of every mile
-So pack light and love heavy
-Give it all your heart and soul, so in the end
-You won't regret one thing
-Life is like bluebonnets in the spring.
-
-There's so much I can't explain
-Such as gravity and pain
-Still I remain, blindfolded and full of faith
-I kissed my angel girl goodbye
-Still can't help but wonder why
-But I believe I'll see her again someday
-
-So, hold 'em tender, hold 'em tight
-Pray every mornin', day, and night
-That God will help you raise them right
-And don't you blink, don't blink
-
-'Cause like bluebonnets in the spring
-We're only here for a little while
-It's beautiful and bittersweet
-So make the most of every mile
-So pack light and love heavy
-Give it all your heart and soul
-So in the end you won't regret one thing
-Life is like bluebonnets in the spring
-
-Life can be filled full of sorrow
-Time is something you can't borrow
-So love like there's no tomorrow
-Because today could the day
-
-Like bluebonnets in the spring
-We're only here for a little while
-It's beautiful and bittersweet
-So make the most of every mile
-So pack light and love heavy
-Give it all your heart and soul, so in the end
-You won't regret one thing
-Life is like bluebonnets in the spring
-```
-
 
 ## Notes and Resources
 
