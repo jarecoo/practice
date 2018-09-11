@@ -13,7 +13,7 @@ This is what I think is specifically, concretely important, what gets me up in t
         * “Happy people are committed to making time for and enjoying friends and family. They have people they count on and trust.” https://continuum.utah.edu/features/what-happy-people-do/
         * “Sometimes the best way to solve your own problems is to help someone else” - Uncle Iroh
         * Appreciate the time you have with your loved ones. “Nell teaches aspects of parenthood never understood before. If she cries or makes a mess or decides to be contrary (and these are relatively rare), it doesn’t bother. There is always Chris’s silence to compare it to.” - Robert Pirsig, ZatAoMM
-        * Remember your kids aren’t you. They’re their own people.
+        * Remember your kids aren’t you. They’re their own people. You’re helping them find their own way, not redo yours.
         * Getting mad at people for making mistakes doesn’t teach them to not make mistakes, it teaches them to hide them
         * There are three parts to raising kids, as I see it, and the important pivot in parent comes at adulthood when you stop doing the first 2 and are executing mostly on the last one. The tricky part is that you more or less dictate 1 and 2, but they dictate 3 and you need to be in tune with their needs and wants for that.
             * 1. Teach them how to do stuff (e.g. eat, walk, talk, ride a bike, do math, etc)
@@ -23,8 +23,26 @@ This is what I think is specifically, concretely important, what gets me up in t
 2. Fulfillment - Personal, Professional, and Creative
     * Emphasize experience and memories over possessions and material goods; reduce waste
         * Traveling - See as much of the world as possible
+            * PNW - Seattle
+            * Iceland
+            * Canada - Banff
+            * Alaska
+            * Maine
+            * New England - NYC, Boston
+            * Costa Rica
+            * Norway - Sweden
         * Hiking/Camping
-        * Motorcycling
+            * Narrows
+            * Bryce
+            * RMNP
+            * Glacier NP
+            * Banff - Jasper
+            * High Uintas
+            * PNW
+            * Vernal - Diamond - Flaming Gorge
+            * Purchase Cabin or Land
+        * Motorcycling - off-roading
+            * 4 Door Jeep
         * Other Invigorating leisure activities
         * Photography
     * Either be improving life or enjoying it
@@ -50,6 +68,7 @@ This is what I think is specifically, concretely important, what gets me up in t
             * Understand what I can’t control and what I can.
             * “In distancing ourselves from negative thinking, we recognize that we’re not our thoughts.”
         * Positive Emotions
+            * Stop anxiety with breathing and relaxation, stop self-degrading thoughts with affirmations
             * Be optimistic, content, thoughtful, confident, happy, calm, and meditative, assertive, etc. Life is worse voluntarily anxious, paranoid, depressed, or angry.
             * “Happy people pay attention to the good in others and the things that are going right…interpret other people and events around them in a positive light, and see opportunities and possibilities. And they take time to remember and be grateful for the good things in their lives.“
             * “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
@@ -65,7 +84,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 * Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
 * An Internal Locus of Control is Central to Happiness
     * You only Control your Thoughts, Attitudes, and Outlook
-    * Self Love is the best way to begin to develop internal control
+    * Self Love is a really good way to begin to develop internal control
     * State of mind dictates happiness, not circumstances
     * Intrinsic motivation is the best motivation (e.g. doing it for you according to your purpose in life)
     * Happiness is in your control, and comes first.
@@ -90,25 +109,6 @@ This is what I think is specifically, concretely important, what gets me up in t
 * You only get one body and one life, appreciate it and care for them
 * The Earth is the only home humanity has and it should be cared for
 * Technology is both a Powerful Ally and a Dangerous Enemy, Requires Awareness
-
-### Sections below
-* Death Gives Life Meaning; The Natural World and Meaning
-* Live Life with Purpose - Find Your Meaning (See above Top 3)
-* Live Life on Purpose
-* Have Fun
-* Cultivate an Internal Locus of Control
-* Live in the Present Moment
-* Settle Down - Cultivate a Relaxed Attitude
-* Slow Down
-* Simplify
-* The Importance of Love
-* Be a Good Person; Leave the World Better than You Found It
-* Be Assertive; Set your Boundaries
-* Be Healthy - Mentally and Physically
-* Get Going: Analyze, Anticipate, but Act
-* Learn To be Disciplined
-* Be Smart
-* Be Judicious with Technology
 
 ### In a word:
 * Purpose
@@ -224,6 +224,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - It’s possible to have a short life that is full, it’s possible to have a long life that is empty. The number of years you get doesn’t matter, just how you fill them up. “‘Show me that the good life doesn’t consist in its length, but in its use, and that it is possible — no, entirely too common — for a person who has had a long life to have lived too little’ -Seneca, Moral Letters, 49.10b Show yourself. That no matter how many years you’re ultimately given, your life can be clearly and earnestly said to have been a long and full one.” The Daily Stoic, p.157
 - The flood irrigation principle: when using a shovel to irrigate a field, you can’t just make dams everywhere you don’t want water to go. It’s more effective to give the water somewhere to go. The interesting subtlety is that the water will go somewhere whether you like it or not, it’s just up to you to decide where.
 - “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end. It’s sad to think that this kind of frustration is an everyday reality for a lot of people…Worse is when we try to push these feelings away by buying things, going out, fighting, creating drama — indulging in the empty calories of existence instead of finding the real nourishment. The solution is simple and, thankfully, always right at hand. Get out there and work.” TDS, p.163
+- “To what service is my soul committed? Constantly ask yourself this and thoroughly examine yourself by seeing how you relate to that part called the ruling principle.” - Marcus Aurelius Meditations, 5.11 (TDS 213)
 
 ### Live Life on Purpose
 - “‘First tell yourself what kind of person you want to be, then do what you have to do’ -Epictetus, Discourses, 3.23.1-2a … An archer is unlikely to hit a target she did not aim for” The Daily Stoic, p.136
@@ -403,6 +404,10 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “How does it help, my husband, to make misfortune heavier by complaining about it?” - Seneca, Oedipus, 80 (TDS 193)
 - “’The task of a philosopher: we should bring our will into harmony with whatever happens, so that nothing happens against our will and nothing that we wish for fails to happen.’ -Epictetus, Discourses, 2.14.7 This isn’t just semantic playing. It is a central facet of the philosopher’s worldview. Today, don’t try to impose your will on the world. Instead see yourself as fortunate to receive and respond to the will in the world.“ TDS p.200
 - “We react to anger with anger. Fear with fear. Sadness with sadness. In doing so, we fan the flames, and keep the emotion alive. In truth, there’s no need to react. It’s enough to simply observe. Very often, when we experience a particular emotion, or mood, we tend to not only attach blame to a particular person or situation or even to ourselves, we tend to see our entire experience of the world through that lens. And of course we don’t like feeling that way, so if we experience some anger then we might feel angry about the fact that we feel angry. Or if we experience anxiety, it might make us feel anxious that that we’re experiencing anxiety. The mind is very clever in this way, it keeps itself busy. It keeps the emotion alive. It’s entertaining for the mind, even if it’s not a very comfortable experience. So it’s only really when we can step out of that cycle, when we can be present with the emotion as it is, whatever it is. Simply allowing it to pass us by.” Headspace, Stepping out of the Cycle, Wednesday, Sep. 5 2018
+- Lower your tone, strengthen your argument
+- Never raise your voice. If you’re right you don’t need to, if you’re wrong you can’t afford to.
+- Things have a way of working out
+- “The quieter you become the more you can hear” -Baba Ram Dass
 
 ### Slow Down
 - Slow is smooth. Smooth is fast.
@@ -416,6 +421,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “’Here is the great soul — the one who surrenders to Fate. The opposite is the weak and degenerate one, who struggles with and has a poor regard for the order of the world, and seeks to correct the faults of the gods rather than their own.’ - Seneca, Moral Letters, p.107.12 Let’s not wish we could turn back time or remake the universe according to our preference. Not when it would be far better and far easier to remake ourselves.” TDS p.184
 - “To the youngster talking nonsense Zeno said, ‘The reason why we have to ears and only one mouth is so we might listen more and talk less.’” - Diogenes Laertius, Lives of Eminent Philosophers, 7.1.23; TDS p.180
 - “It’s really tempting to meditate for balance only when you’re feeling stressed or out of balance in some way. Often we just look to fix things when they already happen. But we should try and use the balance visualization {light above the head flowing into your body} on a regular basis, to really get comfortable with it to remind yourself of what it feels like to be grounded to have a sense of balance. The more time you spend in that place, the less likely you are to be overwhelmed. It’s no longer about putting out fires the whole time, instead it’s about preventing the fires from getting out of control in the first place. having the presence of mind to see thoughts and emotions beginning to run away and at the moment to say ‘I’m not going to do that this time. I’m just going to come back to that feeling of being present, of being balanced in both body and mind…Be aware throughout the day, find the moments in the day that you can remind yourself of this feeling of balance. In reminding yourself, all you’re doing is tapping back in to that innate quality of balance that’s always there. You’re reminding the mind what it’s like to rest in that space. The more you can do that, the more natural that tendency becomes, the more often you go to that place, the more time you spend in that place, and the greater the sense of balance there is in life” - Headspace, Balance, Day 3
+- “So long as we notice when the mind is distracted, and bring our focus back to the breath, we create the conditions for insight to arise.” - Headspace, Focus and Insight Fri Sep.7, 2018
 
 ### Simplify
 - Enough is better than more.
@@ -462,6 +468,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘Don’t set your mind on things you don’t possess as if they were yours, but count the blessings you actually possess and thing how much you would desire them if they weren’t already yours. But watch yourself, that you don’t value these things to the point of being troubled if you lose them.’ Marcus Aurelius, Meditations, 7.27; Today, stop trying to get what other people have. Fight your urge to gather and hoard. That’s not the right way to live and act. Appreciate and take advantage of what you already have, and let that attitude guide your actions.” - The Daily Stoic, p.149
 - “What if…you prioritized quality over quantity?…Your shelves might be emptier, but your brain and your life would be fuller” The Daily Stoic, p.154
 - “Block access. Protect your brain. Guard it. Remove all entry points to your brain except a single one you can control” - The Happiness Equation, p.194
+- "Your mind gets stuck when you're trying to do too many things at once... Separate out the things, and try to do them one at a time. You're trying to think of what to do, and what to do first at the same time, and that's too hard. Separate them out, make a list of all the things you want to do in any order, then figure out the right order." -Zen and the Art of Motorcycle Maintenance
 
 ### The Importance of Love
 - Love and Empathy for Self
@@ -520,6 +527,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross
 - “Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” - MLK
 - “Hate is too great a burden to bear” -MLK
+- “Waste no more time arguing what a good man should be. Be one.” Marcus Aurelius
 - You have concentric sphere’s of influence that decrease in your ability to enact change and good the farther from yourself you get. Focus on doing good in your most potent spheres of influence. Yourself is the closest sphere of influence.
 - Give people the love and compassion they want, or the kind you want if nothing else. The Golden Rule.
 - Do random acts of unsolicited kindness. it’ll make you feel better, but it will add good to the world.
@@ -537,12 +545,19 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “Good people will do what they find honorable to do, even if it requires hard work.” -Seneca, Moral Letters, 76.18 (TDS p.202)
 - “One person, on doing well by others, immediately accounts the expected favor in return. Another…acts as if not conscious of the deed, rather like a vine producing a cluster of grapes without making further demands…Such a person, having done a good deed, won’t go shouting from the rooftops but simply moves on to the next deed just like the vine produces another bunch of grapes in the right season” -Marcus Aurelius, Meditations, 5.6 (TDS p.210)
 - “Everyone wants to be happy, even those who hurt us. Realizing this does not negate their actions, but it helps us create the conditions for understanding and forgiveness. We all do things in our live that hurt others, even though we want happiness for ourselves. Seeing this provides the room to understand that other person. Ultimately, to forgive.” Headspace, Understand and Forgive Th. Sep. 6, 2018
+- “When you’ve done well and another has benefited by it, why like a fool, do you look for a third thing on top — credit for the good deed or a favor in return?” -Marcus Aurelius, Meditations, 7.73 (TDS p.212)
+- “’As you move forward along the path of reason, people will stand in your way. They will never be able to keep you from doing what’s sound, so don’t let them knock out your goodwill for them…For getting angry is also a weakness.’ -Marcus Aurelius, Meditations, 11.9 Just as you must not abandon your new path simply because other people may have a problem with it, you just not abandon those other folks either. Don’t simply write them off or leave them in the dust. Don’t get mad or fight with them. After all, they’re at the same place you were not long ago.” TDS p.214
+- “As Plato said, every soul is deprived of truth against its will….It’s essential to constantly keep this in your mind, for it will make you more gentle to all.” Marcus Aurelius, Meditations 7.63 (TDS p.216)
+- “‘When you first rise in the morning tell yourself: I will encounter busybodies, ingrates, egomaniacs, liars, the jealous and cranks’ - Marcus Aurelius, Meditations, 2.1 …The point of this preparation is not to write off everyone in advance. It is that, maybe, because you’ve prepared for it, you’ll be able to act with patience, forgiveness, and understanding” The Daily Stoic, p.108
+- “Nobody thinks they’re wrong, even when they are. They thing they’re right, they’re just mistaken…Could it be that the slights you’ve experienced or the harm that others have done to you was not inflicted intentionally? What if they they simply thought they were doing the right thing - for them, even for you?…How much more tolerant and understanding would you be today if you could see the actions of other people as attempts to do the right thing?” The Daily Stoic, p.82
+- “Whenever someone has done wrong by you, immediately consider what notion of good or evil they had in doing it. For when you see that, you’ll feel compassion, instead of astonishment or rage.” Marcus Aurelius, Meditations, 7.26; The Daily Stoic, p. 82
 
-### Be Assertive; Set your Boundaries
+### Assert your Needs; Set your Boundaries
 - Be nice but don’t let people take advantage of or manipulate you (see: live life on purpose). This will help you avoid manipulation and being taken advantage of, but will still provide you the chance to be compassionate to people without sacrificing compassion for yourself.
 - Everyone deserves your unconditional kindness and generosity. As long as they respect and reciprocate that, it will flow freely. Once they abuse that, they have to earn it back. (They had their chance they blew it)
 - You teach people how to treat you by what you tolerate. Being assertive keeps people from taking advantage of your niceness. If you only ever be nice, you’ll be an enabler, especially to your loved ones. Being assertive, asking for what you want, checking your close people, will lead to a place where you both get more of what you want and neither of you is allowed to let the worst parts of yourself grow (doubt, insecurity, anxiety, jealousy). It’s the Facebook effect. FB only ever served up the stuff you clicked on, which is usually the shit that gets you the most riled up in anger or disgust. Being too nice panders to every personality trait a person has, that's ok when you don't see the person a lot, but for close relationships that can bring out the bad parts of people as well as the good. You create codependency.
 - “Be you and be cool with it…There is nothing more satisfying than being loved for who you are and nothing more painful than being loved for who you’re not, but pretending to be.” The Happiness Equation, p.238
+- Healthy boundaries and self-assertion are the foundation of good relationships (along with empathy and understanding)
 - “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
 - Be assertive about your wants, needs, and boundaries. On expressing yourself with your loved ones: I want your consent, I’d like your participation, I need neither. It’s not their job to make you happy and express your wants and needs for you. You have to do it.
 - If you don’t speak your truth it’s like you’re suffocating yourself.
@@ -550,15 +565,36 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “You can lie down for people to walk on you and they will complain that you are still not flat enough. Live your life.”
 - Doubt is the opposite of confidence. They cannot exist together. One has to yield to the other.
 - “I do not accept your anger and your criticism. It is all yours. … If you become angry with me and I do not get insulted, than the anger falls back on you. You are the only one who becomes unhappy, not me. All you have done is hurt yourself.” -Buddha
-- “It’s impossible to love someone and control them at the same time”
+- “It’s impossible to love someone and control them at the same time” -Terry Crews
 - “The lesson I have learned is when someone you love is doing something that hurts you. Don't try and control them by making them stop. Rather have the courage to break up with them when they continue to do the thing you told them hurts you. If they wont stop, they don't love you and you should move on.”
 - “Of course I deprecate war, but if it is brought to my door the bringer will find me at home” - James Garfield, in The Daily Stoic, p.90
 - “Trust, but verify”
 - “‘When your sparring partner scratches or head-butts you, you don’t then take a show of it, or protest, or view him with suspicion or as plotting against you. And yet you keep an eye on him, not as an enemy or with suspicion, but with a healthy avoidance. You should act this way with all things in life. We should give a pass to many things with our fellow trainees.’ - Marcus Aurelius, Meditations, 6.20; The Daily Stoic 128
-- “Whenever someone has done wrong by you, immediately consider what notion of good or evil they had in doing it. For when you see that, you’ll feel compassion, instead of astonishment or rage.” Marcus Aurelius, Meditations, 7.26; The Daily Stoic, p. 82
-- “Nobody thinks they’re wrong, even when they are. They thing they’re right, they’re just mistaken…Could it be that the slights you’ve experienced or the harm that others have done to you was not inflicted intentionally? What if they they simply thought they were doing the right thing - for them, even for you?…How much more tolerant and understanding would you be today if you could see the actions of other people as attempts to do the right thing?” The Daily Stoic, p.82
 - “‘When you first rise in the morning tell yourself: I will encounter busybodies, ingrates, egomaniacs, liars, the jealous and cranks’ - Marcus Aurelius, Meditations, 2.1 …The point of this preparation is not to write off everyone in advance. It is that, maybe, because you’ve prepared for it, you’ll be able to act with patience, forgiveness, and understanding” The Daily Stoic, p.108
 - “I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross; It’s important to forgive and forget, but that being said, you don’t have to keep suffering pain and injustice at the hand of another person. You don’t need to hate them, but you don’t need to engage them in your life either. At worst a person should be neutral to you.
+- Love shouldn’t hurt
+- The answer will always be no unless you ask
+- Emotionally Mature people:
+    * are realistic and reliable
+        * work with reality rather than fighting it
+        * feel and think at the same time
+        * have consistency that makes them reliable
+        * don’t take everything personally
+    * are respectful and reciprocal
+        * respect your boundaries
+        * give back
+        * are flexible and compromise well
+        * are even-tempered
+        * are willing to be influenced
+        * are truthful
+        * apologize and make amends
+    * are responsive
+        * their empathy makes you feel safe
+        * make you feel seen and understood
+        * like to comfort and be comforted
+        * reflect on their actions and try to change
+        * can laugh and be playful
+        * enjoyable to be around
 
 ### Be Healthy - Physically and Mentally
 - “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end. It’s sad to think that this kind of frustration is an everyday reality for a lot of people…Worse is when we try to push these feelings away by buying things, going out, fighting, creating drama — indulging in the empty calories of existence instead of finding the real nourishment. The solution is simple and, thankfully, always right at hand. Get out there and work.” TDS, p.163
@@ -638,6 +674,7 @@ Don't make all the speech, show me.”
 - Before acting: “First, don’t get upset — because that will color your decision negatively and make it harder than it needs to be. Second, remember the purpose and principles you value most. Running potential actions through this filter will eliminate the bad choices and highlight the right ones. Don’t get upset. Do the right thing. That’s it” The Daily Stoic, p.162
 - “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end. It’s sad to think that this kind of frustration is an everyday reality for a lot of people…Worse is when we try to push these feelings away by buying things, going out, fighting, creating drama — indulging in the empty calories of existence instead of finding the real nourishment. The solution is simple and, thankfully, always right at hand. Get out there and work.” TDS, p.163
 - “Please god, we say, relieve me of my anxiety. Listen, stupid, you have hands. God gave them to you himself. You might as well get on your knees and pray your nose won’t run. A better idea would be to wipe your nose and forgo the prayer. The point is, isn’t there anything god gave you for your present problem?” -Epictetus, Discourses, 2.16.13
+- “Waste no more time arguing what a good man should be. Be one.” Marcus Aurelius
 
 ### Learn to be Disciplined
 - Find a routine; structure and discipline breed mental stability and general health. Keep your house clean, do your chores, run your necessary errands, cook dinner, exercise, etc.
@@ -674,6 +711,7 @@ Don't make all the speech, show me.”
 - “What assistance can we find in the fight against habit? Try the opposite!” -Epictetus, Discourses, 1.27.4 (TDS, p.192)
 - ’Never shirk the proper dispatch of your duty, no matter if you are freezing or hot, groggy or well-rested, vilified or praised, not even if dying or pressed by other demands. Even dying is one of the important assignments of life and, in this as in all else, make the most of your resources to do well the duty at hand.’ -Marcus Aurelius, Meditations, 6.2 (TDS p199)
 - “’Were you then made for pleasure? In short, to be coddled or to exert yourself?’ -Marcus Aurelius, Meditations, 5.1 We cannot be of service to ourselves, to other people, or to the world unless we get up and get working.” TDS p.203
+- Learn to control your temper, your zipper, and your wallet.
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
