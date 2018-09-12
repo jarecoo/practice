@@ -31,6 +31,7 @@ This is what I think is specifically, concretely important, what gets me up in t
             * New England - NYC, Boston
             * Costa Rica
             * Norway - Sweden
+            * Switzerland
         * Hiking/Camping
             * Narrows
             * Bryce
@@ -44,6 +45,8 @@ This is what I think is specifically, concretely important, what gets me up in t
         * Motorcycling - off-roading
             * 4 Door Jeep
         * Other Invigorating leisure activities
+        * Skiing
+        * Mtn biking
         * Photography
     * Either be improving life or enjoying it
         * Having fun is good for you
@@ -128,7 +131,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 * Virtue
 
 ## Principles, Practices, Strategies
-### Death Gives Life Meaning; or, The Natural World and Meaning
+### Death, The Natural World, and Meaning
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - “Im not ready” - “No one ever is. We don't get to choose our time. Death is what gives life meaning, to know our days are numbered, your time is short.” - Dr. Strange and the Ancient One, in Dr. Strange
 - "...we all die, and our respect for death should always lead us to have an appreciation for life rather than a paranoid existence." - Sam Harris
@@ -145,6 +148,8 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
 - “‘Watch the stars in their courses and imagine yourself running alongside them. Think constantly on the changes of the elements into each other, for such thoughts wash away the dust of earthly life.’ Marcus Aurelius, Meditations, 7.47…Given that we’re in our bodies every day, it’s tempting to think that’s the most important thing in the world. But we counteract that bias by looking at nature—at things much bigger than us. A line from Seneca, which has since become a proverb, expresses Marcus’s insight well: The world itself is a huge temple of the gods. Looking at the beautiful expanse of the sky is an antidote to the nagging pettiness of earthly concerns. And it is good and sobering to lose yourself in that as often as you can.” The Daily Stoic, p.131
 - Memento Mori
+- “It’s not until they tell you you’re going to die soon that you realize how short life is. Time is the most valuable thing in life because it never comes back. And whether you spend it in the arms of a loved one or alone in a prison-cell, life is what you make of it. Dream big.” - Stefan Stefanssonf
+- “In a short time you’ll be nobody and nowhere, even as the great emperors Hadrian and Augustus are now.” - Marcus Aurelius, Meditations, 8.5 (The Daily Stoic, p.162)
 - “After all, what's a life, anyway? We're born, we live a little while, we die.” - E.B. White, Charlotte’s Web
 - “Sometimes we might be fearful of death, assuming it’s radically different to life. But like a beautiful wave, eventually it has to return to the ocean. In truth, they were never separate at all. We all have a different relationship with this idea of life or death, and there are so many things that feed into that, …{but} finding a degree of comfort with the reality of our impermanence is actually a really important part of living life fully, and enjoying our life as it is. The temptation is to see it as black and white, as two different things, but this idea of the ocean is really helpful. We look out at the ocean, and there’s real pleasure in seeing a wave emerge out of the ocean, in watching it unfold, in watching it travel. Each and every single wave is different. It has its own root, its own direction. And there’s something about the way that that wave is expressed that makes it unique. And yet, ultimately, each and every wave goes back into the ocean. But the wave hasn’t been lost; the water is still the same, it’s just gone back into the ocean. It’s come from the ocean, it’s gone back into the ocean. Something beautiful has been expressed, and yet nothing has been lost. Remembering this idea can bring a greater sense of peace to the mind and to our life.” Headspace, Everyday Headspace, “Life and Death” Monday, July 9, 2018
 - Life is an expression of the universe. “You are an aperture through which the universe is looking at and exploring itself.” - Alan Watts; “We are a way for the cosmos to know itself” - Carl Sagan
@@ -152,7 +157,8 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “The meaning of life is to give something meaning”
 - “I don't think an ancient Stoic would ever really consider the question of his or her life's meaning. You're part of nature; that's your meaning. Sure, you're also part of a family and of a society, too, but even if you were cast alone on an island, the meaningfulness of your life would just never be in question.” https://www.reddit.com/r/Stoicism/comments/8z3b20/comment/e2gfpzm?st=JJNSXYQO&sh=7470a6dc
 - “The Stoics believed that every person, animal, and thing has a purpose or a place in nature. Even in ancient Greek and Roman times, they vaguely understood that the world was composed of millions of tiny atoms. It was this idea — this sense of an interconnected cosmos — that underpinned their sense that every person and every action was part of a larger system. Everyone had a job — a specific duty.” TDS p198
-- “In a short time you’ll be nobody and nowhere, even as the great emperors Hadrian and Augustus are now.” - Marcus Aurelius, Meditations, 8.5 (The Daily Stoic, p.162)
+- “‘Whenever you have trouble getting up in the morning, remind yourself that you’ve been made by nature for the purpose of working with others, whereas even unthinking animals share sleeping. and it’s our own natural purpose that is more fitting and more satisfying.’ -Marcu Aurelius, Meditations, 8.12 According to the Stoics, we humans have a higher obligation — not the gods, but to each other….Civilization and country are great projects that we build together and have been building together with our ancestors for millennia. We are made for cooperation (synergy) with each other…Your purpose is to help us render this great work together.” TDS p.218
+- “‘The unjust person acts against the gods. For insofar as the nature of the universe made rational creatures for the sake of each other…anyone breaking nature’s will obviously acts against the oldest of gods’ -Marcus Aurelius, Meditations, 9.1.1 We say of the most heinous acts that they are crimes against nature …our sense of justice goes marrow deep….The key, then, is to support our natural inclination to justice with strong boundaries and strong commitments — to embrace, as Lincoln urged a divided, angry nation to do, ‘the better angels of our nature.’” TDS p.217 — Living according to nature is to live a just, virtuous life.
 - ’Never shirk the proper dispatch of your duty, no matter if you are freezing or hot, groggy or well-rested, vilified or praised, not even if dying or pressed by other demands. Even dying is one of the important assignments of life and, in this as in all else, make the most of your resources to do well the duty at hand.’ -Marcus Aurelius, Meditations, 6.2 (TDS p199)
 -  _Wandrers Nachtsong 1_
     ```
@@ -193,7 +199,7 @@ This is what I think is specifically, concretely important, what gets me up in t
     A poor life this if, full of care,
     We have no time to stand and stare.
     ```
-- “It’s not until they tell you you’re going to die soon that you realize how short life is. Time is the most valuable thing in life because it never comes back. And whether you spend it in the arms of a loved one or alone in a prison-cell, life is what you make of it. Dream big.” - Stefan Stefansson
+
 
 ### Live Life with Purpose - Find Your Meaning (See above Top 3)
 - “First tell yourself what kind of person you want to be, then do what you have to do” -Epictetus, Discourses, 3.23.1-2a The Daily Stoic, p.136. Loving yourself helps you gain a sense of who you are and who you want to be, which must come before you can find your meaning and purpose in life. I think if you try living a purpose without knowing yourself (i.e. your wants and drives), this will just cause stress.
@@ -342,6 +348,8 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘There is no vice which lacks a defense, none that at the outset its’t modest and easily intervened…For every emotion is at first weak. Later it rouses itself and gathers strength as it moves along - it’s easier to slow it down than to supplant it.’ -Seneca, Moral Letters, 106.2b03a ’Rivers’ Publilius Syrus reminds us with and epigram, ‘are easiest to cross at their source.’ that’s what Seneca means too. The raging waters and early currents of bd habits, ill discipline, chaos, and dysfunction — somewhere they began as no more than just a trickle.” TDS p175
 - “How important it is to catch the mind, in a soft way, a very light way. When you realize the mind’s racing off, knowing that it’s quite possibly racing off to a place of imbalance, when you feel an emotion begin to get very strong, recognizing that if you can be present with that emotion, and it offers you the opportunity of choice, of not allowing it to overwhelm you, but instead simply being present with it, experiencing it, and then letting it go, maintaining that sense of balance. ” Headspace, Balance Day 9, epilogue, https://my.headspace.com/play/69
 - “’The task of a philosopher: we should bring our will into harmony with whatever happens, so that nothing happens against our will and nothing that we wish for fails to happen.’ -Epictetus, Discourses, 2.14.7 This isn’t just semantic playing. It is a central facet of the philosopher’s worldview. Today, don’t try to impose your will on the world. Instead see yourself as fortunate to receive and respond to the will in the world.“ TDS p.200
+- “’Receive without pride, let go without attachment.’ -Marcus Aurelius, Meditations, 8.33 [Cato] responded to the honor [of being assigned command of the military] and the dishonor [having the command stripped days after assignment] the same way: with indifference and acceptance. Do not take the slights of the day personally — or the exciting rewards and recognitions either, especially when duty has assigned you an important cause. Trivial details like the rise and fall of your position has nothing to say about you as a person. Only your behavior — as Cato’s did — will.” TDS
+- “If you can meet with Triumph and Disaster  - And treat those two impostors just the same;” -IF
 
 ### Live in the Present Moment
 - “The longest and shortest life, then, amount to the same, for the present moment lasts the same for all and is all anyone possesses.” -Marcus Aurelius, Meditations, 2.14; The Daily Stoic, p.85
@@ -408,6 +416,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - Never raise your voice. If you’re right you don’t need to, if you’re wrong you can’t afford to.
 - Things have a way of working out
 - “The quieter you become the more you can hear” -Baba Ram Dass
+- Think lightly of yourself and deeply about the world.
 
 ### Slow Down
 - Slow is smooth. Smooth is fast.
@@ -551,8 +560,10 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘When you first rise in the morning tell yourself: I will encounter busybodies, ingrates, egomaniacs, liars, the jealous and cranks’ - Marcus Aurelius, Meditations, 2.1 …The point of this preparation is not to write off everyone in advance. It is that, maybe, because you’ve prepared for it, you’ll be able to act with patience, forgiveness, and understanding” The Daily Stoic, p.108
 - “Nobody thinks they’re wrong, even when they are. They thing they’re right, they’re just mistaken…Could it be that the slights you’ve experienced or the harm that others have done to you was not inflicted intentionally? What if they they simply thought they were doing the right thing - for them, even for you?…How much more tolerant and understanding would you be today if you could see the actions of other people as attempts to do the right thing?” The Daily Stoic, p.82
 - “Whenever someone has done wrong by you, immediately consider what notion of good or evil they had in doing it. For when you see that, you’ll feel compassion, instead of astonishment or rage.” Marcus Aurelius, Meditations, 7.26; The Daily Stoic, p. 82
+- “‘The unjust person acts against the gods. For insofar as the nature of the universe made rational creatures for the sake of each other…anyone breaking nature’s will obviously acts against the oldest of gods’ -Marcus Aurelius, Meditations, 9.1.1 We say of the most heinous acts that they are crimes against nature …our sense of justice goes marrow deep….The key, then, is to support our natural inclination to justice with strong boundaries and strong commitments — to embrace, as Lincoln urged a divided, angry nation to do, ‘the better angels of our nature.’” TDS p.217
+- “You don’t have to do the right thing, just as you don’t have to do your duty. You get to. You want to.” TDS p.219
 
-### Assert your Needs; Set your Boundaries
+### Assertive your Needs; Set your Boundaries
 - Be nice but don’t let people take advantage of or manipulate you (see: live life on purpose). This will help you avoid manipulation and being taken advantage of, but will still provide you the chance to be compassionate to people without sacrificing compassion for yourself.
 - Everyone deserves your unconditional kindness and generosity. As long as they respect and reciprocate that, it will flow freely. Once they abuse that, they have to earn it back. (They had their chance they blew it)
 - You teach people how to treat you by what you tolerate. Being assertive keeps people from taking advantage of your niceness. If you only ever be nice, you’ll be an enabler, especially to your loved ones. Being assertive, asking for what you want, checking your close people, will lead to a place where you both get more of what you want and neither of you is allowed to let the worst parts of yourself grow (doubt, insecurity, anxiety, jealousy). It’s the Facebook effect. FB only ever served up the stuff you clicked on, which is usually the shit that gets you the most riled up in anger or disgust. Being too nice panders to every personality trait a person has, that's ok when you don't see the person a lot, but for close relationships that can bring out the bad parts of people as well as the good. You create codependency.
