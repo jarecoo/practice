@@ -116,16 +116,16 @@ This is what I think is specifically, concretely important, what gets me up in t
 ### In a word:
 * Purpose
 * Presence
+* Awe
 * Simplicity
 * Calm
 * Intrinsic Motivation
 * Health
-* Awe
 * Love
 * Fun
 * Action
 * Discipline
-* Thinking
+* Perspicacity
 * Balance
 * Self-assertion
 * Virtue
