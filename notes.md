@@ -1,7 +1,7 @@
 Top 3
 
 # Top 3 Important Things to Me
-This is what I think is specifically, concretely important, what gets me up in the morning. Below this part is a broader, eclectic section on personal paradigm (why what’s important to me is important), as well as principles I think are important for living.
+This is what I think is specifically, concretely important, what gets me up in the morning. Below this part is a broader, eclectic section on personal paradigm (why what’s important to me is important), as well as principles I think are important for living. “’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TDS p.253
 
 1. Family
     * Prioritize close, personal relationships (family, close friends, etc)
@@ -809,6 +809,7 @@ Don't make all the speech, show me.”
 - “‘This is what you should teach me, how to be like Odysseus…how, even after suffering shipwreck, I might keep sailing on course go those honorable ends.’ - Seneca, Moral Letters, 88.7b We’re not trying to ace tests or impress teachers. We are reading and studying to live, to be good human beings — always and forever” TDS p.204
 - “‘For I believe a good king is from the outset and by necessity a philosopher, and the philosopher is from the outset a kingly person’ -Musonius Rufus, Lectures, 8.33.32-34 The study of philosophy cultivates our reason and ethics so that we can do our job well.” TDS p.206
 - “Philosophy isn’t a parlor trick or made for show. It’s not concerned with words, but with facts. It’s not employed for some pleasure before the day is spend, or to relieve the uneasiness of our leisure. It shapes and builds up the soul, it gives order to live, guides action, show what should and shouldn’t be done…Without it, no one can live without fear or free from care.” Seneca, Moral Letters, 16.3 (TDS p.243)
+- “’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TDS p.253
 
 ### Be Judicious with Technology
 - “Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.”
