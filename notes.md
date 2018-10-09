@@ -226,6 +226,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “Of all the paths you take in life, make sure some of them are dirt.” John Muir
 - Find 3 hobbies: one to make you money, one to keep you in shape, and one to keep you creative.
 - “There is something infantile in the presumption that somebody else has a responsibility to give your life meaning and point...the truly adult view, in contrast, is that our life is as meaningful, as full, as wonderful as we choose to make it” Richard Dawkins, The God Delusion
+- Die with memories not dreams
 - “Retirement, as we think of it today, isn’t a dream we actually want. We don’t actually want to do nothing. We just want to do something we love.” The Happiness Equation, p. 123. You need a hobby, a creative outlet, but more than that you need to be fulfilled.
 - “Life without design is erratic. As soon as one is in place, principles become necessary.” - Seneca, Moral Letters, 95.46; The Daily Stoic, p.98
 - Be something. Anything. It can change, but just pick. This is your anchor, your foundation, it’s what you come back to and how you help make sense of the world and what you push for for yourself and your interests. Run with it until you need to adapt or adjust it, and make sure your always open to adjusting it, not always adjusting it, but just open to adjusting it if you need to. “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
@@ -242,6 +243,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘First tell yourself what kind of person you want to be, then do what you have to do’ -Epictetus, Discourses, 3.23.1-2a … An archer is unlikely to hit a target she did not aim for” The Daily Stoic, p.136
 - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
 - “Chaos ensues from not having a plan. Not because plans are perfect, but because people without plans - like a line of infantry without a strong leader - are much more likely to get overwhelmed and fall apart.” The Daily Stoic, p.98
+- “If a man knows not to which port he sails, no wind is favorable” -Seneca
 - “As we examine our past behavior, it’s sad how often we find this to be the case - that we were not acting consciously or deliberately but instead by forces we did not bother to evaluate.” The Daily Stoic, p.100
 - Actively choose something in every circumstance, because if you don’t, a choice will be made for you by default and it probably won’t be in your control, or something that you like.
 - Try to never do anything on autopilot, especially in respect to your purpose in life, never execute on it on autopilot. The best way to live is to be present at every moment, and live in the now. Bringing awareness and mindfulness to the present will not only keep you grounded, it will keep you happy. You can bring awareness to your forward thinking self as well, being present in the now doesn’t preclude any sort of proactive, goal-oriented, or analytical living, it just brings a presence to it.
@@ -737,6 +739,7 @@ Don't make all the speech, show me.”
 - “‘Don’t await the perfection of Plato’s Republic, but be satisfied with even the smallest step forward and regard the outcome as a small thing’ -Marcus Aurelius, Meditations, 9.29.(4) The idea is not to settle or compromise your standards, but rather not to become trapped by idealism…Do what you can now” TDS p.237
 - Action eases the mind, takes time and energy away from anxiety, depression.
 - “‘It’s ruinous for the soul to be anxious about the future and miserable in advance of misery, engulfed by anxiety that the things it desires might remain its own until the very end. For such a soul will never one at rest — by longing for things to come it will lose the ability to enjoy present things’ -Seneca, Moral Letters, 98.5b-6a Feeling bad in advance is totally voluntary…The pragmatist, the person of action, is too busy to waste time on such silliness….Let the news come when it does. Be too busy working to care.“  TDS p.250
+- The only time a man can be brave is when he’s afraid.
 
 ### Learn to be Disciplined
 - Find a routine; structure and discipline breed mental stability and general health. Keep your house clean, do your chores, run your necessary errands, cook dinner, exercise, etc.
@@ -810,6 +813,8 @@ Don't make all the speech, show me.”
 - “‘For I believe a good king is from the outset and by necessity a philosopher, and the philosopher is from the outset a kingly person’ -Musonius Rufus, Lectures, 8.33.32-34 The study of philosophy cultivates our reason and ethics so that we can do our job well.” TDS p.206
 - “Philosophy isn’t a parlor trick or made for show. It’s not concerned with words, but with facts. It’s not employed for some pleasure before the day is spend, or to relieve the uneasiness of our leisure. It shapes and builds up the soul, it gives order to live, guides action, show what should and shouldn’t be done…Without it, no one can live without fear or free from care.” Seneca, Moral Letters, 16.3 (TDS p.243)
 - “’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TDS p.253
+- A master has failed more times than a novice has tried
+- ’I surely will use the older path, but if i find a shorter and smoother way, I’ll blaze a trail there. The ones who pioneered these paths aren’t our masters, but our guides. Truth stands open to everyone, it hasn’t been monopolized.’ -Seneca, Moral Letters, 33.11
 
 ### Be Judicious with Technology
 - “Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.”
