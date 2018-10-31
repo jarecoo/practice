@@ -80,12 +80,12 @@ This is what I think is specifically, concretely important, what gets me up in t
 
 # Moral Paradigm & How I Should Live My Life
 ## Beliefs
-* Meaning and Purpose are Central to Happiness
+* Meaning and Purpose are Central to Happiness and Peace of Mind
     * Individually Created
     * Derived from a strong sense of who you are (developed from self-love)
     * Derived from the notion that your time is finite, and your part in nature
-* Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
-* An Internal Locus of Control is Central to Happiness
+* Purposeful, Mindful Engagement in the Present Moment is Central to Happiness and Peace of Mind
+* An Internal Locus of Control is Central to Happiness and Peace of Mind
     * You only Control your Thoughts, Attitudes, and Outlook
     * Self Love is a really good way to begin to develop internal control
     * State of mind dictates happiness, not circumstances
@@ -96,15 +96,15 @@ This is what I think is specifically, concretely important, what gets me up in t
     * Presence in the moment is vital to happiness and enjoyment
     * Tranquility of mind is preferable to a turbulent mind
     * Seeing the good in life, and being grateful helps avoid the scourge of stress
+* Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
 * Love is a Basic Human Need
     * Compassion and Love for Yourself is Foundational
     * Most people need Connection with Others
-    * Builds up to Altruism
+    * Altruism and Compassion for others is a part of the need for Love
     * Takes Work to Keep Healthy (Boundaries)
     * Love People, Use Things. Not the other way around
     * Pragmatically, Humans Rely Heavily on Each Other (No Man is an Island)
 * Experiences and Memories are more Fulfilling than Possessions and Material Goods
-* Purposeful, Mindful Engagement in the Present Moment is Central to Happiness
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
 * Have fun
 * Enough is Preferable to More
@@ -122,12 +122,14 @@ This is what I think is specifically, concretely important, what gets me up in t
 * Intrinsic Motivation
 * Health
 * Love
+* Compassion
 * Fun
 * Action
 * Discipline
 * Perspicacity
+* Intellect
 * Balance
-* Self-assertion
+* Self-care
 * Virtue
 
 ## Principles, Practices, Strategies
@@ -292,6 +294,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to with the choices I actually control.’ - Epictetus, Discourses, 2.5.4-5; The single most important practice in Stoic philosophy is differentiating between what we can chance and what we can’t…time spent hurling yourself at these immovable objects is time not spent on the things we can change.” The Daily Stoic, p.9
 - “If we’re always fighting, trying to stay in control, hold on to things, then there’s always a lot of tension in the mind, and the more tension there is, the more rigid things are, and therefore the more easily they’re upset” Headspace, Balance, Day 7
 - “‘It isn’t events themselves that disturb people, but only their judgments about them’ - Epictetus, Enchiridon, 5; The samurai swordsman Musashi made a distinction between our ‘perceiving eye’ and our ‘observing eye.’ The observing eye sees what is. The perceiving eye sees what things supposedly mean. Which do you think causes the most anguish?” The Daily Stoic, p.112
+- “Sometimes we take something very simple, very straightforward, and we create a world in which it consumes our every waking hour... it’s very often the smaller things, the things we’ll look back at and ask ourselves how we got so caught up in that? So very often it’s not the thing, it’s our relationship with that thing, the way that we attach ourselves to a certain idea, or experience, or person, or place, whatever it might be, and we create a world around that. We create a narrative around it, we create a story around it, and before we know it, we are lost in thought, just thinking about that thing...So just noticing when the mind attaches itself very tightly to a certain thing, when you find yourself consumed with thought, and in that moment just noting it as thinking, as feeling, letting it go and coming back to whatever you’re doing at the time.” -Headspace, Everyday Headspace, “Complicating the Simple” Tues. Oct. 30, 2018
 - “We might think that it’s our external environment that dictates our happiness, but it tends to be our relationship to our environment that ultimately defines our experience. So as we’re going about our everyday life it’s really tempting to think that whatever’s going on in the world around us is somehow defining or shaping our sense of happiness or unhappiness. But, of course, we can have days where everything is going great and for some reason we still don’t feel particularly happy inside. Likewise we might have days where it’s very difficult, circumstances are very challenging and yet nothing really seems to touch us that much. We seem to feel quite calm and content regardless. It’s really important to notice this, whether it’s in meditation or in everyday life, and to recognize that that sense of contentment comes from within.” -Headspace, Everyday Headspace, “Defining our Experience”, Th., Sep. 20, 2018
 - “If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.” -Marcus Aurelius
 - Outlook and attitude aren’t just important, they dictate how you experience the world, and they are the only thing you have 100% control over, so choose to be happy first, choose to see the good, choose gratitude instead of guilt, appreciation instead of anxiety, happiness instead of discontentment.
