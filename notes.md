@@ -15,10 +15,11 @@ This is what I think is specifically, concretely important, what gets me up in t
         * Appreciate the time you have with your loved ones. “Nell teaches aspects of parenthood never understood before. If she cries or makes a mess or decides to be contrary (and these are relatively rare), it doesn’t bother. There is always Chris’s silence to compare it to.” - Robert Pirsig, ZatAoMM
         * Remember your kids aren’t you. They’re their own people. You’re helping them find their own way, not redo yours.
         * Getting mad at people for making mistakes doesn’t teach them to not make mistakes, it teaches them to hide them
+        * “When little ones get overwhelmed by big emotions it’s our job to share our calm, not join in their chaos” L.R. Knost
         * There are three parts to raising kids, as I see it, and the important pivot in parent comes at adulthood when you stop doing the first 2 and are executing mostly on the last one. The tricky part is that you more or less dictate 1 and 2, but they dictate 3 and you need to be in tune with their needs and wants for that.
             * 1. Teach them how to do stuff (e.g. eat, walk, talk, ride a bike, do math, etc)
             * 2. Teach them what to be (e.g. morality, behavior, hard work, manners, etc)
-            * 3. Provide emotional support, unconditional love, compassion, empathy, listening ear, encouragement
+            * 3. Provide emotional support, validation, unconditional love, compassion, empathy, listening ear, encouragement
     * Raise my children to be thoughtful, empathetic, enlightened people, capable of finding their own positive value in life, and contributing to the betterment of others
 2. Fulfillment - Personal, Professional, and Creative
     * Emphasize experience and memories over possessions and material goods; reduce waste
@@ -26,11 +27,16 @@ This is what I think is specifically, concretely important, what gets me up in t
             * PNW - Seattle
             * Iceland
             * Canada - Banff
+            * Ireland - Great Britain
             * Alaska
-            * Maine
+            * Maine, Nova Scotia
+            * Puerto Rico
             * New England - NYC, Boston
             * Costa Rica
             * Norway - Sweden
+            * New Zealand
+            * Hawaii
+            * Fiji
             * Switzerland
         * Hiking/Camping
             * Narrows
@@ -292,11 +298,11 @@ This is what I think is specifically, concretely important, what gets me up in t
 
 ### Cultivate an Internal Locus of Control
 - “‘The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to with the choices I actually control.’ - Epictetus, Discourses, 2.5.4-5; The single most important practice in Stoic philosophy is differentiating between what we can chance and what we can’t…time spent hurling yourself at these immovable objects is time not spent on the things we can change.” The Daily Stoic, p.9
-- “If we’re always fighting, trying to stay in control, hold on to things, then there’s always a lot of tension in the mind, and the more tension there is, the more rigid things are, and therefore the more easily they’re upset” Headspace, Balance, Day 7
+- “If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.” -Marcus Aurelius
 - “‘It isn’t events themselves that disturb people, but only their judgments about them’ - Epictetus, Enchiridon, 5; The samurai swordsman Musashi made a distinction between our ‘perceiving eye’ and our ‘observing eye.’ The observing eye sees what is. The perceiving eye sees what things supposedly mean. Which do you think causes the most anguish?” The Daily Stoic, p.112
 - “Sometimes we take something very simple, very straightforward, and we create a world in which it consumes our every waking hour... it’s very often the smaller things, the things we’ll look back at and ask ourselves how we got so caught up in that? So very often it’s not the thing, it’s our relationship with that thing, the way that we attach ourselves to a certain idea, or experience, or person, or place, whatever it might be, and we create a world around that. We create a narrative around it, we create a story around it, and before we know it, we are lost in thought, just thinking about that thing...So just noticing when the mind attaches itself very tightly to a certain thing, when you find yourself consumed with thought, and in that moment just noting it as thinking, as feeling, letting it go and coming back to whatever you’re doing at the time.” -Headspace, Everyday Headspace, “Complicating the Simple” Tues. Oct. 30, 2018
 - “We might think that it’s our external environment that dictates our happiness, but it tends to be our relationship to our environment that ultimately defines our experience. So as we’re going about our everyday life it’s really tempting to think that whatever’s going on in the world around us is somehow defining or shaping our sense of happiness or unhappiness. But, of course, we can have days where everything is going great and for some reason we still don’t feel particularly happy inside. Likewise we might have days where it’s very difficult, circumstances are very challenging and yet nothing really seems to touch us that much. We seem to feel quite calm and content regardless. It’s really important to notice this, whether it’s in meditation or in everyday life, and to recognize that that sense of contentment comes from within.” -Headspace, Everyday Headspace, “Defining our Experience”, Th., Sep. 20, 2018
-- “If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.” -Marcus Aurelius
+- “If we’re always fighting, trying to stay in control, hold on to things, then there’s always a lot of tension in the mind, and the more tension there is, the more rigid things are, and therefore the more easily they’re upset” Headspace, Balance, Day 7
 - Outlook and attitude aren’t just important, they dictate how you experience the world, and they are the only thing you have 100% control over, so choose to be happy first, choose to see the good, choose gratitude instead of guilt, appreciation instead of anxiety, happiness instead of discontentment.
 - Circumstances don’t dictate your happiness, your attitude does.
 - “For him who has conquered the mind, the mind is the best of friends; but for one who had failed to do so, his mind will remain his greatest enemy.” - the Bhagavad Gita
@@ -644,7 +650,8 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘When you first rise in the morning tell yourself: I will encounter busybodies, ingrates, egomaniacs, liars, the jealous and cranks’ - Marcus Aurelius, Meditations, 2.1 …The point of this preparation is not to write off everyone in advance. It is that, maybe, because you’ve prepared for it, you’ll be able to act with patience, forgiveness, and understanding” The Daily Stoic, p.108
 - “I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross; It’s important to forgive and forget, but that being said, you don’t have to keep suffering pain and injustice at the hand of another person. You don’t need to hate them, but you don’t need to engage them in your life either. At worst a person should be neutral to you.
 - Love shouldn’t hurt
-- “If you can’t be genuine with someone and you have to twist your soul in knots trying to keep them sweet, you don have a relationship, you have abuse.” https://www.reddit.com/r/raisedbynarcissists/comments/9occ2m/comment/e7t5okq?st=JNB8OM3Q&sh=9a128a7d
+- https://www.reddit.com/r/Stoicism/comments/9tttc2/you_are_your_own_guide_in_life/?st=JO2G5QBZ&sh=d9b54847
+- “If you can’t be genuine with someone and you have to twist your soul in knots trying to keep them sweet, you don’t have a relationship, you have abuse.” https://www.reddit.com/r/raisedbynarcissists/comments/9occ2m/comment/e7t5okq?st=JNB8OM3Q&sh=9a128a7d
 - The answer will always be no unless you ask
 - Emotionally Mature people:
     * are realistic and reliable
@@ -807,6 +814,7 @@ Don't make all the speech, show me.”
 - “’Therefore, explain why a wise person shouldn’t get drunk — not with words, but by the facts of its ugliness and offensiveness. It’s most easy to prove that so-called pleasures, when they go beyond proper measure, are but punishments’ -Seneca, Moral Letters, 83.27 [Stoics] don’t say, ‘Pleasure isn’t pleasurable.’ They say, ‘Endless pleasure becomes its own form of punishment.’” TDS p.252
 - “’Men, the philosopher’s lecture-hall is a hospital — you shouldn’t walk out of it feeling pleasure, but pain, for you aren’t well when you enter it’ -Epictetus, Discourses, 3.23.30 …Stoic philosophy is a lot like [physical therapy]. Some observations or exercises will touch one of your pressure points. It’s nothing personal. It’s supposed to hurt. That’s how you’ll develop the will to endure and persevere through life’s many difficulties.” TDS p.264
 - “I judge you unfortunate because you have never lived through misfortune. You have passed through life without and opponent — no one can ever know what you are capable of, not even you.” - Seneca, On Providence, 4.3 (TDS p.266)
+- “If you’re going through hell, keep going” -Winston Churchill
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
@@ -860,6 +868,7 @@ Don't make all the speech, show me.”
 - Also, social media can lead to feelings of inadequacy and discouragement. You end up comparing your worst moments to peoples’ best moments.
 - “With so much technology around us it’s really easy to forget we get to define our relationship with technology. We need to learn how to be a little less reactive and a little more responsive to every sound or vibration our phone makes” Headspace, Mindful Tech, Intro
 - Beginning of this video talks about people’s need to have real things again, things away from the digital world: https://www.youtube.com/watch?v=4PcpGxihPac
+- It’s probably really bad for kids https://www.nytimes.com/2018/10/26/style/phones-children-silicon-valley.html
 
 ## Quotes, etc.
 #### _If_ — Rudyard Kipling
