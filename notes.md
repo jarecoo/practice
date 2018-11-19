@@ -139,7 +139,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 * Virtue
 
 ## Principles, Practices, Strategies
-### The Natural World: Death and Meaning
+### Learn to find Meaning in The Natural World and Death
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - Death is one of Nature’s constants, learning to find your place in nature is learning to accept the impermanence of your life.
 - “Im not ready” - “No one ever is. We don't get to choose our time. Death is what gives life meaning, to know our days are numbered, your time is short.” - Dr. Strange and the Ancient One, in Dr. Strange
@@ -169,6 +169,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - You are not a human being experiencing the universe, you are the universe experiencing a human being.
 - “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
 - Beauty makes us happy: https://www.youtube.com/watch?v=-O5kNPlUV7w
+- “Of all the paths you take in life, make sure some of them are dirt.” John Muir
 - “‘Watch the stars in their courses and imagine yourself running alongside them. Think constantly on the changes of the elements into each other, for such thoughts wash away the dust of earthly life.’ Marcus Aurelius, Meditations, 7.47…Given that we’re in our bodies every day, it’s tempting to think that’s the most important thing in the world. But we counteract that bias by looking at nature—at things much bigger than us. A line from Seneca, which has since become a proverb, expresses Marcus’s insight well: The world itself is a huge temple of the gods. Looking at the beautiful expanse of the sky is an antidote to the nagging pettiness of earthly concerns. And it is good and sobering to lose yourself in that as often as you can.” The Daily Stoic, p.131
 - “Sometimes we might be fearful of death, assuming it’s radically different to life. But like a beautiful wave, eventually it has to return to the ocean. In truth, they were never separate at all. We all have a different relationship with this idea of life or death, and there are so many things that feed into that, …{but} finding a degree of comfort with the reality of our impermanence is actually a really important part of living life fully, and enjoying our life as it is. The temptation is to see it as black and white, as two different things, but this idea of the ocean is really helpful. We look out at the ocean, and there’s real pleasure in seeing a wave emerge out of the ocean, in watching it unfold, in watching it travel. Each and every single wave is different. It has its own root, its own direction. And there’s something about the way that that wave is expressed that makes it unique. And yet, ultimately, each and every wave goes back into the ocean. But the wave hasn’t been lost; the water is still the same, it’s just gone back into the ocean. It’s come from the ocean, it’s gone back into the ocean. Something beautiful has been expressed, and yet nothing has been lost. Remembering this idea can bring a greater sense of peace to the mind and to our life.” Headspace, Everyday Headspace, “Life and Death” Monday, July 9, 2018
 - Life is an expression of the universe. “You are an aperture through which the universe is looking at and exploring itself.” - Alan Watts; “We are a way for the cosmos to know itself” - Carl Sagan
@@ -220,7 +221,7 @@ This is what I think is specifically, concretely important, what gets me up in t
     We have no time to stand and stare.
     ```
 
-### Live Life with Purpose - Find Your Meaning (See above Top 3)
+### Live Life with Purpose
 - “First tell yourself what kind of person you want to be, then do what you have to do” -Epictetus, Discourses, 3.23.1-2a The Daily Stoic, p.136. Loving yourself helps you gain a sense of who you are and who you want to be, which must come before you can find your meaning and purpose in life. I think if you try living a purpose without knowing yourself (i.e. your wants and drives), this will just cause stress.
 - ikigai - a Japanese concept that means "a {current} reason for being." The Happiness Equation, p. 101
 - I genuinely think you should have fun; enjoy life however you can, as long as it’s healthy
@@ -237,9 +238,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - Find who you are and love yourself for it.
 - “I wish I'd had the courage to live a life true to myself, not the life others expected of me.” #1 regret of dying people, reported by EoL nurse in The Guardian
 - This is intrinsic motivation, do it for you
-- For me it was building a family, getting married, raising kids and spending time with my family. But also stuff like being outside in nature, seeing the world, and building something.
-- “Of all the paths you take in life, make sure some of them are dirt.” John Muir
-- Find 3 hobbies: one to make you money, one to keep you in shape, and one to keep you creative.
+- For me it was building a family, getting married, raising kids and spending time with my family. But also stuff like being outside in nature, seeing the world, building something, riding motorcycles, and taking pictures.
 - “There is something infantile in the presumption that somebody else has a responsibility to give your life meaning and point...the truly adult view, in contrast, is that our life is as meaningful, as full, as wonderful as we choose to make it” Richard Dawkins, The God Delusion
 - Die with memories not dreams
 - “Retirement, as we think of it today, isn’t a dream we actually want. We don’t actually want to do nothing. We just want to do something we love.” The Happiness Equation, p. 123. You need a hobby, a creative outlet, but more than that you need to be fulfilled.
@@ -297,8 +296,8 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “In your actions, don’t procrastinate. In your conversations, don’t confuse. In your thoughts, don’t wander. In your soul, don’t be passive or aggressive. In your life, don’t be all about business.” - Marcus Aurelius, Meditations, 8.51 (TDS, p.209)
 - “Ah! realize your youth while you have it. Don’t squander the gold of your days, listening to the tedious, trying to improve the hopeless failure, or giving away your life to the ignorant, the common, and the vulgar. These are the sickly aims, the false ideals, of our age. Live! Live the wonderful life that is in you! Let nothing be lost upon you. Be always searching for new sensations. Be afraid of nothing.” Oscar Wilde, Dorian Gray
 
-### Cultivate an Internal Locus of Control
-- “‘The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to with the choices I actually control.’ - Epictetus, Discourses, 2.5.4-5; The single most important practice in Stoic philosophy is differentiating between what we can chance and what we can’t…time spent hurling yourself at these immovable objects is time not spent on the things we can change.” The Daily Stoic, p.9
+### Develop an Internal Locus of Control
+- “‘The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to with the choices I actually control.’ - Epictetus, Discourses, 2.5.4-5; The single most important practice in Stoic philosophy is differentiating between what we can change and what we can’t…time spent hurling yourself at these immovable objects is time not spent on the things we can change.” The Daily Stoic, p.9
 - “If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.” -Marcus Aurelius
 - “‘It isn’t events themselves that disturb people, but only their judgments about them’ - Epictetus, Enchiridon, 5; The samurai swordsman Musashi made a distinction between our ‘perceiving eye’ and our ‘observing eye.’ The observing eye sees what is. The perceiving eye sees what things supposedly mean. Which do you think causes the most anguish?” The Daily Stoic, p.112
 - “Sometimes we take something very simple, very straightforward, and we create a world in which it consumes our every waking hour... it’s very often the smaller things, the things we’ll look back at and ask ourselves how we got so caught up in that? So very often it’s not the thing, it’s our relationship with that thing, the way that we attach ourselves to a certain idea, or experience, or person, or place, whatever it might be, and we create a world around that. We create a narrative around it, we create a story around it, and before we know it, we are lost in thought, just thinking about that thing...So just noticing when the mind attaches itself very tightly to a certain thing, when you find yourself consumed with thought, and in that moment just noting it as thinking, as feeling, letting it go and coming back to whatever you’re doing at the time.” -Headspace, Everyday Headspace, “Complicating the Simple” Tues. Oct. 30, 2018
@@ -397,6 +396,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “When we chase after happiness as a movement, it’s away from the present moment to another place, to some time other than now. And because we move away from the present moment, ironically, we move further away from happiness. Because when you think about it, happiness can only exist in this moment, right here, right now.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
 - “‘Let us therefore set out whole-heartedly, leaving aside our many distractions and exert ourselves in this single purpose, before we realize too late the swift and unstoppable flight of time and are left behind. As each day arises, welcome it as the very best day of all, and make it your own possession. We must seize what flees.’ - Seneca, Moral Letters, 108.27b-28a What will you manage to make of today before it slips from your fingers and becomes the past? When someone asks you what you did yesterday, do you really want the answer to be ‘nothing?’” The Daily Stoic p.143
 - “Yesterday’s the past, tomorrow’s the future, but today is a gift. That’s why it’s called the present.” Bil Keane in The Daily Stoic, p.85
+- Don’t nostalgia for finite things from the past. Just be sure to soak up the finite things of now. limited isn’t sad unless you’re constantly wishing for more or longing for it to come back or last longer. Limited is great when you are present with it. Like each wave is finite in existence but wishing for other ones will make you miss the now ones. Also nostalgia is only good as far as it causes you to be more present now. Beyond that it’s pain.
 - “This present is in our possession - but it has an expiration date, a quickly approaching one. If you enjoy all of it, it will be enough. It can last a whole lifetime.” The Daily Stoic, p.85
 - “Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.”
 - “No act is more valuable than the next when training the mind: meditation, walking, eating. All are opportunities to be present and at ease” Headspace app
@@ -422,7 +422,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘It’s ruinous for the soul to be anxious about the future and miserable in advance of misery, engulfed by anxiety that the things it desires might remain its own until the very end. For such a soul will never one at rest — by longing for things to come it will lose the ability to enjoy present things’ -Seneca, Moral Letters, 98.5b-6a Feeling bad in advance is totally voluntary…The pragmatist, the person of action, is too busy to waste time on such silliness….Let the news come when it does. Be too busy working to care.“  TDS p.250
 - Money is only exchanged, time is spent.
 
-### Settle Down - Cultivate a Relaxed Attitude
+### Settle Down - Relax
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - “If a person wasn’t wanting something outside of their own control, why would they be stricken by anxiety?” Epictetus, Discourses, 2.13.1
 - “The tools and aims of our training are unaffected by the turbulence of the moment. Stop. Regain your composure. It’s waiting for you.” The Daily Stoic, p.68
@@ -544,7 +544,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘No person has the power to have everything they want, but it is in their power not to want what they don’t have.’” -Seneca, Moral Letters, 123.3 If obscene wealth will never get you everything you want, is that the end of it? Or is there another way to solve for this equation? To the Stoics, there is: by changing what it is that you want…Today, you could try to increase your wealth, or you could take a shortcut and just want less.” TDS p.258
 - “‘Let us get used to dining out without the crowds, to being a slave to fewer slaves, to getting clothes only for their real purpose, and to living in more modest quarters’ -Seneca, On Tranquility, 9.3b One way to protect yourself from the swings of fate is by living within your means now. So today, we can try to get used to having and surviving on less so that if we are ever forced to have less, it would not be so bad” TDS p.273
 
-### The Importance of Love
+### Love Yourself and Others
 - “Love for one’s self and love for one another are one in the same thing. We often lean more towards one than the other, but in learning meditation, we discover there’s enough room for them both. So as we sit to meditate, we very quickly realize that either we find it very easy to feel a sense of love and kindness to ourself, or we find it very difficult. In just the same way, we very quickly discover that it’s either very easy to send a feeling of love and kindness to somebody else, or it’s very difficult. Neither is right nor wrong. It’s simply the way that the mind has been conditioned or the way that we have lived our experience of life. But whether we lean more towards one or the other, meditation has a way of balancing it out. We might want to rush that experience, but, of course, we just have to wait for the process to unfold. But in time we see that, really, there is no separation. Whether it’s love internally, or love externally. Ultimately they’re one in the same thing.” -Headspace, Everyday Headspace, “One love” Wednesday, Sep 19, 2018
 - “The greatest gift we can offer another person is to allow them to be who they are, and not what we want them to be. The same can be said with our relationship to self.” -Headspace, Everyday Headspace, “The Greatest Gift,” Sunday, November 11, 2018
 - Love and Empathy for Self
@@ -603,7 +603,7 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “The quickest way, the surest way to find more happiness in our lives, is to focus on the happiness of others.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
     - “Okay, life's a fact, people do fall in love, people do belong to each other, because that's the only chance anybody's got for real happiness.” -Paul Varjack, Breakfast at Tiffany’s
 
-### Be a Good Person; Leave the World Better than You Found It
+### Be Good
 - “When I do good I feel good. When I do bad I feel bad. That is my religion” There is peace in doing good, being good. Hate and discord are uncomfortable and unhealthy for your mind.
 - “I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross
 - “Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” - MLK
@@ -618,6 +618,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘God laid down this law, saying: if you want some good, get it from yourself’ Epictetus, Discourses, 1.29.4 Here is how to guarantee you have a good day: do good things” The Daily Stoic, p.141
 - Making the world a better place rests on making yourself a better person.
 - “What is your vocation? To be a good person.” -Marcus Aurelius, Meditations, 11.5 (TDS p.165)
+- Leave the World Better than You Found It
 - “‘Kindness is invincible, but only when it’s sincere, with no hypocrisy or faking. For what can even the most malicious person do if you keep showing kindness and, if given the chance, you gently point out where they went wrong — right as they are trying to harm you?’ -Marcus Aurelius, Meditations, 11.18.5.9a …The expected reaction to hatred is more hatred…Most rudeness, meanness, and cruelty are a mask for deep-seated weakness. Kindness in these situations is only possible for people of great strength. You have great strength. Use it.” The Daily Stoic p.146
 - “’Every event has two handles, one by which it may be carried, the other by which it cannot. If your brother does you wrong, don't lay hold on the action by the handle of his injustice, for by that it cannot be carried; but by the opposite, that he is your brother, that he was brought up with you; and then you will have hold of the handle which carries.’ -Epictetus, Enchiridon, 43 There is no promise that trying things this way — of grabbing the different handle — will have such momentous results for your. But why continue to lift by the handle that hasn’t worked?” TDS p.180
 - Listen “Hesiod, the poet, said that ‘the best treasure is a sparing tongue.’ Robert Greene considers it a low of power: Always Say Less Than Necessary. We talk because we think it’s helping, whereas in reality, it’s making things hard for us. If our spouse is venting, we want to tell them what they should do. In fact, all they actually want us to do is hear them.” TDS p.191
@@ -637,7 +638,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “You don’t have to do the right thing, just as you don’t have to do your duty. You get to. You want to.” TDS p.219
 - “‘Whenever you take offense at someone’s wrongdoing, immediately turn to your own similar feelings…by thinking on this, you’ll quickly forget your anger.’” -Marcus Aurelius, Meditations, 10.30 Earlier we were reminded of Socrates’s tolerant belief that ‘no one does wrong on purpose.’ The clearest proof of that hypothesis? All the times we did wrong without malice or intention….Be as forgiving of [others] as you are of yourself. Cut them the same slack you would for yourself.” TDS p.260
 
-### Build Healthy Relationships: Assert your Needs; Set your Boundaries
+### Assert your Needs and Set Boundaries
 - Be nice but don’t let people take advantage of or manipulate you (see: live life on purpose). This will help you avoid manipulation and being taken advantage of, but will still provide you the chance to be compassionate to people without sacrificing compassion for yourself.
 - Everyone deserves your unconditional kindness and generosity. As long as they respect and reciprocate that, it will flow freely. Once they abuse that, they have to earn it back. (They had their chance they blew it)
 - You teach people how to treat you by what you tolerate. Being assertive keeps people from taking advantage of your niceness. If you only ever be nice, you’ll be an enabler, especially to your loved ones. Being assertive, asking for what you want, checking your close people, will lead to a place where you both get more of what you want and neither of you is allowed to let the worst parts of yourself grow (doubt, insecurity, anxiety, jealousy). It’s the Facebook effect. FB only ever served up the stuff you clicked on, which is usually the shit that gets you the most riled up in anger or disgust. Being too nice panders to every personality trait a person has, that's ok when you don't see the person a lot, but for close relationships that can bring out the bad parts of people as well as the good. You create codependency.
@@ -692,8 +693,9 @@ This is what I think is specifically, concretely important, what gets me up in t
     * communicate clearly
     * actively seek the outcomes i want
 
-### Be Healthy - Physically and Mentally
+### Take Care of Yourself - Physically and Mentally
 - “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end. It’s sad to think that this kind of frustration is an everyday reality for a lot of people…Worse is when we try to push these feelings away by buying things, going out, fighting, creating drama — indulging in the empty calories of existence instead of finding the real nourishment. The solution is simple and, thankfully, always right at hand. Get out there and work.” TDS, p.163
+- Find 3 hobbies: one to make you money, one to keep you in shape, and one to keep you creative.
 - Physical
     - “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
     - Get good (consistent and long) sleep. Good sleep is underrated. It’s so vital to good health.
@@ -730,6 +732,7 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “Anger as soon as it is fed, is dead - ’Tis starving makes it fat” -Emily Dickenson
     - “There is no more stupefying thing than anger, nothing more bent on its own strength. If successful, none more arrogant, if foiled, none more insane — since it’s not driven back by weariness even in defeat, when fortune removes its adversary it turns its teeth on itself.” - Seneca, On Anger, 3.1.5, The Daily Stoic, p.50
     - “‘It’s ruinous for the soul to be anxious about the future and miserable in advance of misery, engulfed by anxiety that the things it desires might remain its own until the very end. For such a soul will never one at rest — by longing for things to come it will lose the ability to enjoy present things’ -Seneca, Moral Letters, 98.5b-6a Feeling bad in advance is totally voluntary…The pragmatist, the person of action, is too busy to waste time on such silliness….Let the news come when it does. Be too busy working to care.“  TDS p.250
+    - https://www.businessinsider.com/facebook-instagram-snapchat-social-media-well-being-2018-11
 
 ### Get Going: Analyze, Anticipate, but Act
 - “An archer is unlikely to hit a target she did  not aim for…our perceptions and principles guide us in the selection of what we want—but ultimately our actions determine whether we get there or not. So yes, spend some time—real, uninterrupted time—thinking about what’s important to you, what your priorities are. Then, work toward that and forsake all others. It’s not enough to wish and hope. One must act—and act right” The Daily Stoic, p.136
@@ -784,7 +787,7 @@ Don't make all the speech, show me.”
 - The only time a man can be brave is when he’s afraid.
 - “Don’t be the person that says yes with their mouth but not with their actions.” TDS p.259
 
-### Learn to be Disciplined, Strong, and Resilient
+### Be Disciplined, Strong, and Resilient
 - Find a routine; structure and discipline breed mental stability and general health. Keep your house clean, do your chores, run your necessary errands, cook dinner, exercise, etc.
 - “It gets easier. Every day it gets a little easier, but you gotta do it every day. That’s the hard part, but it does get easier.” - Bojack Horseman
 - https://www.reddit.com/r/GetMotivated/comments/8ai05o/discussion_your_selfcontrol_is_your_most/?st=JFPOIU6B&sh=3ef2d937
@@ -826,6 +829,7 @@ Don't make all the speech, show me.”
 - “I judge you unfortunate because you have never lived through misfortune. You have passed through life without and opponent — no one can ever know what you are capable of, not even you.” - Seneca, On Providence, 4.3 (TDS p.266)
 - “If you’re going through hell, keep going” -Winston Churchill
 - “‘It is when times are good that you should gird yourself for tougher times ahead, for when Fortune is kind the soul can build defenses against her ravages.’ - Seneca, Moral Letters, 18.5-6 What if you spent one day a month experiencing the effects of poverty, hunger, complete isolation, or any other thing you might fear? After the initial culture shock, it would start to feel normal and no longer quite so scary.” TDS p.272
+- “If the bubble is never inflated, it won’t need to be popped. Overconfidence is a great weakness and a liability. But if you are already humble, no one will need to humble you - and the world is much less likely to have nasty surprises in store for you.” TDS p.274
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
@@ -875,13 +879,14 @@ Don't make all the speech, show me.”
 - “Do you remember when only doctors had pagers?…Then suddenly everyone had pagers. Then everyone had cell phones. Now everyone is accessible, any way, any time…You need to remove access. Close the doors, lock the windows, answer the [one] bell [you’ve decided you’ll respond to]” The Happiness Equation, p. 198
 - “We can find a retreat at any time by looking inward. We can sit with our eyes closed and feel our breath go in and out. We can turn on some music and tune out the world. We can turn off technology or shut off those rampant thoughts in our head. That will provide peace. Nothing else.” The Daily Stoic, p.91
 - “‘The richest, happiest and most productive lives are characterized by the ability to fully engage in the challenge at hand, but also to disengage periodically and seek renewal.’ …{The Power of Full Engagement}… A Kansas State University study found that complete downtime after work helps us recharge for the next day. Turning your phone off after dinner. Not using the internet on vacation.” The Happiness Equation, p.22
+- “Of all the paths you take in life, make sure some of them are dirt.” John Muir
 - Technology, at least in 2018, is really good at bringing out the worst tendencies in people: narcissism, greed, egoism, gossip, laziness. The way FB algorithms work, for example, is by giving you more of what you choose to view, and more often than not, what you choose to view appeals to your baser emotions like anger (e.g. an article about how the other political party is stupid). More often than not, technology feeds your sloth and rage and judgmental attitudes. https://www.bbc.com/news/technology-44640959
 - Also, social media can lead to feelings of inadequacy and discouragement. You end up comparing your worst moments to peoples’ best moments.
 - “With so much technology around us it’s really easy to forget we get to define our relationship with technology. We need to learn how to be a little less reactive and a little more responsive to every sound or vibration our phone makes” Headspace, Mindful Tech, Intro
 - Beginning of this video talks about people’s need to have real things again, things away from the digital world: https://www.youtube.com/watch?v=4PcpGxihPac
 - It’s probably really bad for kids https://www.nytimes.com/2018/10/26/style/phones-children-silicon-valley.html
 - It’s bad for us too https://www.reddit.com/r/science/comments/9veo4g/social_media_use_increases_depression_and/?st=JOA2R2ZU&sh=35e1fa5d
--
+- https://www.businessinsider.com/facebook-instagram-snapchat-social-media-well-being-2018-11
 
 ## Quotes, etc.
 #### _If_ — Rudyard Kipling
