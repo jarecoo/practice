@@ -139,7 +139,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 * Virtue
 
 ## Principles, Practices, Strategies
-### Learn to find Meaning in The Natural World and Death
+### Discover the Meaning in Nature and Death
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - Death is one of Nature’s constants, learning to find your place in nature is learning to accept the impermanence of your life.
 - “Im not ready” - “No one ever is. We don't get to choose our time. Death is what gives life meaning, to know our days are numbered, your time is short.” - Dr. Strange and the Ancient One, in Dr. Strange
