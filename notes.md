@@ -707,6 +707,7 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “Indeed, to one who is active, no day is long. So let us lengthen our lives; for the duty and the proof of life consist in action. Cut short the night: use some of it for the day’s business. Birds that are being prepared for the banquet, that they may be flattened through lack of exercise, are kept in the dark. And similarly, if men vegetate without physical activity, their idle bodies are overwhelmed with flesh, and in their self-satisfied retirement the fat of indolence grows upon them” -Seneca
     - “Exercise is a celebration of what you can do, not a punishment for what you ate”
     - Use food for sustenance, not pleasure. Modern bounty makes food-related sickness extremely common (high cholesterol, diabetes, high blood pressure, obesity, etc)
+    - “One should by constant practice accustom himself to choosing food not for enjoyment but for nourishment, not to tickle his palate but to strengthen his body.” Musonius Rufus, Lectures,  On Food, XVIIIB
     - Avoid drinking soda. It’s poison. Consume sugar sparingly. Stick to whole foods, white meat and fish, lots of veggies, lots of fruits. Fewer carbs.
     - Go on at least 3 walks a week
 - Mental
@@ -791,6 +792,7 @@ Don't make all the speech, show me.”
 - “‘It’s ruinous for the soul to be anxious about the future and miserable in advance of misery, engulfed by anxiety that the things it desires might remain its own until the very end. For such a soul will never one at rest — by longing for things to come it will lose the ability to enjoy present things’ -Seneca, Moral Letters, 98.5b-6a Feeling bad in advance is totally voluntary…The pragmatist, the person of action, is too busy to waste time on such silliness….Let the news come when it does. Be too busy working to care.“  TDS p.250
 - The only time a man can be brave is when he’s afraid.
 - “Don’t be the person that says yes with their mouth but not with their actions.” TDS p.259
+- “It’s other peoples’ job to tell you no, not yours. Try stuff and go as far as you can with it. Apply for the job you think you’re not qualified for, ask that person out you think is too good for you. Create, build, act. Take the rejection, learn how to improve, and do better next time. Don't negotiate against yourself, because you'll lose every time.” https://www.reddit.com/r/AskReddit/comments/9zpbu8/what_was_your_biggest_or_smallest_epiphany_that/eab4kd5/?st=jp1o7n3c&sh=0df32fdc
 
 ### Be Disciplined, Strong, and Resilient
 - Find a routine; structure and discipline breed mental stability and general health. Keep your house clean, do your chores, run your necessary errands, cook dinner, exercise, etc.
@@ -892,6 +894,8 @@ Don't make all the speech, show me.”
 - It’s probably really bad for kids https://www.nytimes.com/2018/10/26/style/phones-children-silicon-valley.html
 - It’s bad for us too https://www.reddit.com/r/science/comments/9veo4g/social_media_use_increases_depression_and/?st=JOA2R2ZU&sh=35e1fa5d
 - https://www.businessinsider.com/facebook-instagram-snapchat-social-media-well-being-2018-11
+- Social media is cancer https://www.reddit.com/r/minimalism/comments/a0rlq3/social_media_is_the_cancer_of_our_society/?st=JOZEJ7UE&sh=e3fbb75c
+-
 
 ## Quotes, etc.
 #### _If_ — Rudyard Kipling
