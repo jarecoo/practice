@@ -391,6 +391,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “I am not the ego, the I, the charakter, the personality, the conditioning, the habits or the memories. I am not the sensory impressions of the body or the thoughts and feelings of the mind. I'm not the mind or the consciousness. I am the perceiving subject who is aware of these perceptible objects.” https://www.reddit.com/r/Meditation/comments/9pn3hu/i_am_not_the_ego_the_i_the_charakter_the/?st=JNGVGE7V&sh=40241e5c
 - “For that reason, starting with things of little value — bit of spilled oil, a little stolen wine, repeat to yourself: ‘For such a small price I buy tranquillity and peace of mind.’” -Epictetus
 - “You know what's wrong with you, Miss Whoever-you-are? You're chicken, you've got no guts. You're afraid to stick out your chin and say, ‘Okay, life's a fact, people do fall in love, people do belong to each other, because that's the only chance anybody's got for real happiness.’ You call yourself a free spirit, a "wild thing," and you're terrified somebody's gonna stick you in a cage. Well baby, you're already in that cage. You built it yourself. And it's not bounded in the west by Tulip, Texas, or in the east by Somali-land. It's wherever you go. Because no matter where you run, you just end up running into yourself.” -Paul Varjack, Breakfast at Tiffany’s
+- “’Try praying differently, and see what happens: Instead of asking for “a way to sleep with her,” try asking for “a way to stop desiring to sleep with her.” Instead of “a way to get rid of him,” try asking for “a way to not crave his demise.” Instead of “a way to not lose my child,” try asking for “a way to lose my fear of it.”’ Marcus Aurelius, Meditations, 9.40.(6) What about asking for fortitude and strength so you can do what you need to do? What if you sought clarity on what you do control, what is already within your power? you might find your prayers have already been answered.” TDS p276
 
 ### Live in the Present Moment
 - “The longest and shortest life, then, amount to the same, for the present moment lasts the same for all and is all anyone possesses.” -Marcus Aurelius, Meditations, 2.14; The Daily Stoic, p.85
@@ -437,6 +438,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - Realize that there will always be downsides, imperfections, mistakes, harm, etc. Ride the waves, find your own inner peace. (mediation) (“there is no effort without error and shortcoming“)
 - “A person often meets his destiny on the road he took to avoid it” - Jean de La Fontaine
 - Be patient with yourself, and extend that to those around you.
+- It’s impossible to live a perfect life; to not make mistakes and do (or not do) things you may regret later. Do what you can, but don’t sweat stuff too much. Live life as best as you can, but accept you won’t do everything perfectly, and let it go.
 - Reset. Readjust. Restart. Refocus. As many times as you need to.
 - “Every time you get upset a little bit of life leaves the body” The Daily Stoic, p.52
 - “It is quite impossible to unite happiness with a yearning for what we don’t have.’ Epictetus, Discourses, 3.24.17 Locate that yearning for more, better, someday and see it for what it is: the enemy of your contentment. Choose it or your happiness.” The Daily Stoic, p.57
@@ -708,8 +710,9 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “Exercise is a celebration of what you can do, not a punishment for what you ate”
     - Use food for sustenance, not pleasure. Modern bounty makes food-related sickness extremely common (high cholesterol, diabetes, high blood pressure, obesity, etc)
     - “One should by constant practice accustom himself to choosing food not for enjoyment but for nourishment, not to tickle his palate but to strengthen his body.” Musonius Rufus, Lectures,  On Food, XVIIIB
-    - Avoid drinking soda. It’s poison. Consume sugar sparingly. Stick to whole foods, white meat and fish, lots of veggies, lots of fruits. Fewer carbs.
+    - Avoid drinking soda. It’s poison. Consume sugar sparingly. Stick to whole foods, white meat and fish, lots of veggies, lots of fruits. Good fats, fewer carbs.
     - Go on at least 3 walks a week
+    - Old-age health is determined, for the parts you can control, by your lifestyle now. Eat healthily, exercise, and sleep well now.
 - Mental
     - “Your brain is the most incredible and complex object in the universe. …The good news is for no money down…you get the one free copy of the universe’s most complex and powerful object. It’s yours for life…You break it, it’s broken. Seat belts, bike helmets and exercise are mandatory. For power, your brain recharges with six to eight hours of sleep a day and as much healthy food as possible.” The Happiness Equation p.193
     - Stress is the modern smoking, overexposure to cortisol leads to diminished physical health https://newatlas.com/stress-autoimmune-disease-ptsd/55109/ in this case being mentally healthy (free of stress is closely tied to physical health
@@ -738,7 +741,7 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “Anger as soon as it is fed, is dead - ’Tis starving makes it fat” -Emily Dickenson
     - “There is no more stupefying thing than anger, nothing more bent on its own strength. If successful, none more arrogant, if foiled, none more insane — since it’s not driven back by weariness even in defeat, when fortune removes its adversary it turns its teeth on itself.” - Seneca, On Anger, 3.1.5, The Daily Stoic, p.50
     - “‘It’s ruinous for the soul to be anxious about the future and miserable in advance of misery, engulfed by anxiety that the things it desires might remain its own until the very end. For such a soul will never one at rest — by longing for things to come it will lose the ability to enjoy present things’ -Seneca, Moral Letters, 98.5b-6a Feeling bad in advance is totally voluntary…The pragmatist, the person of action, is too busy to waste time on such silliness….Let the news come when it does. Be too busy working to care.“  TDS p.250
-    - https://www.businessinsider.com/facebook-instagram-snapchat-social-media-well-being-2018-11
+    - Honestly just stay away from social media https://www.businessinsider.com/facebook-instagram-snapchat-social-media-well-being-2018-11
 
 ### Get Going: Analyze, Anticipate, but Act
 - “An archer is unlikely to hit a target she did  not aim for…our perceptions and principles guide us in the selection of what we want—but ultimately our actions determine whether we get there or not. So yes, spend some time—real, uninterrupted time—thinking about what’s important to you, what your priorities are. Then, work toward that and forsake all others. It’s not enough to wish and hope. One must act—and act right” The Daily Stoic, p.136
@@ -793,6 +796,7 @@ Don't make all the speech, show me.”
 - The only time a man can be brave is when he’s afraid.
 - “Don’t be the person that says yes with their mouth but not with their actions.” TDS p.259
 - “It’s other peoples’ job to tell you no, not yours. Try stuff and go as far as you can with it. Apply for the job you think you’re not qualified for, ask that person out you think is too good for you. Create, build, act. Take the rejection, learn how to improve, and do better next time. Don't negotiate against yourself, because you'll lose every time.” https://www.reddit.com/r/AskReddit/comments/9zpbu8/what_was_your_biggest_or_smallest_epiphany_that/eab4kd5/?st=jp1o7n3c&sh=0df32fdc
+- “’First practice not letting people know who you are — keep your philosophy to yourself for a bit. In just the manner that fruit is produced - the seed buried for a season, hidden, growing gradually so it may come to full maturity. But if the grain sprouts before the stalk is fully developed, it will never ripen…That is the kind of plant you are, displaying fruit too soon, and the winder will kill you.’ Epictetus, Discourses, 4.8.35b-37 “Just because you agree with the philosophy doesn’t mean the roots have fully taken hold in your mind. Fooling with books so you can sound smart or have an intimidating library is like tending to a garden to impress your neighbors…Do the work required to nurture and tend to them. So that they — and you — are prepared and sturdy for the hard winters of life” TDS p.277
 
 ### Be Disciplined, Strong, and Resilient
 - Find a routine; structure and discipline breed mental stability and general health. Keep your house clean, do your chores, run your necessary errands, cook dinner, exercise, etc.
@@ -895,7 +899,6 @@ Don't make all the speech, show me.”
 - It’s bad for us too https://www.reddit.com/r/science/comments/9veo4g/social_media_use_increases_depression_and/?st=JOA2R2ZU&sh=35e1fa5d
 - https://www.businessinsider.com/facebook-instagram-snapchat-social-media-well-being-2018-11
 - Social media is cancer https://www.reddit.com/r/minimalism/comments/a0rlq3/social_media_is_the_cancer_of_our_society/?st=JOZEJ7UE&sh=e3fbb75c
--
 
 ## Quotes, etc.
 #### _If_ — Rudyard Kipling
