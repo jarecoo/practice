@@ -441,6 +441,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “A person often meets his destiny on the road he took to avoid it” - Jean de La Fontaine
 - Be patient with yourself, and extend that to those around you.
 - It’s impossible to live a perfect life; to not make mistakes and do (or not do) things you may regret later. Do what you can, but don’t sweat stuff too much. Live life as best as you can, but accept you won’t do everything perfectly, and let it go.
+- Perfect is the enemy of good.
 - Reset. Readjust. Restart. Refocus. As many times as you need to.
 - “Every time you get upset a little bit of life leaves the body” The Daily Stoic, p.52
 - “It is quite impossible to unite happiness with a yearning for what we don’t have.’ Epictetus, Discourses, 3.24.17 Locate that yearning for more, better, someday and see it for what it is: the enemy of your contentment. Choose it or your happiness.” The Daily Stoic, p.57
@@ -548,6 +549,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “We should live well, but not in luxury. Everything needed for our well-being is right before us.” -Seneca, Moral Letters, 119.15b (TDS p.257)
 - “‘No person has the power to have everything they want, but it is in their power not to want what they don’t have.’” -Seneca, Moral Letters, 123.3 If obscene wealth will never get you everything you want, is that the end of it? Or is there another way to solve for this equation? To the Stoics, there is: by changing what it is that you want…Today, you could try to increase your wealth, or you could take a shortcut and just want less.” TDS p.258
 - “‘Let us get used to dining out without the crowds, to being a slave to fewer slaves, to getting clothes only for their real purpose, and to living in more modest quarters’ -Seneca, On Tranquility, 9.3b One way to protect yourself from the swings of fate is by living within your means now. So today, we can try to get used to having and surviving on less so that if we are ever forced to have less, it would not be so bad” TDS p.273
+- It’s easier to find contentment and beauty in the things you have than to search for it in the things you desire. https://www.reddit.com/r/minimalism/comments/a2yose/it_is_easier_to_find_beauty_and_contentment_in/?st=JP9XFFZX&sh=e605edcb
 
 ### Love Yourself and Others
 - “Love for one’s self and love for one another are one in the same thing. We often lean more towards one than the other, but in learning meditation, we discover there’s enough room for them both. So as we sit to meditate, we very quickly realize that either we find it very easy to feel a sense of love and kindness to ourself, or we find it very difficult. In just the same way, we very quickly discover that it’s either very easy to send a feeling of love and kindness to somebody else, or it’s very difficult. Neither is right nor wrong. It’s simply the way that the mind has been conditioned or the way that we have lived our experience of life. But whether we lean more towards one or the other, meditation has a way of balancing it out. We might want to rush that experience, but, of course, we just have to wait for the process to unfold. But in time we see that, really, there is no separation. Whether it’s love internally, or love externally. Ultimately they’re one in the same thing.” -Headspace, Everyday Headspace, “One love” Wednesday, Sep 19, 2018
@@ -609,8 +611,8 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “Okay, life's a fact, people do fall in love, people do belong to each other, because that's the only chance anybody's got for real happiness.” -Paul Varjack, Breakfast at Tiffany’s
 
 ### Be Good
-- “When I do good I feel good. When I do bad I feel bad. That is my religion” There is peace in doing good, being good. Hate and discord are uncomfortable and unhealthy for your mind.
-- “I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross (“It’s not until they tell you you’re going to die soon that you realize how short life is. Time is the most valuable thing in life because it never comes back.” - Stefan Stefansson)
+- “This is my simple religion. There is no need for temples; no need for complicated philosophy. Our own brain, our own heart is our temple; the philosophy is kindness.” -Dalai Lama
+- “When I do good I feel good. When I do bad I feel bad. That is my religion” There is peace in doing good, being good. Hate and discord are uncomfortable and unhealthy for your mind.“I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross (“It’s not until they tell you you’re going to die soon that you realize how short life is. Time is the most valuable thing in life because it never comes back.” - Stefan Stefansson)
 - “Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” - MLK
 - “Hate is too great a burden to bear” -MLK
 - “Waste no more time arguing what a good man should be. Be one.” Marcus Aurelius
@@ -845,6 +847,8 @@ Don't make all the speech, show me.”
 - “‘It is when times are good that you should gird yourself for tougher times ahead, for when Fortune is kind the soul can build defenses against her ravages.’ - Seneca, Moral Letters, 18.5-6 What if you spent one day a month experiencing the effects of poverty, hunger, complete isolation, or any other thing you might fear? After the initial culture shock, it would start to feel normal and no longer quite so scary.” TDS p.272
 - “If the bubble is never inflated, it won’t need to be popped. Overconfidence is a great weakness and a liability. But if you are already humble, no one will need to humble you - and the world is much less likely to have nasty surprises in store for you.” TDS p.274
 - “The person who has been dealt a harder hand, understood it, but still triumphed? That’s greatness” TDS p.278
+- “’Whenever you suffer pain, keep in mind that it’s nothing to be ashamed of and that it can’t degrade your guiding intelligence, nor keep it from acting rationally and for the common good…Pain is never unbearable or unending, so you can remember these limits and not add them in your imagination.’ -Marcus Aurelius, Meditations, 7.64 ‘Nature is merciful’ [Churchill] later wrote…, ‘and does not try her children, man or beats, beyond their compass…Live dangerously; take things as they come; dread naught, all will be well.’ Nothing is unending. You just need to be strong and gracious enough to get through it.” TDS p.280
+- “’Remember that to change your mind and to follow someone’s correction are consistent with a free will.’ -Marcus Aurelius, Meditations, 8.16 The point is not to have an iron will, but an adaptable will — a will that makes full use of reason to clarify perception, impulse, and judgement to act effectively for the right purpose. It’s not weak to change and adapt. Flexibility is its own kind of strength. in fact, this flexibility combined with strength is what will make us resiliant and unstoppable.” TDS. p281
 
 ### Be Smart
 - You have a powerful brain, use it, exercise it. You want to keep it good and string for your whole life.
@@ -882,6 +886,7 @@ Don't make all the speech, show me.”
 - “’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TDS p.253
 - A master has failed more times than a novice has tried
 - ’I surely will use the older path, but if i find a shorter and smoother way, I’ll blaze a trail there. The ones who pioneered these paths aren’t our masters, but our guides. Truth stands open to everyone, it hasn’t been monopolized.’ -Seneca, Moral Letters, 33.11
+- “’Remember that to change your mind and to follow someone’s correction are consistent with a free will.’ -Marcus Aurelius, Meditations, 8.16 Conditions change. New facts come in. Circumstances arise. If you can’t adapt…you are no better than a robot. The point is not to have an iron will, but an adaptable will — a will that makes full use of reason to clarify perception, impulse, and judgement to act effectively for the right purpose. It’s not weak to change and adapt. Flexibility is its own kind of strength.” TDS. p281
 
 ### Be Judicious with Technology
 - “Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.”
@@ -1137,9 +1142,10 @@ To me, these things are dangerous and harmful, and if they’re true, then the c
     - Literally Prophet Inc. - https://www.reddit.com/r/exmormon/comments/7ofz3q/an_entity_that_owns_lds_inc/?st=JC31IL1B&sh=362a88e7
     - Why not let prophets speak to the world audience: https://www.reddit.com/r/exmormon/comments/9wyzuz/eric_hawkins_job_is_a_slap_in_the_face_to_the/?st=JOHWQ03M&sh=ce7cc78e
     - Prop 8 (https://www.reddit.com/r/exmormon/comments/612axt/for_years_the_narrative_from_the_church_has_been/)
-    - Marijuana legalization attempts in 2016 in NM, the church mobilized members to fight. Also MM in Utah in 2018 http://www.mormonnewsroom.org/article/first-presidency-statement-on-utah-marijuana-initiative
+    - Marijuana legalization attempts in 2016 in NM, the church mobilized members to fight. Also MM in Utah in 2018 http://www.mormonnewsroom.org/article/first-presidency-statement-on-utah-marijuana-initiative,
     - Prop 2 (medical mj) in 2018 in Utah, the church took a hard stance and encouraged members to vote against it
     - Joseph Bishop - Dec: recording of Bishop happens, Jan: church tries to pass law, march: recording is released via Mormonleaks (https://www.sltrib.com/news/politics/2018/03/26/gehrke-a-secret-recording-launched-a-sex-assault-scandal-the-lds-church-received-it-the-same-month-it-tried-to-ban-secret-recordings-in-utah/)
+    - The church also forced a compromise after the vote that wasn’t approved by voters. Wtf https://www.sltrib.com/news/politics/2018/12/03/utah-house-passes-medical/
     -  www.reddit.com/r/exmormon/comments/85tqughttps:///let_us_not_forget_that_less_than_two_months_ago/?st=JF0CRWZK&sh=f89747c2, https://www.reddit.com/r/exmormon/comments/85vv86/in_the_statement_released_by_the_church_they/?st=JF0D0V6J&sh=f1e39f1e
     - Assisted suicide position
     - City creek
