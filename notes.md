@@ -508,7 +508,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 
 ### Simplify
 - Enough is better than more.
-- Quality is better than quantity.
+- Quality is better than quantity. “The bitterness of poor quality remains long after the sweetness of low price is forgotten.” - Ben Franklin; aka: “You can’t afford cheap.”
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - “Approach each task as if it is your last, giving up every distraction, emotional subversion of reason, and all drama, vanity,  and complaint over your fair share” - Marcus Aurelius, Meditations, 2.5
 - there is clarity in simplicity. Zero in on what’s right in front of you.
