@@ -1,7 +1,7 @@
 Top 3
 
 # Top 3 Important Things to Me
-This is what I think is specifically, concretely important, what gets me up in the morning. Below this part is a broader, eclectic section on personal paradigm (why what’s important to me is important), as well as principles I think are important for living. “’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TDS p.253
+This is what I think is specifically, concretely important, what gets me up in the morning, and how I think life should be lived. The first section is my personal purpose and meaning. It’s what I pursue every day. Below that is a general, eclectic section on paradigm, and principles I think are important for life and happiness. (“’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TDS p.253)
 
 1. Family
     * Prioritize close, personal relationships (family, close friends, etc)
@@ -24,6 +24,7 @@ This is what I think is specifically, concretely important, what gets me up in t
     * Raise my children to be thoughtful, empathetic, enlightened people, capable of finding their own positive value in life, and contributing to the betterment of others
 2. Fulfillment - Personal, Professional, and Creative
     * Emphasize experience and memories over possessions and material goods; reduce waste
+        * Just spending and enjoying time with my family
         * Traveling - See as much of the world as possible
             * PNW - Seattle
             * Iceland
@@ -305,6 +306,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “There is nothing outside of yourself that can ever enable you to get better, stronger, richer, quicker, or smarter. Everything is within. Everything exists. Seek nothing outside of yourself.” - Miyamoto Musashi, The Book of Five Rings
 - “If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.” -Marcus Aurelius
 - “‘It isn’t events themselves that disturb people, but only their judgments about them’ - Epictetus, Enchiridon, 5; The samurai swordsman Musashi made a distinction between our ‘perceiving eye’ and our ‘observing eye.’ The observing eye sees what is. The perceiving eye sees what things supposedly mean. Which do you think causes the most anguish?” The Daily Stoic, p.112
+- “By turning the mind inwards, by observing our resistance to challenging emotions, not only do we prevent the emotion from escalating, but we understand the true source of our suffering. So very often the internal struggle that we experience, of course it perhaps has its trigger in the world around us, maybe it’s something that a particular person said, maybe it’s something that’s happened to us in our environment. Instinctively, we want to look at that person, or at that thing, or the situation and blame that situation. But as long as we’re involved in that, we’re just really, one, fanning the flames of the emotion by thinking about it, but also we’re not really understanding where the source of that struggle has come from. And because of that we just continue to repeat this behavior over and over again in our life. But if we can, even just once, restrain ourselves from looking outwards and instead just pause and notice the feeing, whether it’s the emotion or the thinking that arises in that moment, if we can watch that, rather than blame, then we’ll see something happen. We’ll see a shift, we’ll see a chance, and all of a sudden, we start to see that it’s not always the thing itself which is the problem, but rather our reaction to that thing, our relationship to that thing. And as we continue down that route then we start to find a a sense of freedom and ease in the mind.” -Headspace, Everyday Headspace, “The source of suffering,” Friday, Dec. 14, 2018
 - “Sometimes we take something very simple, very straightforward, and we create a world in which it consumes our every waking hour... it’s very often the smaller things, the things we’ll look back at and ask ourselves how we got so caught up in that? So very often it’s not the thing, it’s our relationship with that thing, the way that we attach ourselves to a certain idea, or experience, or person, or place, whatever it might be, and we create a world around that. We create a narrative around it, we create a story around it, and before we know it, we are lost in thought, just thinking about that thing...So just noticing when the mind attaches itself very tightly to a certain thing, when you find yourself consumed with thought, and in that moment just noting it as thinking, as feeling, letting it go and coming back to whatever you’re doing at the time.” -Headspace, Everyday Headspace, “Complicating the Simple” Tues. Oct. 30, 2018
 - “We might think that it’s our external environment that dictates our happiness, but it tends to be our relationship to our environment that ultimately defines our experience. So as we’re going about our everyday life it’s really tempting to think that whatever’s going on in the world around us is somehow defining or shaping our sense of happiness or unhappiness. But, of course, we can have days where everything is going great and for some reason we still don’t feel particularly happy inside. Likewise we might have days where it’s very difficult, circumstances are very challenging and yet nothing really seems to touch us that much. We seem to feel quite calm and content regardless. It’s really important to notice this, whether it’s in meditation or in everyday life, and to recognize that that sense of contentment comes from within.” -Headspace, Everyday Headspace, “Defining our Experience”, Th., Sep. 20, 2018
 - “For him who has conquered the mind, the mind is the best of friends; but for one who had failed to do so, his mind will remain his greatest enemy.” - the Bhagavad Gita
@@ -665,7 +667,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “Those who matter don’t mind. And those who mind don’t matter” -Bernard Baruch
 - Good people will behave properly with your trust. Those people belong in your life. Bad people will behave poorly with your trust. Kick them out.
 - “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
-- Be assertive about your wants, needs, and boundaries. On expressing yourself with your loved ones: I want your consent, I’d like your participation, I need neither. It’s not their job to make you happy and express your wants and needs for you. You have to do it.
+- Be assertive about your wants, needs, and boundaries. On expressing yourself with your loved ones: I want your consent, I’d like your participation, I need neither. It’s not their job to make you happy and express your wants and needs for you. You have to do it. https://www.youtube.com/watch?v=di2FM8WZI5E
 - If you don’t speak your truth it’s like you’re suffocating yourself.
 - The first thing to do when trying to walk the line between being nice and being assertive is to know who you are. When you have a firm grasp on who you are and what you want, you can then assert that.
 - “You can lie down for people to walk on you and they will complain that you are still not flat enough. Live your life.”
@@ -1120,7 +1122,9 @@ For one last time.
 ### Top 3 Reasons (including links and examples) I left the Mormon church:
 To me, these things are dangerous and harmful, and if they’re true, then the church isn’t. God wouldn’t do it this way; yes men are flawed, but God is perfect, so he could and should help his men avoid these pitfalls.
 1. information suppression, whitewashing, gaslighting, rhetorical control, ideological rigidity, historical revisionism (mostly about church history, but it applies currently as well), technophobia - the church wants to control information, god would have no need for this
+    - “The truth never damages a cause that is honest.” -Mahatma Gandhi
     - Liars: https://www.reddit.com/r/exmormon/comments/82pwvj/comment/dvc0izz?st=JEI70DU8&sh=5dc125a2
+    - Bill Reel excommunicated for pointing out Holland’s verifiable lies
     - “Nobody is going to give you the education you need to overthrow them.” Peanuts cartoon
     - The BoM is a rip-off of another book, The Book of the Hebrews https://cesletter.org/CES-Letter.pdf#page8
     - The church flat out whitewashes history and attempts to control truth https://www.reddit.com/r/exmormon/comments/7ncpbc/i_compiled_a_list_of_all_the_facts_stated_in/?st=JBW02ZIF&sh=07dfb103, https://www.reddit.com/r/exmormon/comments/7yr3kd/comment/duik378?st=JDVCUG7X&sh=a28976c0, https://www.reddit.com/r/exmormon/comments/80ievk/update_a_robust_list_of_intentional_hiding_church/?st=JE57V6YF&sh=4c8fd9ed, https://www.reddit.com/r/exmormon/comments/8amp35/church_legal_department_orders_all_websites/?st=JFQ7QCNZ&sh=3174c218
@@ -1234,3 +1238,48 @@ If you allow yourself to consider that it could not be true and just look at the
 8. A good place to find thoughtful articles on the problems with the church: http://www.mormonthink.com/
 9. A Letter for My Wife http://www.letterformywife.com/wp-content/letter/Letter_For_My_Wife.pdf
 10. http://www.missedinsunday.com/
+
+
+
+The Uncorrelated Facts Quiz
+1. What was Joseph Smith up to before he started translating the BoM and founding the church? Did he get into any trouble for that?
+2. How many first vision accounts are there? How are they different?
+3. How has the Church portrayed, in official art, the translation of the BoM? How did JS actually do it? What role did the golden plates play? How does this method relate to his pre-church days?
+4. What is a seer stone? What did the church teach about Joseph Smith and seerstones prior to ~2000? When did the first photograph of the Jospeh Smith’s seerstone surface from the church?
+5. What 2 works of 19th century literature is the BoM most similar to? How are they similar? How significant, percent-the-same, are the similarities compared to other literature of the time? How much access did JS likely have to these texts?
+6. What are the kinderhook plates? How did JS do at translating them?
+7. Did the witnesses of the BoM see the physical plates?
+8. Name 3 anachronisms in the BoM.
+9. Name 4 pieces of archeological evidence for the BoM itself, not just mesoamerican culture.
+10. Name 4 or more significant doctrinal or historical revisions in the BoM.
+11. Who does the church claim are the ancestors of the Nephites and Lamenites? What did they used to claim before 1995? What does DNA evidence show?
+12. What did the Nauvoo Expositor print that caused it to be destroyed? Who ordered its destruction?
+13. What does the papyrus example portray that was used to produce the Book of Abraham? What does the church teach about the origin of the Book of Abraham? What did they used to teach pre 1995?
+14. What 3 things did the lord use an angel and flaming sword for in this dispensation? What made these events so important?
+15. How many wives did JS have? How old was the youngest? How many were married to other men at the time JS married them? How did he come to marry them, and his other wives?
+16. What pressure was the federal government putting on the church due to Mormons practicing polygamy, and in what year?
+17. When was polygamy renounced? Is polygamy still a doctrine of the church?
+18. What did past prophets teach about the inhabitants of the moon and the sun?
+19. What is the Adam-God theory?
+20. What is the doctrine of Blood Atonement?
+21. What specifically did the church teach, over the pulpit, about blacks? What pressure was being put on the church that could have caused them to renounce the ban on blacks holding the priesthood?
+22. True/False: The temple ceremony used to include a pantomime of one’s own death/suicide as a covenant. If true, what did this oath represent?
+23. How close to Mesianic temple rituals is the LDS ritual?
+24. Who is Joseph Bishop and what is his history as an MTC president? How many books has he written for the church through Deseret Book? Are they available for purchase today?
+25. Who is Mckenna Denson and how does she relate to Joseph Bishop? Who is Greg Bishop and what role did he play in Mckenna’s story? When did Mckenna’s accusations unfold and when did Utah’s HB330 bill appear?
+26. What evidence exists about victims of sexual assault in the church (e.g. lawsuits)? Characterize how does the church typically treats these victims via Kirton Mckonkie?
+27. Who is Sam Young and why was he excommunicated?
+28. Who is Bill Reel and why was he excommunicated?
+29. Are there any verifiable lies told by apostles? What did Jeff Holland say about growth in April 2017? How did the church statistics verify his claim?
+30. What is the Mark Hoffman scandal?
+31. What is the compensation package for high ranking general authorities?
+32. What portion of revenue does the church give toward charity compared to the Seventh Day Adventists? How much does 1 temple usually cost?
+33. What is the value of the Church’s stock market portfolio?
+34. What is The Corporation of the President of the Church of Jesus Christ of Latter Day Saints? How does the actual Church of Jesus Christ of Latter Day Saints related to this? What is the corporate organization behind the church?
+35. What is the average ward budget?
+36. In which cases is a disciplinary council required? In which cases is it not required?
+37. What is the church’s current stance on gay members? What about children of gay members? How is the definition of apostasy related?
+38. Does Russel Nelson claim the church is fully restored? What has he said in the past on this topic? What has the church traditionally taught?
+39. Utah’s teen suicide rate is extremely high, what are cited reasons from the victims for their suicide? What else gets cited as the reason? What does Dan Reynolds film Believer have to say about this topic?
+40. What does the trend of leaving members look like in the last few years? What do they cite as main reasons for leaving? What does the church know about this trend? What have they been advised to do in response? What have they done? What church-produced reports are there detailing “Faith Crisis?” What did LDS scholar Terryl Givens say about members leaving the church?
+41. According to the Church, what are “Uncorrelated Facts?”
