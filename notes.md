@@ -163,7 +163,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “’When you see someone often flashing their rank or position…don’t be envious; such things are often bought at the expense of life…The few that make it to the top of their ambition through a thousand indignities realize at the end it’s only for an inscription on their gravestone.’ -Seneca, On the Brevity of Life, 20 Workaholics always make excuses for their selfishness. While these attitudes can lead to impressive accomplishments, their cost is rarely justified. The ability to work hard and long is admirable. But you are a human being, not a human doing. Seneca points out that we’re not animals. ‘Is it really so pleasant to die in a harness?’ he asked. Aleksandr Solzhenitsyn put it better: ‘Work is what horses die of. Everyone should know that.’” TDS p.222
 - “Is there really so little meaning in your life that your only pursuit is to work until you’re eventually carted off in a coffin? Take pride in your work, but it is not all.” TDS p.228
 - “After all, what's a life, anyway? We're born, we live a little while, we die.” - E.B. White, Charlotte’s Web
-- “Show me that the good life doesn’t consist in its length, but in its use” -Seneca, Moral Letters, 49.10b (The Daily Stoic, p.157)
+- “‘Show me that the good life doesn’t consist in its length, but in its use, and that it is possible — no, entirely too common — for a person who has had a long life to have lived too little’ -Seneca, Moral Letters, 49.10b Show yourself. That no matter how many years you’re ultimately given, your life can be clearly and earnestly said to have been a long and full one.” The Daily Stoic, p.157
 - "...we all die, and our respect for death should always lead us to have an appreciation for life rather than a paranoid existence." - Sam Harris
 - ”Knowing the truth, which is that nothing matters, can actually save you in those moments. Once you get through that terrifying threshold of accepting that, then every place is the center of the universe, and every moment is the most important moment, and everything is the meaning of life." Dan Harmon, https://www.youtube.com/watch?v=de2grEPn7rg
 - The irony of death and the cold, uncaring universe is that by locating yourself inside it, you can find a sense of awe, wonder, and gratitude.
@@ -227,6 +227,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 
 ### Live Life with Purpose
 - “First tell yourself what kind of person you want to be, then do what you have to do” -Epictetus, Discourses, 3.23.1-2a The Daily Stoic, p.136. Loving yourself helps you gain a sense of who you are and who you want to be, which must come before you can find your meaning and purpose in life. I think if you try living a purpose without knowing yourself (i.e. your wants and drives), this will just cause stress.
+- “It’s a moral obligation to pursue what you find meaningful. That doesn’t mean it’s easy. It might require sacrifice  ….First, imagine you were taking care of yourself like you were someone you cared for. Then, if you could have what you needed and wanted, what would it be? What sort of friends would you have? What would your family relationships look like? How would you conduct yourself with your children? How would you educate yourself? You need to think through how it is that your life could be properly arranged if you had that ability. And then you can aim at that. If you do posit a goal of that sort, and work toward it, you will move towards it. The goal will change, because you’ll learn things along the way…Things inevitably get better for people {following this pattern}. It’s not a luxury, its difficult, it’s a moral responsibility. It isn’t happiness, the pursuit isn’t for happiness, it’s to pursue what is meaningful. ” -Jordan Peterson
 - ikigai - a Japanese concept that means "a {current} reason for being." The Happiness Equation, p. 101
 - I genuinely think you should have fun; enjoy life however you can, as long as it’s healthy
 - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
@@ -259,6 +260,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 
 ### Live Life on Purpose
 - “‘First tell yourself what kind of person you want to be, then do what you have to do’ -Epictetus, Discourses, 3.23.1-2a … An archer is unlikely to hit a target she did not aim for” The Daily Stoic, p.136
+- “It’s a moral obligation to pursue what you find meaningful. That doesn’t mean it’s easy. It might require sacrifice  ….First, imagine you were taking care of yourself like you were someone you cared for. Then, if you could have what you needed and wanted, what would it be? What sort of friends would you have? What would your family relationships look like? How would you conduct yourself with your children? How would you educate yourself? You need to think through how it is that your life could be properly arranged if you had that ability. And then you can aim at that. If you do posit a goal of that sort, and work toward it, you will move towards it. The goal will change, because you’ll learn things along the way…Things inevitably get better for people {following this pattern}. It’s not a luxury, its difficult, it’s a moral responsibility. It isn’t happiness, the pursuit isn’t for happiness, it’s to pursue what is meaningful. ” -Jordan Peterson
 - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
 - “Chaos ensues from not having a plan. Not because plans are perfect, but because people without plans - like a line of infantry without a strong leader - are much more likely to get overwhelmed and fall apart.” The Daily Stoic, p.98
 - “If a man knows not to which port he sails, no wind is favorable” -Seneca
@@ -439,6 +441,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - “If a person wasn’t wanting something outside of their own control, why would they be stricken by anxiety?” Epictetus, Discourses, 2.13.1
 - “The tools and aims of our training are unaffected by the turbulence of the moment. Stop. Regain your composure. It’s waiting for you.” The Daily Stoic, p.68
+- “Whatever you resist, persists.”
 - Anxiety is just you wanting to control that which is outside your control. Stress is modern-day smoking. Unconditionally relax.
 - Things are fine. You’re ok. You’re not perfect. Learn to let things go. Holding on to negative emotions ruins your life.
 - Give yourself an unconditional break. Forgive yourself. Trust yourself. Trust your loved ones. Have compassion for yourself.
@@ -587,6 +590,7 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “Meditation helps us let go. Not only of the expectations that we place on ourselves, but also of those placed upon us by others. There’s a palpable relief in letting go of it all. So whether it’s real or imagined, I think very often in life we have a sense that there are certain expectations placed upon us. It doesn’t matter whether they’re real or imagined, the feeling is the same. And those feelings tend to weigh us down. It means we’re always trying to meet the standards or meet the ideas of other people, rather than having the freedom and the space of mind to be ourselves, to be comfortable with being ourselves. Whether that idea is coming from outside or they are our own expectations, if we can find a way of putting those down, instead being comfortable, at ease with ourselves as we are, then we start to find a happier, more contented mind.” -Headspace, Everyday Headspace, “Expectations,” Wednesday Oct 10, 2018
     - “Someone told me the other day that he felt bad for single people because they are lonely all the time i told him that's not true l'm single and i don't feel lonely i take myself out to eat i buy myself clothes i have great times by myself once you know how to take care of yourself company becomes an option and not a necessity” - Keanu Reeves
     - “How long are you going to wait before you demand the best for yourself and in no instance bypass the discriminations of reason? You have been given the principles that you ought to endorse, and you have endorsed them. What kind of teacher, then, are you still waiting for in order to refer your self-improvement to him? You are no longer a boy, but a full-grown man. If you are careless and lazy now and keep putting things off and always deferring the day after which you will attend to yourself, you will not notice that you are making no progress, but you will live and die as someone quite ordinary. From now on, then, resolve to live as a grown-up who is making progress, and make whatever you think best a law that you never set aside. And whenever you encounter anything that is difficult or pleasurable, or highly or lowly regarded, remember that the contest is now: you are at the Olympic Games, you cannot wait any longer, and that your progress is wrecked or preserved by a single day and a single event” -Epictetus
+    - “Take care of yourself like you were someone you cared for” -Jordan Peterson
 - Romanic Love and Empathy for Others
     - “I can’t afford to hate people. I don’t have that kind of time.“ -Bob Ross
     - “Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” - MLK
@@ -665,6 +669,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “Be you and be cool with it…There is nothing more satisfying than being loved for who you are and nothing more painful than being loved for who you’re not, but pretending to be.” The Happiness Equation, p.238
 - Healthy boundaries and self-assertion are the foundation of good relationships (along with empathy and understanding).
 - “Those who matter don’t mind. And those who mind don’t matter” -Bernard Baruch
+- “It’s a moral obligation to pursue what you find meaningful. That doesn’t mean it’s easy. It might require sacrifice  ….First, imagine you were taking care of yourself like you were someone you cared for. Then, if you could have what you needed and wanted, what would it be? What sort of friends would you have? What would your family relationships look like? How would you conduct yourself with your children? How would you educate yourself? You need to think through how it is that your life could be properly arranged if you had that ability. And then you can aim at that. If you do posit a goal of that sort, and work toward it, you will move towards it. The goal will change, because you’ll learn things along the way…Things inevitably get better for people {following this pattern}. It’s not a luxury, its difficult, it’s a moral responsibility. It isn’t happiness, the pursuit isn’t for happiness, it’s to pursue what is meaningful. ” -Jordan Peterson
 - Good people will behave properly with your trust. Those people belong in your life. Bad people will behave poorly with your trust. Kick them out.
 - “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
 - Be assertive about your wants, needs, and boundaries. On expressing yourself with your loved ones: I want your consent, I’d like your participation, I need neither. It’s not their job to make you happy and express your wants and needs for you. You have to do it. https://www.youtube.com/watch?v=di2FM8WZI5E
@@ -717,6 +722,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 
 ### Take Care of Yourself - Physically and Mentally
 - “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end. It’s sad to think that this kind of frustration is an everyday reality for a lot of people…Worse is when we try to push these feelings away by buying things, going out, fighting, creating drama — indulging in the empty calories of existence instead of finding the real nourishment. The solution is simple and, thankfully, always right at hand. Get out there and work.” TDS, p.163
+- “Take care of yourself like you were someone you cared for” -Jordan Peterson
 - Find 3 hobbies: one to make you money, one to keep you in shape, and one to keep you creative.
 - Physical
     - “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
@@ -925,6 +931,8 @@ Don't make all the speech, show me.”
 - It’s bad for us too https://www.reddit.com/r/science/comments/9veo4g/social_media_use_increases_depression_and/?st=JOA2R2ZU&sh=35e1fa5d
 - https://www.businessinsider.com/facebook-instagram-snapchat-social-media-well-being-2018-11
 - Social media is cancer https://www.reddit.com/r/minimalism/comments/a0rlq3/social_media_is_the_cancer_of_our_society/?st=JOZEJ7UE&sh=e3fbb75c
+- Social media was used against us in 2016 https://www.reddit.com/r/politics/comments/a6t46z/new_report_on_russian_disinformation_prepared_for/?st=JPS0NBVA&sh=bab29dc7
+-
 
 ## Quotes, etc.
 #### _If_ — Rudyard Kipling
@@ -1247,15 +1255,15 @@ The Uncorrelated Facts Quiz
 3. How has the Church portrayed, in official art, the translation of the BoM? How did JS actually do it? What role did the golden plates play? How does this method relate to his pre-church days?
 4. What is a seer stone? What did the church teach about Joseph Smith and seerstones prior to ~2000? When did the first photograph of the Jospeh Smith’s seerstone surface from the church?
 5. What 2 works of 19th century literature is the BoM most similar to? How are they similar? How significant, percent-the-same, are the similarities compared to other literature of the time? How much access did JS likely have to these texts?
-6. What are the kinderhook plates? How did JS do at translating them?
+6. What are the Kinderhook plates? How did JS do at translating them?
 7. Did the witnesses of the BoM see the physical plates?
 8. Name 3 anachronisms in the BoM.
 9. Name 4 pieces of archeological evidence for the BoM itself, not just mesoamerican culture.
 10. Name 4 or more significant doctrinal or historical revisions in the BoM.
 11. Who does the church claim are the ancestors of the Nephites and Lamenites? What did they used to claim before 1995? What does DNA evidence show?
 12. What did the Nauvoo Expositor print that caused it to be destroyed? Who ordered its destruction?
-13. What does the papyrus example portray that was used to produce the Book of Abraham? What does the church teach about the origin of the Book of Abraham? What did they used to teach pre 1995?
-14. What 3 things did the lord use an angel and flaming sword for in this dispensation? What made these events so important?
+13. What does the papyrus example portray that was used to produce the Book of Abraham? How did JS come by the papyri? How did he pay for them? What does the church teach about the origin of the Book of Abraham? What did they used to teach pre 1995?
+14. What 3 things did the lord use an angel and drawn (flaming) sword for in this dispensation? What made these events so important?
 15. How many wives did JS have? How old was the youngest? How many were married to other men at the time JS married them? How did he come to marry them, and his other wives?
 16. What pressure was the federal government putting on the church due to Mormons practicing polygamy, and in what year?
 17. When was polygamy renounced? Is polygamy still a doctrine of the church?
@@ -1264,7 +1272,7 @@ The Uncorrelated Facts Quiz
 20. What is the doctrine of Blood Atonement?
 21. What specifically did the church teach, over the pulpit, about blacks? What pressure was being put on the church that could have caused them to renounce the ban on blacks holding the priesthood?
 22. True/False: The temple ceremony used to include a pantomime of one’s own death/suicide as a covenant. If true, what did this oath represent?
-23. How close to Mesianic temple rituals is the LDS ritual?
+23. How close to Masonic temple rituals is the LDS ritual?
 24. Who is Joseph Bishop and what is his history as an MTC president? How many books has he written for the church through Deseret Book? Are they available for purchase today?
 25. Who is Mckenna Denson and how does she relate to Joseph Bishop? Who is Greg Bishop and what role did he play in Mckenna’s story? When did Mckenna’s accusations unfold and when did Utah’s HB330 bill appear?
 26. What evidence exists about victims of sexual assault in the church (e.g. lawsuits)? Characterize how does the church typically treats these victims via Kirton Mckonkie?
@@ -1283,3 +1291,4 @@ The Uncorrelated Facts Quiz
 39. Utah’s teen suicide rate is extremely high, what are cited reasons from the victims for their suicide? What else gets cited as the reason? What does Dan Reynolds film Believer have to say about this topic?
 40. What does the trend of leaving members look like in the last few years? What do they cite as main reasons for leaving? What does the church know about this trend? What have they been advised to do in response? What have they done? What church-produced reports are there detailing “Faith Crisis?” What did LDS scholar Terryl Givens say about members leaving the church?
 41. According to the Church, what are “Uncorrelated Facts?”
+42. Name the last revelation that was applicable to non-members that made the world an objectively better place?
