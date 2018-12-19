@@ -659,6 +659,14 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘The unjust person acts against the gods. For insofar as the nature of the universe made rational creatures for the sake of each other…anyone breaking nature’s will obviously acts against the oldest of gods’ -Marcus Aurelius, Meditations, 9.1.1 We say of the most heinous acts that they are crimes against nature …our sense of justice goes marrow deep….The key, then, is to support our natural inclination to justice with strong boundaries and strong commitments — to embrace, as Lincoln urged a divided, angry nation to do, ‘the better angels of our nature.’” TDS p.217
 - “You don’t have to do the right thing, just as you don’t have to do your duty. You get to. You want to.” TDS p.219
 - “‘Whenever you take offense at someone’s wrongdoing, immediately turn to your own similar feelings…by thinking on this, you’ll quickly forget your anger.’” -Marcus Aurelius, Meditations, 10.30 Earlier we were reminded of Socrates’s tolerant belief that ‘no one does wrong on purpose.’ The clearest proof of that hypothesis? All the times we did wrong without malice or intention….Be as forgiving of [others] as you are of yourself. Cut them the same slack you would for yourself.” TDS p.260
+- Be good to yourself, be good to others, be good to animals, be good to the planet.
+- “A good Stoic understands that proper impulses, and the right actions that arise from them, naturally carry the good of the whole, which is the wise person’s only good.” TDS p.297
+
+### See the Big Picture
+- “Meditate often on the interconnectedness and mutual interdependence of all things in the universe. For in a sense, all things are mutually woven together and therefore have an affinity for each other — for one thing follows after another according to their tension of movement, their sympathetic stirrings, and the unity of all substance.” - Marcus Aurelius, Meditations, 6.38 (TDS p.296)
+-  “Anne Lamott once observed that all writers ‘are little rivers running into one lake,’ all contributing to the same big project. The same is true in many industries — though sadly, even inside the same company, people selfishly forget they’re working together. As human beings we all breathe the atoms that made up our ancestors and flow into the same earth when we die…{We must not forget} how we’re related to our fellow human beings and the environment.” TDS p.296
+- “Inherent in the Stoic concept of sympatheia is the notion of an interconnected cosmos in which everything in the universe is part of a larger whole” TDS p.297
+- ”A good Stoic understands that proper impulses, and the right actions that arise from them, naturally carry the good of the whole, which is the wise person’s only good.” TDS p.297
 
 ### Assert your Needs and Set Boundaries
 - Be good, but take no shit
@@ -1138,6 +1146,7 @@ To me, these things are dangerous and harmful, and if they’re true, then the c
     - The church flat out whitewashes history and attempts to control truth https://www.reddit.com/r/exmormon/comments/7ncpbc/i_compiled_a_list_of_all_the_facts_stated_in/?st=JBW02ZIF&sh=07dfb103, https://www.reddit.com/r/exmormon/comments/7yr3kd/comment/duik378?st=JDVCUG7X&sh=a28976c0, https://www.reddit.com/r/exmormon/comments/80ievk/update_a_robust_list_of_intentional_hiding_church/?st=JE57V6YF&sh=4c8fd9ed, https://www.reddit.com/r/exmormon/comments/8amp35/church_legal_department_orders_all_websites/?st=JFQ7QCNZ&sh=3174c218
     - Whitewashing https://mormondiscussionpodcast.org/2016/11/extra-radio-free-mormon-hiding-church-history/
     - All things are subject to interpretation whichever interpretation prevails at a given time is a function of power and not truth. Friedrich Nietzsche
+    - Corrected conference talks https://www.sltrib.com/religion/2018/12/17/lds-conference-sermon/
     - Blocking the truth https://www.sltrib.com/religion/2018/05/09/new-collection-of-leonard-arringtons-vast-journals-shows-battles-the-mormon-historian-had-with-lds-leaders-over-telling-the-truth-about-the-churchs-past/
     - The Information Age https://www.reddit.com/r/exmormon/comments/7pqm2i/inoculation_will_lead_to_the_great_apostasy_of/?st=JCBKZVPI&sh=d77347c1
     - Technology makes it easier to spread actual truth https://www.reddit.com/r/exmormon/comments/6tj73a/google_is_killing_the_church/?st=J6D5HZX5&sh=fdd2e29, “We are entering an age where you cannot lie to people the way Joseph Smith lied to people” 1:15:56 https://www.youtube.com/watch?v=GAGasQ7j_ZI
@@ -1265,30 +1274,31 @@ The Uncorrelated Facts Quiz
 13. What does the papyrus example portray that was used to produce the Book of Abraham? How did JS come by the papyri? How did he pay for them? What does the church teach about the origin of the Book of Abraham? What did they used to teach pre 1995?
 14. What 3 things did the lord use an angel and drawn (flaming) sword for in this dispensation? What made these events so important?
 15. How many wives did JS have? How old was the youngest? How many were married to other men at the time JS married them? How did he come to marry them, and his other wives?
-16. What pressure was the federal government putting on the church due to Mormons practicing polygamy, and in what year?
-17. When was polygamy renounced? Is polygamy still a doctrine of the church?
-18. What did past prophets teach about the inhabitants of the moon and the sun?
-19. What is the Adam-God theory?
-20. What is the doctrine of Blood Atonement?
-21. What specifically did the church teach, over the pulpit, about blacks? What pressure was being put on the church that could have caused them to renounce the ban on blacks holding the priesthood?
-22. True/False: The temple ceremony used to include a pantomime of one’s own death/suicide as a covenant. If true, what did this oath represent?
-23. How close to Masonic temple rituals is the LDS ritual?
-24. Who is Joseph Bishop and what is his history as an MTC president? How many books has he written for the church through Deseret Book? Are they available for purchase today?
-25. Who is Mckenna Denson and how does she relate to Joseph Bishop? Who is Greg Bishop and what role did he play in Mckenna’s story? When did Mckenna’s accusations unfold and when did Utah’s HB330 bill appear?
-26. What evidence exists about victims of sexual assault in the church (e.g. lawsuits)? Characterize how does the church typically treats these victims via Kirton Mckonkie?
-27. Who is Sam Young and why was he excommunicated?
-28. Who is Bill Reel and why was he excommunicated?
-29. Are there any verifiable lies told by apostles? What did Jeff Holland say about growth in April 2017? How did the church statistics verify his claim?
-30. What is the Mark Hoffman scandal?
-31. What is the compensation package for high ranking general authorities?
-32. What portion of revenue does the church give toward charity compared to the Seventh Day Adventists? How much does 1 temple usually cost?
-33. What is the value of the Church’s stock market portfolio?
-34. What is The Corporation of the President of the Church of Jesus Christ of Latter Day Saints? How does the actual Church of Jesus Christ of Latter Day Saints related to this? What is the corporate organization behind the church?
-35. What is the average ward budget?
-36. In which cases is a disciplinary council required? In which cases is it not required?
-37. What is the church’s current stance on gay members? What about children of gay members? How is the definition of apostasy related?
-38. Does Russel Nelson claim the church is fully restored? What has he said in the past on this topic? What has the church traditionally taught?
-39. Utah’s teen suicide rate is extremely high, what are cited reasons from the victims for their suicide? What else gets cited as the reason? What does Dan Reynolds film Believer have to say about this topic?
-40. What does the trend of leaving members look like in the last few years? What do they cite as main reasons for leaving? What does the church know about this trend? What have they been advised to do in response? What have they done? What church-produced reports are there detailing “Faith Crisis?” What did LDS scholar Terryl Givens say about members leaving the church?
-41. According to the Church, what are “Uncorrelated Facts?”
-42. Name the last revelation that was applicable to non-members that made the world an objectively better place?
+16. What was the main reason the mob came for JS? Describe what happened to the church after JS’s death? How was it decided who would lead after JS?
+17. What pressure was the federal government putting on the church due to Mormons practicing polygamy, and in what year?
+18. When was polygamy renounced? Is polygamy still a doctrine of the church?
+19. What did past prophets teach about the inhabitants of the moon and the sun?
+20. What is the Adam-God theory?
+21. What is the doctrine of Blood Atonement?
+22. What specifically did the church teach, over the pulpit, about blacks? What pressure was being put on the church that could have caused them to renounce the ban on blacks holding the priesthood?
+23. True/False: The temple ceremony used to include a pantomime of one’s own death/suicide as a covenant. If true, what did this oath represent?
+24. How close to Masonic temple rituals is the LDS ritual?
+25. Who is Joseph Bishop and what is his history as an MTC president? How many books has he written for the church through Deseret Book? Are they available for purchase today?
+26. Who is Mckenna Denson and how does she relate to Joseph Bishop? Who is Greg Bishop and what role did he play in Mckenna’s story? When did Mckenna’s accusations unfold and when did Utah’s HB330 bill appear?
+27. What evidence exists about victims of sexual assault in the church (e.g. lawsuits)? Characterize how does the church typically treats these victims via Kirton Mckonkie?
+28. Who is Sam Young and why was he excommunicated?
+29. Who is Bill Reel and why was he excommunicated?
+30. Are there any verifiable lies told by apostles? What did Jeff Holland say about growth in April 2017? How did the church statistics verify his claim?
+31. What is the Mark Hoffman scandal?
+32. What is the compensation package for high ranking general authorities?
+33. What portion of revenue does the church give toward charity compared to the Seventh Day Adventists? How much does 1 temple usually cost?
+34. What is the value of the Church’s stock market portfolio?
+35. What is The Corporation of the President of the Church of Jesus Christ of Latter Day Saints? How does the actual Church of Jesus Christ of Latter Day Saints related to this? What is the corporate organization behind the church?
+36. What is the average ward budget?
+37. In which cases is a disciplinary council required? In which cases is it not required?
+38. What is the church’s current stance on gay members? What about children of gay members? How is the definition of apostasy related?
+39. Does Russel Nelson claim the church is fully restored? What has he said in the past on this topic? What has the church traditionally taught?
+40. Utah’s teen suicide rate is extremely high, what are cited reasons from the victims for their suicide? What else gets cited as the reason? What does Dan Reynolds film Believer have to say about this topic?
+41. What does the trend of leaving members look like in the last few years? What do they cite as main reasons for leaving? What does the church know about this trend? What have they been advised to do in response? What have they done? What church-produced reports are there detailing “Faith Crisis?” What did LDS scholar Terryl Givens say about members leaving the church?
+42. According to the Church, what are “Uncorrelated Facts?”
+43. Name the last revelation that was applicable to non-members that made the world an objectively better place?
