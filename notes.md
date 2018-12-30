@@ -1285,7 +1285,7 @@ If you allow yourself to consider that it could not be true and just look at the
 
 
 
-An Uncorrelated Facts Quiz
+#### An Uncorrelated Facts Quiz
 1. What was Joseph Smith up to before he started translating the BoM and founding the church? Did he get into any trouble for that?
 2. How many first vision accounts are there? How are they different?
 3. How has the Church portrayed, in official art, the translation of the BoM? How did JS actually do it? What role did the golden plates play? How does this method relate to his pre-church days?
