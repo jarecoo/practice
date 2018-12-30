@@ -675,11 +675,22 @@ This is what I think is specifically, concretely important, what gets me up in t
 - Be good to yourself, be good to others, be good to animals, be good to the planet.
 - “A good Stoic understands that proper impulses, and the right actions that arise from them, naturally carry the good of the whole, which is the wise person’s only good.” TDS p.297
 
-### See the Big Picture
+### See the Big Picture; Find a Metaphysical Meaning
 - “Meditate often on the interconnectedness and mutual interdependence of all things in the universe. For in a sense, all things are mutually woven together and therefore have an affinity for each other — for one thing follows after another according to their tension of movement, their sympathetic stirrings, and the unity of all substance.” - Marcus Aurelius, Meditations, 6.38 (TDS p.296)
 -  “Anne Lamott once observed that all writers ‘are little rivers running into one lake,’ all contributing to the same big project. The same is true in many industries — though sadly, even inside the same company, people selfishly forget they’re working together. As human beings we all breathe the atoms that made up our ancestors and flow into the same earth when we die…{We must not forget} how we’re related to our fellow human beings and the environment.” TDS p.296
 - “Inherent in the Stoic concept of sympatheia is the notion of an interconnected cosmos in which everything in the universe is part of a larger whole” TDS p.297
 - ”A good Stoic understands that proper impulses, and the right actions that arise from them, naturally carry the good of the whole, which is the wise person’s only good.” TDS p.297
+- ### _Wandrers Nachtsong 1_
+       ```
+Der du von dem Himmel bist,
+Alles Leid und Schmerzen stillest,
+Den, der doppelt elend ist,
+Doppelt mit Erquickung füllest;
+Ach, ich bin des Treibens müde!
+Was soll all der Schmerz und Lust?
+Süßer Friede,
+Komm, ach komm in meine Brust!
+```
 
 ### Assert Yourself and Protect Your Boundaries
 - “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
@@ -960,7 +971,69 @@ Don't make all the speech, show me.”
 - Social media was used against us in 2016 https://www.reddit.com/r/politics/comments/a6t46z/new_report_on_russian_disinformation_prepared_for/?st=JPS0NBVA&sh=bab29dc7
 -
 
-## Quotes, etc.
+## Quotes, Notes, Resources, etc.
+#### The Last Time (https://www.reddit.com/r/Wellthatsucks/comments/7upwj7/damn/dtmjxlf/?sh=e4e4d783&st=JD63KIUB)
+```
+From the moment you hold your baby in your arms,
+you will never be the same.
+You might long for the person you were before,
+When you have freedom and time,
+And nothing in particular to worry about.
+You will know tiredness like you never knew it before,
+And days will run into days that are exactly the same,
+Full of feedings and burping,
+Nappy changes and crying,
+Whining and fighting,
+Naps or a lack of naps,
+It might seem like a never-ending cycle.
+But don’t forget …
+There is a last time for everything.
+There will come a time when you will feed
+your baby for the very last time.
+They will fall asleep on you after a long day
+And it will be the last time you ever hold your sleeping child.
+One day you will carry them on your hip then set them down,
+And never pick them up that way again.
+You will scrub their hair in the bath one night
+And from that day on they will want to bathe alone.
+They will hold your hand to cross the road,
+Then never reach for it again.
+They will creep into your room at midnight for cuddles,
+And it will be the last night you ever wake to this.
+One afternoon you will sing “the wheels on the bus” and do all the actions,
+Then never sing them that song again.
+They will kiss you goodbye at the school gate,
+The next day they will ask to walk to the gate alone.
+You will read a final bedtime story and wipe your last dirty face.
+They will run to you with arms raised for the very last time.
+The thing is, you won’t even know it’s the last time
+Until there are no more times.
+And even then, it will take you awhile to realize.
+So while you are living in these times,
+remember there are only so many of them
+and when they are gone, you will yearn for just one more day of them.
+For one last time.
+-Author Unknown-
+```
+
+#### _Leisure_, W. H. Davies
+```
+What is this life if, full of care,
+We have no time to stand and stare.
+No time to stand beneath the boughs
+And stare as long as sheep or cows.
+No time to see, when woods we pass,
+Where squirrels hide their nuts in grass.
+No time to see, in broad daylight,
+Streams full of stars, like skies at night.
+No time to turn at Beauty's glance,
+And watch her feet, how they can dance.
+No time to wait till her mouth can
+Enrich that smile her eyes began.
+A poor life this if, full of care,
+We have no time to stand and stare.
+```
+
 #### _If_ — Rudyard Kipling
 ```
 If you can keep your head when all about you   
@@ -1000,24 +1073,6 @@ Yours is the Earth and everything that’s in it,   
     And—which is more—you’ll be a Man, my son!
 ```
 
-#### _Leisure_, W. H. Davies
-```
-What is this life if, full of care,
-We have no time to stand and stare.
-No time to stand beneath the boughs
-And stare as long as sheep or cows.
-No time to see, when woods we pass,
-Where squirrels hide their nuts in grass.
-No time to see, in broad daylight,
-Streams full of stars, like skies at night.
-No time to turn at Beauty's glance,
-And watch her feet, how they can dance.
-No time to wait till her mouth can
-Enrich that smile her eyes began.
-A poor life this if, full of care,
-We have no time to stand and stare.
-```
-
 ### _Wandrers Nachtsong 1_
 ```
 Der du von dem Himmel bist,
@@ -1041,8 +1096,6 @@ Die Vögelein schweigen im Walde.
 Warte nur, balde
 Ruhest du auch.
 ```
-
-## Notes and Resources
 
 ### General
 -Affiirmatons of Humanism-
@@ -1090,50 +1143,6 @@ Here is an actual compiled list:
 ....notice none of these things cost any money. They don't include technology. They're not grand gestures. It's human to human (or animals/nature) interaction, something we need more of in world that's becoming more fast paced and less human every day.
 
 
-#### The Last Time (https://www.reddit.com/r/Wellthatsucks/comments/7upwj7/damn/dtmjxlf/?sh=e4e4d783&st=JD63KIUB)
-```
-From the moment you hold your baby in your arms,
-you will never be the same.
-You might long for the person you were before,
-When you have freedom and time,
-And nothing in particular to worry about.
-You will know tiredness like you never knew it before,
-And days will run into days that are exactly the same,
-Full of feedings and burping,
-Nappy changes and crying,
-Whining and fighting,
-Naps or a lack of naps,
-It might seem like a never-ending cycle.
-But don’t forget …
-There is a last time for everything.
-There will come a time when you will feed
-your baby for the very last time.
-They will fall asleep on you after a long day
-And it will be the last time you ever hold your sleeping child.
-One day you will carry them on your hip then set them down,
-And never pick them up that way again.
-You will scrub their hair in the bath one night
-And from that day on they will want to bathe alone.
-They will hold your hand to cross the road,
-Then never reach for it again.
-They will creep into your room at midnight for cuddles,
-And it will be the last night you ever wake to this.
-One afternoon you will sing “the wheels on the bus” and do all the actions,
-Then never sing them that song again.
-They will kiss you goodbye at the school gate,
-The next day they will ask to walk to the gate alone.
-You will read a final bedtime story and wipe your last dirty face.
-They will run to you with arms raised for the very last time.
-The thing is, you won’t even know it’s the last time
-Until there are no more times.
-And even then, it will take you awhile to realize.
-So while you are living in these times,
-remember there are only so many of them
-and when they are gone, you will yearn for just one more day of them.
-For one last time.
--Author Unknown-
-```
-
 #### My adopted take on the family:
 - we believe marriage between people who love each other is a good thing
 - families are unique and diverse
@@ -1151,7 +1160,7 @@ For one last time.
 
 
 ## The Problem with Religion
-...is that it takes good and useful truths and attaches them to God. These truths can stand on their own - Sam Harris
+...is that it takes good and useful truths and attaches them to God. These truths can stand on their own” - Sam Harris
 
 ### Top 3 Reasons (including links and examples) I left the Mormon church:
 To me, these things are dangerous and harmful, and if they’re true, then the church isn’t. God wouldn’t do it this way; yes men are flawed, but God is perfect, so he could and should help his men avoid these pitfalls.
@@ -1276,7 +1285,7 @@ If you allow yourself to consider that it could not be true and just look at the
 
 
 
-The Uncorrelated Facts Quiz
+An Uncorrelated Facts Quiz
 1. What was Joseph Smith up to before he started translating the BoM and founding the church? Did he get into any trouble for that?
 2. How many first vision accounts are there? How are they different?
 3. How has the Church portrayed, in official art, the translation of the BoM? How did JS actually do it? What role did the golden plates play? How does this method relate to his pre-church days?
