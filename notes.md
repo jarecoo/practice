@@ -121,25 +121,6 @@ This is what I think is specifically, concretely important, what gets me up in t
 * The Earth is the only home humanity has and it should be cared for
 * Technology is both a Powerful Ally and a Dangerous Enemy, Requires Awareness
 
-### In a word:
-* Purpose
-* Presence
-* Awe
-* Simplicity
-* Calm
-* Intrinsic Motivation
-* Health
-* Love
-* Compassion
-* Fun
-* Action
-* Discipline
-* Perspicacity
-* Intellect
-* Balance
-* Self-care
-* Virtue
-
 ## Principles, Practices, Strategies
 ### Discover the Meaning in Nature and Death
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
@@ -674,6 +655,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘Whenever you take offense at someone’s wrongdoing, immediately turn to your own similar feelings…by thinking on this, you’ll quickly forget your anger.’” -Marcus Aurelius, Meditations, 10.30 Earlier we were reminded of Socrates’s tolerant belief that ‘no one does wrong on purpose.’ The clearest proof of that hypothesis? All the times we did wrong without malice or intention….Be as forgiving of [others] as you are of yourself. Cut them the same slack you would for yourself.” TDS p.260
 - Be good to yourself, be good to others, be good to animals, be good to the planet.
 - “A good Stoic understands that proper impulses, and the right actions that arise from them, naturally carry the good of the whole, which is the wise person’s only good.” TDS p.297
+- True moral wrong is when you do real harm to yourself or another person. It has nothing directly to do with any given moral code or sin, like don’t watch porn or don’t lie or don’t have premarital sex, etc. Only inasmuch as those things do harm should they be avoided. Beyond that, do whatever doesn’t harm yourself or someone else.
 
 ### See the Big Picture; Find a Metaphysical Meaning
 - “Meditate often on the interconnectedness and mutual interdependence of all things in the universe. For in a sense, all things are mutually woven together and therefore have an affinity for each other — for one thing follows after another according to their tension of movement, their sympathetic stirrings, and the unity of all substance.” - Marcus Aurelius, Meditations, 6.38 (TDS p.296)
