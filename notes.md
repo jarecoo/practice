@@ -680,17 +680,17 @@ This is what I think is specifically, concretely important, what gets me up in t
 -  “Anne Lamott once observed that all writers ‘are little rivers running into one lake,’ all contributing to the same big project. The same is true in many industries — though sadly, even inside the same company, people selfishly forget they’re working together. As human beings we all breathe the atoms that made up our ancestors and flow into the same earth when we die…{We must not forget} how we’re related to our fellow human beings and the environment.” TDS p.296
 - “Inherent in the Stoic concept of sympatheia is the notion of an interconnected cosmos in which everything in the universe is part of a larger whole” TDS p.297
 - ”A good Stoic understands that proper impulses, and the right actions that arise from them, naturally carry the good of the whole, which is the wise person’s only good.” TDS p.297
-- ### _Wandrers Nachtsong 1_
-       ```
-Der du von dem Himmel bist,
-Alles Leid und Schmerzen stillest,
-Den, der doppelt elend ist,
-Doppelt mit Erquickung füllest;
-Ach, ich bin des Treibens müde!
-Was soll all der Schmerz und Lust?
-Süßer Friede,
-Komm, ach komm in meine Brust!
-```
+- _Wandrers Nachtsong 1_
+    ```
+    Der du von dem Himmel bist,
+    Alles Leid und Schmerzen stillest,
+    Den, der doppelt elend ist,
+    Doppelt mit Erquickung füllest;
+    Ach, ich bin des Treibens müde!
+    Was soll all der Schmerz und Lust?
+    Süßer Friede,
+    Komm, ach komm in meine Brust!
+    ```
 
 ### Assert Yourself and Protect Your Boundaries
 - “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
