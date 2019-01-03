@@ -31,7 +31,7 @@ This is what I think is specifically, concretely important, what gets me up in t
             * Canada - Banff
             * Ireland - Great Britain
             * Alaska
-            * Maine, Nova Scotia
+            * Maine, Nova Scotia (2024 for eclipse)
             * Puerto Rico
             * New England - NYC, Boston
             * Costa Rica
@@ -88,30 +88,34 @@ This is what I think is specifically, concretely important, what gets me up in t
 
 # Moral Paradigm & How I Should Live My Life
 ## Beliefs
-* Meaning and Purpose are Central to Happiness and Peace of Mind
-    * Individually Created
-    * Derived from a strong sense of who you are (developed from self-love)
-    * Derived from the notion that your time is finite, and your part in nature
-* Purposeful, Mindful Engagement in the Present Moment is Central to Happiness and Peace of Mind
-* An Internal Locus of Control is Central to Happiness and Peace of Mind
-    * You only Control your Thoughts, Attitudes, and Outlook
-    * Self Love is a really good way to begin to develop internal control
-    * State of mind dictates happiness, not circumstances
-    * Intrinsic motivation is the best motivation (e.g. doing it for you according to your purpose in life)
-    * Happiness is in your control, and comes first.
-    * You bring meaning to circumstances and occurrences
-    * Circumstances won’t make you happy. You breed happiness within yourself, regardless of circumstance.
-    * Presence in the moment is vital to happiness and enjoyment
-    * Tranquility of mind is preferable to a turbulent mind
-    * Seeing the good in life, and being grateful helps avoid the scourge of stress
+* Achieving Peace of Mind is foundational for individual Happiness and Health
+    * Literally a mind at peace, free from worry and turbulence; a healthy, contented mind
+    * Whether one pursues peace of mind for self gratification, or for altruistic reasons, all will benefit
+* Peace of Mind is a Meaningful, Basic Pursuit; it is attained in several ways.
+    * Purposeful, Mindful Engagement in the Present Moment is Central to Happiness and Peace of Mind
+    * Meaning and Purpose are Central to Happiness and Peace of Mind
+        * Individually Created
+        * Derived from a strong sense of who you are (developed from self-love)
+        * Derived from the notion that your time is finite, and your part in nature
+    * An Internal Locus of Control is Central to Happiness and Peace of Mind
+        * You only Control your Thoughts, Attitudes, and Outlook
+        * Self Love is a really good way to begin to develop internal control
+        * State of mind dictates happiness, not circumstances
+        * Intrinsic motivation is the best motivation (e.g. doing it for you according to your purpose in life)
+        * Happiness is in your control, and comes first.
+        * You bring meaning to circumstances and occurrences
+        * Circumstances won’t make you happy. You breed happiness within yourself, regardless of circumstance.
+        * Presence in the moment is vital to happiness and enjoyment
+        * Tranquility of mind is preferable to a turbulent mind
+        * Seeing the good in life, and being grateful helps avoid the scourge of stress
+    * Love is a Basic Human Need for Peace of Mind
+        * Compassion and Love for Yourself is Foundational
+        * Most people need Connection with Others
+        * Altruism and Compassion for others is a part of the need for Love
+        * Takes Work to Keep Healthy (Boundaries)
+        * Love People, Use Things. Not the other way around
+        * Pragmatically, Humans Rely Heavily on Each Other (No Man is an Island)
 * Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
-* Love is a Basic Human Need
-    * Compassion and Love for Yourself is Foundational
-    * Most people need Connection with Others
-    * Altruism and Compassion for others is a part of the need for Love
-    * Takes Work to Keep Healthy (Boundaries)
-    * Love People, Use Things. Not the other way around
-    * Pragmatically, Humans Rely Heavily on Each Other (No Man is an Island)
 * Experiences and Memories are more Fulfilling than Possessions and Material Goods
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
 * Have fun
@@ -272,6 +276,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 ### Have Fun
 - “Nature has intermingled pleasure with necessary things – not in order that we should seek pleasure, but in order that the addition of pleasure may make the indispensable means of existence attractive to our eyes.” - Seneca, Moral Letters, 116.3
 - “Play probably isn’t a word that you would immediately associate with training the mind, but it’s actually really important to have a lightness of touch, a sense of play. When life becomes too serious, the mind becomes very rigid and we very quickly fall out of balance. We’re very quickly overwhelmed. Everything feels sort of tight when things get very serious like that. As long as there’s a sense of play, of lightness - it doesn’t mean not taking things seriously, but it does mean not taking ourselves too seriously, not taking our thoughts too seriously - that really helps to create the conditions for balance in the mind and in our life.” - Headspace, Balance, Day 8 intro
+- “‘We should take a lighter view of things and bear them with an easy spirit, for it is more human to laugh at life than to lament it’ -Seneca, On Tranquility of Mind, 15.2 The Stoics saw little purpose in getting angry or sad about things that are indifferent to our feelings…And at least humor is productive — makings things less heavy, not more so.” TDS p.256
 - “In your actions, don’t procrastinate. In your conversations, don’t confuse. In your thoughts, don’t wander. In your soul, don’t be passive or aggressive. In your life, don’t be all about business.” - Marcus Aurelius, Meditations, 8.51 (TDS, p.209)
 - “Ah! realize your youth while you have it. Don’t squander the gold of your days, listening to the tedious, trying to improve the hopeless failure, or giving away your life to the ignorant, the common, and the vulgar. These are the sickly aims, the false ideals, of our age. Live! Live the wonderful life that is in you! Let nothing be lost upon you. Be always searching for new sensations. Be afraid of nothing.” Oscar Wilde, Dorian Gray
 - “Perhaps there is a realm of wisdom from which the logician is exiled? Perhaps art is even a necessary correlative of, and supplement for, science?” - Nietzsche, The Birth of Tragedy
@@ -433,7 +438,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - Anxiety is just you wanting to control that which is outside your control. Stress is modern-day smoking. Unconditionally relax.
 - Things are fine. You’re ok. You’re not perfect. Learn to let things go. Holding on to negative emotions ruins your life.
 - Give yourself an unconditional break. Forgive yourself. Trust yourself. Trust your loved ones. Have compassion for yourself.
-- Don’t take everything so seriously. It’s good to be good, but nobody’s perfect. Cut everything and everyone some slack and don’t expect perfection anywhere, especially from yourself or your family or circumstances. https://reddit.app.link/1O3LUJUxrN You may think you’re just “optimizing” but you may find that you just come across as critical and judgmental.
+- Don’t take everything so seriously. It’s good to be good, but nobody’s perfect. Cut everything and everyone some slack and don’t expect perfection anywhere, especially from yourself or your family or circumstances. https://reddit.app.link/1O3LUJUxrN You may think you’re just “optimizing” but you may find that you just end up being critical and judgmental of everything, and that people see you that way.
 - “Don’t hang on to a mistake just because you spent a lot of time making it.”
 - “Having low self worth, not being compassionate toward yourself can cause trouble elsewhere in your life. If we have an attitude of low self worth and are constantly telling ourselves we’re the worst in the world, “we are at the same time cultivating a mind that is quite critical and judgmental and which inevitably spills over. So as we let go of this negative chatter towards ourself, we are at the same time freeing ourselves up from any judgment, criticism about others.” - headspace, self-esteem 24/30
 - Reflect on your many blessings, not your few failures.
@@ -483,6 +488,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “So long as we’re talking, there’s no room to listen. So long as the mind is busy, there’s no room for quiet. So be still once in a while, for both you and for those around you. It doesn’t matter if this is our internal world or our external world, when we sit to meditate we’re not actively trying to add more thoughts to our inner dialogue, we’re witnessing the mind, letting go of those thoughts, providing, creating a space in which we can listen to the mind. In the same way outwardly, when we’re with another person, if we can choose to listen, then we create a space in which that person feels understood, in which they feel heard. And as a result, not only to we have a greater peace of mind ourselves, but we tend to experience much happier relationships in our life.” -Headspace, Everyday Headspace, “Stillness,” Tues. Oct. 23, 2018
 - Attachment is the root of suffering.
 - “Mindfulness is not a state of thoughtlessness. It is the non-judgmental awareness of all that arises in consciousness.” https://www.reddit.com/r/Meditation/comments/a83e45/a_recent_leap_in_understanding/?st=JPX8XMEH&sh=761f62ab
+- “Lead me on, O Zeus, and thou Destiny, To that goal long ago to me assigned. i’ll follow readily but if my will prove weak; Wretched as I am, I must follow still. Fate guides the willing, but drags the the unwilling” Cleanthes
 
 ### Slow Down
 - Slow is smooth. Smooth is fast.
@@ -655,9 +661,11 @@ This is what I think is specifically, concretely important, what gets me up in t
 - “‘Whenever you take offense at someone’s wrongdoing, immediately turn to your own similar feelings…by thinking on this, you’ll quickly forget your anger.’” -Marcus Aurelius, Meditations, 10.30 Earlier we were reminded of Socrates’s tolerant belief that ‘no one does wrong on purpose.’ The clearest proof of that hypothesis? All the times we did wrong without malice or intention….Be as forgiving of [others] as you are of yourself. Cut them the same slack you would for yourself.” TDS p.260
 - Be good to yourself, be good to others, be good to animals, be good to the planet.
 - “A good Stoic understands that proper impulses, and the right actions that arise from them, naturally carry the good of the whole, which is the wise person’s only good.” TDS p.297
-- True moral wrong is when you do real harm to yourself or another person. It has nothing directly to do with any given moral code or sin, like don’t watch porn or don’t lie or don’t have premarital sex, etc. Only inasmuch as those things do harm should they be avoided. Beyond that, do whatever doesn’t harm yourself or someone else.
+- True moral wrong is when you do real harm to yourself or another person (and doing wrong to another person, does wrong to self). It has nothing directly to do with any given moral code or sin, like don’t watch porn or don’t lie or don’t have premarital sex, etc. Only inasmuch as those things do harm should they be avoided. Beyond that, do whatever doesn’t harm yourself or someone else.
+- “‘The person who does wrong, does wrong to themselves. The unjust person is unjust to themselves — making themselves evil’ -Marcus Aurelius, Meditations, 9.4 “Self-awareness and wrongdoing rarely go together. If you need a selfish reason to not do wrong — put yourself in touch with {how you feel about yourself after you’ve done wrong}. They’re a powerful disincentive.” TDS p.300
+- “You can always get up after you fall, but remember, what has been said can never be unsaid. Especially cruel and hurtful things.” TDS p.298
 
-### See the Big Picture; Find a Metaphysical Meaning
+### Find a Metaphysical Meaning
 - “Meditate often on the interconnectedness and mutual interdependence of all things in the universe. For in a sense, all things are mutually woven together and therefore have an affinity for each other — for one thing follows after another according to their tension of movement, their sympathetic stirrings, and the unity of all substance.” - Marcus Aurelius, Meditations, 6.38 (TDS p.296)
 -  “Anne Lamott once observed that all writers ‘are little rivers running into one lake,’ all contributing to the same big project. The same is true in many industries — though sadly, even inside the same company, people selfishly forget they’re working together. As human beings we all breathe the atoms that made up our ancestors and flow into the same earth when we die…{We must not forget} how we’re related to our fellow human beings and the environment.” TDS p.296
 - “Inherent in the Stoic concept of sympatheia is the notion of an interconnected cosmos in which everything in the universe is part of a larger whole” TDS p.297
@@ -1215,7 +1223,7 @@ To me, these things are dangerous and harmful, and if they’re true, then the c
     - R rated movies only applies to American culture https://www.reddit.com/r/exmormon/comments/8eq596/rated_r_films_and_swearing_in_the_us_vs_uk/?st=JGFHWPSX&sh=48cf6e0c
     - Treatment of gays (https://www.reddit.com/r/exmormon/comments/59axax/oaks_council_on_love_and_inclusion_towards_gay/?st=IUQKNC08&sh=052868ed, https://www.reddit.com/r/exmormon/comments/59f0bv/why_does_oaks_have_two_sides_of_his_mouth_so_he/?st=IUQKW9N2&sh=fa37a69a)
     - Treatment of abuse victims ( e.g. Amy or Hannah Priego; “At some point in time, however, the Lord may prompt a victim to recognize a degree of responsibility for abuse”) https://www.lds.org/general-conference/1992/04/healing-the-tragic-scars-of-abuse?lang=eng (“love him back to Christ”)
-    - Treatment of abuse victims: slander, torment, discredit rather than help and support; also protect their abuser because he’s a high ranking authority http://kutv.com/news/local/exclusive-documents-reveal-how-the-lds-church-responded-to-mtc-sex-scandal
+    - Treatment of abuse victims: slander, torment, discredit rather than help and support; also protect their abuser because he’s a high ranking authority http://kutv.com/news/local/exclusive-documents-reveal-how-the-lds-church-responded-to-mtc-sex-scandal; https://www.reddit.com/r/exmormon/comments/ab9dz8/another_resignation_but_with_gut_wrenching_truth/?st=JQCVT9IJ&sh=f4467960
     - The church still very much participates in colonialism; even though there have been members in africa for years, they still need Ray to go to madagascar to be a mission president because a white american is apparently the only one that can teach those savages properly.
     - Women absolutely don’t have a say in what they’re dragged around by their husband to do. Cindy didn’t have a say with rays calling to Mada https://www.reddit.com/r/exmormon/comments/87z3u0/i_cant_help_thinking_that_somewhere_in_utah_there/?st=JFCR42Y0&sh=bddb2b03
     - It’s a woman’s job to disappear https://www.youtube.com/watch?v=SSYTbvAyHuY
