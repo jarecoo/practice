@@ -1,7 +1,7 @@
 Top 3
 
 # Top 3 Important Things to Me
-This is what I think is specifically, concretely important, what gets me up in the morning, and how I think life should be lived. The first section is my personal purpose and meaning. It’s what I pursue every day. Below that is a general, eclectic section on paradigm, and principles I think are important for life and happiness. (“’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TDS p.253)
+This is what I think is specifically, concretely important, what gets me up in the morning, and how I think life should be lived. The first section is my personal purpose and meaning. It’s what I pursue every day. Below that is a general, eclectic section on moral paradigm, and principles I think are important for life and happiness. (“’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TDS p.253)
 
 1. Family
     * Prioritize close, personal relationships (family, close friends, etc)
@@ -88,40 +88,40 @@ This is what I think is specifically, concretely important, what gets me up in t
 
 # Moral Paradigm & How I Should Live My Life
 ## Beliefs
-* Achieving Peace of Mind is foundational for individual Happiness and Health
+* Peace of Mind is a Meaningful, Basic Pursuit and is foundational for individual Happiness and Health
     * Literally a mind at peace, free from worry and turbulence; a healthy, contented mind
-    * Whether one pursues peace of mind for self gratification, or for altruistic reasons, all will benefit
-* Peace of Mind is a Meaningful, Basic Pursuit; it is attained in several ways.
-    * Purposeful, Mindful Engagement in the Present Moment is Central to Happiness and Peace of Mind
-    * Meaning and Purpose are Central to Happiness and Peace of Mind
-        * Individually Created
-        * Derived from a strong sense of who you are (developed from self-love)
-        * Derived from the notion that your time is finite, and your part in nature
-    * An Internal Locus of Control is Central to Happiness and Peace of Mind
-        * You only Control your Thoughts, Attitudes, and Outlook
-        * Self Love is a really good way to begin to develop internal control
-        * State of mind dictates happiness, not circumstances
-        * Intrinsic motivation is the best motivation (e.g. doing it for you according to your purpose in life)
-        * Happiness is in your control, and comes first.
-        * You bring meaning to circumstances and occurrences
-        * Circumstances won’t make you happy. You breed happiness within yourself, regardless of circumstance.
-        * Presence in the moment is vital to happiness and enjoyment
-        * Tranquility of mind is preferable to a turbulent mind
-        * Seeing the good in life, and being grateful helps avoid the scourge of stress
-    * Love is a Basic Human Need for Peace of Mind
-        * Compassion and Love for Yourself is Foundational
-        * Most people need Connection with Others
-        * Altruism and Compassion for others is a part of the need for Love
-        * Takes Work to Keep Healthy (Boundaries)
-        * Love People, Use Things. Not the other way around
-        * Pragmatically, Humans Rely Heavily on Each Other (No Man is an Island)
+    * Whether one pursues peace of mind for self gratification, or for altruistic reasons, benefits abound
+* Purposeful, Mindful Engagement in the Present Moment is Central to Happiness and Peace of Mind
+* Meaning and Purpose are Central to Happiness and Peace of Mind
+    * Individually Created
+    * Derived from a strong sense of who you are (developed from self-love)
+    * Derived from the notion that your time is finite, and your part in nature
+* An Internal Locus of Control is Central to Happiness and Peace of Mind
+    * You only Control your Thoughts, Attitudes, and Outlook
+    * Self Love is a really good way to begin to develop internal control
+    * State of mind dictates happiness, not circumstances
+    * Intrinsic motivation is the best motivation (e.g. doing it for you according to your purpose in life)
+    * Happiness is in your control, and comes first.
+    * You bring meaning to circumstances and occurrences
+    * Circumstances won’t make you happy. You breed happiness within yourself, regardless of circumstance.
+    * Presence in the moment is vital to happiness and enjoyment
+    * Tranquility of mind is preferable to a turbulent mind
+    * Seeing the good in life, and being grateful helps avoid the scourge of stress
+* Love is a Basic Human Need and contributes to Peace of Mind
+    * Compassion and Love for Yourself is Foundational
+    * Most people need Connection with Others
+    * Altruism and Compassion for others is a part of the need for Love
+    * Takes Work to Keep Healthy (Boundaries)
+    * Love People, Use Things. Not the other way around
+    * Pragmatically, Humans Rely Heavily on Each Other (No Man is an Island)
 * Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
 * Experiences and Memories are more Fulfilling than Possessions and Material Goods
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
 * Have fun
+* Be good
 * Enough is Preferable to More
 * Action is Better than Analysis
-* You only get one body and one life, appreciate it and care for them
+* You only get one body and one life, appreciate and care for them
 * The Earth is the only home humanity has and it should be cared for
 * Technology is both a Powerful Ally and a Dangerous Enemy, Requires Awareness
 
