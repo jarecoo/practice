@@ -132,7 +132,7 @@ This is what I think is specifically, concretely important, what gets me up in t
 - *Live on Purpose*
 - *Have Fun*
 - *Cultivate and Internal Locus of Control*
-- *Live in the Present Momet*
+- *Live in the Present Moment*
 - *Settle Down - Relax*
 - *Slow Down*
 - *Simplify*
@@ -141,10 +141,29 @@ This is what I think is specifically, concretely important, what gets me up in t
 - *Find a Metaphysical Meaning*
 - *Assert Yourself and Protect your Boundaries*
 - *Take Care of Yourself — Physically and Mentally*
-- *Get Going - Analize, Anticipate, but Act*
+- *Get Going - Analyze, Anticipate, but Act*
 - *Be Disciplined, Strong, and Resilient*
 - *Be Smart*
 - *Be Judicious with Technology*
+
+——— WIP
+- *Learn how to live with Impermanence*
+- *Discover the Meaning in Nature*
+- *Live Life on Purpose*
+- *Have Fun*
+- *Cultivate and Internal Locus of Control*
+- *Live in the Present Moment*
+    - *Slow your Living Down; Relax, Simplify*
+- *Love Yourself and Others*
+- *Be Good*
+- *Consider a Metaphysical Meaning*
+- *Take Care of Yourself — Physically and Mentally*
+    - *assert yourself*
+    - *Put Technology in it’s proper place*
+- *Get Going - Analyze, Anticipate, but Act*
+- *Be Disciplined, Strong, and Resilient*
+- *Be Smart*
+
 
 ### Discover the Meaning in Nature and Death
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
@@ -838,6 +857,16 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “Men seek retreats for themselves - in the country, by the sea, in the hills - and you yourself are particularly prone to this yearning. But all this is quite unphilosophic, when it is open to you, at any time you want, to retreat into yourself. No retreat offers someone more quiet and relaxation than that into his own mind, especially if he can dip into thoughts there which put him at immediate and complete ease: and by ease I simply mean a well-ordered life. So constantly give yourself this retreat, and renew yourself. The doctrines you will visit there should be few and fundamental, sufficient at one meeting to wash away all your pain and send you back free of resentment at what you must rejoin. And what is it you will resent? Human wickedness? Recall the conclusion that rational creatures are born for each other's sake, that tolerance is a part of justice, that wrongdoing is not deliberate. Consider the number of people who spent their lives in enmity, suspicion, hatred, outright war, and were then laid out for burial or reduced to ashes. Stop, then. Or will you fret at your allocation from the Whole? Revisit the alternatives -providence or atoms - and the many indications that the universe is a kind of community. But will matters of the flesh still have their hold on you? Consider that the mind, once it has abstracted itself and come to know its own defining power, has no contact with the movement of the bodily spirit, be that smooth or troubled: and finally remember all that you have heard and agreed about pain and pleasure. Well then, will a little fame distract you? Look at the speed of universal oblivion, the gulf of immeasurable time both before and after, the vacuity of applause, the indiscriminate fickleness of your apparent supporters, the tiny room in which all this is confined. The whole earth is a mere point in space: what a minute cranny within this is your own habitation, and how many and what sort will sing your praises here! Finally, then, remember this retreat into your own little territory within yourself. Above all, no agonies, no tensions. Be your own master, and look at things as a man, as a human being, as a citizen, as a mortal creature. And here are two of the most immediately useful thoughts you will dip into. First that things cannot touch the mind: they are external and inert; anxieties can only come from your internal judgement. Second, that all these things you see will change almost as you look at them, and then will be no more. Constantly bring to mind all that you yourself have already seen changed. The universe is change: life is judgement. " - Marcus Aurelius, Meditations, 4
 
 ### Get Going: Analyze, Anticipate, but Act
+- “‘Those who receive the bare theories immediately want to spew them, as an upset stomach does its food. First digest your theories and you won’t throw them up. Otherwise they will be raw, spoiled, and not nourishing. After you’ve digested them, show us the changes in your reasoned choices, just like the shoulders  of a gymnasts display their diet and training, and as the craft of artisans show it what they’ve learned’ - Epictetus, Discourses, 3.21.1-3 …Today, or anytime, when you catch yourself wanting to condescendingly drop some knowledge that you have, grab it and ask: Would i be better saying words or letting my actions and choices illustrate that knowledge for me.” The Daily Stoic p.137
+- “’First practice not letting people know who you are — keep your philosophy to yourself for a bit. In just the manner that fruit is produced - the seed buried for a season, hidden, growing gradually so it may come to full maturity. But if the grain sprouts before the stalk is fully developed, it will never ripen…That is the kind of plant you are, displaying fruit too soon, and the winder will kill you.’ Epictetus, Discourses, 4.8.35b-37 “Just because you agree with the philosophy doesn’t mean the roots have fully taken hold in your mind. Fooling with books so you can sound smart or have an intimidating library is like tending to a garden to impress your neighbors…Do the work required to nurture and tend to them. So that they — and you — are prepared and sturdy for the hard winters of life” TDS p.277
+- “More matter with less art” - Queen Gertrude, Hamlet
+- “Sustained execution, not shapeless epiphanies” The Daily Stoic, p.151
+- “That’s why philosophers warn us not to be satisfied with mere learning, but to add practice and then training. For as time passes we forget what we learned and end up doing the opposite” - Epictetus, Discourses, 2.9.13-14 (The Daily Stoic p.153)
+- “Please god, we say, relieve me of my anxiety. Listen, stupid, you have hands. God gave them to you himself. You might as well get on your knees and pray your nose won’t run. A better idea would be to wipe your nose and forgo the prayer. The point is, isn’t there anything god gave you for your present problem?” -Epictetus, Discourses, 2.16.13
+- “Waste no more time arguing what a good man should be. Be one.” Marcus Aurelius
+- “’The person who has practiced philosophy as a cure for the self becomes great of soul.’ - Seneca, Moral Letters, 111.2 Of all the avenues for curing our negative characteristics, philosophy has existed the longest and helped the most people…practice your philosophy” TDS p.226
+- “‘Don’t await the perfection of Plato’s Republic, but be satisfied with even the smallest step forward and regard the outcome as a small thing’ -Marcus Aurelius, Meditations, 9.29.(4) The idea is not to settle or compromise your standards, but rather not to become trapped by idealism…Do what you can now” TDS p.237
+- “Today — this day — will achieve what no tomorrow will fail to speak about. I will lay siege to the gods and shake up the world.” -Seneca, Medea, 423-425 (The Daily Stoic, p.156)
 - “An archer is unlikely to hit a target she did  not aim for…our perceptions and principles guide us in the selection of what we want—but ultimately our actions determine whether we get there or not. So yes, spend some time—real, uninterrupted time—thinking about what’s important to you, what your priorities are. Then, work toward that and forsake all others. It’s not enough to wish and hope. One must act—and act right” The Daily Stoic, p.136
 - it’s ok to think and analyze and plan, but the best course is always action.
 - “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting…Just do it.” The Happiness Equation, p.231
@@ -856,11 +885,8 @@ This is what I think is specifically, concretely important, what gets me up in t
 - Do something every day that will get your doing ball rolling, even if it’s a day that doesn’t require it. (e.g. Make your bed, clean your room, shower, get dressed.)
 - “Mit eitler Rede wird hier nichts geschafft” Wilhelm Tell, Schiller Act 1, Scene 1
 - “Make mistakes of boldness and not of timidity.” - Brandon Dewitt
-- “More matter with less art” - Queen Gertrude, Hamlet
 - “Imagine the emperor of Rome, with his captive audience and unlimited power, telling himself not to be a person of “too many words and too many deeds.” Let that be a reminder the next time you feel self indulgent or a little full of yourself, the next time you feel like impressing people” The Daily Stoic p.115
 - “‘Those who receive the bare theories immediately want to spew them, as an upset stomach does its food. First digest your theories and you won’t throw them up. Otherwise they will be raw, spoiled, and not nourishing. After you’ve digested them, show us the changes in your reasoned choices, just like the shoulders  of a gymnasts display their diet and training, and as the craft of artisans show it what they’ve learned’ - Epictetus, Discourses, 3.21.1-3 …Today, or anytime, when you catch yourself wanting to condescendingly drop some knowledge that you have, grab it and ask: Would i be better saying words or letting my actions and choices illustrate that knowledge for me.” The Daily Stoic p.137
-- “Sustained execution, not shapeless epiphanies” The Daily Stoic, p.151
-- “That’s why philosophers warn us not to be satisfied with mere learning, but to add practice and then training. For as time passes we forget what we learned and end up doing the opposite” - Epictetus, Discourses, 2.9.13-14 (The Daily Stoic p.153)
 ```
 “It's time to move on, time to get going
 What lies ahead, I have no way of knowing
@@ -874,13 +900,8 @@ Please don't implore, beg on the seats
 Don't make all the speech, show me.”
  - My Fair Lady, “Show Me”
 ```
-- “Today — this day — will achieve what no tomorrow will fail to speak about. I will lay siege to the gods and shake up the world.” -Seneca, Medea, 423-425 (The Daily Stoic, p.156)
 - Before acting: “First, don’t get upset — because that will color your decision negatively and make it harder than it needs to be. Second, remember the purpose and principles you value most. Running potential actions through this filter will eliminate the bad choices and highlight the right ones. Don’t get upset. Do the right thing. That’s it” The Daily Stoic, p.162
 - “‘Work nourishes noble minds’ - Seneca, Moral Letters, 31.5 …The mind and the body are there to be used — they turn on themselves when not put to some productive end. It’s sad to think that this kind of frustration is an everyday reality for a lot of people…Worse is when we try to push these feelings away by buying things, going out, fighting, creating drama — indulging in the empty calories of existence instead of finding the real nourishment. The solution is simple and, thankfully, always right at hand. Get out there and work.” TDS, p.163
-- “Please god, we say, relieve me of my anxiety. Listen, stupid, you have hands. God gave them to you himself. You might as well get on your knees and pray your nose won’t run. A better idea would be to wipe your nose and forgo the prayer. The point is, isn’t there anything god gave you for your present problem?” -Epictetus, Discourses, 2.16.13
-- “Waste no more time arguing what a good man should be. Be one.” Marcus Aurelius
-- “’The person who has practiced philosophy as a cure for the self becomes great of soul.’ - Seneca, Moral Letters, 111.2 Of all the avenues for curing our negative characteristics, philosophy has existed the longest and helped the most people…practice your philosophy” TDS p.226
-- “‘Don’t await the perfection of Plato’s Republic, but be satisfied with even the smallest step forward and regard the outcome as a small thing’ -Marcus Aurelius, Meditations, 9.29.(4) The idea is not to settle or compromise your standards, but rather not to become trapped by idealism…Do what you can now” TDS p.237
 - “Psychologists speak of cognitive distortions — exaggerated thinking patterns that have a destructive impact on the life of the patient. One of the most common is known as all-or-nothing thinking…This sort of extreme thinking is associated with depression and frustration. How could it not be? Perfectionism rarely begets perfection — only disappointment. Pragmatism has no such hang ups. It’ll take what it can get…We’re  never going to be perfect…We’re human after all. Our pursuits should be aimed at progress, however little that it’s possible for us to make.” TDS p.239
 - “There is no time to chop logic over whether our theories are correct. We’re dealing with the real world here….That’s not saying anything goes, but we can’t forget that although theories are clean and simple, situations rarely are.” TDS p.240
 - ‘I’ll tell you how people can prove [the philosophers’] words to be their own — by putting into practice what they’ve been preaching’ -Seneca, Moral Letters, 108.35;38 Even before Marcus’s time, Seneca was well aware that there was a lot of borrowing and overlap among philosophers. That’s because real philosophers weren’t concerned with authorship, only what worked. More important, they believed that what was said mattered less than what was done…The way you prove that you truly understand what you speak and write, that you truly are original, is to put them into practice. Speak them with your actions more than anything else” TDS p.241
@@ -891,7 +912,6 @@ Don't make all the speech, show me.”
 - “Don’t be the person that says yes with their mouth but not with their actions.” TDS p.259
 - “‘How rotten and fraudulent when people say they intend to ‘give it to you straight.’ What are you up to, dear friend? It shouldn’t need your announcement, but readily be seen, as if written on your forehead, heard in the ring of your voice, a flash in your eyes — just as the beloved sees it all int he lover’s glance. In short, the straightforward and good person should be like a smelly goat — you know when they are in the room with you.’ -Marcus Aurelius, Meditations, 11.15 If you have too preface your remarks with indications of honesty or directness, what does that say about everything else you say? If you say you’re being honest now, does that mean you usually aren’t? What if, instead, you cultivated a life and reputation in which honesty was as bankable as a note from the Treasury, as emphatic and explicit as a contract, as permanent as a tattoo?” TDS p.304
 - “It’s other peoples’ job to tell you no, not yours. Try stuff and go as far as you can with it. Apply for the job you think you’re not qualified for, ask that person out you think is too good for you. Create, build, act. Take the rejection, learn how to improve, and do better next time. Don't negotiate against yourself, because you'll lose every time.” https://www.reddit.com/r/AskReddit/comments/9zpbu8/what_was_your_biggest_or_smallest_epiphany_that/eab4kd5/?st=jp1o7n3c&sh=0df32fdc
-- “’First practice not letting people know who you are — keep your philosophy to yourself for a bit. In just the manner that fruit is produced - the seed buried for a season, hidden, growing gradually so it may come to full maturity. But if the grain sprouts before the stalk is fully developed, it will never ripen…That is the kind of plant you are, displaying fruit too soon, and the winder will kill you.’ Epictetus, Discourses, 4.8.35b-37 “Just because you agree with the philosophy doesn’t mean the roots have fully taken hold in your mind. Fooling with books so you can sound smart or have an intimidating library is like tending to a garden to impress your neighbors…Do the work required to nurture and tend to them. So that they — and you — are prepared and sturdy for the hard winters of life” TDS p.277
 - “If you try and lose then it isn't your fault. But if you don't try and we lose, then it's all your fault.” - Ender’s Game
 - “Don’t get mad. Help” - TDS p. 307
 
