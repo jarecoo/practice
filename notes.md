@@ -1,7 +1,7 @@
 Top 3
 
 # Top 3 Important Things to Me
-This is what I think is specifically, concretely important, what gets me up in the morning, and how I think life should be lived. The first section is my personal purpose and meaning. It’s what I pursue every day. Below that is a general, eclectic section on moral paradigm, and principles I think are important for life and happiness. (“’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TDS p.253)
+This is a long rundown of what I think is important in life. First, I list the 3 things that are most important to me personally. They’re my basic purpose and meaning in life. It’s what I pursue every day for myself. Below that is a general, eclectic section on my moral belief framework, and principles I think are important for life and happiness. It came about when I discovered the Mormon church was false (bottom section) and all of my beliefs imploded. From there, I asked myself how I wanted to raise my kids and what kinds of things I would teach them to help them live their best and most fulfilling and happiest life. By just asking myself what I thought was important, I came up with much of the list of principles below. As I studied Mindfulness Meditation and Stoicism, I found a lot of support for these ideas (listed as all the eclectic quotes in each section), and I also found some things I was missing (like the idea of living in the present moment). So this is my personal, evolving belief system that gives me answers for questions I have, and for questions and problems my family has. It’s probably not perfect, but I did try to think of the most broadly applicable ideas possible. (“’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TDS p.253)
 
 1. Family
     * Prioritize close, personal relationships (family, close friends, etc)
@@ -645,6 +645,7 @@ This is what I think is specifically, concretely important, what gets me up in t
     - “Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” - MLK
     - “Hate is too great a burden to bear” -MLK
     - I genuinely think people need each other, not all in the same way, but we need people in our life who unconditionally love us and whom we love, however that’s actually expressed. It could be a spouse, a friend, a sibling, or maybe even a pet. I think humans need love and attachment in their life. Loving and being loved is an essential need. I chose a wife and kids, but that’s not a required path.
+    - “’You’ll more quickly find an earthly thing kept from the earth than you will a person cut off from other human beings.’ -Marcus Aurelius, Meditations, 9.9.3 Our mutual interdependence with our fellow human beings is stronger than the law of gravity…We need each other. We must be there for each other. We must take care of each other (and allow others to care for us in return). To pretend otherwise is to violate our nature, to be more or less than what it means to be a human being.” TDS p.321
     - Find your village, your tribe, people you can depend on and who depend on you - “Happy people are committed to making time for and enjoying friends and family. They have people they count on and trust.” https://continuum.utah.edu/features/what-happy-people-do/
     - “Revamp your bucket list. Live in the moment. Put down your phone. Notice the people around you.”
     - “Consciously consider whom you allow into your life - not like some snobby elitist, but like someone who is trying to cultivate the best life possible” The Daily Stoic, p.79
@@ -1229,6 +1230,7 @@ To me, these things are dangerous and harmful, and if they’re true, then the c
     - Liars: https://www.reddit.com/r/exmormon/comments/82pwvj/comment/dvc0izz?st=JEI70DU8&sh=5dc125a2
     - Bill Reel excommunicated for pointing out Holland’s verifiable lies
     - “Nobody is going to give you the education you need to overthrow them.” Peanuts cartoon
+    - Prophets are either infallible on doctrine or useless https://www.reddit.com/r/exmormon/comments/aiuwe9/i_fully_reject_the_imperfect_man_defense_men_who/?st=JR8UDDDP&sh=c3b99281
     - The BoM is a rip-off of another book, The Book of the Hebrews https://cesletter.org/CES-Letter.pdf#page8
     - The church flat out whitewashes history and attempts to control truth https://www.reddit.com/r/exmormon/comments/7ncpbc/i_compiled_a_list_of_all_the_facts_stated_in/?st=JBW02ZIF&sh=07dfb103, https://www.reddit.com/r/exmormon/comments/7yr3kd/comment/duik378?st=JDVCUG7X&sh=a28976c0, https://www.reddit.com/r/exmormon/comments/80ievk/update_a_robust_list_of_intentional_hiding_church/?st=JE57V6YF&sh=4c8fd9ed, https://www.reddit.com/r/exmormon/comments/8amp35/church_legal_department_orders_all_websites/?st=JFQ7QCNZ&sh=3174c218
     - Whitewashing https://mormondiscussionpodcast.org/2016/11/extra-radio-free-mormon-hiding-church-history/
@@ -1330,6 +1332,7 @@ https://www.reddit.com/r/exmormon/comments/5dbhgz/if_i_were_to_play_the_part_of_
 “So you have to ask yourself. What’s more likely? That {JS} plagiarized the Book of Mormon and copied the free masons temple ceremony to get money. And that polygamy was because he was a pervert.
 Or that it’s from God and his most important use of an angel and a flaming sword was to get Joseph to marry a young girl. And the Book of Mormon just happens to be historically inaccurate and plagiarized and the temple just happens to be very similar to Masonry.
 If you allow yourself to consider that it could not be true and just look at the evidence from all sides it gets clear really fast.” - Steph
+https://www.reddit.com/r/exmormon/comments/aipcbp/i_made_a_thing/?st=JR8UCBOH&sh=372b95c4
 
 #### “Anti-Mormon" literature
 1. A couple’s story: cites and summarizes all the church linked essays: https://whyweleft.wordpress.com/
