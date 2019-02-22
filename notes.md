@@ -131,24 +131,25 @@ This is a long rundown of what I think is important in life. First there are the
 
 ## Principles, Practices, Strategies
 
-- [*Discover the Meaning in Nature and Death*](https://github.com/jarecoo/practice/blob/master/notes.md#discover-the-meaning-in-nature-and-death)
-- *Live with Purpose*
-- *Live on Purpose*
-- *Have Fun*
-- *Cultivate and Internal Locus of Control*
-- *Live in the Present Moment*
-- *Settle Down - Relax*
-- *Slow Down*
-- *Simplify*
-- *Love Yourself and Others*
-- *Be Good*
-- *Find a Metaphysical Meaning*
-- *Assert Yourself and Protect your Boundaries*
-- *Take Care of Yourself — Physically and Mentally*
-- *Get Going - Analyze, Anticipate, but Act*
-- *Be Disciplined, Strong, and Resilient*
-- *Be Smart*
-- *Be Judicious with Technology*
+- - [*Discover the Meaning in Nature and Death*](https://github.com/jarecoo/practice/blob/master/notes.md#discover-the-meaning-in-nature-and-death)
+- - [*Live with Purpose*](https://github.com/jarecoo/practice/blob/master/notes.md#live-life-with-purpose)
+- - [*Live on Purpose*](https://github.com/jarecoo/practice/blob/master/notes.md#live-life-on-purpose)
+- - [*Have Fun*](https://github.com/jarecoo/practice/blob/master/notes.md#have-fun)
+- - [*Cultivate and Internal Locus of Control*](https://github.com/jarecoo/practice/blob/master/notes.md#cultivate-an-internal-locus-of-control)
+- - [*Live in the Present Moment*](https://github.com/jarecoo/practice/blob/master/notes.md#live-in-the-present-moment)
+- - [*Settle Down - Relax*](https://github.com/jarecoo/practice/blob/master/notes.md#settle-down---relax)
+- - [*Slow Down*](https://github.com/jarecoo/practice/blob/master/notes.md#slow-down)
+- - [*Simplify*](https://github.com/jarecoo/practice/blob/master/notes.md#simplify)
+- - [*Love Yourself and Others*](https://github.com/jarecoo/practice/blob/master/notes.md#love-yourself-and-others)
+- - [*Be Good*](https://github.com/jarecoo/practice/blob/master/notes.md#be-good)
+- - [*Find a Metaphysical Meaning*](https://github.com/jarecoo/practice/blob/master/notes.md#find-a-metaphysical-meaning)
+- - [*Assert Yourself and Protect your Boundaries*](https://github.com/jarecoo/practice/blob/master/notes.md#assert-yourself-and-protect-your-boundaries)
+- - [*Take Care of Yourself — Physically and Mentally*](https://github.com/jarecoo/practice/blob/master/notes.md#take-care-of-yourself---physically-and-mentally)
+- - [*Get Going - Analyze, Anticipate, but Act*](https://github.com/jarecoo/practice/blob/master/notes.md#get-going-analyze-anticipate-but-act)
+- - [*Be Disciplined, Strong, and Resilient*](https://github.com/jarecoo/practice/blob/master/notes.md#be-disciplined-strong-and-resilient)
+- - [*Be Smart*](https://github.com/jarecoo/practice/blob/master/notes.md#be-smart)
+- - [*Be Judicious with Technology*](https://github.com/jarecoo/practice/blob/master/notes.md#be-judicious-with-technology)
+
 
  “’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TDS p.253
 
