@@ -131,7 +131,7 @@ This is a long rundown of what I think is important in life. First there are the
 
 ## Principles, Practices, Strategies
 
-- *Discover the Meaning in Nature and Death*
+- [*Discover the Meaning in Nature and Death*](https://github.com/jarecoo/practice/blob/master/notes.md#discover-the-meaning-in-nature-and-death)
 - *Live with Purpose*
 - *Live on Purpose*
 - *Have Fun*
