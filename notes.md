@@ -1006,6 +1006,7 @@ Don't make all the speech, show me.”
 ### Be Disciplined, Strong, and Resilient
 - Find a routine; structure and discipline breed mental stability and general health. Keep your house clean, do your chores, run your necessary errands, cook dinner, exercise, etc.
 - “It gets easier. Every day it gets a little easier, but you gotta do it every day. That’s the hard part, but it does get easier.” - Bojack Horseman
+- 1.00^365=1.00, but 1.01^365=37.7. Small, consistent effort over time amounts to big outcomes.
 - https://www.reddit.com/r/GetMotivated/comments/8ai05o/discussion_your_selfcontrol_is_your_most/?st=JFPOIU6B&sh=3ef2d937
 - “A real man doesn’t give way to anger and discontent, and such a person has strength, courage, and endurance - unlike the angry and complaining. The nearer a man comes to a calm mind, the closer he is to strength” -Marcus Aurelius, Meditations, 11.18.5b
 - “Once you learn that indulging might actually be worse than resisting, the urge begins to lose its appeal. In this way, self-control becomes the real pleasure, and the temptation becomes the regret” - The Daily Stoic, p.53
