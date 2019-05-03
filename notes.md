@@ -69,18 +69,23 @@ This is a long rundown of what I think is important in life. First there are the
         * extra can go to compassionately and generously optimizing the human condition within my sphere of influence
 3. Fitness - Physical & Mental
     * With only one mind and one body to experience one life with, you gotta take care of yourself.
+        * “Your brain is the most incredible and complex object in the universe. …The good news is for no money down…you get the one free copy of the universe’s most complex and powerful object. It’s yours for life…You break it, it’s broken. Seat belts, bike helmets and exercise are mandatory. For power, your brain recharges with six to eight hours of sleep a day and as much healthy food as possible.” The Happiness Equation p.193
     * Physical exercise
         * Be physically fit, healthy, and improve longevity of the life i do have.
             * “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
+    * Proper Diet
+        * Fruits, Veggies, White meat/fish/nuts, whole-grain breads
+        * Eating is for giving your body the nutrients it needs to be strong and healthy; it shouldn’t be for pleasure.
+        * Eat well, feel well.
     * Mental Health (https://youtu.be/mpZ6YT8OemI):
-        * Goals and purpose
-            * See no. 2
-        * Internal Locus of Control
+        * “The Art of Acquiescence;” surrounding control of everything but my thoughts and actions to Fate (TDS p.330)
+            * don’t take things too seriously
             * Meditation - Mindfulness
-            * Understand what I can’t control and what I can.
-            * “In distancing ourselves from negative thinking, we recognize that we’re not our thoughts.”
+        * Purpose
+            * See no. 2
         * Positive Emotions
-            * Stop anxiety with breathing and relaxation, stop self-degrading thoughts with affirmations
+            * breathe and relax
+            * Assert yourself, speak your truth
             * Be optimistic, content, thoughtful, confident, happy, calm, and meditative, assertive, etc. Life is worse voluntarily anxious, paranoid, depressed, or angry.
             * “Happy people pay attention to the good in others and the things that are going right…interpret other people and events around them in a positive light, and see opportunities and possibilities. And they take time to remember and be grateful for the good things in their lives.“
             * “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
@@ -89,19 +94,19 @@ This is a long rundown of what I think is important in life. First there are the
 
 # Moral Paradigm & How I Should Live My Life
 ## Beliefs
-* Peace of Mind is a Meaningful, Basic Pursuit and is foundational for individual Happiness and Health
-    * Literally a mind at peace, free from worry and turbulence; a healthy, contented mind
-    * Whether one pursues peace of mind for self gratification, or for altruistic reasons, benefits abound
+* Peace of Mind and Fulfillment are Meaningful, Basic Pursuits
+    * Fulfillment is finding and achieving meaning in life
+    * Literally a mind at peace, free from worry and turbulence; a healthy, contented mind; a sense of ease; a light-hearted mind; not taking things too seriously -
     * “We May live with the idea that we should always be happy, but this is not the nature of life. In accepting this simple truth, we discover a greater sense of ease in more challenging times. In many ways this is the heart of so much of our stress, our struggle, our discontent in life, to have this idea that life should always be happy. It’s a really strong idea, and there’s a lot of desire behind that idea, but we never really pause to think, is that even possible? Is that even appropriate, is that what we would want in our life? Reactively, we would assume that, yes, of course, we would, but when we’re going through a difficult time, if somebody close to us is unwell, do we necessarily want to be happy during that time? IF we lose someone close to us, would we want to be happy? The truth is the range of human emotion supports us throughout the journey, and throughout the many different circumstances that arise. We’re not always in a position in a given situation where happiness, in terms of the happiness that we think of as not feeling sad, is not necessarily appropriate. We can then perhaps talk about a contentment, or a sense of ease, that exists beyond, or beneath, that everyday happiness, that is with us in those times of happiness, but it’s also with us in those times of sadness. It’s a mind which is at ease with thinking, at ease with feelings, at ease with the world around us, no matter how it appears in that moment. It doesn’t mean that we necessarily want it to be that way, but at the same time, we’re not resisting it, and in not resisting it, we find a sense of contentment. So rather than striving for that everyday kind of happiness, and looking outward for that, looking inward and finding that sense of contentment, no matter how the mind or life appears in any given moment.”-Headspace, Everyday Headspace, “Challenging times,” Monday January 14, 2019
     * “When people say that stoics are dour or depressive, they’re really missing the point. Who cares if someone is bubbly when times are good? what kind of accomplishment is that? But can you be fully content with your life, can you bravely face what life has in store from one day to the next, can you bounce back from every kind of adversity without losing a step, can you be a source of strength and inspiration to others around you? That’s Stoic joy - the joy that comes from purpose, excellence, and duty.” TDS p.227
     * “A true spiritual practitioner is someone who has discovered that it is possible to be at ease in the world for no reason, if only for a few moments at a time.” - Sam Harris, Waking Up, p.17
     * “Achieving equanimity amid the flux.” - Sam Harris, Waking Up, 38
-* Purposeful, Mindful Engagement in the Present Moment is Central to Happiness and Peace of Mind
-* Meaning and Purpose are Central to Happiness and Peace of Mind
+* Purposeful, Mindful Engagement in the Present Moment is Central to Fulfillment and Peace of Mind
+* Meaning and Purpose are Central to Fulfillment and Peace of Mind
     * Individually Created
     * Derived from a strong sense of who you are (developed from self-love)
     * Derived from the notion that your time is finite, and your part in nature
-* An Internal Locus of Control is Central to Happiness and Peace of Mind
+* An Internal Locus of Control is Central to Peace of Mind
     * You only Control your Thoughts, Attitudes, and Outlook
     * Self Love is a really good way to begin to develop internal control
     * State of mind dictates happiness, not circumstances
@@ -112,7 +117,7 @@ This is a long rundown of what I think is important in life. First there are the
     * Presence in the moment is vital to happiness and enjoyment
     * Tranquility of mind is preferable to a turbulent mind
     * Seeing the good in life, and being grateful helps avoid the scourge of stress
-* Love is a Basic Human Need and contributes to Peace of Mind
+* Love is a Basic Human Need and part of achieving Peace of Mind
     * Compassion and Love for Yourself is Foundational
     * Most people need Connection with Others
     * Altruism and Compassion for others is a part of the need for Love
