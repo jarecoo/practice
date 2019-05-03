@@ -1,7 +1,7 @@
 Top 3
 
 # Top 3 Important Things to Me
-This is a long rundown of what I think is important in life. First there are the 3 things in my life that are most important to me; my purpose and meaning. Next is all the things I think are important when answering “How do you live a good life?” It’s made up of mostly stoic ideals and mindfulness practices. The very bottom is all the reasons I left the mormon church, and therefore the reason I wrote this.
+This is a long rundown of my thoughts on life. First there are the 3 things that are the most important to me; my purpose and meaning. Next is all the things I think are important when answering “How do you live a good life?” It’s made up of mostly stoic ideals and mindfulness practices. The very bottom is all the reasons I left the mormon church, and therefore the reason I wrote this.
 
 1. Family
     * Prioritize close, personal relationships (family, close friends, etc)
