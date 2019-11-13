@@ -496,6 +496,8 @@ This is a long rundown of my thoughts on life. First there are the 3 things that
 
 ### Live in the Present Moment
 - “The longest and shortest life, then, amount to the same, for the present moment lasts the same for all and is all anyone possesses.” -Marcus Aurelius, Meditations, 2.14; The Daily Stoic, p.85
+- “Infinitely swift is the flight of time, as those see more clearly who are looking backwards. For when we are intent on the present, we do not notice it, so gentle is the passage of time's precipitous flight” - Seneca, Moral Letters, 49.2 (The Daily Stoic, p.157)
+- “As {Seneca} says, by pouring ourselves fully and intentionally into the present, it ‘gentle[s] the passing of time’s precipitous flight.’” TDS p.157
 - “When we chase after happiness as a movement, it’s away from the present moment to another place, to some time other than now. And because we move away from the present moment, ironically, we move further away from happiness. Because when you think about it, happiness can only exist in this moment, right here, right now.” Chasing Happiness, Headsapce video, https://my.headspace.com/play/79
 - “‘Let us therefore set out whole-heartedly, leaving aside our many distractions and exert ourselves in this single purpose, before we realize too late the swift and unstoppable flight of time and are left behind. As each day arises, welcome it as the very best day of all, and make it your own possession. We must seize what flees.’ - Seneca, Moral Letters, 108.27b-28a What will you manage to make of today before it slips from your fingers and becomes the past? When someone asks you what you did yesterday, do you really want the answer to be ‘nothing?’” The Daily Stoic p.143
 - “This single moment may feel small as an idea of time, but as an experience, it’s infinite.” - Headspace, Everyday Headspace, “The Quiet Mind,” Monday, May 6, 2019
@@ -519,8 +521,6 @@ This is a long rundown of my thoughts on life. First there are the 3 things that
 - “Like bluebonnets in the spring, We're only here for a little while. It's beautiful and bittersweet, So make the most of every mile” - “Bluebonnets in the Spring” Aaron Watson
 - “You get what you deserve. Instead of being a good person today, you choose instead to become one tomorrow.” -Marcus Aurelius, Meditations, 8.22; The Daily Stoic, p.156
 - “‘I don’t complain about the lack of time…what little I have will go far enough. Today — this day — will achieve what no tomorrow will fail to speak about. I will lay siege to the gods and shake up the world.’ Today, not tomorrow, is the day that we can start to be good.” -Seneca, Medea, 423-425 (The Daily Stoic, p.156)
-- “Infinitely swift is the flight of time, as those see more clearly who are looking backwards. For when we are intent on the present, we do not notice it, so gentle is the passage of time's precipitous flight” - Seneca, Moral Letters, 49.2 (The Daily Stoic, p.157)
-- “As {Seneca} says, by pouring ourselves fully and intentionally into the present, it ‘gentle[s] the passing of time’s precipitous flight.’” TDS p.157
 - Pause to look around before it’s behind you -hiking adage
 - “I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.” - Alan Watts
 - “We are living in a culture entirely hypnotized by the illusion of time, in which the so-called present moment is felt as nothing but an infinitesimal hairline between an all-powerfully causative past and an absorbingly important future. We have no present. Our consciousness is almost completely preoccupied with memory and expectation. We do not realize that there never was, is, nor will be any other experience than present experience. We are therefore out of touch with reality. We confuse the world as talked about, described, and measured with the world which actually is.” - Alan Watts
@@ -719,6 +719,7 @@ This is a long rundown of my thoughts on life. First there are the 3 things that
 - Love and Empathy for Self
     - Loving yourself is the starting place to everything else. It helps you develop a sense of who you are, and who you want to be. This is where you start from when you find and develop your purpose, once you have that you can begin to live on purpose, enjoy the moment, develop your character, etc. it all starts with loving your true self.
     - Healthy love starts with self-love, or self-compassion, and then goes out to another person in the form of intimacy and attachment. It ends with altruism.
+    - It’s not selfish to want to be treated well.
     - “Be softer with you. You are a breathing thing. A memory to someone. A home to a life.” - Nayyirah Waheed
     - “You rarely have time for everything you want in this life, so you need to make choices. And hopefully your choices come from a deep sense of who you are” - Fred Rogers
     - “You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You yourself, as much as anybody in the entire universe deserve your love and affection.” - Buddha
@@ -887,7 +888,8 @@ This is a long rundown of my thoughts on life. First there are the 3 things that
   ```
 
 ### Assert Yourself and Protect Your Boundaries
-- “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124\
+- “When we do not express ourselves, do not assert our being, do not stand up for our values in contexts where it is appropriate to do so, we inflict wounds on our sense of self. The world does not do it to us - we do it to ourselves.” The Six Pillars of Self-esteem, p 124
+- It’s not selfish to want to be treated well.
 - “We ignore Socrates’ dictum to ‘know thyself’ — often realizing we have done so at our peril, years later, when we wake up one day and realize how rarely we have asked ourselves questions like: ‘Who am I? What’s important to me? What do I like? What do I need?’ Now — right now — you have the time to explore yourself, to understand your own mind and body. Don’t wait. Know yourself. Before it’s impossibly late.” TDS p. 373
 - “’How long will you be compelled by the claims of another? Take charge and stake your own claim — something posterity will carry in its notebook.’ - Seneca, Moral Letters, 33.7 It’s easier to quote, to rely on the wise words of others…It’s harder to venture out on your own and express your own thoughts…Your own experiences have value. You have accumulated your own wisdom too. Stake your claim. Put something down for the ages — in words and also in example.“ TDS p.378
 - “If you are ever tempted to look for outside approval, realize you have compromised your own integrity. If you need a witness, be your own.” - Epictetus
