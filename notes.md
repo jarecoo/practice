@@ -97,49 +97,28 @@ This is a long rundown of my thoughts on life. First there are the 3 things that
 
 # Moral Paradigm & How I Should Live My Life
 ## Beliefs
-* Peace of Mind and Fulfillment are Meaningful, Basic Pursuits
-    * Fulfillment is finding and achieving meaning in life
-    * Literally a mind at peace, free from worry and turbulence; a healthy, contented mind; a sense of ease; a light-hearted mind; not taking things too seriously -
-    * “We May live with the idea that we should always be happy, but this is not the nature of life. In accepting this simple truth, we discover a greater sense of ease in more challenging times. In many ways this is the heart of so much of our stress, our struggle, our discontent in life, to have this idea that life should always be happy. It’s a really strong idea, and there’s a lot of desire behind that idea, but we never really pause to think, is that even possible? Is that even appropriate, is that what we would want in our life? Reactively, we would assume that, yes, of course, we would, but when we’re going through a difficult time, if somebody close to us is unwell, do we necessarily want to be happy during that time? IF we lose someone close to us, would we want to be happy? The truth is the range of human emotion supports us throughout the journey, and throughout the many different circumstances that arise. We’re not always in a position in a given situation where happiness, in terms of the happiness that we think of as not feeling sad, is not necessarily appropriate. We can then perhaps talk about a contentment, or a sense of ease, that exists beyond, or beneath, that everyday happiness, that is with us in those times of happiness, but it’s also with us in those times of sadness. It’s a mind which is at ease with thinking, at ease with feelings, at ease with the world around us, no matter how it appears in that moment. It doesn’t mean that we necessarily want it to be that way, but at the same time, we’re not resisting it, and in not resisting it, we find a sense of contentment. So rather than striving for that everyday kind of happiness, and looking outward for that, looking inward and finding that sense of contentment, no matter how the mind or life appears in any given moment.”-Headspace, Everyday Headspace, “Challenging times,” Monday January 14, 2019
-    * Amor Fati
-    * “When people say that stoics are dour or depressive, they’re really missing the point. Who cares if someone is bubbly when times are good? what kind of accomplishment is that? But can you be fully content with your life, can you bravely face what life has in store from one day to the next, can you bounce back from every kind of adversity without losing a step, can you be a source of strength and inspiration to others around you? That’s Stoic joy - the joy that comes from purpose, excellence, and duty.” TDS p.227
-    * “A true spiritual practitioner is someone who has discovered that it is possible to be at ease in the world for no reason, if only for a few moments at a time.” - Sam Harris, Waking Up, p.17
-    * “Achieving equanimity amid the flux.” - Sam Harris, Waking Up, 38
-* Purposeful, Mindful Engagement in the Present Moment is Central to Fulfillment and Peace of Mind
-* Meaning and Purpose are Central to Fulfillment and Peace of Mind
-    * Individually Created
-    * Derived from a strong sense of who you are (developed from self-love)
-    * Derived from the notion that your time is finite, and your part in nature
-* An Internal Locus of Control is Central to Peace of Mind
-    * You only Control your Thoughts, Attitudes, and Outlook
-    * Self Love is a really good way to begin to develop internal control
-    * State of mind dictates happiness, not circumstances
-    * Intrinsic motivation is the best motivation (e.g. doing it for you according to your purpose in life)
-    * Happiness is in your control, and comes first.
-    * You bring meaning to circumstances and occurrences
-    * Circumstances won’t make you happy. You breed happiness within yourself, regardless of circumstance.
-    * Presence in the moment is vital to happiness and enjoyment
-    * Tranquility of mind is preferable to a turbulent mind
-    * Seeing the good in life, and being grateful helps avoid the scourge of stress
-* Love is a Basic Human Need and part of achieving Peace of Mind
-    * Compassion and Love for Yourself is Foundational
-    * Most people need Connection with Others
-    * Altruism and Compassion for others is a part of the need for Love
-    * Takes Work to Keep Healthy (Boundaries)
-    * Love People, Use Things. Not the other way around
-    * Pragmatically, Humans Rely Heavily on Each Other (No Man is an Island)
-* Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
+* You only get one body and one life, appreciate and care for them
 * Experiences and Memories are more Fulfilling than Possessions and Material Goods
+* It’s important to cultivate Peace of Mind and Contentment
+* It’s important to discover and/or build your Purpose and Meaning
+    * Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
+* Self-love and familiarity with your wants and needs will help you find and live your purpose and enjoy your life’s meaning
+* It’s important to find Fulfillment in Life
+* Purposeful, Conscious Engagement in the Present Moment brings joy, contentment, and happiness
+* Accepting things you don’t control will make you more Content
+* It is important to learn that you only Control your Thoughts, Attitudes, and Outlook
+* Circumstances do not determine happiness and contentment; State of mind dictates that
+* Tranquility of mind is preferable to a turbulent mind
+* Love is a Basic Human Need - develop compassion and love for yourself first, then others; seek healthy love from others
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
-* Have fun
-* Be good
+    * Technology is both a Powerful Ally and a Dangerous Enemy, Requires Mindfulness
+* It’s important to Have fun
+* It’s important to do good
 * Enough is Preferable to More
 * Action is Better than Analysis
-* You only get one body and one life, appreciate and care for them
-* The Earth is the only home humanity has and it should be cared for
-* Technology is both a Powerful Ally and a Dangerous Enemy, Requires Awareness
+* The Earth is currently the only home we have and it should be cared for
 
-## Principles, Practices, Strategies
+## Principles, Practices, Strategies, Examples
 
 - [*Discover the Meaning in Nature and Death*](https://github.com/jarecoo/practice/blob/master/notes.md#discover-the-meaning-in-nature-and-death)
 - [*Live with Purpose*](https://github.com/jarecoo/practice/blob/master/notes.md#live-life-with-purpose)
