@@ -98,17 +98,15 @@ This is a long rundown of my thoughts on life. First there are the 3 things that
 # Moral Paradigm & How I Should Live My Life
 ## Beliefs
 * You only get one body and one life, appreciate and care for them
-* Experiences and Memories are more Fulfilling than Possessions and Material Goods
-* It’s important to cultivate Peace of Mind and Contentment
+* Experiences, Memories and Interpersonal Connections are more Fulfilling than Possessions and Material Goods
 * It’s important to discover and/or build your Purpose and Meaning
     * Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
-* Self-love and familiarity with your wants and needs will help you find and live your purpose and enjoy your life’s meaning
 * It’s important to find Fulfillment in Life
-* Purposeful, Conscious Engagement in the Present Moment brings joy, contentment, and happiness
-* Accepting things you don’t control will make you more Content
-* It is important to learn that you only Control your Thoughts, Attitudes, and Outlook
-* Circumstances do not determine happiness and contentment; State of mind dictates that
-* Tranquility of mind is preferable to a turbulent mind
+* Self-love and familiarity with your wants and needs will help you find and live your purpose and enjoy your life’s meaning
+* It’s important to cultivate Peace of Mind and Contentment - Tranquility of mind is preferable to a turbulent mind
+* It is important to accept the things you don’t control, and develop the things you do control - your mind and your actions
+* Circumstances do not determine happiness and contentment; State-of-mind does
+* Purposeful, Conscious Engagement in the Present Moment brings joy, contentment, and fulfillment
 * Love is a Basic Human Need - develop compassion and love for yourself first, then others; seek healthy love from others
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
     * Technology is both a Powerful Ally and a Dangerous Enemy, Requires Mindfulness
