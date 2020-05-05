@@ -1,8 +1,8 @@
 Top 3
+This is an exercise over time of figuring out how I think about life after leaving Mormonism. It started as a question from a friend to identify the top 3 things that are the most important to me, that give me a sense of purpose and meaning. Over time I asked myself “What kinds of strategies and paradigms do I choose to live by?” and the whole rest of it came about, influenced by mindfulness meditation and reading Stoic philosophy.
+There are a lot of quotations in this, but truth is truth for me: “’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TheDaily Stoic (TDS) p.253
 
 # Top 3 Important Things to Me
-This is a long rundown of my thoughts on life. First there are the 3 things that are the most important to me; my purpose and meaning. Next is all the things I think are important when answering “How do you live a good life?” It’s made up of mostly stoic ideals and mindfulness practices. The very bottom is all the reasons I left the mormon church, and therefore the reason I wrote this.
-
 1. Family
     * Prioritize close, personal relationships (family, close friends, etc)
         *  Foster a loving, supportive, compassionate relationship with my kids and my wife. I want to be part of their life forever. Make the time we have together count.
@@ -23,24 +23,26 @@ This is a long rundown of my thoughts on life. First there are the 3 things that
             * 2. Teach them what to be (e.g. morality, behavior, hard work, manners, etc)
             * 3. Provide emotional support, validation, unconditional love, compassion, empathy, listening ear, encouragement
     * Raise my children to be thoughtful, empathetic, enlightened people, capable of finding their own positive value in life, and contributing to the betterment of others
-2. Fulfillment - Personal, Professional, and Creative
+2. Personal Fulfillment
     * Emphasize experience and memories over possessions and material goods; reduce waste
-        * Just spending and enjoying time with my family
-        * Traveling - See as much of the world as possible
+        * Just spending and enjoying time with my family - “enjoying the simple life”  - “human life it too short to make it about quantity but we can certainly make it about quality.” https://www.reddit.com/r/Stoicism/comments/93d0xh/comment/e3cvurp?st=JKARA06V&sh=f7e3420a
+        * Travel - See as much of the world I want to see as possible
             * PNW - Seattle
             * Iceland
-            * Finland - northern lights
-            * Canada - Banff
+            * Finland
+            * Northern lights
+            * Canada - Banff - Jasper - British Columbia
             * Ireland - Great Britain
             * Alaska
             * Maine, Nova Scotia (2024 for eclipse)
             * Puerto Rico
-            * New England - NYC, Boston
+            * New England - NYC, Boston, DC
             * Costa Rica
             * Norway - Sweden
             * New Zealand
             * Hawaii
             * Fiji
+            * Australia
             * Switzerland
         * Hiking/Camping
             * Narrows
@@ -74,9 +76,10 @@ This is a long rundown of my thoughts on life. First there are the 3 things that
     * With only one mind and one body to experience one life with, you gotta take care of yourself.
         * “Your brain is the most incredible and complex object in the universe. …The good news is for no money down…you get the one free copy of the universe’s most complex and powerful object. It’s yours for life…You break it, it’s broken. Seat belts, bike helmets and exercise are mandatory. For power, your brain recharges with six to eight hours of sleep a day and as much healthy food as possible.” The Happiness Equation p.193
     * Physical exercise
-        * Be physically fit, healthy, and improve longevity of the life i do have.
+        * Be physically fit, increase longevity and improve quality of the life i do have.
             * “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
     * Proper Diet
+        * “One should by constant practice accustom himself to choosing food not for enjoyment but for nourishment, not to tickle his palate but to strengthen his body.” Musonius Rufus, Lectures,  On Food, XVIIIB
         * Fruits, Veggies, White meat/fish/nuts, whole-grain breads
         * Eating is for giving your body the nutrients it needs to be strong and healthy; it shouldn’t be for pleasure.
         * Eat well, feel well.
@@ -85,35 +88,34 @@ This is a long rundown of my thoughts on life. First there are the 3 things that
             * don’t take things too seriously
             * Meditation - Mindfulness
         * Purpose
-            * See no. 2
+            * See no. 1 and 2
         * Positive Emotions
             * breathe and relax
             * Assert yourself, speak your truth
-            * Be optimistic, content, thoughtful, confident, happy, calm, and meditative, assertive, etc. Life is worse voluntarily anxious, paranoid, depressed, or angry.
+            * Choose to be optimistic, content, thoughtful, confident, happy, calm, assertive, fun-loving etc. Life is worse when *voluntarily* anxious, paranoid, depressed, or angry.
             * “Happy people pay attention to the good in others and the things that are going right…interpret other people and events around them in a positive light, and see opportunities and possibilities. And they take time to remember and be grateful for the good things in their lives.“
             * “Positive emotions that connect you to things larger than yourself boost happiness: awe, gratitude, thanksgiving, wonder at the universe, seeing beauty outside yourself.” https://continuum.utah.edu/features/what-happy-people-do/
         * Social connections
             * See no. 1
 
-# Moral Paradigm & How I Should Live My Life
 ## Beliefs
 * You only get one body and one life, appreciate and care for them
 * Experiences, Memories and Interpersonal Connections are more Fulfilling than Possessions and Material Goods
+    * Enough is better than More
 * It’s important to discover and/or build your Purpose and Meaning
     * Any Direction in Life, Purposefully Chosen, is Better than a Default, Unchosen Direction
-* It’s important to find Fulfillment in Life
+* It’s important to find or build Meaning in your specific Life
 * Self-love and familiarity with your wants and needs will help you find and live your purpose and enjoy your life’s meaning
-* It’s important to cultivate Peace of Mind and Contentment - Tranquility of mind is preferable to a turbulent mind
-* It is important to accept the things you don’t control, and develop the things you do control - your mind and your actions
 * Circumstances do not determine happiness and contentment; State-of-mind does
 * Purposeful, Conscious Engagement in the Present Moment brings joy, contentment, and fulfillment
-* Love is a Basic Human Need - develop compassion and love for yourself first, then others; seek healthy love from others
+* It’s important to cultivate Peace of Mind and Contentment - Tranquility of mind is preferable to a turbulent mind
 * A Slow, Simple, Focused Life is Preferable to a Fast, Complex, Scattered One
     * Technology is both a Powerful Ally and a Dangerous Enemy, Requires Mindfulness
+* It is important to accept the things you don’t control, and develop the things you do control - your mind and your actions
+* Love is a Basic Human Need - develop compassion and love for yourself first, then others; seek healthy love from others
 * It’s important to Have fun
-* It’s important to do good
-* Enough is Preferable to More
-* Action is Better than Analysis
+* It’s important to Do No Harm and to do Active Good
+* Action is better than Analysis
 * The Earth is currently the only home we have and it should be cared for
 
 ## Principles, Practices, Strategies, Examples
@@ -137,9 +139,8 @@ This is a long rundown of my thoughts on life. First there are the 3 things that
 - [*Be Smart*](https://github.com/jarecoo/practice/blob/master/notes.md#be-smart)
 - [*Be Judicious with Technology*](https://github.com/jarecoo/practice/blob/master/notes.md#be-judicious-with-technology)
 
- “’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TDS p.253
-
 ### Discover the Meaning in Nature and Death
+- Objectively, you only have this limited time at this limited place on one planet in the universe. What can you make of that impermanence?
 - “Pass through this brief patch of time in harmony with nature, and come to your final resting place gracefully, just as a ripened olive might drop, praising the earth that nourished it and grateful to the tree that gave it growth.” - Marcus Aurelius, Meditations, 4.48.2
 - “You could leave life right now. Let that determine what you do and say and think.” -Marcus Aurelius, Meditations 2.11
 - Nature is the ultimate reality. Contentment comes from accepting reality. Death is one of Nature’s realities, learning to find your place in nature is learning to accept the impermanence of your life and to be ok with it.
@@ -615,7 +616,7 @@ This is a long rundown of my thoughts on life. First there are the 3 things that
 - Patience. Sometimes stuff just needs time, no action, just time.
 - “’Fortune doesn’t have the long reach we suppose, she can only lay siege to those who hold her tight. So, let’s step back from her as much as possible’ -Seneca, Moral Letters, 82.5b-6 the metaphor here would be the choice between a strategy of endless, exhausting offense and a strategy of resilient, flexible defense. Which will you play?” TDS p.183
 - “’Here is the great soul — the one who surrenders to Fate. The opposite is the weak and degenerate one, who struggles with and has a poor regard for the order of the world, and seeks to correct the faults of the gods rather than their own.’ - Seneca, Moral Letters, p.107.12 Let’s not wish we could turn back time or remake the universe according to our preference. Not when it would be far better and far easier to remake ourselves.” TDS p.184
-- “To the youngster talking nonsense Zeno said, ‘The reason why we have to ears and only one mouth is so we might listen more and talk less.’” - Diogenes Laertius, Lives of Eminent Philosophers, 7.1.23; TDS p.180
+- “To the youngster talking nonsense Zeno said, ‘The reason why we have to ears and only one mouth is so we might listen more and talk less.’” - Diogenes Laertius, Lives of Eminent Philosophers, 7.1.23; TDS p.181
 - “It’s really tempting to meditate for balance only when you’re feeling stressed or out of balance in some way. Often we just look to fix things when they already happen. But we should try and use the balance visualization {light above the head flowing into your body} on a regular basis, to really get comfortable with it to remind yourself of what it feels like to be grounded to have a sense of balance. The more time you spend in that place, the less likely you are to be overwhelmed. It’s no longer about putting out fires the whole time, instead it’s about preventing the fires from getting out of control in the first place. having the presence of mind to see thoughts and emotions beginning to run away and at the moment to say ‘I’m not going to do that this time. I’m just going to come back to that feeling of being present, of being balanced in both body and mind…Be aware throughout the day, find the moments in the day that you can remind yourself of this feeling of balance. In reminding yourself, all you’re doing is tapping back in to that innate quality of balance that’s always there. You’re reminding the mind what it’s like to rest in that space. The more you can do that, the more natural that tendency becomes, the more often you go to that place, the more time you spend in that place, and the greater the sense of balance there is in life” - Headspace, Balance, Day 3
 - “So long as we notice when the mind is distracted, and bring our focus back to the breath, we create the conditions for insight to arise.” - Headspace, Focus and Insight Fri Sep.7, 2018
 - “’Silence is a lesson learned from the many sufferings of life’ -Seneca Thyestes, 309 ‘The more you say,’ Robert Greene has written, ‘the more likely you are to say something foolish.’ To that we add: the more you say the more likely you are to blow past opportunities, ignore feedback, and cause yourself suffering. The inexperienced and fearful talk to reassure themselves. The ability to listen, to deliberately keep out of a conversation and subsist without its validity is rare. Silence is a way to build strength and self-sufficiency.” TDS p.234
