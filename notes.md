@@ -1,4 +1,5 @@
 Top 3
+
 This is an exercise over time of figuring out how I think about life after leaving Mormonism. It started as a question from a friend to identify the top 3 things that are the most important to me, that give me a sense of purpose and meaning. Over time I asked myself “What kinds of strategies and paradigms do I choose to live by?” and the whole rest of it came about, influenced by mindfulness meditation and reading Stoic philosophy.
 There are a lot of quotations in this, but truth is truth for me: “’I’ll never be ashamed to quote a bad writer with a good saying’ -Seneca, On Tranquility, 11.8 Who cares if some bit of wisdom is from a stoic, who cares whether it perfectly jibes with Stoicism? What matters is whether it makes your life better, whether it makes you better.” TheDaily Stoic (TDS) p.253
 
