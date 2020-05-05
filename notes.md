@@ -119,7 +119,7 @@ There are a lot of quotations in this, but truth is truth for me: “’I’ll n
 * Action is better than Analysis
 * The Earth is currently the only home we have and it should be cared for
 
-## Principles, Practices, Strategies, Examples
+## Practices and Strategies
 
 - [*Discover the Meaning in Nature and Death*](https://github.com/jarecoo/practice/blob/master/notes.md#discover-the-meaning-in-nature-and-death)
 - [*Live with Purpose*](https://github.com/jarecoo/practice/blob/master/notes.md#live-life-with-purpose)
