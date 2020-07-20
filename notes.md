@@ -780,9 +780,10 @@ There are a lot of quotations in this, but truth is truth for me: “’I’ll n
 - “Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” - MLK
 - “Hate is too great a burden to bear” -MLK
 - “Waste no more time arguing what a good man should be. Be one.” Marcus Aurelius
-- You have concentric sphere’s of influence that decrease in your ability to enact change and good the farther from yourself you get. Focus on doing good in your most potent spheres of influence. Yourself is the closest sphere of influence.
 - “The right thing to do always comes from our reasoned choice. Not whether something is rewarded. Not whether something will succeed, but whether is the right choice.” - TDS p142
+- You have concentric sphere’s of influence that decrease in your ability to enact change and good the farther from yourself you get. Focus on doing good in your most potent spheres of influence. Yourself is the closest sphere of influence.
 - “Ours is not the task of fixing the entire world all at once, but of stretching out to mend the part of the world that is within our reach. Any small, calm thing that one soul can do to help another soul, to assist some portion of this poor suffering world, will help immensely.” -Clarissa Pinkola Estes
+- "'Protect your own good in all that you do.' -Epictetus, Discourses, 4.3.11 The goodness inside you is like a small flame, and you are its keeper...Every person has their own version of the flame and is responsible for it, just as you are. If they all fail, the world will be much darker -- that is something you don't control. But so long as your flame flickers, there will be some light in the world." - TDS p.201
 - Give people the love and compassion they want, or the kind you want if nothing else. The Golden Rule.
 - Do random acts of unsolicited kindness. it’ll make you feel better, but it will add good to the world.
 - “…doing a kindness produces the single most reliable momentary increase in well-being of any exercise we have tested” - Martin Seligman, Flourish, as quoted in The Happiness Equation, p. 21
