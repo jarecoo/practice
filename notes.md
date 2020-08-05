@@ -360,6 +360,7 @@ There are a lot of quotations in this, but truth is truth for me: “’I’ll n
 
 ### Cultivate an Internal Locus of Control
 #### Good Comes from Within:
+- "'Enough of this miserable, whining life. Stop monkeying around! Why are you troubled? What's new here? What's so confounding? The one responsible? Take a good look. Or just the matter itself? Then look at that. There's nothing new to look at.' -Marcus Aurelius, Meditations, 9.37...Joan Didion would write in one of her best essays, 'the willingness to accept responsibility for one's own life -- is the source from which all self-respect springs.' Marcus is urging us to not waste time complaining about what we haven't got or how things have worked out...be the owners of our own lives. Character can be developed, and when it is, self-respect will ensue." TDS p.205
 - “Dig deep within yourself, for there is a fountain of goodness ever ready to flow if you will keep digging.” -Marcus Aurelius, Meditations, 7.59 (TDS p317)
 - “There is nothing outside of yourself that can ever enable you to get better, stronger, richer, quicker, or smarter. Everything is within. Everything exists. Seek nothing outside of yourself.” - Miyamoto Musashi, The Book of Five Rings
 - “the wise man can lose nothing. He has invested everything in himself” - Seneca, On the Firmness of the Wise man, 5
