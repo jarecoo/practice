@@ -893,6 +893,9 @@ There are a lot of quotations in this, but truth is truth for me: “’I’ll n
 - “Anything in any way beautiful derives its beauty from itself and asks nothing beyond itself.” - Marcus Aurelius
 - “The wise man can lose nothing. He has invested everything in himself.” -Seneca, On the Firmness of the Wise Man
 - “Think thyself fit and worthy to speak, or to do anything that is according to nature, and let not the reproach, or the report of some that may ensue upon it, ever deter thee” -Marcus Aurelius, Meditations
+- “You cannot be peaceful unless you’re capable of great violence.” - unknown - being ready and capable of asserting your will onto another, and doing so in a deliberate, purposeful, and compassionate way is a strong form of self-assertion.
+- “It is better to be a warrior in a garden than a gardener in a war” - Miyamoto Musashi
+- "'strength and compassion should not be separated'. compassion without strength is pointless, and strength without compassion is simple violence." https://www.reddit.com/r/Stoicism/comments/qkdner/comment/hivz4nm/?utm_source=share&utm_medium=web2x&context=3
 - “By having some self-respect for your own mind and prizing it, you will please yourself and be in better harmony with your fellow human beings, and more in tune with the gods.” - Marcus Aurelius, Meditations, 6.16.2b-4a
 - “Get busy with life’s purpose, toss aside empty hopes, get active in your own rescue - if you care for yourself at all - and do it while you can.” - Marcus Aurelius, Meditations, 3.14
 - Do no harm, but take no shit
