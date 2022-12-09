@@ -1,0 +1,295 @@
+export GITAWAREPROMPT=~/.bash/git-aware-prompt
+source "${GITAWAREPROMPT}/main.sh"
+export PS1="\W:\$(~/.rvm/bin/rvm-prompt)\[$txtcyn\]\$git_branch\[$txtred\]\$git_dirty\[$txtrst\]\$ "
+
+#!/bin/bash
+#
+# SSHMUX
+# ------
+#
+# SSH multiplexing made easy
+#
+# EXAMPLES:
+#  sshmux app1.example.com app2.example.com"
+#  sshmux app{1..2}.example.com"
+#  sshmux app.{site1,site2}.com"
+
+
+sshmux () {
+local hosts=($*)
+local ssh="ssh -o StrictHostKeyChecking=no -o ConnectTimeout=1"
+local tty=$(tty)
+local session="sshmux-$RANDOM"
+
+if [ -z "$hosts" ]; then
+ echo "usage: sshmux host1 host2 host3"
+ echo
+ echo "examples"
+ echo "  sshmux app1.example.com app2.example.com"
+ echo "  sshmux app{1..2}.example.com"
+ echo "  sshmux app.{site1,site2}.com"
+ exit 1
+fi
+
+for host in "${hosts[@]}"; do
+ local cmd="$ssh $host || echo 'Could not connect to $host' > $tty"
+
+ if tmux has-session -t $session 2>/dev/null; then
+   tmux split-window -v "$cmd"
+   tmux select-layout tiled > /dev/null
+ else
+  tmux new-session -d -s $session "$cmd"
+ fi
+done
+
+tmux setw synchronize-panes on > /dev/null
+tmux attach-session -t $session
+}
+
+### random aliasing ####
+export PATH=/bin:/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin:$PATH
+export EDITOR='sublme -w'
+alias gb='git branch'
+alias gdb='git delb'
+alias gs='git status'
+alias edit-profile='sublime ~/.bash_profile'
+alias gedit='vim ~/.gitconfig'
+alias ll='ls -al'
+alias rld='source ~/.bash_profile'
+alias jrbbig='JRUBY_OPTS=-J-Xmx1024m' #increase memory
+alias fix-ssh='ssh-add -D; ssh-agent; ssh-add'
+alias tl='tlogin'
+
+###### Directory nav aliasing #########
+alias abacus='cd ~/Code/abacus && jrby && rvmg use abacus'
+alias alfred='cd ~/Code/alfred && jrby && rvmg use alfred'
+alias alloy='cd ~/Code/alloy'
+alias amigo='cd ~/Code/amigo && jrby && rvmg use amigo --create'
+alias amex='cd ~/Code/american_express'
+alias ar-pagination='cd ~/Code/active_remote-pagination'
+alias atlas='cd ~/Code/atlas && jrby && rvmg use atlas --create'
+alias ballista='cd ~/Code/ballista && jrby && rvmg use ballista --create'
+alias batcave='cd ~/Code/batcave && jrby && rvmg use batcave'
+alias bob='cd ~/Code/bob'
+alias bullseye='cd ~/Code/bullseye && jrby && rvmg use bullseye --create'
+alias bunyan='cd ~/Code/bunyan && jrby && rvmg use bunyan --create'
+alias buster='cd ~/Code/buster'
+alias buttme='rm -rf tmp/buttress && cp -r ../buttress tmp'
+alias buttress='cd ~/Code/buttress && jrby && rvmg use buttress --create'
+alias capone='cd ~/Code/capital_one'
+alias chase='cd ~/Code/chase_web && rvmg use chase --create'
+alias citi='cd ~/Code/citibank'
+alias connection_status='cd ~/Code/connection_status && jrby && rvmg use connection_status --create'
+alias debutt='rm -rf tmp/buttress'
+alias discover='cd ~/Code/discover_card'
+alias harvey='cd ~/Code/harvey && jrby && rvmg use harvey --create'
+alias firefly='cd ~/Code/firefly && jrby && rvmg use firefly --create'
+alias gringotts='cd ~/Code/gringotts && jrby && rvmg use gringotts --create'
+alias grunt='cd ~/Code/grunt && jrby && rvmg use grunt --create'
+alias gob='cd ~/Code/gob'
+alias gunny='cd ~/Code/gunny'
+alias hulk='cd ~/Code/hulk && jrby && rvmg use hulk --create'
+alias ichabod='cd ~/Code/ichabod'
+alias kirby='cd ~/Code/kirby && jrby && rvmg use kirby --create'
+alias longbow='cd ~/Code/longbow && jrby && rvmg use longbow --create'
+alias mandrill='cd ~/Code/mandrill'
+alias mutombo='cd ~/Code/mutombo && jrby && rvmg use mutombo --create'
+alias navy='cd ~/Code/navy_federal'
+alias newman='cd ~/Code/newman'
+alias paypal='cd ~/Code/gob'
+alias persona='cd ~/Code/persona && jrby && rvmg use persona --create'
+alias platoon='cd ~/Code/platoon'
+alias pnc='cd ~/Code/pnc'
+alias practice='cd ~/Code/practice'
+alias puppet='cd ~/Code/puppet'
+alias ranger='cd ~/Code/ranger'
+alias robinhood='cd ~/Code/robinhood && jrby'
+alias rorschach='cd ~/Code/rorschach_mdx'
+alias rufio='cd ~/Code/rufio && jrby && rvmg use rufio --create'
+alias sabotage='cd ~/Code/sabotage'
+alias sherlock='cd ~/Code/sherlock'
+alias synchronicity='cd ~/Code/synchronicity && jrby && rvmg use synchronicity --create'
+alias trebuchet='cd ~/Code/trebuchet && mri && rvmg use trebuchet --create'
+alias usaa='cd ~/Code/usaa_ruby'
+alias usbank='cd ~/Code/us_bank && rvmg use usbank'
+alias watchman='cd ~/Code/watchman'
+alias wells_fargo='cd ~/Code/wells_fargo'
+###### ssh aliasing, all environments/sites, specificy service as arg 'batcave1' #######
+function as {
+  ssh sa-sand-$1
+}
+function bs {
+  ssh sb-sand-$1
+}
+function aqa {
+  ssh sa-qa-$1
+}
+function aqa {
+  ssh sb-qa-$1
+}
+function sdp {
+  ssh sd-prod-$1
+}
+function sdi {
+  ssh sd-int-$1
+}
+function sei {
+  ssh se-int-$1
+}function sep {
+  ssh se-prod-$1
+}
+######
+####### rails commands aliasing #####
+alias bx='bundle exec'
+alias cop='bundle exec rubocop'
+alias cssh='cd /usr/local/bin/csshx/'
+alias docsshx='cd /usr/local/bin/csshx/ && ./csshX --man'
+alias derp="PB_IGNORE_DEPRECATIONS=1"
+alias jrby='rvm use jruby-9.2.6.0'
+alias mri='rvm use `rvm current | sed "s/^[^@]*\(.*\)/ruby-2.5.3\1/"` --create' #switch to MRI in dev 'rvm use .' to switch back to default
+alias latest-ruby='rvm use `rvm current | sed "s/^[^@]*\(.*\)/ruby-2.3.0/"` --create'
+alias pbrc='PB_CLIENT_TYPE=protobuf/nats/client bundle exec rails c'
+alias pbrs='PB_CLIENT_TYPE=protobuf/nats/client bundle exec rails s'
+alias nats='PB_CLIENT_TYPE=protobuf/nats/client PB_SERVER_TYPE=protobuf/nats/runner'
+alias pb='PB_CLIENT_TYPE=protobuf/nats/client'
+alias remote-nats='PB_SERVER_TYPE="protobuf/nats/runner" PB_CLIENT_TYPE="protobuf/nats/client" bundle exec rpc_server start ./config/environment.rb'
+alias rvmg='rvm gemset'
+alias rspecs='PB_IGNORE_DEPRECATIONS=1 bundle exec rspec'
+alias rpclocal='PB_CLIENT_TYPE=zmq PB_SERVER_TYPE=zmq bundle exec rpc_server --threads=4 --zmq-inproc --host=0.0.0.0 --port=3001 ./config/environment.rb'
+alias specs='PB_IGNORE_DEPRECATIONS=1 bundle exec rake spec'
+alias zmq='PB_CLIENT_TYPE=zmq'
+alias zmqs='PB_SERVER_TYPE=zmq'
+###### gunny/platoon
+alias pload='launchctl load ~/Library/LaunchAgents/platoon.plist'
+alias plunload='launchctl unload ~/Library/LaunchAgents/platoon.plist'
+###### git completion ######3
+if [ -f `brew --prefix`/etc/bash_completion ]; then
+    . `brew --prefix`/etc/bash_completion
+fi
+PATH=$PATH:/usr/local/sbin
+export JAVA_HOME=$(/usr/libexec/java_home)
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+
+alias mxtreb="rvm ruby-2.6.3 do treb"
+
+export PATH="$PATH:$HOME/bin" #mx-teleport-bin
+
+complete -W "$(cat ~/.tsh/complete*.txt)" ssh #mx-teleport-bash-complete
+
+tsh status 2>&1 | grep -q EXPIRED && printf "\e[93mYou need to run tlogin\e[0m\n" #mx-teleport-bash-notify
+
+
+
+
+############ Deploy scripts ##########
+alias deploy-qa='bx treb qa deploy --site=sa,sb'
+function prep {
+  echo -e -n "\033[96m** Prepping"
+  case "$1" in
+    qa)
+      sourcebranch=master
+      targetbranch=qa
+      echo -e "\033[33m QA \033[96m[master -> qa]\033[0m"
+    ;;
+    stable)
+      sourcebranch=qa
+      targetbranch=stable
+      echo -e "\033[33m STABLE \033[96m[qa -> stable]\033[0m"
+    ;;
+    *) echo -e "\033[31m NOTHING!\nExiting..."
+      return
+    ;;
+  esac
+  if [ "$2" ] && [ "$2" != "--skip-prep" ]; then
+    echo -e "\n\033[96m=> cd /Users/jaredcook/Code/\033[32m$2\033[0m"
+    cd /Users/jaredcook/Code/$2 && jrby && rvmg use $2 --create
+    if [ $? -eq 1 ]; then
+      echo -e "\033[31m Failed to cd /Users/jaredcook/Code/\033[32m$2\n\033[31mExiting...\033[0m"
+      return 1
+    fi
+  fi
+  echo -e "\n\033[96m=> git checkout $sourcebranch\033[0m\n"
+  git checkout $sourcebranch
+  echo -e "\n\033[96m=> git pull origin $sourcebranch --prune\033[0m\n"
+  git pull origin $sourcebranch --prune
+  echo -e "\n\033[96m=> git checkout $targetbranch\033[0m\n"
+  git checkout $targetbranch
+  echo -e "\n\033[96m=> git pull origin $targetbranch --prune\033[0m\n"
+  git pull origin $targetbranch --prune
+  echo -e "\n\033[96m=> git merge $sourcebranch\033[0m\n"
+  git merge $sourcebranch
+  echo -e -n "\033[96mContinue with deploy? (y|n): \033[0m"
+  read -r
+  case "$REPLY" in
+    y)
+      echo -e "\n\033[96m=> git push origin $targetbranch\033[0m\n"
+      git push origin $targetbranch
+      echo -e "\n\033[96m=> bundle install\033[0m\n"
+      bundle install
+      echo -e "\n\033[96m** All Prepped!!\033[0m\n"
+      return 0
+    ;;
+    *)
+      echo -e "\033[31m Skipping push to $targetbranch!\nExiting..."
+      return 1
+  esac
+}
+function deploy {
+  skipprep=false
+  if [[ $2 = "--skip-prep" ]]; then
+    skipprep=true
+  fi
+  if [[ $3 = "--skip-prep" ]]; then
+    skipprep=true
+  fi
+  case "$1" in
+    sand)
+      git checkout master
+      git pull --prune
+      bx treb sand deploy
+    ;;
+    qa)
+      if [ $skipprep = false ]; then
+        prep qa $2
+      fi
+      if [ $? -eq 0 ] || [ $skipprep = true ]; then
+        bx treb qa deploy --site sa,sb
+      fi
+    ;;
+    int)
+      if [ $skipprep = false ]; then
+        prep stable $2
+      fi
+      if [ $? -eq 0 ] || [ $skipprep = true ]; then
+        bx treb int deploy
+      fi
+    ;;
+    prod)
+      if [ $skipprep = false ]; then
+        prep stable $2
+      fi
+      if [ $? -eq 0 ] || [ $skipprep = true ]; then
+        bx treb prod deploy --site sd,se
+      fi
+    ;;
+    stable)
+      if [ $skipprep = false ]; then
+        prep stable $2
+      fi
+      if [ $? -eq 0 ] || [ $skipprep = true ]; then
+        currentdir=`pwd`
+        osascript\
+        -e "tell application \"iTerm\""\
+        -e "tell current session of current window"\
+        -e "tell (split horizontally with default profile)"\
+        -e "write text \"cd $currentdir\""\
+        -e "write text \"bx treb int deploy\""\
+        -e "end tell"\
+        -e "write text \"bx treb prod deploy --site sd,se\""\
+        -e "end tell"\
+        -e "end tell"
+      fi
+    ;;
+    *) echo "default";;
+  esac
+}
