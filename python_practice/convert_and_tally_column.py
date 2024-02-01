@@ -1,3 +1,5 @@
+## Pandas Practice: https://www.w3resource.com/python-exercises/pandas/index-dataframe.php
+
 import pandas as pd
 
 exam_data = {'name': ['Anastasia', 'Dima', 'Katherine', 'James', 'Emily', 'Michael', 'Matthew', 'Laura', 'Kevin', 'Jonas'],
@@ -94,10 +96,17 @@ large_df["tedius_average"] = (large_df["col1"] + large_df["col2"] + large_df["co
 ### easier way:
 large_df["easier_average"] = large_df.mean(axis=1)
 
+### find value counts for a column, normalize them as a percentage, sum should equal 1
+large_df["col1"].value_counts()
+large_df["col1"].value_counts(normalize=True)
+large_df["col1"].value_counts(normalize=True).sum()
 
 
 
-#### Polars Practice:
+
+
+
+#### Polars Practice https://pola.rs/#:
 
 import polars as pl
 
