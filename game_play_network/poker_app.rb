@@ -1,5 +1,5 @@
 class PokerApp
-  require 'pry'
+  require 'pry' # uncomment for testing
 
   CARD_RANKS = {
     '2' => 2, 
@@ -55,7 +55,7 @@ class PokerApp
     display_total_wins()
   end
 
-private
+# private
 
   def parse_file_card_lines(line)
     cards = line.split
@@ -80,7 +80,7 @@ private
     end
 
     # Full House
-    if has_three_of_a_kind?(card_values) && has_pair?(card_values)
+    if is_full_house?(card_values)
       return 6
     end
 
@@ -95,7 +95,7 @@ private
     end
 
     # Three of a kind
-    if has_three_of_a_kind?(card_values)
+    if is_three_of_a_kind?(card_values)
       return 3 
     end
 
@@ -105,7 +105,7 @@ private
     end
 
     # One pair
-    if has_pair?(card_values)
+    if is_pair?(card_values)
       return 1 
     end
 
@@ -171,6 +171,10 @@ private
     end
   end
 
+  def has_two_pair?(card_values)
+    card_values.uniq.length == 3  && card_values.tally.values.size == 3 && card_values.tally.values.include?(2)
+  end
+
   def is_flush?(card_suits)
     card_suits.uniq.length == 1
   end
@@ -179,20 +183,20 @@ private
     card_values.tally.values.include?(4)
   end
 
+  def is_full_house?(card_values)
+    card_values.uniq.length == 2 && card_values.tally.values.include?(3) && card_values.tally.values.include?(2)
+  end
+
   def is_straight?(card_values)
     sorted_values = card_values.sort
     (sorted_values.first..sorted_values.last).to_a == sorted_values
   end
 
-  def has_three_of_a_kind?(card_values)
+  def is_three_of_a_kind?(card_values)
     card_values.uniq.length == 3 && card_values.tally.values.include?(3)
   end
 
-  def has_two_pair?(card_values)
-    card_values.uniq.length == 3  && card_values.tally.values.size == 3 && card_values.tally.values.include?(2)
-  end
-
-  def has_pair?(card_values)
+  def is_pair?(card_values)
     card_values.uniq.length == 4 && card_values.tally.values.include?(2)
   end
 end
