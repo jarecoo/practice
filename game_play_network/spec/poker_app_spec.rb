@@ -4,6 +4,7 @@ require_relative '../poker_app'
 
 RSpec.describe PokerApp do
   subject { PokerApp.new('poker_test.txt') }
+
   describe '#evaluate_hand' do
     it 'correctly identifies a HIGH CARD hand' do
       cards = ['4C', 'JD', '5C', 'TH', '8S']
@@ -110,13 +111,26 @@ RSpec.describe PokerApp do
       player2_cards = ['JH', 'JS', '8S', '2H', '9S']
       expect(subject.send(:determine_winner, player1_hand_type, player1_cards, player2_hand_type, player2_cards)).to eq(0)
     end
-  # end
+  end
 
-  # describe '#process_data' do
-  #   it 'processes the data file correctly' do
-  #     expect(subject).to receive(:display_hand_results).exactly(1).times
-  #     expect(subject).to receive(:display_total_wins).once
-  #     subject.play_games_from_file
-  #   end
+  describe "subject" do
+    subject { PokerApp.new(File.open("poker_test.txt")) } 
+    
+    xit "has an open file ready to ride" do
+      expect(subject.data_file.class).to eq(File)
+    end
+
+    xit "keeps track of user wins" do
+      expect(subject.player1_wins).to eq(0)
+      expect(subject.player2_wins).to eq(0)
+    end
+  end
+
+  describe '#play_games_from_file' do
+    xit 'processes the data file correctly' do
+      expect(subject).to receive(:display_hand_results).exactly(1).times
+      expect(subject).to receive(:display_total_wins).once
+      subject.play_games_from_file
+    end
   end
 end
