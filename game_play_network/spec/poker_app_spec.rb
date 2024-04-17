@@ -56,24 +56,60 @@ RSpec.describe PokerApp do
     end
   end
 
-  # describe '#determine_winner' do
-  #   it 'correctly identifies the winner when one player has a higher hand type' do
-  #     player1_cards = ['4C', 'JD', '8C', '10H', '8S']
-  #     player2_cards = ['5H', '5C', 'AS', 'QH', '9S']
-  #     expect(subject.determine_winner(player1_cards, player2_cards)).to eq(2)
-  #   end
+  describe '#determine_winner' do
+    context 'when one player has a higher hand type' do 
+      it 'correctly identifies the winner' do
+        player1_hand_type = 0
+        player1_cards = ['4C', 'JD', '8C', 'TH', '8S']
+        player2_hand_type = 1
+        player2_cards = ['5H', '5C', 'AS', 'QH', '9S']
+        expect(subject.send(:determine_winner, player1_hand_type, player1_cards, player2_hand_type, player2_cards)).to eq(2)
+      end
 
-  #   it 'correctly identifies the winner when both players have the same hand type' do
-  #     player1_cards = ['QS', 'JH', 'QD', '2C', '5C']
-  #     player2_cards = ['AC', 'QH', '6H', '4D', 'QC']
-  #     expect(subject.determine_winner(player1_cards, player2_cards)).to eq(2)
-  #   end
+      it 'correctly identifies the winner' do
+        player1_hand_type = 7
+        player1_cards = ['4C', '4D', '4C', '4H', '8S']
+        player2_hand_type = 4
+        player2_cards = ['5H', '6C', '7S', '8H', '9S']
+        expect(subject.send(:determine_winner, player1_hand_type, player1_cards, player2_hand_type, player2_cards)).to eq(1)
+      end
+    end
 
-  #   it 'correctly identifies a tie' do
-  #     player1_cards = ['2C', '3D', '4H', '5S', '6C']
-  #     player2_cards = ['3C', '4D', '5H', '6S', '2C']
-  #     expect(subject.determine_winner(player1_cards, player2_cards)).to eq(0)
-  #   end
+    context 'when both players have the same hand type' do 
+      context 'non-high-card hands' do 
+        it 'returns a tie for now...' do
+          player1_hand_type = 5
+          player1_cards = ['4C', 'JC', '8C', 'TC', '2C']
+          player2_hand_type = 5
+          player2_cards = ['4S', '5S', 'AS', 'QS', '9S']
+          expect(subject.send(:determine_winner, player1_hand_type, player1_cards, player2_hand_type, player2_cards)).to eq(0)
+        end
+
+        xit 'can handle all the different ways two same hands can still have a winner' do
+          "high card wins two straigts
+          highest 3 of a kind wins a full house
+          etc"
+        end
+      end
+
+      context 'high-card-only hands' do 
+        it 'correctly identifies the winner when both players have the same hand type' do
+          player1_hand_type = 0
+          player1_cards = ['QS', 'JH', '8D', '2C', '5C']
+          player2_hand_type = 0
+          player2_cards = ['AC', '2H', '6H', '4D', 'QC']
+          expect(subject.send(:determine_winner, player1_hand_type, player1_cards, player2_hand_type, player2_cards)).to eq(2)
+        end
+      end
+    end
+
+    it 'correctly identifies a tie' do
+      player1_hand_type = 0
+      player1_cards = ['4C', 'JD', '8C', 'TH', '8S']
+      player2_hand_type = 1
+      player2_cards = ['5H', '5C', 'AS', 'QH', '9S']
+      expect(subject.send(:determine_winner, player1_hand_type, player1_cards, player2_hand_type, player2_cards)).to eq(2)
+    end
   # end
 
   # describe '#process_data' do
@@ -82,5 +118,5 @@ RSpec.describe PokerApp do
   #     expect(subject).to receive(:display_total_wins).once
   #     subject.play_games_from_file
   #   end
-  # end
+  end
 end

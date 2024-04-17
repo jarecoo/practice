@@ -1,5 +1,5 @@
 class PokerApp
-  require 'pry' # uncomment for testing
+  # require 'pry' # uncomment for testing
 
   CARD_RANKS = {
     '2' => 2, 
