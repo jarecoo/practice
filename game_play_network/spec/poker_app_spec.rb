@@ -7,52 +7,52 @@ RSpec.describe PokerApp do
   describe '#evaluate_hand' do
     it 'correctly identifies a HIGH CARD hand' do
       cards = ['4C', 'JD', '5C', 'TH', '8S']
-      expect(subject.evaluate_hand(cards)).to eq(0)
+      expect(subject.send(:evaluate_hand, cards)).to eq(0)
     end
 
     it 'correctly identifies a ONE PAIR hand' do
       cards = ['5H', '5C', 'AS', 'QH', '8S']
-      expect(subject.evaluate_hand(cards)).to eq(1)
+      expect(subject.send(:evaluate_hand, cards)).to eq(1)
     end
 
     it 'correctly identifies a TWO PAIR hand' do
       cards = ['5H', '5C', 'AS', 'AH', '9S']
-      expect(subject.evaluate_hand(cards)).to eq(2)
+      expect(subject.send(:evaluate_hand, cards)).to eq(2)
     end
 
     it 'correctly identifies a THREE OF A KIND hand' do
       cards = ['5H', '9C', 'AS', '9H', '9S']
-      expect(subject.evaluate_hand(cards)).to eq(3)
+      expect(subject.send(:evaluate_hand, cards)).to eq(3)
     end
 
     it 'correctly identifies a STRAIGHT hand' do
       cards = ['4H', '5C', '6S', '7H', '8S']
-      expect(subject.evaluate_hand(cards)).to eq(4)
+      expect(subject.send(:evaluate_hand, cards)).to eq(4)
     end
 
     it 'correctly identifies a FLUSH hand' do
       cards = ['5H', '6H', 'AH', 'QH', '9H']
-      expect(subject.evaluate_hand(cards)).to eq(5)
+      expect(subject.send(:evaluate_hand, cards)).to eq(5)
     end
 
     it 'correctly identifies a FULL HOUSE hand' do
       cards = ['5H', '5C', '5S', '9H', '9S']
-      expect(subject.evaluate_hand(cards)).to eq(6)
+      expect(subject.send(:evaluate_hand, cards)).to eq(6)
     end
 
     it 'correctly identifies a FOUR OF A KIND hand' do
       cards = ['5H', '5C', '5S', '5D', '9S']
-      expect(subject.evaluate_hand(cards)).to eq(7)
+      expect(subject.send(:evaluate_hand, cards)).to eq(7)
     end
 
     it 'correctly identifies a STRAIGHT FLUSH hand' do
       cards = ['5S', '6S', '7S', '8S', '9S']
-      expect(subject.evaluate_hand(cards)).to eq(8)
+      expect(subject.send(:evaluate_hand, cards)).to eq(8)
     end
 
     it 'correctly identifies a ROYAL FLUSH hand' do
       cards = ['TS', 'JS', 'QS', 'KS', 'AS']
-      expect(subject.evaluate_hand(cards)).to eq(9)
+      expect(subject.send(:evaluate_hand, cards)).to eq(9)
     end
   end
 

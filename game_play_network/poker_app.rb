@@ -55,7 +55,7 @@ class PokerApp
     display_total_wins()
   end
 
-# private
+private
 
   def parse_file_card_lines(line)
     cards = line.split
