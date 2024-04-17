@@ -103,12 +103,12 @@ RSpec.describe PokerApp do
       end
     end
 
-    it 'correctly identifies a tie' do
-      player1_hand_type = 0
-      player1_cards = ['4C', 'JD', '8C', 'TH', '8S']
+    it 'correctly identifies a true tie' do
+      player1_hand_type = 1
+      player1_cards = ['JC', 'JD', '8C', '2D', '9D']
       player2_hand_type = 1
-      player2_cards = ['5H', '5C', 'AS', 'QH', '9S']
-      expect(subject.send(:determine_winner, player1_hand_type, player1_cards, player2_hand_type, player2_cards)).to eq(2)
+      player2_cards = ['JH', 'JS', '8S', '2H', '9S']
+      expect(subject.send(:determine_winner, player1_hand_type, player1_cards, player2_hand_type, player2_cards)).to eq(0)
     end
   # end
 
