@@ -86,6 +86,7 @@ RSpec.describe PokerApp do
           expect(subject.send(:determine_winner, player1_hand_type, player1_cards, player2_hand_type, player2_cards)).to eq(0)
         end
 
+        #unimplented for now
         xit 'can handle all the different ways two same hands can still have a winner' do
           "high card wins two straigts
           highest 3 of a kind wins a full house
@@ -113,7 +114,7 @@ RSpec.describe PokerApp do
     end
   end
 
-  describe "subject" do
+  describe "subject" do #unimplented for now
     subject { PokerApp.new(File.open("poker_test.txt")) } 
     
     xit "has an open file ready to ride" do
