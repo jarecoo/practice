@@ -1,5 +1,5 @@
 class PokerApp
-  # require 'pry' # uncomment for testing
+  require 'pry' # uncomment for testing
 
   CARD_RANKS = {
     '2' => 2, 
@@ -46,13 +46,14 @@ class PokerApp
 
       player1_hand_type = evaluate_hand(player1_cards)
       player2_hand_type = evaluate_hand(player2_cards)
-      
+
       winner = determine_winner(player1_hand_type, player1_cards, player2_hand_type, player2_cards)
 
       update_win_tally(winner)
       display_hand_results(player1_cards, player1_hand_type, player2_cards, player2_hand_type, winner)
     end
-    display_total_wins()
+    
+    display_total_wins
   end
 
 private
@@ -156,7 +157,7 @@ private
     puts
   end
 
-  def display_total_wins()
+  def display_total_wins
     puts "Total wins:"
     puts "Player 1: #{@player1_wins}"
     puts "Player 2: #{@player2_wins}"

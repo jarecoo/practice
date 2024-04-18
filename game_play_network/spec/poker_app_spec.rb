@@ -3,7 +3,8 @@ require 'spec_helper'
 require_relative '../poker_app'
 
 RSpec.describe PokerApp do
-  subject { PokerApp.new('poker_test.txt') }
+  let(:test_data_file) { 'spec/poker_test.txt' }
+  subject { PokerApp.new(test_data_file) }
 
   describe '#evaluate_hand' do
     it 'correctly identifies a HIGH CARD hand' do
@@ -114,24 +115,31 @@ RSpec.describe PokerApp do
     end
   end
 
-  describe "subject" do #unimplented for now
-    subject { PokerApp.new(File.open("poker_test.txt")) } 
+  describe "instance" do 
+    let(:test_data_file) { 'spec/poker_test.txt' }
+    subject { PokerApp.new(test_data_file) }
     
-    xit "has an open file ready to ride" do
-      expect(subject.data_file.class).to eq(File)
+    it "has a file name ready to read from" do
+      expect(subject.data_file).to eq("spec/poker_test.txt")
     end
 
-    xit "keeps track of user wins" do
+    it "keeps track of user wins" do
       expect(subject.player1_wins).to eq(0)
       expect(subject.player2_wins).to eq(0)
     end
   end
 
   describe '#play_games_from_file' do
-    xit 'processes the data file correctly' do
+    it 'processes the data file correctly' do
       expect(subject).to receive(:display_hand_results).exactly(1).times
       expect(subject).to receive(:display_total_wins).once
       subject.play_games_from_file
+    end
+
+    it 'calculates winners correctly' do
+      subject.play_games_from_file
+      expect(subject.player1_wins).to eq(0)
+      expect(subject.player2_wins).to eq(1)
     end
   end
 end
